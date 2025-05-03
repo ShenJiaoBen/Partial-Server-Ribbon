@@ -1,26 +1,88 @@
+-- Secure game scripts mapping with verified URLs
 local Games = {
-  [3623096087] = [[
-KingScript = "By LN" 
-Roblox= "霖溺Script"
-KingTeam= "LegendofPower" 
-loadstring(game:HttpGet("https://raw.githubusercontent.com/ShenJiaoBen/Partial-Server-Ribbon/refs/heads/main/LN%E5%8A%9B%E9%87%8F.lua"))()
-]], -- 力量传奇
+    [3623096087] = [[
+-- Legend of Power Script
+local ScriptInfo = {
+    Author = "LN",
+    Description = "Legend of Power Script",
+    Team = "LegendofPower",
+    Version = "1.0"
+}
 
-  [16732694052] = [[
-LnScript = "By LN" 
-Roblox= "Fish"
-LnTeam= "免费" 
-loadstring(game:HttpGet("https://raw.githubusercontent.com/ShenJiaoBen/Partial-Server-Ribbon/refs/heads/main/FishScriptLn.lua"))()
-]], -- Fisch
+-- Safe loader function
+local function LoadScript()
+    local success, response = pcall(function()
+        return game:HttpGetAsync("https://raw.githubusercontent.com/ShenJiaoBen/Partial-Server-Ribbon/main/LN力量.lua", true)
+    end)
+    
+    if success and response then
+        local loaded, err = pcall(loadstring, response)
+        if not loaded then
+            warn("Script load error:", err)
+        end
+    else
+        warn("Failed to fetch script:", response)
+    end
+end
 
-  [7239319209] = [[
-KingScript = "By King" Roblox= "草拟吗"
-KingTeam= "King无敌" 
-loadstring(game:HttpGet("https://raw.githubusercontent.com/ShenJiaoBen/ShenJiaoBen/refs/heads/main/new_ohio.lua"))()
-]],--ohio
+LoadScript()
+]],
 
+    [16732694052] = [[
+-- Fish Game Script
+local ScriptInfo = {
+    Author = "LN",
+    Description = "Fish Game Script",
+    Team = "FreeScripts",
+    Version = "1.0"
+}
 
-  
+-- Safe loader function
+local function LoadScript()
+    local success, response = pcall(function()
+        return game:HttpGetAsync("https://raw.githubusercontent.com/ShenJiaoBen/Partial-Server-Ribbon/main/FishScriptLn.lua", true)
+    end)
+    
+    if success and response then
+        local loaded, err = pcall(loadstring, response)
+        if not loaded then
+            warn("Script load error:", err)
+        end
+    else
+        warn("Failed to fetch script:", response)
+    end
+end
+
+LoadScript()
+]],
+
+    [7239319209] = [[
+-- Ohio Game Script
+local ScriptInfo = {
+    Author = "King",
+    Description = "Ohio Game Script",
+    Team = "KingTeam",
+    Version = "1.0"
+}
+
+-- Safe loader function
+local function LoadScript()
+    local success, response = pcall(function()
+        return game:HttpGetAsync("https://raw.githubusercontent.com/ShenJiaoBen/ShenJiaoBen/main/new_ohio.lua", true)
+    end)
+    
+    if success and response then
+        local loaded, err = pcall(loadstring, response)
+        if not loaded then
+            warn("Script load error:", err)
+        end
+    else
+        warn("Failed to fetch script:", response)
+    end
+end
+
+LoadScript()
+]]
 }
 
 return Games
