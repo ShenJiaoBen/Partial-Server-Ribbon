@@ -1,6 +1,10 @@
---# Partial-Server-Ribbon
-
-print("适用于技术开发，dvv@hook/spy")
-
---霖溺脚本群
-print("霖溺(感谢老铁支持)QQ新主群：http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=viOjjgj19-TUiZlamhpxb6uvWwVNGoB7&authKey=ACDi9sCtIis%2F4P%2BtirP046uWaJ54%2F149eBnUvaAsMu%2BWZwSFoEQrzZC9UDGFwmp%2F&noverify=0&group_code=744830231")
+一个运行3年的免费Roblox脚本，霖溺2025.1.16寒假回归
+进群问Q群管家❗
+●解卡二群443185741
+●闲置群976093614[全体禁言-群满]
+●解卡四群763298019
+♦霖溺QQ频道https://pd.qq.com/s/8dlelkvta
+♦霖溺脚本群组名称:Linni_Hub
+♦脚本Roblox群组网页链接:https://www.roblox.com/communities/36012386/Linni-Hub
+◤霖溺部分服务器的脚本卡密:LnScHu1345639578◥
+定时清理不说话的死人❗
