@@ -1,4 +1,3 @@
-
 local SilentAimLogic = {}
 
 local Players = game:GetService("Players")
@@ -71,35 +70,34 @@ local SilentAimSettings = {
     AllDirectionAim = false,
 }
 
-SilentAimLogic.Settings = SilentAimSettings
 getgenv().SilentAimSettings = SilentAimSettings
+SilentAimLogic.Settings = SilentAimSettings
 
 local GetPlayers = Players.GetPlayers
 local WorldToViewportPoint = camera.WorldToViewportPoint
-local FindFirstChild = game.FindFirstChild
 local RenderStepped = RunService.RenderStepped
 local GetMouseLocation = UserInputService.GetMouseLocation
-local resume = coroutine.resume
-local create = coroutine.create
 
 local ValidTargetParts = {"Head", "HumanoidRootPart"}
-local PredictionAmount = 0.165
-
 local currentTargetPart = nil
 local currentRotationAngle = 0
 local currentIndicatorHue = 0
 local npcList = {}
 local targetMap = {}
-local avatarCache = {}
 local recentShots = {}
 local pendingDamage = {}
-
 local lockedTargetObject = nil
 
 local target_indicator_circle = Drawing.new("Circle")
 target_indicator_circle.Visible = false; target_indicator_circle.ZIndex = 1000; target_indicator_circle.Thickness = 2; target_indicator_circle.Filled = false
+
 local target_indicator_lines = {}
-for i = 1, 5 do local line = Drawing.new("Line"); line.Visible = false; line.ZIndex = 1000; line.Thickness = 2; table.insert(target_indicator_lines, line) end
+for i = 1, 5 do 
+    local line = Drawing.new("Line")
+    line.Visible = false; line.ZIndex = 1000; line.Thickness = 2
+    table.insert(target_indicator_lines, line) 
+end
+
 local tracer_line = Drawing.new("Line")
 tracer_line.Visible = false; tracer_line.ZIndex = 998; tracer_line.Color = Color3.fromRGB(255, 255, 0); tracer_line.Thickness = 1; tracer_line.Transparency = 1
 
@@ -115,6 +113,7 @@ end
 
 local panel_info_bg = Drawing.new("Square")
 panel_info_bg.Visible = false; panel_info_bg.ZIndex = 1002; panel_info_bg.Color = Color3.fromRGB(0, 0, 0); panel_info_bg.Thickness = 0; panel_info_bg.Filled = true; panel_info_bg.Transparency = 0.5
+
 local panel_info_texts = {
     Name = Drawing.new("Text"),
     Health = Drawing.new("Text"),
@@ -126,7 +125,13 @@ for _, text in pairs(panel_info_texts) do
 end
 
 local FOVCircleGui = Instance.new("ScreenGui")
+if game:GetService("CoreGui") then
+    pcall(function() FOVCircleGui.Parent = game:GetService("CoreGui") end)
+else
+    FOVCircleGui.Parent = LocalPlayer:WaitForChild("PlayerGui")
+end
 FOVCircleGui.Name = "FOVCircleGui"; FOVCircleGui.ResetOnSpawn = false; FOVCircleGui.IgnoreGuiInset = true; FOVCircleGui.ZIndexBehavior = Enum.ZIndexBehavior.Sibling
+
 local FOVCircleFrame = Instance.new("Frame", FOVCircleGui)
 FOVCircleFrame.Name = "FOVCircleFrame"; FOVCircleFrame.AnchorPoint = Vector2.new(0.5, 0.5); FOVCircleFrame.Position = UDim2.fromScale(0.5, 0.5); FOVCircleFrame.BackgroundTransparency = 1
 local FOVStroke = Instance.new("UIStroke", FOVCircleFrame)
@@ -144,7 +149,13 @@ SilentAimLogic.Visuals = {
 }
 
 local IndependentPanelGui = Instance.new("ScreenGui")
+if game:GetService("CoreGui") then
+    pcall(function() IndependentPanelGui.Parent = game:GetService("CoreGui") end)
+else
+    IndependentPanelGui.Parent = LocalPlayer:WaitForChild("PlayerGui")
+end
 IndependentPanelGui.Name = "IndependentPanelGui"; IndependentPanelGui.ResetOnSpawn = false; IndependentPanelGui.ZIndexBehavior = Enum.ZIndexBehavior.Sibling
+
 local IndependentPanelFrame = Instance.new("Frame", IndependentPanelGui)
 IndependentPanelFrame.Name = "PanelFrame"; IndependentPanelFrame.Size = UDim2.fromOffset(160, 100);
 IndependentPanelFrame.BackgroundColor3 = Color3.fromRGB(30, 30, 30); IndependentPanelFrame.BackgroundTransparency = 0.3; IndependentPanelFrame.BorderSizePixel = 1; IndependentPanelFrame.BorderColor3 = Color3.new(1,1,1)
@@ -161,10 +172,16 @@ for i, name in ipairs({"Name", "Health", "Distance", "Category"}) do
     independent_panel_texts[name] = label
 end
 
-SilentAimLogic.IndependentPanelFrame = IndependentPanelFrame
-
-IndependentPanelFrame.InputBegan:Connect(function(input) if input.UserInputType == Enum.UserInputType.MouseButton1 and IndependentPanelFrame.Draggable then IndependentPanelFrame.Position = UDim2.fromOffset(UserInputService:GetMouseLocation().X, UserInputService:GetMouseLocation().Y) end end)
-IndependentPanelFrame.InputEnded:Connect(function(input) if input.UserInputType == Enum.UserInputType.MouseButton1 and IndependentPanelFrame.Draggable then SilentAimSettings.IndependentPanelPosition = IndependentPanelFrame.Position.X.Offset .. "," .. IndependentPanelFrame.Position.Y.Offset end end)
+IndependentPanelFrame.InputBegan:Connect(function(input) 
+    if input.UserInputType == Enum.UserInputType.MouseButton1 and IndependentPanelFrame.Draggable then 
+        IndependentPanelFrame.Position = UDim2.fromOffset(UserInputService:GetMouseLocation().X, UserInputService:GetMouseLocation().Y) 
+    end 
+end)
+IndependentPanelFrame.InputEnded:Connect(function(input) 
+    if input.UserInputType == Enum.UserInputType.MouseButton1 and IndependentPanelFrame.Draggable then 
+        SilentAimSettings.IndependentPanelPosition = IndependentPanelFrame.Position.X.Offset .. "," .. IndependentPanelFrame.Position.Y.Offset 
+    end 
+end)
 
 local ExpectedArguments = {
     FindPartOnRayWithIgnoreList = { ArgCountRequired = 3, Args = {"Instance", "Ray", "table", "boolean", "boolean"} },
@@ -179,8 +196,6 @@ local HitSounds = {
     ["click"] = "rbxassetid://17755696142",
     ["exp"] = "rbxassetid://10070796384"
 }
-
-local rainbowColor = Color3.fromHSV(0, 1, 1)
 
 local function playHitSound(soundId)
     local sound = Instance.new("Sound")
@@ -439,17 +454,8 @@ function SilentAimLogic.AddWhitelist(name)
 end
 
 function SilentAimLogic.Init()
-    if pcall(function() FOVCircleGui.Parent = CoreGui end) then else FOVCircleGui.Parent = LocalPlayer:WaitForChild("PlayerGui") end
-    if pcall(function() IndependentPanelGui.Parent = CoreGui end) then else IndependentPanelGui.Parent = LocalPlayer:WaitForChild("PlayerGui") end
     IndependentPanelFrame.Draggable = not SilentAimSettings.IndependentPanelPinned
     
-    task.spawn(function()
-        while task.wait() do
-            local hue = (tick() % 6) / 6
-            rainbowColor = Color3.fromHSV(hue, 1, 1)
-        end
-    end)
-
     task.spawn(function()
         while task.wait(2) do
             if SilentAimSettings.TargetMode == "NPC" or SilentAimSettings.TargetMode == "所有" then
@@ -471,7 +477,7 @@ function SilentAimLogic.Init()
     local lockedRandomPart = nil
     local lastAutoFireTime = 0
 
-    resume(create(function()
+    local runLoop = coroutine.create(function()
         RenderStepped:Connect(function()
             if SilentAimSettings.IndicatorRotationEnabled then currentRotationAngle = (currentRotationAngle + (SilentAimSettings.IndicatorRotationSpeed / 50)) % (math.pi * 2) end
             if SilentAimSettings.IndicatorRainbowEnabled then currentIndicatorHue = (currentIndicatorHue + (SilentAimSettings.IndicatorRainbowSpeed / 200)) % 1 end
@@ -798,7 +804,8 @@ function SilentAimLogic.Init()
                 if SilentAimSettings.FixedFOV then FOVCircleFrame.Position = UDim2.fromScale(0.5, 0.5) else local mousePos = GetMouseLocation(UserInputService); FOVCircleFrame.Position = UDim2.fromOffset(mousePos.X, mousePos.Y) end
             end
         end)
-    end))
+    end)
+    coroutine.resume(runLoop)
 end
 
 function SilentAimLogic.InitializeHooks()
@@ -924,5 +931,7 @@ function SilentAimLogic.InitializeHooks()
         return oldRayNew(origin, direction)
     end))
 end
+
+getgenv().InitializeHooks = SilentAimLogic.InitializeHooks
 
 return SilentAimLogic
