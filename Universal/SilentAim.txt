@@ -13,64 +13,68 @@ local LocalPlayer = Players.LocalPlayer
 local Mouse = LocalPlayer:GetMouse()
 local camera = Workspace.CurrentCamera
 
-local SilentAimSettings = {
-    Enabled = false,
-    AutoFire = false,
-    AutoFireDelay = 0.1,
-    ClassName = "Universal Silent Aim",
-    ToggleKey = "RightAlt",
-    TeamCheck = true,
-    VisibleCheck = true,
-    TargetPart = "HumanoidRootPart",
-    SilentAimMethod = "Raycast",
-    FOVRadius = 130,
-    FOVVisible = false,
-    ShowSilentAimTarget = false,
-    MouseHitPrediction = false,
-    MouseHitPredictionAmount = 0.165,
-    HitChance = 100,
-    HeadshotChanceEnabled = true,
-    HeadshotChance = 50,
-    FixedFOV = true,
-    TargetIndicatorRadius = 20,
-    CrosshairLength = 30,
-    CrosshairGap = 5,
-    IndicatorRotationEnabled = false,
-    IndicatorRotationSpeed = 1,
-    IndicatorRainbowEnabled = false,
-    IndicatorRainbowSpeed = 1,
-    MaxDistance = 500,
-    PriorityMode = "准星最近",
-    TargetInfoStyle = "独立面板",
-    ShowInfoPanel = false,
-    ShowTargetName = true,
-    ShowTargetHealth = true,
-    ShowTargetDistance = true,
-    ShowTargetCategory = false,
-    ShowDamageNotifier = false,
-    IndependentPanelPosition = "200,200",
-    IndependentPanelPinned = false,
-    LeakAndHitMode = false,
-    Wallbang = false,
-    BulletTP = false,
-    EnableNameTargeting = false,
-    WhitelistedNames = {},
-    BlacklistedNames = {},
-    ShowTracer = true,
-    Tracer_Y_Offset = 0,
-    WhitelistPath = {},
-    IndicatorBreathingEnabled = true,
-    IndicatorBreathingSpeed = 1,
-    IndicatorBreathingMin = 0.8,
-    IndicatorBreathingMax = 1.2,
-    ThreeLineCrosshairEnabled = true,
-    ThreeLineCrosshairLength = 30,
-    ThreeLineCrosshairGap = 5,
-    TargetMode = "所有",
-    AllDirectionAim = false,
-}
+local SilentAimSettings = getgenv().SilentAimSettings
 
-getgenv().SilentAimSettings = SilentAimSettings
+if not SilentAimSettings then
+    SilentAimSettings = {
+        Enabled = false,
+        AutoFire = false,
+        AutoFireDelay = 0.1,
+        ClassName = "Universal Silent Aim",
+        ToggleKey = "RightAlt",
+        TeamCheck = true,
+        VisibleCheck = true,
+        TargetPart = "HumanoidRootPart",
+        SilentAimMethod = "Raycast",
+        FOVRadius = 130,
+        FOVVisible = false,
+        ShowSilentAimTarget = false,
+        MouseHitPrediction = false,
+        MouseHitPredictionAmount = 0.165,
+        HitChance = 100,
+        HeadshotChanceEnabled = true,
+        HeadshotChance = 50,
+        FixedFOV = true,
+        TargetIndicatorRadius = 20,
+        CrosshairLength = 30,
+        CrosshairGap = 5,
+        IndicatorRotationEnabled = false,
+        IndicatorRotationSpeed = 1,
+        IndicatorRainbowEnabled = false,
+        IndicatorRainbowSpeed = 1,
+        MaxDistance = 500,
+        PriorityMode = "准星最近",
+        TargetInfoStyle = "独立面板",
+        ShowInfoPanel = false,
+        ShowTargetName = true,
+        ShowTargetHealth = true,
+        ShowTargetDistance = true,
+        ShowTargetCategory = false,
+        ShowDamageNotifier = false,
+        IndependentPanelPosition = "200,200",
+        IndependentPanelPinned = false,
+        LeakAndHitMode = false,
+        Wallbang = false,
+        BulletTP = false,
+        EnableNameTargeting = false,
+        WhitelistedNames = {},
+        BlacklistedNames = {},
+        ShowTracer = true,
+        Tracer_Y_Offset = 0,
+        WhitelistPath = {},
+        IndicatorBreathingEnabled = true,
+        IndicatorBreathingSpeed = 1,
+        IndicatorBreathingMin = 0.8,
+        IndicatorBreathingMax = 1.2,
+        ThreeLineCrosshairEnabled = true,
+        ThreeLineCrosshairLength = 30,
+        ThreeLineCrosshairGap = 5,
+        TargetMode = "所有",
+        AllDirectionAim = false,
+    }
+    getgenv().SilentAimSettings = SilentAimSettings
+end
+
 SilentAimLogic.Settings = SilentAimSettings
 
 local GetPlayers = Players.GetPlayers
@@ -564,6 +568,7 @@ function SilentAimLogic.Init()
                     end
 
                     if baseTargetPart then
+              
                         if SilentAimSettings.HeadshotChanceEnabled and CalculateChance(SilentAimSettings.HeadshotChance) then
                             local headPart = currentTargetCharacter:FindFirstChild("Head")
                             if headPart then
