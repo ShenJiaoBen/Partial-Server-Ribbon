@@ -1,0 +1,288 @@
+--[[ 
+    外部自瞄逻辑 (Aimlock External)
+    请将此代码上传，并在主脚本中填入链接
+]]
+
+local AimlockModule = {}
+local Players = game:GetService("Players")
+local RunService = game:GetService("RunService")
+local UserInputService = game:GetService("UserInputService")
+local Workspace = game:GetService("Workspace")
+local VirtualInputManager = game:GetService("VirtualInputManager")
+local CoreGui = game:GetService("CoreGui")
+
+local lplayer = Players.LocalPlayer
+local camera = Workspace.CurrentCamera
+
+-- 默认设置表
+AimlockModule.Settings = {
+    Enabled = false,
+    AimlockType = "距离最近玩家", -- "距离最近玩家" or "鼠标/屏幕中心最近"
+    WallCheck = true,
+    TeamCheck = true,
+    AimlockCertainPlayer = nil, -- String (Player Name)
+    EnableFOV = false,
+    ShowFOV = false,
+    FOVColor = Color3.fromRGB(255, 255, 255),
+    FOVType = "屏幕中心", -- "屏幕中心" or "跟随鼠标"
+    AimlockMaxDist = 5000,
+    MouseMaxDist = 5000,
+    FOVMaxDist = 5000,
+    AimlockAutoFire = false,
+    AimlockFireDelay = 0.05,
+    SmoothAimlock = false,
+    AimbotSmoothness = 25,
+    FOVSize = 150,
+    FOVStrokeThickness = 2.5,
+    RainbowFOV = false,
+    RainbowFOVSpeed = 2,
+    WhitelistPlayers = {}, -- Table: {["Name"] = true}
+    PrioritizePlayers = {}, -- Table: {["Name"] = true}
+    AimlockOffsetY = 0,
+    AimlockOffsetX = 0
+}
+
+local Settings = AimlockModule.Settings
+local isMobile = UserInputService.TouchEnabled
+
+-- UI 变量
+local AimlockFOVGui
+local AimlockCircleFrame
+local AimlockStroke
+
+-- 初始化函数
+function AimlockModule.Init()
+    if AimlockFOVGui then AimlockFOVGui:Destroy() end
+
+    AimlockFOVGui = Instance.new("ScreenGui")
+    AimlockFOVGui.Name = "AimlockFOVGui_External"
+    AimlockFOVGui.ResetOnSpawn = false
+    AimlockFOVGui.IgnoreGuiInset = true
+    AimlockFOVGui.ZIndexBehavior = Enum.ZIndexBehavior.Sibling
+
+    local success, _ = pcall(function()
+        if getgenv().protectgui then
+            getgenv().protectgui(AimlockFOVGui)
+            AimlockFOVGui.Parent = CoreGui
+        else
+            AimlockFOVGui.Parent = CoreGui
+        end
+    end)
+    if not success then
+        AimlockFOVGui.Parent = lplayer:WaitForChild("PlayerGui")
+    end
+
+    AimlockCircleFrame = Instance.new("Frame", AimlockFOVGui)
+    AimlockCircleFrame.Name = "AimlockCircleFrame"
+    AimlockCircleFrame.AnchorPoint = Vector2.new(0.5, 0.5)
+    AimlockCircleFrame.Position = UDim2.fromScale(0.5, 0.5)
+    AimlockCircleFrame.BackgroundTransparency = 1
+
+    AimlockStroke = Instance.new("UIStroke", AimlockCircleFrame)
+    AimlockStroke.Name = "AimlockStroke"
+    AimlockStroke.ApplyStrokeMode = Enum.ApplyStrokeMode.Border
+    AimlockStroke.Thickness = 1
+    AimlockStroke.Transparency = 0.5
+
+    local AimlockCorner = Instance.new("UICorner", AimlockCircleFrame)
+    AimlockCorner.Name = "AimlockCorner"
+    AimlockCorner.CornerRadius = UDim.new(1, 0)
+    
+    -- 启动循环
+    RunService.RenderStepped:Connect(AimlockModule.RenderLoop)
+end
+
+local rainbowClock = 0
+local function UpdateRainbowFOV()
+    if Settings.RainbowFOV then
+        rainbowClock = rainbowClock + (Settings.RainbowFOVSpeed / 100)
+        local r = math.sin(rainbowClock) * 0.5 + 0.5
+        local g = math.sin(rainbowClock + 2) * 0.5 + 0.5
+        local b = math.sin(rainbowClock + 4) * 0.5 + 0.5
+        AimlockStroke.Color = Color3.new(r, g, b)
+    else
+        AimlockStroke.Color = Settings.FOVColor
+    end
+end
+
+local function UpdateFOV()
+    if Settings.ShowFOV then
+        local radius = Settings.FOVSize
+        AimlockCircleFrame.Size = UDim2.fromOffset(radius * 2, radius * 2)
+        AimlockStroke.Transparency = 0 -- 简单处理，如果需要可以传颜色透明度
+        AimlockStroke.Thickness = Settings.FOVStrokeThickness
+
+        if Settings.FOVType == "屏幕中心" or (isMobile and Settings.FOVType == "跟随鼠标" and not UserInputService.TouchEnabled) then
+            AimlockCircleFrame.Position = UDim2.new(0.5, 0, 0.5, 0)
+        else
+            local mousePos = UserInputService:GetMouseLocation()
+            AimlockCircleFrame.Position = UDim2.new(0, mousePos.X, 0, mousePos.Y)
+        end
+
+        UpdateRainbowFOV()
+        AimlockFOVGui.Enabled = true
+    else
+        AimlockFOVGui.Enabled = false
+    end
+end
+
+local function IsValidTarget(plr)
+    if not plr or plr == lplayer then return false end
+    if not plr.Character or not plr.Character:FindFirstChild("Head") or not plr.Character:FindFirstChild("Humanoid") then return false end
+    if plr.Character.Humanoid.Health <= 0 then return false end
+    if Settings.TeamCheck and plr.Team == lplayer.Team then return false end
+    
+    if Settings.WhitelistPlayers then
+        for whitelistedPlayer, isWhitelisted in pairs(Settings.WhitelistPlayers) do
+            if isWhitelisted and plr.Name == tostring(whitelistedPlayer) then
+                return false
+            end
+        end
+    end
+    
+    return true
+end
+
+local function HasLineOfSight(targetHead)
+    if not Settings.WallCheck then return true end
+    local raycastParams = RaycastParams.new()
+    raycastParams.FilterType = Enum.RaycastFilterType.Exclude
+    raycastParams.FilterDescendantsInstances = {lplayer.Character}
+    local result = Workspace:Raycast(camera.CFrame.Position, (targetHead.Position - camera.CFrame.Position).Unit * 500, raycastParams)
+    return not result or result.Instance:IsDescendantOf(targetHead.Parent)
+end
+
+local function GetClosestPlayer()
+    if Settings.AimlockCertainPlayer and Settings.AimlockCertainPlayer ~= "" then
+        local certainPlayerValue = tostring(Settings.AimlockCertainPlayer)
+        local certainPlayer = Players:FindFirstChild(certainPlayerValue)
+        if certainPlayer and IsValidTarget(certainPlayer) then
+            local head = certainPlayer.Character:FindFirstChild("Head")
+            if head and HasLineOfSight(head) then
+                local worldDist = (head.Position - camera.CFrame.Position).Magnitude
+                local maxDist = Settings.AimlockType == "鼠标/屏幕中心最近" and Settings.MouseMaxDist or Settings.AimlockMaxDist
+                if worldDist <= maxDist then
+                    return certainPlayer
+                end
+            end
+        end
+        return nil
+    end
+
+    local closest = nil
+    local shortestDistance = math.huge
+    local mousePos = Vector2.new(UserInputService:GetMouseLocation().X, UserInputService:GetMouseLocation().Y)
+    
+    if isMobile then
+         mousePos = Vector2.new(camera.ViewportSize.X/2, camera.ViewportSize.Y/2)
+    end
+    
+    local centerPos = Vector2.new(camera.ViewportSize.X/2, camera.ViewportSize.Y/2)
+    local checkPos = Settings.AimlockType == "鼠标/屏幕中心最近" and mousePos or centerPos
+
+    local prioritizedPlayers = {}
+    local normalPlayers = {}
+
+    for _, plr in Players:GetPlayers() do
+        if IsValidTarget(plr) then
+            local isPrioritized = false
+            if Settings.PrioritizePlayers then
+                for prioritizedPlayer, isPrio in pairs(Settings.PrioritizePlayers) do
+                    if isPrio and plr.Name == tostring(prioritizedPlayer) then
+                        isPrioritized = true
+                        break
+                    end
+                end
+            end
+            
+            if isPrioritized then
+                table.insert(prioritizedPlayers, plr)
+            else
+                table.insert(normalPlayers, plr)
+            end
+        end
+    end
+
+    local function CheckPlayer(plr)
+        local head = plr.Character:FindFirstChild("Head")
+        if head then
+            local screenPos, onScreen = camera:WorldToViewportPoint(head.Position)
+            if onScreen then
+                local distance = (Vector2.new(screenPos.X, screenPos.Y) - checkPos).Magnitude
+                local worldDist = (head.Position - camera.CFrame.Position).Magnitude
+                local maxDist = Settings.AimlockType == "鼠标/屏幕中心最近" and Settings.MouseMaxDist or Settings.AimlockMaxDist
+
+                if worldDist <= maxDist and distance < shortestDistance then
+                    if Settings.EnableFOV then
+                        local fovCenter = Settings.FOVType == "屏幕中心" and centerPos or mousePos
+                        if isMobile then fovCenter = centerPos end
+                        
+                        if (Vector2.new(screenPos.X, screenPos.Y) - fovCenter).Magnitude <= Settings.FOVMaxDist then
+                            local distToCenter = (Vector2.new(screenPos.X, screenPos.Y) - fovCenter).Magnitude
+                            if distToCenter <= Settings.FOVSize then
+                                if HasLineOfSight(head) then
+                                    shortestDistance = distance
+                                    return plr
+                                end
+                            end
+                        end
+                    else
+                        if HasLineOfSight(head) then
+                            shortestDistance = distance
+                            return plr
+                        end
+                    end
+                end
+            end
+        end
+        return nil
+    end
+
+    for _, plr in ipairs(prioritizedPlayers) do
+        local result = CheckPlayer(plr)
+        if result then closest = result end
+    end
+
+    if not closest then
+        for _, plr in ipairs(normalPlayers) do
+            local result = CheckPlayer(plr)
+            if result then closest = result end
+        end
+    end
+
+    return closest
+end
+
+local lastAimlockAutoFire = 0
+
+function AimlockModule.RenderLoop()
+    UpdateFOV()
+
+    if Settings.Enabled then
+        local target = GetClosestPlayer()
+        if target and target.Character and target.Character:FindFirstChild("Head") then
+            local head = target.Character.Head
+            local offset = Vector3.new(Settings.AimlockOffsetX * 10, Settings.AimlockOffsetY * 10, 0)
+            local targetPos = head.Position + offset
+
+            if Settings.SmoothAimlock then
+                local smoothness = Settings.AimbotSmoothness / 100
+                camera.CFrame = camera.CFrame:Lerp(CFrame.new(camera.CFrame.Position, targetPos), smoothness)
+            else
+                camera.CFrame = CFrame.new(camera.CFrame.Position, targetPos)
+            end
+
+            if Settings.AimlockAutoFire then
+                if tick() - lastAimlockAutoFire >= (Settings.AimlockFireDelay or 0.1) then
+                    VirtualInputManager:SendMouseButtonEvent(0, 0, 0, true, game, 1)
+                    task.delay(0.05, function()
+                        VirtualInputManager:SendMouseButtonEvent(0, 0, 0, false, game, 1)
+                    end)
+                    lastAimlockAutoFire = tick()
+                end
+            end
+        end
+    end
+end
+
+return AimlockModule
