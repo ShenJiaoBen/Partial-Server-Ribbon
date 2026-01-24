@@ -1,0 +1,543 @@
+
+local Linni_ESPPSE = {}
+
+local Players = game:GetService("Players")
+local RunService = game:GetService("RunService")
+local CoreGui = game:GetService("CoreGui")
+local Workspace = game:GetService("Workspace")
+
+local lplayer = Players.LocalPlayer
+local Camera = Workspace.CurrentCamera
+
+Linni_ESPPSE.Settings = {
+    Enabled = false,
+    TeamCheck = true,
+    VisibleCheck = true,
+    MaxDistance = 5000,
+    FontSize = 10,
+    GlobalTransparency = 0,
+    FadeOut = { OnDistance = true, OnDeath = false, OnLeave = false },
+    Options = { 
+        Teamcheck = true, 
+        EnemyVisibleRGB = Color3.fromRGB(255, 0, 0),
+        EnemyHiddenRGB = Color3.fromRGB(139, 0, 0),
+        TeamVisibleRGB = Color3.fromRGB(0, 255, 0),
+        TeamHiddenRGB = Color3.fromRGB(0, 100, 0),
+    },
+    Drawing = {
+        Chams = { Enabled = true, Pulse = true, FillRGB = Color3.fromRGB(138, 43, 226), Fill_Transparency = 60, OutlineRGB = Color3.fromRGB(255, 255, 255), Outline_Transparency = 0, VisibleCheck = false },
+        Names = { Enabled = true, RGB = Color3.fromRGB(255, 255, 255) },
+        Skeleton = { Enabled = true, RGB = Color3.fromRGB(255, 255, 255), Thickness = 1, Transparency = 1 },
+        Distances = { Enabled = true, Position = "Text", RGB = Color3.fromRGB(255, 255, 255) },
+        Healthbar = { Enabled = true, HealthText = true, Lerp = true, HealthTextRGB = Color3.fromRGB(255, 255, 255), Width = 2, Gradient = true, GradientRGB1 = Color3.fromRGB(255, 60, 60), GradientRGB2 = Color3.fromRGB(255, 150, 60), GradientRGB3 = Color3.fromRGB(60, 255, 60) },
+        Boxes = { Animate = true, RotationSpeed = 100, Gradient = true, GradientRGB1 = Color3.fromRGB(138, 43, 226), GradientRGB2 = Color3.fromRGB(0, 255, 255), GradientFill = true, GradientFillRGB1 = Color3.fromRGB(138, 43, 226), GradientFillRGB2 = Color3.fromRGB(0, 0, 0), Filled = { Enabled = false, Transparency = 0.85, RGB = Color3.fromRGB(0, 0, 0) }, Full = { Enabled = false, RGB = Color3.fromRGB(255, 255, 255) }, Corner = { Enabled = false, RGB = Color3.fromRGB(255, 255, 255) } },
+    }
+}
+
+Linni_ESPPSE.ChamsLogic = {
+    Self = {
+        Enabled = false,
+        Rainbow = false,
+        Color = Color3.fromRGB(255, 255, 255),
+        OriginalProps = {}
+    },
+    Enemy = {
+        Enabled = false,
+        TeamCheck = true,
+        VisibleCheck = true,
+        OccludedColor = Color3.fromRGB(255, 0, 0),
+        VisibleColor = Color3.fromRGB(0, 255, 0),
+        OriginalProps = {}
+    }
+}
+
+local SkeletonConnectionsR15 = {
+    {"Head", "UpperTorso"}, {"UpperTorso", "LowerTorso"},
+    {"LowerTorso", "LeftUpperLeg"}, {"LeftUpperLeg", "LeftLowerLeg"}, {"LeftLowerLeg", "LeftFoot"},
+    {"LowerTorso", "RightUpperLeg"}, {"RightUpperLeg", "RightLowerLeg"}, {"RightLowerLeg", "RightFoot"},
+    {"UpperTorso", "LeftUpperArm"}, {"LeftUpperArm", "LeftLowerArm"}, {"LeftLowerArm", "LeftHand"},
+    {"UpperTorso", "RightUpperArm"}, {"RightUpperArm", "RightLowerArm"}, {"RightLowerArm", "RightHand"}
+}
+
+local SkeletonConnectionsR6 = {
+    {"Head", "Torso"}, {"Torso", "Left Leg"}, {"Torso", "Right Leg"}, {"Torso", "Left Arm"}, {"Torso", "Right Arm"}
+}
+
+local VisStatusCache = {}
+local LastRaycastTime = {}
+local ESP_Storage = {}
+local ScreenGui = nil
+
+local function Create(Class, Properties)
+    local _Instance = Instance.new(Class)
+    for Property, Value in pairs(Properties) do
+        _Instance[Property] = Value
+    end
+    return _Instance
+end
+
+local function IsPlayerVisible(targetPlr)
+    if not targetPlr.Character then return false end
+    local targetHead = targetPlr.Character:FindFirstChild("Head") or targetPlr.Character:FindFirstChild("HumanoidRootPart")
+    if not targetHead then return false end
+    
+    local rayParams = RaycastParams.new()
+    rayParams.FilterType = Enum.RaycastFilterType.Exclude
+    rayParams.FilterDescendantsInstances = {lplayer.Character, targetPlr.Character, Camera}
+    
+    local dir = targetHead.Position - Camera.CFrame.Position
+    local result = Workspace:Raycast(Camera.CFrame.Position, dir.Unit * dir.Magnitude, rayParams)
+    
+    return (result == nil)
+end
+
+local function CheckVis(plr, head, dist)
+    local now = os.clock()
+    local interval = 0.1
+    if dist > 200 then interval = 0.3 end
+    if dist > 500 then interval = 0.5 end
+
+    if not LastRaycastTime[plr] or (now - LastRaycastTime[plr] > interval) then
+        LastRaycastTime[plr] = now
+        local success, isVis = pcall(IsPlayerVisible, plr)
+        VisStatusCache[plr] = (success and isVis) or false
+    end
+    return VisStatusCache[plr]
+end
+
+local function AddStroke(label)
+    local stroke = Instance.new("UIStroke")
+    stroke.Parent = label
+    stroke.Thickness = 1.2
+    stroke.Color = Color3.new(0,0,0)
+    stroke.Transparency = 0.2
+    return stroke
+end
+
+local function CreateVisuals(plr)
+    if ESP_Storage[plr] then return end
+
+    local visualTable = {
+        Lines = {},
+        Cache = { Name = "", Visible = true }
+    }
+
+    local Name = Create("TextLabel", {Parent = ScreenGui, BackgroundTransparency = 1, TextColor3 = Color3.fromRGB(255, 255, 255), Font = Enum.Font.GothamBold, TextSize = 10, TextStrokeTransparency = 1, RichText = false, ZIndex = 3, Visible = false})
+    AddStroke(Name)
+    visualTable.Name = Name
+
+    local Distance = Create("TextLabel", {Parent = ScreenGui, BackgroundTransparency = 1, TextColor3 = Color3.fromRGB(255, 255, 255), Font = Enum.Font.GothamBold, TextSize = 10, TextStrokeTransparency = 1, RichText = false, ZIndex = 3, Visible = false})
+    AddStroke(Distance)
+    visualTable.Distance = Distance
+
+    local Box = Create("Frame", {Parent = ScreenGui, BackgroundColor3 = Color3.new(0, 0, 0), BackgroundTransparency = 0.75, BorderSizePixel = 0, Visible = false, ZIndex = 1})
+    local BoxGradient = Create("UIGradient", {Parent = Box, Enabled = false}) 
+    
+    local Outline = Create("UIStroke", {Parent = Box, Enabled = true, Transparency = 0, Color = Color3.fromRGB(255, 255, 255), Thickness = 1.5})
+    local OutlineGradient = Create("UIGradient", {Parent = Outline, Enabled = false}) 
+    
+    visualTable.Box = Box
+    visualTable.BoxGradient = BoxGradient
+    visualTable.Outline = Outline
+    visualTable.OutlineGradient = OutlineGradient
+
+    local Healthbar = Create("Frame", {Parent = ScreenGui, BackgroundColor3 = Color3.fromRGB(255, 255, 255), BackgroundTransparency = 0, Visible = false, ZIndex = 2})
+    local HealthbarGradient = Create("UIGradient", {Parent = Healthbar, Rotation = -90, Enabled = true})
+    
+    local BehindHealthbar = Create("Frame", {Parent = ScreenGui, ZIndex = 1, BackgroundColor3 = Color3.new(0, 0, 0), BackgroundTransparency = 0.5, Visible = false})
+    local HealthText = Create("TextLabel", {Parent = ScreenGui, BackgroundTransparency = 1, TextColor3 = Color3.fromRGB(255, 255, 255), Font = Enum.Font.GothamBold, TextSize = 8, TextStrokeTransparency = 1, Visible = false, ZIndex = 3})
+    AddStroke(HealthText)
+
+    visualTable.Healthbar = Healthbar
+    visualTable.HealthbarGradient = HealthbarGradient
+    visualTable.BehindHealthbar = BehindHealthbar
+    visualTable.HealthText = HealthText
+
+    local Chams = Create("Highlight", {Parent = ScreenGui, FillTransparency = 1, OutlineTransparency = 0, OutlineColor = Color3.fromRGB(119, 120, 255), DepthMode = "AlwaysOnTop", Enabled = false})
+    visualTable.Chams = Chams
+
+    local Corners = {}
+    for i=1, 8 do table.insert(Corners, Create("Frame", {Parent = ScreenGui, BackgroundColor3 = Color3.new(1,1,1), BorderSizePixel = 0, Visible = false, ZIndex = 2})) end
+    visualTable.Corners = Corners
+
+    for i = 1, 16 do
+        local line = Drawing.new("Line")
+        line.Visible = false
+        line.Thickness = 1
+        line.Color = Color3.new(1,1,1)
+        table.insert(visualTable.Lines, line)
+    end
+
+    ESP_Storage[plr] = visualTable
+end
+
+local function RemoveVisuals(plr)
+    local visual = ESP_Storage[plr]
+    if visual then
+        pcall(function()
+            visual.Box:Destroy(); visual.Name:Destroy(); visual.Distance:Destroy()
+            visual.Healthbar:Destroy(); visual.BehindHealthbar:Destroy(); visual.HealthText:Destroy()
+            visual.Chams:Destroy()
+            for _, v in ipairs(visual.Corners) do v:Destroy() end
+            for _, line in ipairs(visual.Lines) do line:Remove() end
+        end)
+        ESP_Storage[plr] = nil
+        LastRaycastTime[plr] = nil
+        VisStatusCache[plr] = nil
+    end
+end
+
+local function FastHide(visuals)
+    if not visuals.Cache.Visible then return end
+    visuals.Cache.Visible = false
+    visuals.Box.Visible = false; visuals.Name.Visible = false; visuals.Distance.Visible = false
+    visuals.Healthbar.Visible = false; visuals.BehindHealthbar.Visible = false; visuals.HealthText.Visible = false
+    visuals.Chams.Enabled = false
+    for _, c in ipairs(visuals.Corners) do c.Visible = false end
+    for _, l in ipairs(visuals.Lines) do l.Visible = false end
+end
+
+local function HSVToRGB(h, s, v) 
+    local c = v*s; local x = c*(1-math.abs((h/60)%2-1)); local m = v-c; 
+    local r,g,b=0,0,0; if h<60 then r,g,b=c,x,0 elseif h<120 then r,g,b=x,c,0 elseif h<180 then r,g,b=0,c,x elseif h<240 then r,g,b=0,x,c elseif h<300 then r,g,b=x,0,c else r,g,b=c,0,x end 
+    return Color3.new(r+m, g+m, b+m) 
+end
+
+local function ApplyMaterialLogic(char, color, storeTable)
+    if not char then return end
+    if not storeTable[char] then
+        storeTable[char] = {}
+        for _, part in ipairs(char:GetDescendants()) do
+            if part:IsA("BasePart") and part.Name ~= "HumanoidRootPart" and part.Transparency < 1 then
+                storeTable[char][part] = { Material = part.Material, Color = part.Color, Transparency = part.Transparency }
+            end
+        end
+    end
+    for _, part in ipairs(char:GetDescendants()) do
+        if part:IsA("BasePart") and part.Name ~= "HumanoidRootPart" and part.Transparency < 1 then
+            part.Material = Enum.Material.ForceField
+            part.Color = color
+            part.Transparency = 0
+        end
+    end
+end
+
+local function RestoreMaterialLogic(char, storeTable)
+    if not char or not storeTable[char] then return end
+    for part, props in pairs(storeTable[char]) do
+        if part and part.Parent then
+            part.Material = props.Material
+            part.Color = props.Color
+            part.Transparency = props.Transparency
+        end
+    end
+    storeTable[char] = nil
+end
+
+local function UpdateMaterialChams()
+    local Logic = Linni_ESPPSE.ChamsLogic
+    
+    if Logic.Self.Enabled and lplayer.Character then
+        local color = Logic.Self.Color
+        if Logic.Self.Rainbow then color = HSVToRGB((tick()*60)%360, 1, 1) end
+        ApplyMaterialLogic(lplayer.Character, color, Logic.Self.OriginalProps)
+    elseif not Logic.Self.Enabled and lplayer.Character then
+         RestoreMaterialLogic(lplayer.Character, Logic.Self.OriginalProps)
+    end
+
+    if Logic.Enemy.Enabled then
+        for _, plr in pairs(Players:GetPlayers()) do
+            if plr ~= lplayer and plr.Character then
+                if Logic.Enemy.TeamCheck and (lplayer.Team and plr.Team and lplayer.Team == plr.Team) then
+                    RestoreMaterialLogic(plr.Character, Logic.Enemy.OriginalProps)
+                    if plr.Character:FindFirstChild("SeeThrough") then plr.Character.SeeThrough:Destroy() end
+                    continue
+                end
+
+                local color = Logic.Enemy.OccludedColor
+                if Logic.Enemy.VisibleCheck and IsPlayerVisible(plr) then
+                    color = Logic.Enemy.VisibleColor
+                end
+                
+                ApplyMaterialLogic(plr.Character, color, Logic.Enemy.OriginalProps)
+                
+                local hl = plr.Character:FindFirstChild("SeeThrough")
+                if not hl then
+                    hl = Instance.new("Highlight")
+                    hl.Name = "SeeThrough"
+                    hl.Parent = plr.Character
+                    hl.DepthMode = Enum.HighlightDepthMode.AlwaysOnTop
+                    hl.FillTransparency = 1
+                    hl.OutlineTransparency = 0.5
+                end
+                hl.OutlineColor = color
+            end
+        end
+    else
+         for _, plr in pairs(Players:GetPlayers()) do
+            if plr.Character then
+                RestoreMaterialLogic(plr.Character, Logic.Enemy.OriginalProps)
+                if plr.Character:FindFirstChild("SeeThrough") then plr.Character.SeeThrough:Destroy() end
+            end
+        end
+    end
+    
+    for char, _ in pairs(Logic.Enemy.OriginalProps) do
+        if not char.Parent then Logic.Enemy.OriginalProps[char] = nil end
+    end
+end
+
+function Linni_ESPPSE.Init()
+    local oldGuis = {"ESPHolder_Optimized_Linni", "ESPHolder_Final_Fix", "ESPHolder_MaxStyle"}
+    for _, name in ipairs(oldGuis) do
+        if CoreGui:FindFirstChild(name) then CoreGui:FindFirstChild(name):Destroy() end
+    end
+
+    ScreenGui = Create("ScreenGui", {
+        Parent = CoreGui,
+        Name = "ESPHolder_Optimized_Linni",
+        ResetOnSpawn = false,
+        IgnoreGuiInset = true
+    })
+
+    for _, v in ipairs(Players:GetPlayers()) do if v ~= lplayer then CreateVisuals(v) end end
+    Players.PlayerAdded:Connect(function(v) if v ~= lplayer then CreateVisuals(v) end end)
+    Players.PlayerRemoving:Connect(function(v) RemoveVisuals(v) end)
+
+    local RotationAngle = -45
+    local LOD_SETTINGS = { SkeletonMaxDist = 250, ChamsMaxDist = 500 }
+    local V2New = Vector2.new
+    local UDim2New = UDim2.new
+    local Color3New = Color3.new
+    local MathFloor = math.floor
+
+    RunService.RenderStepped:Connect(function(deltaTime)
+        UpdateMaterialChams()
+
+        local Settings = Linni_ESPPSE.Settings
+
+        if Settings.Drawing.Boxes.Animate then
+            RotationAngle = RotationAngle + deltaTime * (Settings.Drawing.Boxes.RotationSpeed or 100) * 0.5 
+        else
+            RotationAngle = -45
+        end
+
+        if not Settings.Enabled then 
+            for _, visuals in pairs(ESP_Storage) do FastHide(visuals) end
+            return 
+        end
+
+        local CameraPos = Camera.CFrame.Position
+        local ViewportSizeY = Camera.ViewportSize.Y
+        local TeamCheck = Settings.TeamCheck
+        local MyTeam = lplayer.Team
+
+        for plr, visuals in pairs(ESP_Storage) do
+            if not plr.Parent then RemoveVisuals(plr); continue end
+            
+            if TeamCheck and MyTeam and plr.Team and MyTeam == plr.Team then 
+                FastHide(visuals); continue 
+            end
+
+            local char = plr.Character
+            if not char then FastHide(visuals); continue end
+            
+            local HRP = char:FindFirstChild("HumanoidRootPart")
+            local Head = char:FindFirstChild("Head")
+            local Humanoid = char:FindFirstChild("Humanoid") 
+
+            if not HRP or not Head or not Humanoid or Humanoid.Health <= 0 then FastHide(visuals); continue end
+
+            local Dist = (CameraPos - HRP.Position).Magnitude
+            if Dist > Settings.MaxDistance then FastHide(visuals); continue end
+
+            local Pos, OnScreen = Camera:WorldToViewportPoint(HRP.Position)
+            if not OnScreen then FastHide(visuals); continue end
+
+            visuals.Cache.Visible = true
+
+            local isVis = true
+            if Settings.VisibleCheck then isVis = CheckVis(plr, Head, Dist) end
+            
+            local CurrentColor
+            local isTeammate = (MyTeam and plr.Team and MyTeam == plr.Team)
+            if isTeammate then
+                CurrentColor = (Settings.VisibleCheck and isVis) and Settings.Options.TeamVisibleRGB or Settings.Options.TeamHiddenRGB
+            else
+                CurrentColor = (Settings.VisibleCheck and isVis) and Settings.Options.EnemyVisibleRGB or Settings.Options.EnemyHiddenRGB
+            end
+
+            local Size = HRP.Size.Y
+            local scaleFactor = (Size * ViewportSizeY) / (Pos.Z * 2) * (1 / (Camera.FieldOfView * 0.01745329) * 1.5)
+            local w, h = 3 * scaleFactor, 4.5 * scaleFactor
+            local boxX, boxY = Pos.X - w / 2, Pos.Y - h / 2
+            
+            local alpha = Settings.FadeOut.OnDistance and (1 - Dist / Settings.MaxDistance) or (1 - (Settings.GlobalTransparency or 0))
+            if alpha < 0.1 then alpha = 0.1 end
+
+            if Settings.Drawing.Boxes.Full.Enabled then
+                visuals.Box.Visible = true
+                visuals.Box.Position = UDim2New(0, boxX, 0, boxY)
+                visuals.Box.Size = UDim2New(0, w, 0, h)
+                
+                if Settings.Drawing.Boxes.Gradient then
+                    visuals.OutlineGradient.Enabled = true
+                    visuals.OutlineGradient.Rotation = RotationAngle
+                    visuals.OutlineGradient.Color = ColorSequence.new{ColorSequenceKeypoint.new(0, Settings.Drawing.Boxes.GradientRGB1), ColorSequenceKeypoint.new(1, Settings.Drawing.Boxes.GradientRGB2)}
+                    visuals.Outline.Color = Color3New(1,1,1)
+                else
+                    visuals.OutlineGradient.Enabled = false
+                    visuals.Outline.Color = CurrentColor
+                end
+                
+                if Settings.Drawing.Boxes.Filled.Enabled then
+                    if Settings.Drawing.Boxes.GradientFill then
+                        visuals.Box.BackgroundTransparency = Settings.Drawing.Boxes.Filled.Transparency
+                        visuals.BoxGradient.Enabled = true
+                        visuals.BoxGradient.Rotation = RotationAngle
+                        visuals.BoxGradient.Color = ColorSequence.new{ColorSequenceKeypoint.new(0, Settings.Drawing.Boxes.GradientFillRGB1), ColorSequenceKeypoint.new(1, Settings.Drawing.Boxes.GradientFillRGB2)}
+                        visuals.Box.BackgroundColor3 = Color3New(1,1,1)
+                    else
+                        visuals.Box.BackgroundTransparency = Settings.Drawing.Boxes.Filled.Transparency
+                        visuals.BoxGradient.Enabled = false
+                        visuals.Box.BackgroundColor3 = Color3New(1,1,1)
+                    end
+                else
+                    visuals.Box.BackgroundTransparency = 1
+                end
+                visuals.Outline.Transparency = 1 - alpha
+            else
+                visuals.Box.Visible = false
+            end
+
+            if Settings.Drawing.Names.Enabled then
+                visuals.Name.Visible = true
+                visuals.Name.Position = UDim2New(0, Pos.X - 50, 0, boxY - 14)
+                visuals.Name.Size = UDim2New(0, 100, 0, 14)
+                visuals.Name.TextTransparency = 1 - alpha
+                visuals.Name.TextSize = Settings.FontSize
+                visuals.Name.TextColor3 = CurrentColor
+                
+                local nameText = plr.Name
+                if Settings.Drawing.Distances.Enabled and Settings.Drawing.Distances.Position == "Text" then
+                    nameText = string.format("%s [%d]", plr.Name, MathFloor(Dist))
+                end
+                visuals.Name.Text = nameText
+            else
+                visuals.Name.Visible = false
+            end
+
+            if Settings.Drawing.Healthbar.Enabled then
+                local hpPct = Humanoid.Health / Humanoid.MaxHealth
+                visuals.Healthbar.Visible = true
+                visuals.BehindHealthbar.Visible = true
+                visuals.Healthbar.Position = UDim2New(0, boxX - 5, 0, boxY + h * (1 - hpPct))
+                visuals.Healthbar.Size = UDim2New(0, 2, 0, h * hpPct)
+                visuals.BehindHealthbar.Position = UDim2New(0, boxX - 5, 0, boxY)
+                visuals.BehindHealthbar.Size = UDim2New(0, 2, 0, h)
+                
+                if Settings.Drawing.Healthbar.Gradient then
+                    visuals.HealthbarGradient.Enabled = true
+                    visuals.HealthbarGradient.Color = ColorSequence.new{
+                        ColorSequenceKeypoint.new(0, Settings.Drawing.Healthbar.GradientRGB1), 
+                        ColorSequenceKeypoint.new(0.5, Settings.Drawing.Healthbar.GradientRGB2), 
+                        ColorSequenceKeypoint.new(1, Settings.Drawing.Healthbar.GradientRGB3)
+                    }
+                    visuals.Healthbar.BackgroundColor3 = Color3New(1,1,1)
+                else
+                    visuals.HealthbarGradient.Enabled = false
+                    visuals.Healthbar.BackgroundColor3 = Color3.fromHSV(hpPct * 0.3, 1, 1)
+                end
+                visuals.Healthbar.BackgroundTransparency = 1 - alpha
+
+                if Settings.Drawing.Healthbar.HealthText and Humanoid.Health < Humanoid.MaxHealth then
+                    visuals.HealthText.Visible = true
+                    visuals.HealthText.Position = UDim2New(0, boxX - 20, 0, boxY + h * (1 - hpPct) - 7)
+                    visuals.HealthText.Size = UDim2New(0, 30, 0, 14)
+                    visuals.HealthText.Text = MathFloor(hpPct * 100)
+                    visuals.HealthText.TextTransparency = 1 - alpha
+                else
+                    visuals.HealthText.Visible = false
+                end
+            else
+                visuals.Healthbar.Visible = false; visuals.BehindHealthbar.Visible = false; visuals.HealthText.Visible = false
+            end
+            
+            if Settings.Drawing.Distances.Enabled and Settings.Drawing.Distances.Position == "Bottom" then
+                visuals.Distance.Visible = true
+                visuals.Distance.Position = UDim2New(0, Pos.X - 50, 0, boxY + h + 2)
+                visuals.Distance.Size = UDim2New(0, 100, 0, 14)
+                visuals.Distance.TextSize = Settings.FontSize
+                visuals.Distance.Text = MathFloor(Dist) .. "m"
+                visuals.Distance.TextColor3 = CurrentColor
+                visuals.Distance.TextTransparency = 1 - alpha
+            else
+                visuals.Distance.Visible = false
+            end
+
+            if Settings.Drawing.Chams.Enabled and Dist <= LOD_SETTINGS.ChamsMaxDist then
+                visuals.Chams.Enabled = true
+                visuals.Chams.Adornee = char
+                visuals.Chams.FillColor = CurrentColor
+                visuals.Chams.OutlineColor = CurrentColor
+                visuals.Chams.DepthMode = Settings.Drawing.Chams.VisibleCheck and Enum.HighlightDepthMode.Occluded or Enum.HighlightDepthMode.AlwaysOnTop
+                
+                if Settings.Drawing.Chams.Pulse then
+                    local pulse = 0.7 + 0.3 * math.sin(tick() * 3)
+                    visuals.Chams.FillTransparency = math.clamp((Settings.Drawing.Chams.Fill_Transparency/100) * pulse + (1-pulse), 0, 1)
+                    visuals.Chams.OutlineTransparency = math.clamp((Settings.Drawing.Chams.Outline_Transparency/100) * pulse, 0, 1)
+                else
+                    visuals.Chams.FillTransparency = Settings.Drawing.Chams.Fill_Transparency / 100
+                    visuals.Chams.OutlineTransparency = Settings.Drawing.Chams.Outline_Transparency / 100
+                end
+            else
+                visuals.Chams.Enabled = false
+            end
+
+            if Settings.Drawing.Boxes.Corner.Enabled then
+                local cSize = w / 4; local c = visuals.Corners
+                for _, v in ipairs(c) do v.Visible = true; v.BackgroundColor3 = CurrentColor; v.BackgroundTransparency = 1 - alpha end
+                c[1].Position = UDim2New(0, boxX, 0, boxY); c[1].Size = UDim2New(0, cSize, 0, 1)
+                c[2].Position = UDim2New(0, boxX, 0, boxY); c[2].Size = UDim2New(0, 1, 0, cSize)
+                c[3].Position = UDim2New(0, boxX, 0, boxY + h); c[3].Size = UDim2New(0, 1, 0, cSize); c[3].AnchorPoint = V2New(0, 1)
+                c[4].Position = UDim2New(0, boxX, 0, boxY + h); c[4].Size = UDim2New(0, cSize, 0, 1); c[4].AnchorPoint = V2New(0, 1)
+                c[5].Position = UDim2New(0, boxX + w, 0, boxY); c[5].Size = UDim2New(0, cSize, 0, 1); c[5].AnchorPoint = V2New(1, 0)
+                c[6].Position = UDim2New(0, boxX + w, 0, boxY); c[6].Size = UDim2New(0, 1, 0, cSize); c[6].AnchorPoint = V2New(1, 0)
+                c[7].Position = UDim2New(0, boxX + w, 0, boxY + h); c[7].Size = UDim2New(0, 1, 0, cSize); c[7].AnchorPoint = V2New(1, 1)
+                c[8].Position = UDim2New(0, boxX + w, 0, boxY + h); c[8].Size = UDim2New(0, cSize, 0, 1); c[8].AnchorPoint = V2New(1, 1)
+            else
+                for _, v in ipairs(visuals.Corners) do v.Visible = false end
+            end
+
+            if Settings.Drawing.Skeleton.Enabled and Dist <= LOD_SETTINGS.SkeletonMaxDist then
+                local lines = visuals.Lines
+                local connections = SkeletonConnectionsR15
+                if char:FindFirstChild("Torso") then connections = SkeletonConnectionsR6 end
+                
+                local lineIdx = 1
+                for _, pair in ipairs(connections) do
+                    local p1 = char:FindFirstChild(pair[1])
+                    local p2 = char:FindFirstChild(pair[2])
+                    if p1 and p2 then
+                        local v1, os1 = Camera:WorldToViewportPoint(p1.Position)
+                        local v2, os2 = Camera:WorldToViewportPoint(p2.Position)
+                        if os1 or os2 then
+                            local l = lines[lineIdx]
+                            l.Visible = true
+                            l.From = V2New(v1.X, v1.Y)
+                            l.To = V2New(v2.X, v2.Y)
+                            l.Color = CurrentColor
+                            l.Transparency = alpha
+                            lineIdx = lineIdx + 1
+                        end
+                    end
+                end
+                for i = lineIdx, 16 do lines[i].Visible = false end
+            else
+                for _, l in ipairs(visuals.Lines) do l.Visible = false end
+            end
+        end
+    end)
+end
+
+return Linni_ESPPSE
