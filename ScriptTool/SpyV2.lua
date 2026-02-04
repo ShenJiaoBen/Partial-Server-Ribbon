@@ -170,7 +170,7 @@ objects["Instance4"]["LineHeight"] = 1;
 objects["Instance4"]["BackgroundColor3"] = Color3.new(1, 1, 1);
 objects["Instance4"]["TextColor3"] = Color3.new(1, 0.333333, 0.498039);
 objects["Instance4"]["BorderColor3"] = Color3.new(0, 0, 0);
-objects["Instance4"]["Text"] = "Octo~Spy | v1.0.5";
+objects["Instance4"]["Text"] = "霖溺汉化Spy | v1.0.5";
 objects["Instance4"]["LayoutOrder"] = 0;
 objects["Instance4"]["TextWrapped"] = true;
 objects["Instance4"]["Rotation"] = 0;
@@ -4109,11 +4109,24 @@ elseif type == "NumberRange" then
 return type..".new("..arg.Min..", "..arg.Max..")"
 elseif type == "Enum" then
 return "Enum."..tostring(arg)
+
 elseif type == "Enums" then
-return "Enum"
+    return "Enum"
+elseif type == "buffer" then
+    local len = buffer.len(arg)
+    if len == 0 then
+        return "buffer.create(0)"
+    end
+    local hexParts = {}
+    for i = 0, len - 1 do
+        local byte = buffer.readu8(arg, i)
+        table.insert(hexParts, string.format("\\x%02X", byte))
+    end
+    return "buffer.fromstring(\"" .. table.concat(hexParts) .. "\")"
 else
-return " "..type..".new("..tostring(arg)..")"
+    return " "..type..".new("..tostring(arg)..")"
 end
+
 end
 tostr = function(tbl, ind)
 if typeof(tbl) == "table" then
@@ -4349,7 +4362,7 @@ exit = true
 loadstring(game:HttpGet("https://raw.githubusercontent.com/infyiff/backup/main/SimpleSpyV3/main.lua"))()
 end,
 function()
-notification("Will unload OctoSpy and load SimpleSpy", "Mode")
+notification("将关闭OctoSpy并加载SimpleSpy", "Mode")
 end
 }
 }
