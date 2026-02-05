@@ -1,0 +1,1 @@
+local synsaveinstance = loadstring(game:HttpGet("https://raw.githubusercontent.com/luau/SynSaveInstance/main/saveinstance.luau", true), "saveinstance")()  synsaveinstance({     NilInstances = true,     IgnoreNonArchivable = false,     IsolateLocalPlayer = true,     IsolateLocalPlayerCharacter = true,     TreatUnionsAsParts = true })
