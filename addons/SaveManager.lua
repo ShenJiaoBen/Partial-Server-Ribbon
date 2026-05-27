@@ -272,8 +272,8 @@ local SaveManager = {} do
 
         if self.UseLoadingOrder == true and typeof(self.LoadingOrder) == "table" then
             table.sort(decoded.objects, function(a, b)
-                local aIndex = table.find(self.LoadingOrder, a.type)  或者  math.huge
-                local bIndex = table.find(self.LoadingOrder, b.type)  或者  math.huge
+                local aIndex = table.find(self.LoadingOrder, a.type) or math.huge
+                local bIndex = table.find(self.LoadingOrder, b.type) or math.huge
                 return aIndex < bIndex
             end)
         end
@@ -335,7 +335,7 @@ local SaveManager = {} do
                         char = file:sub(pos, pos)
                     end
 
-                    if char == "/"  或者  char == "\\" then
+                    if char == "/" or char == "\\" then
                         table.insert(out, file:sub(pos + 1, start - 1))
                     end
                 end
@@ -363,7 +363,7 @@ local SaveManager = {} do
 
     --// Import/Export \\--
     function SaveManager:ExportConfig(name)
-        if not 名字 then
+        if not name then
             return false, "no config file is selected"
         end
 
@@ -387,7 +387,7 @@ local SaveManager = {} do
     end
 
     function SaveManager:ImportConfig(configData)
-        if not configData  或者  configData == "" then
+        if not configData or configData == "" then
             return false, "no config data provided"
         end
 
@@ -397,15 +397,15 @@ local SaveManager = {} do
             return false, "invalid JSON data"
         end
 
-        if not decoded.objects  或者  typeof(decoded.objects) ~= "table" then
+        if not decoded.objects or typeof(decoded.objects) ~= "table" then
             return false, "invalid config format"
         end
 
         -- Load the config directly without saving to file
         if self.UseLoadingOrder == true and typeof(self.LoadingOrder) == "table" then
             table.sort(decoded.objects, function(a, b)
-                local aIndex = table.find(self.LoadingOrder, a.type)  或者  math.huge
-                local bIndex = table.find(self.LoadingOrder, b.type)  或者  math.huge
+                local aIndex = table.find(self.LoadingOrder, a.type) or math.huge
+                local bIndex = table.find(self.LoadingOrder, b.type) or math.huge
                 return aIndex < bIndex
             end)
         end
@@ -437,7 +437,7 @@ local SaveManager = {} do
             end
 
             name = tostring(name)
-            return if name == "" then "none" else 名字
+            return if name == "" then "none" else name
         end
 
         return "none"
@@ -611,7 +611,7 @@ local SaveManager = {} do
             self.Library.Options.SaveManager_ConfigList:SetValue(nil)
         end }):AddButton("Export", function()
             local name = self.Library.Options.SaveManager_ConfigList.Value
-            if not 名字 then
+            if not name then
                 self.Library:Notify({
                     Title = "Warning",
                     Description = "No config selected.",
@@ -685,7 +685,7 @@ local SaveManager = {} do
         section:AddButton("Set Autoload", function()
             local name = self.Library.Options.SaveManager_ConfigList.Value
 
-            if not 名字 then
+            if not name then
                 self.Library:Notify({
                     Title = "Warning",
                     Description = "No config selected.",
